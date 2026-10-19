@@ -540,12 +540,14 @@ def collect_ori(db, gid, index):
     Let op: ORI wordt niet altijd direct bijgewerkt; de datum van het nieuwste stuk staat in de status."""
     try:
         q = {'size': 200, 'sort': [{'date_modified': {'order': 'desc', 'unmapped_type': 'date'}}],
-             'query': {'bool': {'filter': [{'terms': {'@type.keyword': ['MediaObject', 'Meeting']}},
-                                           {'range': {'date_modified': {'gte': KOOP_START}}}]}},
              '_source': ['name', '@type', 'url', 'original_url', 'last_discussed_at', 'start_date', 'date_modified']}
         r = requests.post(ORI_SEARCH.format(index=index), json=q, headers=HEADERS, timeout=60)
-        r.raise_for_status()
-        hits = r.json().get('hits', {}).get('hits', [])
+        if not r.ok:
+            raise RuntimeError(f'HTTP {r.status_code}: {r.text[:200]}')
+        # Filteren in Python: de ORI-index weigert sommige filters (veldnamen verschillen per index).
+        hits = [h for h in r.json().get('hits', {}).get('hits', [])
+                if h.get('_source', {}).get('@type') in ('MediaObject', 'Meeting')
+                and (h['_source'].get('date_modified') or '')[:10] >= KOOP_START]
         added, newest = 0, ''
         for h in hits:
             src = h.get('_source', {})
