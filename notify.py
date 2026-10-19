@@ -22,7 +22,7 @@ from email.message import EmailMessage
 from zoneinfo import ZoneInfo
 import requests
 
-DASHBOARD_URL = 'https://martijnstb.github.io/monitor-alkmaar/'
+DASHBOARD_URL = 'https://martijnstb.github.io/monitor-alkmaar/'  # repo hernoemd? dan hier aanpassen
 DIGEST_HOUR = 7                 # samenvatting vanaf 07:00 Nederlandse tijd
 FRESH_DAYS = 3                  # 'nieuw' telt alleen als het stuk zelf hooguit zoveel dagen oud is
 MAX_PUSH_LINES = 8
@@ -47,10 +47,9 @@ def column_of(item):
     s = item.get('source')
     if s == 'Officiele bekendmakingen (KOOP)':
         return 'Bekendmakingen'
-    # Alkmaar: het iBabs-portaal is van het college; de raad komt uit Open Raadsinformatie.
-    if s == 'Raadsinformatie (ORI)':
+    if s in ('Raadsstukken', 'Raadsportaal', 'Raadsinformatie (ORI)'):
         return 'Raad'
-    if s in ('Collegebesluiten', 'Raadsstukken', 'Raadsportaal'):
+    if s == 'Collegebesluiten':
         return 'College'
     if s == 'In de media':
         return 'In de media'

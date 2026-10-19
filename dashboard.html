@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Gemeentemonitor</title>
-<meta name="description" content="Wat de gemeente Alkmaar publiceert, besluit en wijzigt">
+<meta name="description" content="Wat de gemeente Dijk en Waard publiceert, besluit en wijzigt">
 <meta name="theme-color" content="#ffffff">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png" type="image/png">
@@ -561,10 +561,10 @@ const ic = (k, cls = 'i') => `<svg class="${cls}" viewBox="0 0 24 24" aria-hidde
 const COLS = [
   {id:'bek',  title:'Bekendmakingen', icon:'bek', color:'#006dac', note:'Vergunningen, verordeningen en besluiten uit het Gemeenteblad (KOOP)',
    test:x => x.source === 'Officiele bekendmakingen (KOOP)'},
-  {id:'raad', title:'Raad', icon:'raad', color:'#1b4e8e', note:'Raadsstukken, moties en amendementen (via Open Raadsinformatie, kan achterlopen)',
-   test:x => x.source === 'Raadsinformatie (ORI)' && x.kind !== 'vergadering'},
+  {id:'raad', title:'Raad', icon:'raad', color:'#1b4e8e', note:'Raadsstukken, moties, raadsvragen en informatiebrieven',
+   test:x => ['Raadsstukken','Raadsportaal','Raadsinformatie (ORI)'].includes(x.source) && x.kind !== 'vergadering'},
   {id:'col',  title:'College', icon:'college', color:'#f18700', note:'Besluiten en besluitenlijsten van burgemeester en wethouders',
-   test:x => ['Collegebesluiten','Raadsstukken','Raadsportaal'].includes(x.source) && x.kind !== 'vergadering'},
+   test:x => x.source === 'Collegebesluiten'},
   {id:'nws',  title:'Nieuws en Woo', icon:'nieuws', color:'#5498cf', note:'Nieuwsberichten van de gemeente en openbaar gemaakte informatie',
    test:x => ['Nieuws','Woo-verzoeken','Openbare informatie'].includes(x.source)},
   {id:'med',  title:'In de media', icon:'media', color:'var(--media)', note:'Artikelen over de gemeente en haar dorpen, via Google Nieuws',
@@ -656,7 +656,7 @@ function typeInfo(x){
     else if (/basisregistratie personen/.test(k)) { icon = 'persoon'; tc = '#6b7785'; }
     else { icon = 'doc'; tc = '#1b4e8e'; }
     routine = !important;
-  } else if (x.source === 'Raadsinformatie (ORI)') {
+  } else if (['Raadsstukken','Raadsportaal','Raadsinformatie (ORI)'].includes(x.source)) {
     // Eerst het overzicht waar het in staat: 'Raadsvragen over amendement 39' is een raadsvraag.
     if (/vragen/i.test(r)) { label = r; icon = 'vraag'; important = true; }
     else if (/^amendement/i.test(t) || /^amendementen$/i.test(r)) { label = 'Amendement'; icon = 'motie'; important = true; }
@@ -667,9 +667,6 @@ function typeInfo(x){
     else if (/rekenkamer/i.test(r)) { label = 'Rekenkamer'; icon = 'doc'; important = true; }
     else if (r && !/raadsportaal/i.test(r)) { label = r; icon = 'doc'; }
     else { label = x.kind === 'raadsdocument' ? 'Vergaderstuk' : 'Raad'; icon = 'raad'; }
-  } else if (x.source === 'Raadsstukken' || x.source === 'Raadsportaal') {
-    // Alkmaar: het iBabs-portaal bevat alleen collegestukken (openbare besluitenlijsten B&W).
-    label = /besluitenlijst/i.test(r + ' ' + t) ? 'Besluitenlijst' : 'Collegestuk'; icon = 'college'; important = label === 'Besluitenlijst';
   } else if (x.source === 'Collegebesluiten') {
     label = x.kind === 'besluitenlijst' ? 'Besluitenlijst' : x.kind === 'collegeagenda' ? 'Collegeagenda' : x.kind === 'collegebesluit' ? 'Collegebesluit' : 'College';
     icon = 'college'; important = x.kind === 'besluitenlijst';
@@ -757,8 +754,7 @@ function bronNaam(x){
   if (x.source === 'Officiele bekendmakingen (KOOP)') return (x.koop_type ? cap(x.koop_type) + ', ' : '') + 'officiële bekendmaking ' + g;
   if (x.source === 'Collegebesluiten') return 'College van B&W, ' + g;
   if (x.source === 'Raadsstukken' || x.source === 'Raadsportaal')
-    return (x.rapport && !/raadsportaal/i.test(x.rapport) ? x.rapport : 'Bestuurlijke informatie') + ', ' + g;
-  if (x.source === 'Raadsinformatie (ORI)') return 'Raadsinformatie ' + g + ' (via Open Raadsinformatie)';
+    return (x.rapport && !/raadsportaal/i.test(x.rapport) ? x.rapport : 'Raadsinformatie') + ', ' + g;
   if (x.source === 'Nieuws') return 'Nieuwsbericht ' + g;
   return x.source + ', ' + g;
 }
@@ -948,7 +944,7 @@ function columnHTML(col, rows, extra = ''){
     html += rest.map(x => item(x, col)).join('');
     if (lo.length >= 4) html += bundleHTML(col, d, lo);
   }
-  if (!rows.length) html = `<p class="empty" style="padding:14px 16px">${col.id === 'raad' ? 'Geen raadsstukken gevonden. De raad komt via Open Raadsinformatie binnen en dat loopt soms achter (zie Bronnen onderaan).' : 'Niets gevonden met deze filters.'}</p>`;
+  if (!rows.length) html = `<p class="empty" style="padding:14px 16px">Niets gevonden met deze filters.</p>`;
   const more = rows.length > n ? `<button class="more" data-col="${col.id}">Toon ${Math.min(PAGE, rows.length-n)} oudere</button>` : '';
   const fresh = rows.filter(x => kinds(x).includes('nieuw') || (x._also || []).some(y => kinds(y).includes('nieuw'))).length;
   return `<section class="col${col.id === MOBCOL ? ' on' : ''}" style="--c:${col.color}" aria-labelledby="h-${col.id}">
@@ -980,13 +976,13 @@ async function setDorp(name){
 
 // ---------------------------------------------------------------------------
 // Het adres onthoudt gemeente, zoekterm, filter, dorp, weergave en het geopende stuk,
-// bijv. #alkmaar?q=parkeren&f=nieuw&dorp=Oudorp. Te bewaren als bladwijzer of door te sturen.
+// bijv. #dijkenwaard?q=parkeren&f=nieuw&dorp=Oudkarspel. Te bewaren als bladwijzer of door te sturen.
 // ---------------------------------------------------------------------------
-const GEMS = ['alkmaar'];
+const GEMS = ['dijkenwaard'];
 function parseHash(){
   const [g, qs] = location.hash.slice(1).split('?');
   const p = new URLSearchParams(qs || '');
-  return {g: GEMS.includes(g) ? g : 'alkmaar', q: p.get('q') || '', f: p.get('f') || '', dorp: p.get('dorp') || '', v: p.get('v') || '', stuk: p.get('stuk') || ''};
+  return {g: GEMS.includes(g) ? g : 'dijkenwaard', q: p.get('q') || '', f: p.get('f') || '', dorp: p.get('dorp') || '', v: p.get('v') || '', stuk: p.get('stuk') || ''};
 }
 function syncHash(){
   if (!DATA) return;

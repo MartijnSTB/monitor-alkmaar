@@ -1,11 +1,11 @@
-# Trefwoorden voor de Gemeentemonitor Alkmaar
+# Trefwoorden voor de Gemeentemonitor Dijk en Waard
 #
 # Komt een trefwoord voor in een stuk (titel, omschrijving of de volledige tekst van een pdf,
 # pagina of bijlage), dan krijg je meteen een pushmelding met een stukje tekst eromheen,
 # en het staat bovenaan in de ochtendmail. Ook bij gewone vergunningen.
 #
 # - Eén trefwoord of woordgroep per regel. Hoofdletters en accenten maken niet uit.
-# - Hele woorden: 'Graft' vindt niet 'Graftdijk'. '380 kV' vindt ook '380kV'.
+# - Hele woorden: 'Koedijk' vindt niet 'Koedijker'. '380 kV' vindt ook '380kV'.
 # - Regels met een # ervoor worden overgeslagen.
 #
 # Pas dit bestand aan op GitHub (potloodje rechtsboven); de volgende run gebruikt het meteen.

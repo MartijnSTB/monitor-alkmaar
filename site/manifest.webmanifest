@@ -1,7 +1,7 @@
 {
-  "name": "Gemeentemonitor Alkmaar",
-  "short_name": "Alkmaar",
-  "description": "Wat de gemeente Alkmaar publiceert, besluit en wijzigt",
+  "name": "Gemeentemonitor Dijk en Waard",
+  "short_name": "Dijk en Waard",
+  "description": "Wat de gemeente Dijk en Waard publiceert, besluit en wijzigt",
   "lang": "nl",
   "start_url": "./",
   "scope": "./",
