@@ -1,0 +1,767 @@
+Vorige pagina
+Collegeberichten
+Jaarverslag informatiebeveiliging Dijk en Waard 2025
+ID
+685
+Datum
+08-09-2026
+Onderwerp
+Jaarverslag informatiebeveiliging Dijk en Waard 2025
+Portefeuillehouder
+Ben Hoejenbos
+Toelichting
+Jaarverslag informatiebeveiliging Dijk en Waard 2025
+Bijlage(s)
+Jaarverslag informatiebeveiliging Dijk en Waard 2025
+Collegebericht jaarverslag informatiebeveiliging 2025
+[Bijlage: Jaarverslag informatiebeveiliging Dijk en Waard 2025]
+Jaarverslag informatiebeveiliging 2025
+Jaarverslag informatiebeveiliging 2025
+Auteur: Tarik Fakir (CISO)
+Versie Datum Reden Status
+0.1 14-04-2026 Informeren Concept
+0.2 31-05-2026 Informeren Concept
+1.0 30-06-2026 Informeren Definitief
+Jaarverslag informatiebeveiliging 2025 2
+Inhoudsopgave
+1.
+VOORWOORD ..............................................................................................................................3
+2.
+JAARVERSLAG ..............................................................................................................................3
+3.
+MANAGEMENTSAMENVATTING ...............................................................................................4
+4.
+ALGEMEEN BEELD EN RESULTATEN .........................................................................................5
+4.1.
+CYBERBEVEILIGINGSWET (NIS2) ........................................................................ERROR!
+BOOKMARK NOT DEFINED.
+4.2.
+RISICOBEHEERSING & BEDRIJFSCONTINUÏTEIT ....................................................ERROR!
+BOOKMARK NOT DEFINED.
+4.3.
+(GENERATIEVE) AI/ KUNSTMATIGE INTELLIGENTIE ..............................................ERROR!
+BOOKMARK NOT DEFINED.
+4.4.
+INCIDENTENMANAGEMENT ..........................................................................................................................10
+4.5.
+SERVICE OPERATION CENTER (SOC) ............................................................................................................11
+4.6.
+BEWUSTWORDING .......................................................................................................................................12
+4.7.
+ENSIA (EENDUIDIGE NORMATIEK SINGLE INFORMATION AUDIT) .....................................................................13
+4.8.
+ISMS .........................................................................................................................................................14
+4.9.
+METING VAN DE BIO ...................................................................................................................................15
+4.10.
+WAT BETEKENT DIT VOOR DE ORGANISATIE? .................................................................................................16
+4.11.
+PRIORITEITEN VOOR 2026 EN VERDER ..........................................................................................................16
+Jaarverslag informatiebeveiliging 2025 3
+1.
+Voorwoord
+Het huidige dreigingslandschap kenmerkt zich door snelle technologische ontwikkelingen en
+toenemende geopolitieke spanningen.
+Kwaadwillende maken steeds vaker gebruik van
+kunstmatige intelligentie, generatieve modellen en geavanceerde digitale tools om phishing
+campagnes te verfijnen, ransomware aanvallen te automatiseren en nepnieuws of desinformatie
+gericht in te zetten.
+Tegelijkertijd zorgen internationale conflicten en onzekerheden in
+wereldwijde ketens voor extra druk op onze digitale weerbaarheid: kwetsbaarheden in
+netwerkdiensten of (kritieke) infrastructuur kunnen door bedreigers opportunistisch worden
+uitgebuit.
+Als gemeente nemen wij deze risico’s zeer serieus.
+We verrichten verschillende inspanningen ten
+behoeve van de borging van beveiligingsmaatregelen rondom onze systemen en diensten.
+Dit evalueren
+we continu en we stellen maatregelen bij waar dat noodzakelijk is.
+We intensiveren de samenwerking met
+regionale en landelijke partners, van de Informatiebeveiligingsdienst voor gemeenten (IBD) tot het NCSC
+(Nationaal Cybersecuritycentrum).
+Wij geven informatiebeveiliging een prominente plek in ons
+risicomanagement.
+Zo zorgen we voor tijdige kwetsbaarheid detectie, effectieve incidentrespons
+en structurele bewustwording programma’s voor alle collega’s.
+Dankzij deze gezamenlijke inspanningen vergroten we de bescherming van persoonsgegevens
+van inwoners en ondernemers, versterken we de continuïteit van onze dienstverlening én bouwen
+we verder aan het vertrouwen in de (digitale) overheid.
+Met een toekomstgerichte blik blijven we
+leren, innoveren en investeren we in veilige en schaalbare technologieën en werken we samen
+met de gemeenschap om samen digitale veerkracht op te bouwen.
+Zo zetten we vandaag de toon
+voor een veilige en betrouwbare gemeente.
+2.
+Jaarverslag
+De Chief information security officer heeft binnen Dijk en Waard een functie als interne
+toezichthouder voor informatiebeveiliging en rapporteert jaarlijks over de stand van zaken.
+Hierbij
+wordt gebruik gemaakt van rapportages die door de organisatie en partners worden opgesteld,
+aangevuld met eigen waarnemingen.
+Dit jaarverslag is een verantwoording over de kwaliteit van de informatiebeveiliging over 2025.
+Het college legt hiermee verantwoording af aan de gemeenteraad via de auditcommissie, het Rijk
+en haar toezichthouders.
+Het jaarverslag is verder ook tot stand gekomen door zelfevaluaties en
+evaluaties die door een onafhankelijke partij (externe IT-auditor) zijn uitgevoerd.
+De kwaliteit van
+de informatiebeveiliging is beoordeeld aan de hand van de normen van de Baseline
+Jaarverslag informatiebeveiliging 2025 4
+informatiebeveiliging Overheid (BIO)1 de NOREA2 en ENSIA3.
+De BIO en NOREA geven richtlijnen
+voor beheersing van de informatiebeveiliging door het inrichten en uitvoeren van een set van
+organisatorische, technische, fysieke en mensgerichte beheersmaatregelen.
+Onze informatiebeveiliging wordt op hoofdlijnen beschreven aan de hand van een toetsing in
+hoeverre relevante normen zijn gerealiseerd en worden nageleefd.
+In de jaarverslagen voor de
+komende jaren kan op dit jaarverslag worden teruggegrepen.
+Dat geeft inzicht in de
+inspanningen die Dijk en Waard en haar partners doen om de informatiebeveiliging te vergroten
+en op de inspanningen die nog te leveren zijn om de informatiebeveiliging naar een nog hoger
+niveau te brengen.
+3.
+Managementsamenvatting
+Dit verslag geeft de uitkomsten weer van de uitgevoerde (zelf)evaluaties informatiebeveiliging
+over het jaar 2025.
+Deze evaluaties zijn gebaseerd op de Baseline Informatieveiligheid Overheid
+(BIO), ENSIA en de NOREA.
+Er wordt op één moment in het jaar gerapporteerd over de huidige
+stand van zaken.
+Vanuit deze evaluaties is overigens de verantwoording aan de onafhankelijke toezichthouders
+over 2025 afgelegd, de zogenaamde verticale verantwoording.
+Zo zijn de verantwoordingen
+(uittreksels) over de Basisregistratie Personen (BRP) en de Paspoortuitvoeringsregeling (PUN) op
+24 april 2026 toegestuurd naar de Rijksdienst voor Identiteitsgegevens.
+De verantwoordingen over de Basisregistratie Adressen en Gebouwen (BAG), de Basisregistratie
+Grootschalige Topografie (BGT), de Basisregistratie Ondergrond en de Waardering Onroerende
+Zaken (WOZ) zijn tijdig op 28 april 2026 opgeleverd aan het Ministerie van I&W4.
+De
+verantwoordingen voor Suwinet en DigiD zijn binnen de gestelde deadline van 1 mei 2025 aan
+het ministerie van SZW5 en Logius aangeleverd, dit door middel van een collegeverklaring.
+Deze
+bestaat uit bevindingen uit onze zelfevaluatie, het Assurance rapport over het gebruik van
+Suwinet van Zaffier en het Assurance rapport van de externe RE-auditor.
+De zelfevaluatie is
+getoetst door deze externe auditor waarbij alle normen op ‘voldoet’ staan.
+De auditor heeft de
+collegeverklaring op juistheid beoordeeld en vermeld de uitkomsten van het onderzoek in het
+Assurance rapport.
+Met deze documenten voldoet Dijk en Waard aantoonbaar aan de
+verantwoordingsplicht voor Suwinet en DigiD.
+Mocht één van de toezichthouders op- of
+1 De Baseline Informatiebeveiliging Overheid is een instrument bestaande uit een uitgebreide normen set
+waarmee gemeenten in staat zijn om te meten of de organisatie ín control’ is op het gebied van
+informatiebeveiliging.
+2 NOREA is de beroepsorganisatie van IT-auditors in Nederland en beheert het register van gekwalificeerde IT –
+auditors (Re’s)
+3 Eenduidige Normatiek Single Information Audit
+4 De BAG, BGT, BRO en WOZ kennen elk in ENSIA ook een domein specifieke vragenlijst en een specifieke
+verantwoordingsrapportage.
+Deze is separaat ter vaststelling aan het College voorgelegd en aangeboden aan
+het Ministerie van Infrastructuur en waterstaat en de Waarderingskamer.
+5 Ministerie van Sociale Zaken en Werkgelegenheid.
+Jaarverslag informatiebeveiliging 2025 5
+aanmerkingen hebben waaruit blijkt dat er toch onvoldoende maatregelen zijn toegepast om te
+voldoen aan de gestelde eisen, dan worden de directie en het bestuur hierover geïnformeerd
+4.
+Algemeen beeld en resultaten
+De organisatie heeft op basis van de BIO meting ten opzichte van het jaar daarvoor een aantal
+stappen voorwaarts gemaakt.
+Op een klein aantal punten is er een stap terug waargenomen.
+Dit
+heeft voornamelijk te maken met onderdelen waarop vastgesteld beleid en governance
+ontbreekt.
+Hiermee wordt bedoeld dat er op bepaalde onderdelen nog beleid vormgegeven moet
+worden, denk hierbij aan bijvoorbeeld integrale risicomanagement en het labelen/ classificeren
+van informatie.
+Dit is nodig omdat niet alle informatie dezelfde waarde, gevoeligheid en
+beschermingsbehoefte heeft.
+Door informatie te classificeren kan de organisatie passende
+beveiligingsmaatregelen treffen, risico's beter beheersen en ervoor zorgen dat vertrouwelijke of
+kritische informatie adequaat wordt beschermd.
+Met governance wordt bedoeld dat rollen, taken en verantwoordelijkheden niet formeel zijn
+vastgesteld.
+Hierdoor kan onduidelijkheid ontstaan over eigenaarschap, besluitvorming en
+uitvoering.
+Dit vergroot het risico dat activiteiten niet of niet tijdig worden uitgevoerd, dat
+onvoldoende toezicht plaatsvindt en dat de organisatie minder effectief kan sturen op het
+beheersen van informatiebeveiligingsrisico's.
+Vanaf 2024 wordt er binnen de ENSIA-systematiek getoetst op het aantoonbaar maken van
+relevante (vastgestelde) processen binnen de termen Opzet, Bestaan en Werking.
+Dit houdt in dat
+een proces (zoals toegangsbeveiliging) van begin tot eind aantoonbaar gemaakt moet worden op
+een wijze waarin de auditor kan vaststellen of deze voldoet aan de gestelde norm.
+In 2025 is een set geprioriteerde maatregelen bepaald die uitgevoerd worden ten behoeve van
+het voldoen aan de BIO en de Cbw.
+Het gaat hier voornamelijk om het verder professionaliseren
+van ons bedrijfscontinuïteitbeheer, risicobeheersing, incidentenmanagement, verbeterde toezicht
+op onze (IT) leveranciers en een verscherping van de beveiliging van Operational Technology
+(OT)6.
+In 2025 is er vooruitgang geboekt in het vormgeven van beleid, processen, procesbeschrijvingen,
+vastgestelde richtlijnen, werkinstructies en eigenaarschap.
+Daarnaast zijn er stappen gezet in de
+verdere ontwikkeling van monitoring, detectie en logging van het internet en dataverkeer.
+Hiervoor wordt gebruik gemaakt van de zogeheten SIEM7 en SOC8.
+Dit is van groot belang om
+6 Operational Technology (OT) omvat systemen die fysieke infrastructuur aansturen, zoals brugbediening,
+verkeerslichten, rioolgemalen en gebouwbeheersystemen.
+7 Security Information and Event Management (SIEM) is een softwarepakket die technische informatie uit
+verschillende bronnen opslaat, samenvoegt en daar verbanden in legt.
+8 Een Security Operations Center (SOC) is een gecentraliseerde eenheid die zich bezighoudt met het bewaken,
+beoordelen en verdedigen van systemen a.d.h.v. de informatie die onttrokken wordt uit het SIEM.
+Jaarverslag informatiebeveiliging 2025 6
+verdachte activiteiten en gedrag op de infrastructuur inzichtelijk te krijgen.
+Hier kunnen dan weer
+de nodige maatregelen op toegepast worden.
+Het onderwerp bedrijfscontinuïteit en het verder professionaliseren van onze (ICT) organisatie is
+van groot belang, als wij onze digitale weerbaarheid willen vergroten.
+Het blijft daarnaast
+belangrijk om capaciteit rondom het beheren van de beveiligingsmaatregelen op peil te houden.
+Door de voortdurende ontwikkeling van cyberdreigingen en geopolitieke spanningen neemt het
+belang van technische beveiliging, beheer en onderhoud verder toe, mede vanwege de
+aanhoudende dreiging van statelijke cyberaanvallen op overheidsorganisaties.
+Deze belangrijke
+ICT-taak dient ten allen tijden goed geborgd te worden.
+Wanneer er sprake blijkt van
+onvoldoende capaciteit, is het advies om deze direct aan te vullen.
+Voor het onderwerp bedrijfscontinuïteit is in 2025 het belang hiervan alleen maar toegenomen.
+Niet alleen wegens het feit dat dit onderwerp verankerd is in wet- en regelgeving via de
+Cyberbeveiligingswet, maar vooral vanwege de toenemende dreigingen die ontwikkeld zijn om
+de continuering van kritieke diensten stil te leggen.
+Er is een aanzet gemaakt voor het opstellen van een strategisch beleidsdocument dat richting
+geeft voor het verder vormgeven en borgen van de continuïteit van de gemeentelijke processen.
+Dit beleid zal algemene kaders, uitgangspunten en managementafspraken bevatten tussen het
+college van B&W en de directie.
+Als gemeente maken wij gebruik van een diversiteit aan (informatie)systemen die effectief
+beheerd moeten worden.
+Dan gaat het zowel om technisch als functioneel beheer.
+Het doel wat
+wij willen bereiken met dit beheer is een veilige, integere en beschikbare IT-infrastructuur.
+Om dit
+doel te bereiken is het maken van afspraken voor de uitvoering van de dagelijkse
+beheeractiviteiten nodig.
+Er is door de CISO waargenomen dat er meer uniformiteit en
+standaardisatie nodig is voor het uitvoeren van deze dagelijkse beheeractiviteiten.
+Hiervoor is
+beleid nodig.
+Dit beleid biedt helderheid in het verkrijgen van alle noodzakelijke beheertaken op
+het gebied van technisch en functioneel beheer op onze systemen en de daarbij behorende
+processen.
+Verder is controle en toezicht hierop een speerpunt.
+Dit is namelijk van belang voor de
+verbetercyclus.
+Die controle en toezicht draagt bij aan de verdere groei van professionalisering
+die Dijk en Waard ambieert.
+Dit beleidsstuk zal in 2026 afgerond worden.
+4.1.
+Cyberbeveiligingswet (NIS2)
+In Europa is een NIS (Network and Information Systems Directive) opgesteld om bij te dragen aan
+een hoog gemeenschappelijk beveiligingsniveau van netwerk- en informatiesystemen in de hele
+EU.
+Al in 2016 is de NIS1-richtlijn gepubliceerd.
+Deze was met name bedoeld voor grote bedrijven
+en instellingen die essentiële functies voor de samenleving vervullen.
+Denk aan stroom, netwerk
+Jaarverslag informatiebeveiliging 2025 7
+en watervoorziening leveranciers.
+Zij zijn al enkele jaren verplicht om informatiebeveiliging
+maatregelen te nemen om de cyberweerbaarheid te verhogen.
+In mei 2022 is de Europese Commissie akkoord gegaan met een nieuwe versie, de NIS2.
+In deze
+versie is de scope verruimd waarop deze richtlijn van toepassing is.
+NIS2 verschilt op diverse
+vlakken van de eerste NIS-richtlijn.
+De nieuwe richtlijn heeft namelijk een ruimer
+toepassingsgebied, waardoor er meer sectoren en entiteiten onder de richtlijn vallen.
+Met de
+invoering van de NIS2-richtlijn zullen de regels voor de beveiliging van digitale diensten, ook voor
+lokale (mede)overheden gelden.
+Dat betekent dat decentrale overheden verplicht worden om
+meer maatregelen te nemen om cybersecurityrisico’s te beheersen.
+Daarnaast stelt de NIS2-
+richtlijn dat nationale autoriteiten de naleving van de regels uit NIS2 strenger moeten handhaven.
+De NIS2-richtlijn is nationaal vertaald naar de Cyberbeveiligingswet (Cbw) en houdt in dat er een
+registratieplicht, meldplicht en zorgplicht opgelegd worden waarop toezicht wordt gehouden.
+Registratieplicht: Organisaties onder de Cyberbeveiligingswet moeten zich verplicht registreren
+in het entiteitenregister van het NCSC na inwerkingtreding.
+Het register biedt inzicht aan
+toezichthouders en draagt bij aan een Europees overzicht van NIS2-entiteiten, wat helpt bij het
+coördineren van cybersecurity-maatregelen binnen de EU.
+Zorgplicht: Zodra de wet ingaat, worden gemeenten expliciet verantwoordelijk voor de
+beheersing van cyberrisico's.
+Dat betekent dat een analyse van cyberrisico's onderdeel moet zijn
+van het bredere, reguliere risicobeheer, net als financiële, juridische en politieke risico's.
+Bestuurders hebben hierin een belangrijke rol.
+Voor gemeenten houdt dit in dat het college van
+burgemeester en wethouders verplicht is om informatiebeveiligingsmaatregelen goed te keuren
+en een training te volgen.
+Deze training stelt bestuurders in staat om risico's te identificeren,
+risicobeheersmaatregelen te evalueren en de impact van zowel de risico's als de
+beheersmaatregelen te beoordelen.
+Meldplicht: Significante cyberincidenten moeten binnen 24 uur gemeld worden bij het CSIRT
+(IBD) en de toezichthouder (RDI), gevolgd door een gedetailleerd rapport binnen 72 uur.
+Een
+incident is significant als het de dienstverlening ernstig verstoort, financiële schade veroorzaakt of
+andere organisaties raakt.
+Het NCSC biedt hiervoor een meldportaal, dat ook gebruikt kan
+worden voor vrijwillige meldingen van minder ernstige incidenten of incidenten die gemeden zijn.
+Toezicht: Binnen de gemeente is het van belang dat primair de gemeenteraad toezicht houdt op
+de naleving van de wet.
+De raad doet dit door het vervullen van een kaderstellende en
+controlerende rol en het borgen van voldoende budget.
+Naar aanleiding van de ENSIA-
+rapportage en rondom voorjaars- en najaarsnota’s kunnen de wethouders en ambtelijk
+verantwoordelijken, zoals de CISO, gesprekken voeren over de stand van zaken en benodigde
+acties.
+Jaarverslag informatiebeveiliging 2025 8
+De Rijksinspectie Digitale Infrastructuur (RDI) houdt toezicht op de naleving van de Cbw door de
+gehele overheid.
+Op de informatiebeveiliging van enkele gemeentelijke processen, zoals zorg of
+infrastructuur, kunnen ook andere toezichthouders een rol spelen, zoals de Inspectie
+Gezondheidszorg en Jeugd en de Inspectie Leefomgeving en Transport nu al doen op hun
+domeinen.
+Deze toezichthouders werken nauw met elkaar samen.
+Sancties bij gebreken: De RDI heeft als toezichthouder ook de mogelijkheid om sancties op te
+leggen.
+Het gaat dan niet alleen om sancties voor de gemeentelijke organisatie, maar ook om
+persoonlijke sancties voor bestuurders (burgemeester en wethouder) die in gebreke blijven.
+Bij
+inbreuken op de zorgplicht en meldplicht kan de toezichthouder de gemeente een bestuurlijke
+boete opleggen van maximaal € 10 miljoen.
+Voor overtredingen van andere verplichtingen in de
+Cyberbeveiligingswet, zoals de registratieplicht, kan de boete oplopen tot € 1 miljoen.
+Burgemeesters en wethouders kunnen individueel een boete van maximaal € 25.000 krijgen als zij
+de verplichte training niet volgen.
+4.2.
+Risicobeheersing & bedrijfscontinuïteit
+Via de Cyberbeveiligingswet worden hieraan onderhevige organisaties verplicht gesteld
+risicomanagement in te richten rondom de verbetering van de digitale weerbaarheid.
+Dit houdt in
+dat er strategische uitgangspunten vastgesteld dienen te worden.
+Aan de hand van die strategie
+worden er tactisch- en operationele beleidstukken ingevoerd waarmee de uitvoerende organisatie
+in staat is om risico’s te identificeren, te beoordelen en te behandelen aan de hand van passende
+maatregelen die overeenkomen met de risicobereidheid (lees: strategie) van de organisatie.
+De
+risico’s die beheerst moeten worden hebben betrekking tot de kans en impact op de
+bedrijfsvoering en raken nagenoeg de hele organisatie.
+Er wordt op het moment i.s.m. concern en business control een strategisch kapstokbeleid
+vormgegeven.
+Dit kapstokbeleid weerspiegelt de risicobereidheid van de organisatie en biedt
+verdere kaders en uitgangspunten die benodigd zijn om de uitvoerende organisatie op weg te
+helpen bij het uitvoeren van risicobeheersing.
+Risico’s zullen mede aan de hand hiervan
+behandeld worden op een wijze die in lijn is met de risicobereidheid van directie en bestuur.
+Bedrijfscontinuïteit is onlosmakelijk verbonden met de risicobereidheid van onze organisatie.
+Het
+eerder benoemde strategische beleidsstuk, is voor een deel afhankelijk van de risicobereidheid
+die nog bepaald moet worden.
+Het finaliseren van het beleid en het brengen naar de collegetafel
+ter besluitvorming zal hier dus op moeten wachten.
+Wat echter niet hoeft te wachten is het vormgeven van de contouren en werkwijzen die
+uitgevoerd moeten worden in het geval van een cyberincident of crisis.
+Hiervoor is een
+continuïteitplan opgesteld.
+Dit plan functioneert als draaiboek waarmee onze kritieke en
+ondersteunende processen binnen een afgestemde doorlooptijd weer operationeel worden
+gemaakt na uitval.
+Een aantal processen zijn bij wet al voor gedefinieerd wanneer gesproken
+Jaarverslag informatiebeveiliging 2025 9
+wordt over de termijnbeschikbaarheid.
+De risicobereidheid is met name benodigd voor de
+processen waar dit niet het geval is.
+Het continuïteitsplan wordt verder vanaf 2026 geactualiseerd
+om aan te sluiten bij gewijzigde wet- en regelgeving en organisatiedoelstellingen.
+4.3.
+Generatieve AI/Kunstmatige intelligentie
+In het huidige informatiedreigingslandschap brengt de opkomst van AI en met name generatieve
+AI nieuwe kansen, maar ook nieuwe risico’s met zich mee.
+Zo kunnen kwaadwillende AI inzetten
+voor geavanceerde phishing- en social engineering-aanvallen9, waarbij e-mails en berichten en
+zelfs belletjes authentiek lijken.
+Wij verwerken grote hoeveelheden persoonsgegevens en
+vertrouwelijke informatie van medewerkers, inwoners en ondernemers.
+Wanneer AI zonder
+duidelijke kaders wordt ingezet, kan dit leiden tot datalekken, schending van privacy en
+beveiligingsincidenten.
+Binnen een gemeentelijk uitvoeringskader biedt AI concrete meerwaarde: voorspellende modellen
+kunnen piekmomenten in vergunningaanvragen of dienstverlening tijdig signaleren en zo
+capaciteit en planning optimaliseren.
+Generatieve AI ondersteunt medewerkers bij het opstellen
+van beleidsnota’s, communicatie uitingen en rapportages waardoor consistentie en doorlooptijd
+verbeteren en specialistische kennis breder inzetbaar wordt.
+Daarnaast kunnen chatbots en
+virtuele assistenten inwoners 24/7 van relevante informatie voorzien en eenvoudige vragen
+afhandelen, wat de toegankelijkheid van onze gemeentelijke diensten vergroot en de werkdruk
+verlaagt.
+Om AI en generatieve AI veilig en ethisch verantwoord in te zetten, moet allereerst een duidelijk
+AI-governance kader (beleid) opgesteld worden waarin verantwoordelijkheden, geaccepteerde
+use cases en risicocontroles vastgelegd worden.
+Data Protection Impact Assessments (DPIA’s),
+technische maatregelen zoals encryptie, management van verbindingen, classificatie van data,
+logging en toegangscontrole en overige relevante toetsingskaders zijn essentieel om misbruik te
+voorkomen.
+De opkomst van AI vergroot overigens de snelheid waarmee cybercriminelen en statelijke actoren
+kwetsbaarheden kunnen identificeren en misbruiken.
+Hierdoor kunnen nieuwe kwetsbaarheden
+sneller leiden tot beveiligingsincidenten, wat hogere eisen stelt aan de weerbaarheid van de
+organisatie.
+Tot slot is het cruciaal om medewerkers continu bewust te maken van AI-risico’s en ze te helpen
+de juiste vaardigheden te ontwikkelen, door middel van training en bewustwording campagnes.
+9 Social engineering is het manipuleren en beïnvloeden van mensen om vertrouwelijke informatie prijs te geven
+of ongeautoriseerde toegang te verlenen via psychologische trucs.
+Jaarverslag informatiebeveiliging 2025 10
+In 2026 (al gestart in 2025) wordt zowel een strategisch- als en een tactisch/ operationeel
+beleidskader afgerond.
+Deze beleidskaders zijn van essentieel belang om AI op een volwassen
+wijze geborgd te krijgen en te houden.
+4.4.
+Incidentenmanagement
+Incidenten op het gebied van informatiebeveiliging zijn niet volledig te voorkomen.
+De IT-
+omgeving verandert continu en er worden vrijwel dagelijks kwetsbaarheden in software ontdekt.
+Hierdoor zullen zich onvermijdelijk informatiebeveiligingsincidenten voordoen.
+Deze incidenten
+bieden echter waardevolle inzichten, waarmee we onze securityprocessen kunnen verbeteren.
+Binnen de organisatie is een proces ingericht voor het melden, registreren en afhandelen van
+informatiebeveiligingsincidenten.
+Meldingen van medewerkers worden centraal geregistreerd,
+geanalyseerd en opgevolgd.
+Incidenten worden geclassificeerd als laag, midden of hoog,
+afhankelijk van de prioriteit en impact.
+Daarnaast ontvangen we grote aantallen technische
+securitymeldingen, waarvan het merendeel geautomatiseerd wordt afgehandeld.
+In 2025 hebben zich, gelijk aan voorgaande jaren, incidenten plaatsgevonden.
+Deze waren snel te identificeren en af te handelen.
+Deze incidenten hadden geen zwaarwegende
+impact op onze bedrijfsvoering.
+De incidenten hadden o.a. te maken met software en hardware
+waarin een kwetsbaarheid is geconstateerd.
+Onze connecties met de Informatiebeveiligingsdienst
+(IBD) en het ‘Computer Emergency Response Team’ (CERT) van het Rijk hebben bijgedragen aan
+het tijdig identificeren en mitigeren van deze incidenten.
+Het Computer Emergency Response
+Team maakt onderdeel uit van het NCSC (Nationaal Cyber Security Centrum) dat onder het
+Ministerie van Justitie en Veiligheid valt.
+Een CERT is een 24-uurshulp, die behulpzaam is bij
+beveiliging (cyber) incidenten en daarbij ondersteuning en advies biedt.
+In 2025 zijn er 245 geregistreerde incidenten gemeld door onze collega’s.
+Voorbeelden van
+incidenten zijn: e-mails die naar een verkeerde ontvanger zijn gestuurd, per abuis gepubliceerde
+documenten met te veel (persoons)gegevens en, in de meeste gevallen, phishing e-mails die zijn
+ontvangen.
+Het aantal intern gemelde incidenten was in 2025 wat hoger dan in 2024, toen ging het om 173
+incidenten.
+Zie onderstaande grafiek, met op de verticale as het aantal meldingen en op de
+horizontale as de categorieën die worden onderscheiden binnen de gemelde incidenten.
+Jaarverslag informatiebeveiliging 2025 11
+4.5.
+Service Operation Center (SOC)
+Vanuit het service operations center (SOC)10 zijn er gedurende 2025 370 incidenten beoordeeld
+en afgehandeld.
+Het overgrote deel van deze meldingen had een normaal of laag risicoprofiel
+(334 meldingen).
+Daarnaast zijn 34 meldingen met een hoge prioriteit (P2) en 2 meldingen met
+de hoogste prioriteit (P1) geregistreerd.
+De twee P1-meldingen betroffen een gestolen mobiele telefoon waarbij direct
+beveiligingsmaatregelen zijn getroffen en een melding van verdacht gedrag op een account of
+systeem waarop nader onderzoek is uitgevoerd.
+De meeste meldingen met een verhoogde
+prioriteit hadden betrekking op afwijkend gebruikers- of systeemgedrag, zoals verdachte
+authenticaties, ongebruikelijke accountactiviteiten of overige afwijkende activiteiten.
+In alle
+gevallen zijn deze signalen onderzocht om vast te stellen of sprake was van een daadwerkelijk
+beveiligingsincident.
+De resultaten laten zien dat de detectie- en monitoringsmaatregelen effectief functioneren en in
+staat zijn om afwijkingen tijdig te signaleren en te laten onderzoeken.
+Tegelijkertijd benadrukt het
+aantal meldingen van afwijkend account- en authenticatiegedrag het belang van blijvende
+aandacht voor identiteits- en toegangsbeheer, monitoring en bewustwording binnen de
+organisatie.
+Er zijn in 2025 geen incidenten vastgesteld die hebben geleid tot een langdurige
+verstoring van de gemeentelijke dienstverlening of een grootschalige aantasting van de
+informatiebeveiliging.
+Uit de rapportage van de SOC-dienstverlener blijkt dat de gemiddelde doorlooptijd van
+beveiligingsmeldingen varieerde van 1,1 tot 5,5 dagen, afhankelijk van het prioriteitsniveau van
+het incident.
+Hierbij dient te worden opgemerkt dat deze cijfers betrekking hebben op de totale
+afhandeltijd van meldingen en niet op de contractueel vastgelegde reactie- en oplostijden uit de
+10 Een centraal ingerichte dienst die continu toezicht houdt op beveiligingsgebeurtenissen en incidenten
+detecteert, analyseert en opvolgt.
+0
+20
+40
+60
+80
+100
+120
+140
+160
+Mens ICT Procedure Phishing/Spam
+Beveiligingsincidenten 2024 Beveiligingsincidenten 2025
+Intern gemelde beveiligingsincidenten
+Jaarverslag informatiebeveiliging 2025 12
+dienstverleningsovereenkomst.
+Hierdoor kan op basis van de jaarrapportage niet worden
+vastgesteld in hoeverre de afgesproken serviceniveaus daadwerkelijk zijn behaald.
+Hoewel de rapportage inzicht geeft in de snelheid waarmee meldingen worden onderzocht en
+administratief worden afgerond, ontbreekt een vergelijking tussen de gerealiseerde prestaties en
+de overeengekomen SLA normen.
+Hierdoor is voor de organisatie onvoldoende aantoonbaar of
+meldingen binnen de afgesproken reactietijden en oplostijden zijn opgepakt en afgehandeld.
+Voor een volledig beeld van de dienstverlening is het wenselijk dat toekomstige rapportages
+expliciet inzicht geven in de SLA prestaties per prioriteitsniveau, inclusief het percentage
+meldingen dat binnen de overeengekomen normen is afgehandeld.
+Verdere verbetering van de
+rapportage en prestatiemeting worden in 2026 en verder doorgevoerd.
+De geregistreerde incidenten hebben verder geen impact gehad op continuering van onze
+systemen.
+Gecontroleerde uitval van systemen in het belang van het uitvoeren van updates en
+patches wordt niet gezien als verstorend voor de continuering van systemen.
+Om de kwaliteit en aantoonbaarheid van de SIEM/SOC-dienstverlening verder te versterken,
+wordt in 2026 een onafhankelijke nulmeting uitgevoerd.
+Hierbij wordt beoordeeld in hoeverre de
+geleverde dienstverlening voldoet aan de gemaakte contractuele afspraken, het SLA/DAP en de
+relevante BIO 2.0 eisen.
+De resultaten bieden inzicht in de aansluiting tussen afspraak en praktijk
+en ondersteunen de verdere doorontwikkeling van de dienstverlening.
+4.6.
+Bewustwording
+In het kader van bewustwording worden collega’s zoveel mogelijk geïnformeerd via de
+gebruikelijke communicatiekanalen (e-mail, intranet) over verschillende
+informatiebeveiligingsonderwerpen en actualiteiten rondom fraude, phishing, hacks en
+ransomware risico’s.
+Verder wordt er ingezet op ons leerplatform ‘Studytube’ waarin nieuwe
+leerlijnen en trainingsevents beschikbaar worden gesteld.
+De gebruikelijke phishing pogingen via zowel mail als telefoon zijn nagenoeg dagelijkse kost.
+Met
+name telefonisch zijn er veel malafide belletjes en berichten ontvangen.
+Het beperken van
+phishing via mail zijn op technisch vlak voor een goed deel te ondervangen, maar het blijft
+voorkomen dat deze zo nu en dan langs de beveiligingslinie glippen.
+Gelukkig zijn de collega’s waakzaam en alert en weten zaken direct te melden zodat de juiste
+maatregelen genomen kunnen worden.
+Het bewustzijn wordt vergroot door trainingen en
+cursussen aan te bieden via Studytube.
+De mate van volwassenheid op het gebied van
+bewustwording over alle teams is in 2025 niet gemeten.
+Dit heeft te maken met het feit dat het volgen van de trainingen die aangeboden worden nu nog
+een vrijblijvend karakter heeft.
+Idealiter wil je een deelnamegraad vooraf bepaald hebben waaraan
+alle afdelingen/ teams dienen te voldoen.
+Aan de hand van deze deelnamegraad (incl. certificaat/
+bewijs van voltooiing) kan aantoonbaar gemaakt worden dat er tijd en aandacht is besteed aan
+Jaarverslag informatiebeveiliging 2025 13
+het verhogen van de bewustwording.
+Een hogere waarde van bewustwording betekent op zijn
+beurt een hogere digitale weerbaarheid en digitale geletterdheid.
+4.7.
+ENSIA (eenduidige normatiek single information audit)
+Sinds 2017 legt het college van B&W verantwoording af volgens de ENSIA-methodiek voor het
+gebruik van de basisregistratie personen (BRP), reisdocumenten, de basisregistratie adressen en
+gebouwen (BAG), de basisregistratie grootschalige topografie (BGT), de
+basisregistratieondergrond (BRO) en de waardering onroerende zaken (WOZ).
+Verder wordt er
+ook verantwoording afgelegd voor het gebruik van DigiD en Suwinet.
+ENSIA staat voor eenduidige normatiek single information audit.
+Dit houdt in dat er jaarlijks een
+eenmalige informatieverstrekking en een IT-audit wordt uitgevoerd op de delen waarop
+verantwoording afgelegd moet worden.
+De focus van ENSIA intern ligt op de horizontale
+verantwoording binnen de gemeente, waarin het college van B&W en de raad een belangrijke rol
+spelen.
+Het verantwoordingproces heeft idealiter een doorlooptijd van zes maanden.
+Binnen die zes
+maanden wordt er werk verricht door alle interne betrokkenen en door de externe auditor zodat
+vóór 1 mei, binnen de deadline, alle stelselhouders en toezichthouders geïnformeerd zijn in welke
+mate de gemeente voldoet of niet.
+Zoals al is aangegeven in de managementsamenvatting
+voldoet Dijk en Waard voor 2025 aan alle normen die van toepassing zijn op het gebruik van de
+BRP, reisdocumenten, BGT, BAG, BRO, WOZ, DigiD en Suwinet.
+Een prestatie die zeker niet onder
+stoelen of banken verscholen moet worden.
+Hieraan wordt namelijk met veel toewijding van alle
+betrokkenen veel aandacht aanbesteed.
+Met de komst van de Cyberbeveiligingswet (Cbw) wordt het gemeentelijke normenkader
+aangescherpt met de introductie van de BIO 2.0.
+Als gevolg hiervan zal ook de ENSIA-systematiek
+worden uitgebreid met verscherpte maatregelen op het gebied van onder andere
+ketenbeveiliging, netwerksegmentatie en bestuurdersaansprakelijkheid.
+Waar de ENSIA-
+rapportage traditioneel dient voor de verticale verantwoording aan specifieke stelselhouders,
+treedt de Rijksinspectie voor Digitale Infrastructuur (RDI) met de invoering van de Cbw op als de
+wettelijke, externe toezichthouder voor overheidsinstanties.
+De RDI zal toezien op de naleving van
+de zorg- en meldplicht en heeft de bevoegdheid om bij non compliance sancties op te leggen.
+Aangezien de Tweede Kamer de Cbw op 15 april 2026 heeft aangenomen en de wet op 15
+augustus 2026 in werking treed, worden organisaties momenteel al actief geïnformeerd door de
+RDI en de Informatiebeveiligingsdienst (IBD).
+De wettelijke verplichtingen gelden direct vanaf de
+datum van inwerkingtreding, zonder overgangstermijn.
+De exacte doorvertaling en
+operationalisering binnen de ENSIA-vragenlijsten voor de nieuwe cyclus zullen in de loop van het
+najaar van 2026 definitief vorm krijgen.
+Jaarverslag informatiebeveiliging 2025 14
+4.8.
+ISMS
+In 2025 is vastgesteld dat verdere professionalisering van het informatiebeveiligingsmanagement
+noodzakelijk is.
+Daarom wordt in 2026 een ISMS11geïmplementeerd waarmee risico's,
+maatregelen en compliance centraal worden beheerd.
+Een ISMS is het fundament om
+informatiebeveiliging planmatig te sturen, risico's te beheren en aantoonbaar te voldoen aan
+wettelijke normen.
+Het gebrek aan een ISMS leidt tot de volgende knelpunten:
+Gefragmenteerd overzicht: Er is geen centraal punt van waarheid waarin risico's, incidenten,
+beleidsdocumenten en de status van beveiligingsmaatregelen samenhangend worden beheerd.
+Beperkte aantoonbaarheid: Het handmatig bijhouden van compliance lijsten (bijvoorbeeld in
+losse spreadsheets) is foutgevoelig, arbeidsintensief en bemoeilijkt de verantwoording naar
+interne en externe toezichthouders.
+Inefficiënte samenwerking: De coördinatie en het delen van informatie tussen de CISO, de
+Functionaris Gegevensbescherming (FG) en de Concerncontroller verloopt hierdoor minder
+efficiënt dan wenselijk.
+Zonder een volwaardig ISMS acteert de organisatie op dit moment reactief in plaats van proactief
+en risico gestuurd.
+Dit vergroot de kwetsbaarheid voor digitale dreigingen en compliance risico's.
+Om het gebrek aan een ISMS structureel aan te pakken, starten we in 2026 met de implementatie
+van een modern ISMS-platform in de vorm van een applicatie.
+Uiterlijk eind 2026 moet de basis
+van ons beveiligingsbeheer hierin staan.
+De introductie verloopt gefaseerd.
+We zijn in 2026 al begonnen met een gerichte
+behoeftebepaling en een marktverkenning naar een applicatie die bij ons past.
+Na de selectie
+richten we het platform in met de BIO en starten we een pilot binnen een aantal cruciale
+domeinen.
+We sluiten het jaar af met de training van de proceseigenaren en de definitieve
+ingebruikname.
+Hiermee brengen we de organisatie definitief over naar een centrale, risico
+gestuurde PDCA-cyclus.
+11 Een gestructureerd samenstel van beleid, processen, procedures en systemen waarmee een organisatie
+planmatig haar informatiebeveiliging inricht, monitort, evalueert en continu verbetert (Plan, do, check, act)
+Jaarverslag informatiebeveiliging 2025 15
+4.9.
+Meting van de BIO
+De laatste meting van de BIO vond plaats in Q4 2025 onder leiding van de toenmalige CISO
+Grafisch ziet de score er als volgt uit.
+Om te bepalen waar we als organisatie staan op het gebied van informatiebeveiliging, is deze
+meting uitgevoerd op basis van de nieuwe BIO 2.0 systematiek.
+Uit deze meting komt een
+gemiddelde score naar voren van 80,25% over de vier hoofdthema's.
+Hoewel dit op papier een solide basis lijkt, laat de uitsplitsing per domein een genuanceerder
+beeld zien:
+• Fysieke beheersmaatregelen (H7 - 96%): De fysieke beveiliging van onze panden,
+computerruimtes en werkplekken lijkt op orde te zijn volgens de BIO maatregelen.
+• Technologische beheersmaatregelen (H8 - 85%): De technische inrichting, zoals onze
+netwerkbeveiliging en IT-voorzieningen, scoort ook ruim voldoende.
+• Organisatorische maatregelen (H5 - 73%): Hier liggen verbeterpunten op het gebied
+van formeel beleid, risicomanagement, ketenveiligheid (leveranciers) en incidentenbeheer.
+Jaarverslag informatiebeveiliging 2025 16
+• Mensgerichte beheersmaatregelen (H6 - 67%): De meting laat zien dat verdere groei
+nodig is op het gebied van governance, risicomanagement en bewustwording
+De scores laten zien dat de basis van informatiebeveiliging aanwezig is, maar dat verdere
+volwassenwording noodzakelijk blijft op het vlak van governance en mensgerichte maatregelen.
+4.10.
+Wat betekent dit voor de organisatie?
+Deze cijfers laten een bekend en herkenbaar patroon zien.
+Onze technische en fysieke 'muren' zijn
+hoog en stevig, maar de zachte achterkant in de vorm van de organisatie en de mens blijft achter.
+In de praktijk betekent dit dat we digitaal kwetsbaar blijven.
+Een aanvaller kiest immers zelden de
+moeilijkste weg door een technische muur als er via een menselijke fout (zoals phishing of
+menselijke beïnvloeding) of een onduidelijk organisatorisch proces makkelijker toegang te krijgen
+is.
+De lagere scores op de organisatorische en mensgerichte controls ondermijnen in feite de
+zware investeringen die we aan de technische kant hebben gedaan.
+Daarnaast is de compliance
+score van 80% een rekenkundig gemiddelde.
+Omdat we momenteel nog geen centraal ISMS hebben om dit continu te monitoren, is dit een
+statische momentopname.
+Het risico bestaat dat achterliggende, kritieke maatregelen
+onderbelicht blijven.
+4.11.
+Prioriteiten voor 2026 en verder
+De focus ligt nadrukkelijk op het in balans brengen van deze scores.
+Dit doen we door:
+1.
+De mens centraal te stellen: Het opzetten van een doorlopend awareness-programma
+om de menselijke weerbaarheid te verhogen.
+2.
+Processen te formaliseren: Het stroomlijnen van de samenwerking rondom
+risicomanagement, en het scherper inrichten van leveranciersmanagement.
+3.
+Borging in het nieuwe ISMS: De resultaten uit deze meting direct als vertrekpunt te
+gebruiken bij de inrichting van onze nieuwe applicatie (zie paragraaf 4.8), zodat we van
+een statische meting naar continue, aantoonbare grip bewegen.
+Op basis van de uitgevoerde evaluaties concludeer ik dat onze organisatie beschikt over een
+beheersbaar en stabiel niveau van informatiebeveiliging.
+Er zijn geen significante incidenten
+vastgesteld die de continuïteit van de dienstverlening hebben bedreigd.
+Tegelijkertijd vraagt het
+verder professionaliseren van governance, risicomanagement, bedrijfscontinuïteit, bewustwording
+en het implementeren van een ISMS nadrukkelijk aandacht om blijvend te kunnen voldoen aan de
+BIO 2.0 en de Cyberbeveiligingswet.
+[Bijlage: Collegebericht jaarverslag informatiebeveiliging 2025]
+Aan: De gemeenteraad
+Van: Het college van burgemeester en wethouders
+Datum: 14 september 2026
+Zaaknummer: 00001273368
+Onderwerp: Jaarverslag informatiebeveiliging 2025
+Aanleiding
+Informatiebeveiliging is van groot belang voor een betrouwbare en veilige gemeentelijke
+dienstverlening.
+Met het Jaarverslag Informatiebeveiliging 2025 informeert het college de
+gemeenteraad over de stand van zaken van de informatiebeveiliging binnen gemeente Dijk en
+Waard.
+Het verslag geeft inzicht in de bereikte resultaten, de belangrijkste ontwikkelingen, de
+risico's en de prioriteiten voor verdere professionalisering.
+Kernboodschap
+De informatiebeveiliging binnen Dijk en Waard bevindt zich op een beheersbaar en stabiel
+niveau.
+In 2025 hebben zich geen incidenten voorgedaan die hebben geleid tot een langdurige
+verstoring van de gemeentelijke dienstverlening en is verdere voortgang geboekt in de
+professionalisering van informatiebeveiliging.
+Tegelijkertijd laat het jaarverslag zien dat verdere
+ontwikkeling noodzakelijk blijft op het gebied van risicomanagement en bewustwording.
+Het versterken van risicomanagement is noodzakelijk om risico's beter te identificeren, te
+prioriteren en bestuurlijk te kunnen sturen op de bescherming van informatie, systemen en
+dienstverlening.
+Daarnaast blijft aandacht voor bewustwording en digitaal vakmanschap van
+medewerkers essentieel, aangezien menselijk handelen een belangrijke factor blijft bij het
+ontstaan van informatiebeveiligingsincidenten.
+Deze onderwerpen vormen, samen met de implementatie van een
+Informatiebeveiligingsmanagementsysteem (ISMS), de belangrijkste prioriteiten, en dragen bij
+aan de verdere uitvoering van de Cyberbeveiligingswet en de ontwikkeling naar een meer risico
+gestuurde en weerbare organisatie.
+Toelichting
+In 2025 zijn verdere stappen gezet in de professionalisering van onze informatiebeveiliging.
+De
+gemeente heeft voldaan aan de verantwoordingsverplichtingen binnen de Eenduidige Normatiek
+Single Information Audit (ENSIA) en beschikt over diverse technische en organisatorische
+maatregelen om informatie en systemen te beschermen.
+ENSIA is de landelijke verantwoordingsmethode waarmee Nederlandse overheden, zoals
+gemeenten, jaarlijks op een uniforme manier rapporteren over informatieveiligheid en
+datakwaliteit.
+Een jaarlijkse meting laat zien dat de basis van informatiebeveiliging in belangrijke mate
+aanwezig is.
+Met name de fysieke en technische beveiligingsmaatregelen zijn relatief volwassen.
+De komende jaren ligt de nadruk op verdere versterking van organisatorische en mensgerichte
+maatregelen, waaronder risicomanagement, bewustwording van medewerkers en
+leveranciersmanagement.
+COLLEGEBERICHT
+Informeren gemeenteraad
+2
+Daarnaast wordt gewerkt aan de implementatie van een Information Security Management
+System (ISMS).
+Hiermee wordt informatiebeveiliging meer integraal en cyclisch aangestuurd en
+geborgd binnen de organisatie.
+Ook wordt verder gewerkt aan de verdere implementatie op de
+Cyberbeveiligingswet.
+Deze wet stelt aanvullende eisen aan organisaties op het gebied van
+risicobeheersing, meldplicht, toezicht en bestuurlijke verantwoordelijkheid.
+Vervolg
+De in het jaarverslag benoemde prioriteiten worden in de komende jaren verder uitgewerkt.
+De
+gemeenteraad wordt via de reguliere planning en control cyclus geïnformeerd over
+ontwikkelingen op het gebied van informatiebeveiliging en de digitale weerbaarheid.
+Bijlagen
+1.
+Jaarverslag informatiebeveiliging 2025
