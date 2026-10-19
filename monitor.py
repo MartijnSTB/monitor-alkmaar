@@ -35,11 +35,9 @@ GEMEENTEN = {
         # (gecontroleerd 19 okt 2026). De gemeenteraad zit op alkmaar.raadsinformatie.nl (zie not_followed).
         'ibabs': 'https://alkmaar.bestuurlijkeinformatie.nl',
         'ibabs_types': {100148034: 'B&W Agenda', 100050619: 'B&W Openbare besluiten college'},
-        'pages': {
-            'Nieuws': 'https://www.alkmaar.nl/nieuws/',
-        },
+        'pages': {},
         'domains': ('https://www.alkmaar.nl/', 'https://alkmaar.bestuurlijkeinformatie.nl/'),
-        'news_rss': None,  # alkmaar.nl heeft geen nieuwsfeed (gecontroleerd 19 okt 2026)
+        'news_rss': 'https://www.alkmaar.nl/nieuws/feed',  # RSS met publicatiedatum (gevonden 19 okt 2026)
         'college_pdf_page': None,
         # Open Raadsinformatie (VNG / Open State): de raadsstukken van Alkmaar, voor zover bijgewerkt.
         'ori': 'ori_alkmaar_*',
@@ -48,7 +46,6 @@ GEMEENTEN = {
                      'Noordeinde', 'Oost-Graftdijk', 'Oterleek', 'Oudorp', 'Schermerhorn', 'Starnmeer',
                      'Stompetoren', 'Ursem', 'West-Graftdijk', 'Zuidschermer'],
         'notes': {
-            'Nieuws': 'De nieuwspagina van alkmaar.nl (de nieuwste berichten). Alkmaar heeft geen nieuwsfeed.',
         },
         'not_followed': {
             'Raadsinformatie (live)': 'alkmaar.raadsinformatie.nl (vergaderingen en raadsstukken van de gemeenteraad) '
@@ -1296,7 +1293,9 @@ def migrate(db):
     db.setdefault('status', {})
     state = db.setdefault('state', {})
     archive = db.setdefault('archief', {})
-    # Nieuwe monitor (okt 2026): geen oude correcties nodig.
+    # Nieuwe monitor (okt 2026): de link naar de RSS-feed zelf is geen nieuwsbericht.
+    for key in [k for k, v in db['items'].items() if v.get('url', '').rstrip('/').endswith('/actueel-feed')]:
+        db['items'].pop(key)
     for key, item in list(db['items'].items()):
         if is_navigation(item.get('title', ''), item.get('url', '')):
             item.update(archived=utc(), archived_reason='Menuknop, geen publicatie')
