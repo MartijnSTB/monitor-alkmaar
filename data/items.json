@@ -53460,7 +53460,45 @@
       "doc_date": "2026-04-14",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Jaarstukken 2025 en conceptbegroting 2027 van VHRNHN|Gemeenschappelijke regelingen"
+      "kw_sig": "4f53cda18c2b|0842cbaf6081aeba9baf2a51fe0dc1403169cf21cd795f2e1841bb0f65bfb009|Jaarstukken 2025 en conceptbegroting 2027 van VHRNHN|Gemeenschappelijke regelingen",
+      "missing_count": 0,
+      "text_hash": "0842cbaf6081aeba9baf2a51fe0dc1403169cf21cd795f2e1841bb0f65bfb009",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Aanbiedingsbrief bij jaarstukken 2025 en begroting 2027 VRNHN",
+        "Jaarrekening 2025 NHN",
+        "Ontwerp Begroting 2027-2030 VRNHN",
+        "Accountantsverslag 2025 Veiligheidsregio NHN",
+        "Toetsingskaders jaarstukken 2025 en begroting 2027 VRNHN",
+        "Brief aan raden inzake opvolging amendementen VRNHN"
+      ],
+      "bijlagen": [
+        {
+          "t": "Aanbiedingsbrief bij jaarstukken 2025 en begroting 2027 VRNHN",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/ad225746-ba44-42ca-a3b3-40c99b75c5f6"
+        },
+        {
+          "t": "Jaarrekening 2025 NHN",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/0b953a2d-2ba1-49d3-baac-623873ec201b"
+        },
+        {
+          "t": "Ontwerp Begroting 2027-2030 VRNHN",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/801f875d-1677-478a-b77e-a74decbb0afc"
+        },
+        {
+          "t": "Accountantsverslag 2025 Veiligheidsregio NHN",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/ab589f67-30fb-4a75-8bb6-d1f7da9a4ba9"
+        },
+        {
+          "t": "Toetsingskaders jaarstukken 2025 en begroting 2027 VRNHN",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/0a375e9a-49f3-4bae-853e-82db50728f1f"
+        },
+        {
+          "t": "Brief aan raden inzake opvolging amendementen VRNHN",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/4298bb8f-eb7a-46d6-9c2d-74b4a5cf92c8"
+        }
+      ],
+      "content_checked": "2026-10-19T20:31:30+00:00"
     },
     "f439d56dd62910284e61586e88c6bfd15130c56f8c266ab8e05900a22f279e13": {
       "title": "Jaarstukken 2025 en de Programmabegroting 2027",
@@ -53480,7 +53518,30 @@
       "doc_date": "2026-04-14",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Jaarstukken 2025 en de Programmabegroting 2027|Gemeenschappelijke regelingen"
+      "kw_sig": "4f53cda18c2b|79a2c1e59dac1a4fbeb176a84c44ba8f21367dd426cc8e320ff8e79e0a96ea3b|Jaarstukken 2025 en de Programmabegroting 2027|Gemeenschappelijke regelingen",
+      "missing_count": 0,
+      "text_hash": "79a2c1e59dac1a4fbeb176a84c44ba8f21367dd426cc8e320ff8e79e0a96ea3b",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Aanbiedingsbrief RHCA jaarstukken 2025 en begroting 2027",
+        "Regionaal Historisch Centrum Alkmaar, Jaarstukken 2025 incl. controleverklaring 2025",
+        "Regionaal Historisch Centrum Alkmaar, Programmabegroting 2027"
+      ],
+      "bijlagen": [
+        {
+          "t": "Aanbiedingsbrief RHCA jaarstukken 2025 en begroting 2027",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/53c968b7-50c3-44e2-a62d-c32f09911e26"
+        },
+        {
+          "t": "Regionaal Historisch Centrum Alkmaar, Jaarstukken 2025 incl. controleverklaring 2025",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/2d5dcf88-37aa-4564-b7c4-89fa9f914143"
+        },
+        {
+          "t": "Regionaal Historisch Centrum Alkmaar, Programmabegroting 2027",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/66f2890e-7aba-4257-8db0-3ca82337b053"
+        }
+      ],
+      "content_checked": "2026-10-19T20:31:35+00:00"
     },
     "6a29136f7d50e30fba37c8ac4dff2984881e990413df81000ab279dada7010f7": {
       "title": "Jaarstukken 2025 en conceptbegroting 2027 van Zaffier",
@@ -53500,7 +53561,25 @@
       "doc_date": "2026-04-14",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Jaarstukken 2025 en conceptbegroting 2027 van Zaffier|Gemeenschappelijke regelingen"
+      "kw_sig": "4f53cda18c2b|2cc67515bd1f39661024e47813602d339fe618432be553ef971ce118095fd508|Jaarstukken 2025 en conceptbegroting 2027 van Zaffier|Gemeenschappelijke regelingen",
+      "missing_count": 0,
+      "text_hash": "2cc67515bd1f39661024e47813602d339fe618432be553ef971ce118095fd508",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Conceptbegroting 2027",
+        "Zaffier jaarstukken 2025"
+      ],
+      "bijlagen": [
+        {
+          "t": "Conceptbegroting 2027",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/8e438311-6412-4f80-9ab5-1dd2d8712582"
+        },
+        {
+          "t": "Zaffier jaarstukken 2025",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/127fc9ce-ca71-4ea1-a545-7fb3c31260e3"
+        }
+      ],
+      "content_checked": "2026-10-19T20:31:44+00:00"
     },
     "3160da5086359474d568c9838b27d038a611a5a15cbd239a6a65650e8004cf8b": {
       "title": "Reactie dagelijks bestuur Besluit gemotiveerde reactie op zienswijzen kadernota 2027 na DB",
@@ -54468,7 +54547,20 @@
       "doc_date": "2026-04-14",
       "doc_date_label": "vergaderdatum college",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Besluitenlijst 14 april 2026|Besluitenlijsten B&W"
+      "kw_sig": "4f53cda18c2b|2477d71f7924e4c6e2c25af6512bff67924126660e7bbb0c64ce23a8c121cc36|Besluitenlijst 14 april 2026|Besluitenlijsten B&W",
+      "missing_count": 0,
+      "text_hash": "2477d71f7924e4c6e2c25af6512bff67924126660e7bbb0c64ce23a8c121cc36",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "2026-04-14_Collegevergadering openbaar_Besluitenlijst"
+      ],
+      "bijlagen": [
+        {
+          "t": "2026-04-14_Collegevergadering openbaar_Besluitenlijst",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/54a152c3-d4c2-4baf-807e-98b005e1d412"
+        }
+      ],
+      "content_checked": "2026-10-19T20:31:45+00:00"
     },
     "11f62fbe6590dc85c0ea0f55559c487b69514d2be982cd956692d4ec92738cee": {
       "title": "Besluitenlijst van 7 april 2026",
@@ -54488,7 +54580,20 @@
       "doc_date": "2026-04-07",
       "doc_date_label": "vergaderdatum college",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Besluitenlijst van 7 april 2026|Besluitenlijsten B&W"
+      "kw_sig": "4f53cda18c2b|7ea4940d7e9f7645002bd53990e47b66ac98f9cca98342508a192100895494ef|Besluitenlijst van 7 april 2026|Besluitenlijsten B&W",
+      "missing_count": 0,
+      "text_hash": "7ea4940d7e9f7645002bd53990e47b66ac98f9cca98342508a192100895494ef",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "2026-04-07_Collegevergadering openbaar_Besluitenlijst"
+      ],
+      "bijlagen": [
+        {
+          "t": "2026-04-07_Collegevergadering openbaar_Besluitenlijst",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/bdf23c6d-c8e0-4dca-83c8-1830fac63926"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:08+00:00"
     },
     "c50cc0a4d98ed640f55ed7d048f1a6c553e3987b687dfba514c9df890eefd3ce": {
       "title": "Besluitenlijst 31 maart 2026",
@@ -62293,7 +62398,35 @@
       "doc_date_label": "registratiedatum",
       "antwoord_datum": "2026-05-06",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||CDA: WK voetbal|Raadsvragen · antwoord 2026-05-06"
+      "kw_sig": "4f53cda18c2b|b4e196cf85cde8958fd237b6aaca888071248c10822994f311be53169312eca9|CDA: WK voetbal|Raadsvragen · antwoord 2026-05-06",
+      "missing_count": 0,
+      "text_hash": "b4e196cf85cde8958fd237b6aaca888071248c10822994f311be53169312eca9",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht Beantwoorden Schriftelijke vragen CDA WK voetbal",
+        "Bijlage 1. Overzicht WK-wedstrijden",
+        "Besluit Ontheffing sluitingsuur WK voetbal 2026 - Texel",
+        "Besluit ontheffing sluitingsuur WK voetbal 2026 - Amstelveen"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht Beantwoorden Schriftelijke vragen CDA WK voetbal",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/06319318-8b9e-4443-951e-157e18c71f4f"
+        },
+        {
+          "t": "Bijlage 1. Overzicht WK-wedstrijden",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/9e202c08-3b63-4055-9660-811f1fed9c54"
+        },
+        {
+          "t": "Besluit Ontheffing sluitingsuur WK voetbal 2026 - Texel",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/193891f1-0832-4601-a5ca-59d71f2432aa"
+        },
+        {
+          "t": "Besluit ontheffing sluitingsuur WK voetbal 2026 - Amstelveen",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/e1c084aa-8912-4e18-a5b2-9ebe5b3d03b6"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:20+00:00"
     },
     "a382f3730a6c003e26b26ce0c63afa9b4a8fb225b6871cf63a00c6bdb708e4fa": {
       "title": "DOP: Werkzaamheden Dorpstraat Oudkarspel",
@@ -62314,7 +62447,20 @@
       "doc_date_label": "registratiedatum",
       "antwoord_datum": "2026-05-06",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||DOP: Werkzaamheden Dorpstraat Oudkarspel|Raadsvragen · antwoord 2026-05-06"
+      "kw_sig": "4f53cda18c2b|26da12459f0e3aa68ce1f062a118cfe8086ecdf5ba705266dae3f1695da00443|DOP: Werkzaamheden Dorpstraat Oudkarspel|Raadsvragen · antwoord 2026-05-06",
+      "missing_count": 0,
+      "text_hash": "26da12459f0e3aa68ce1f062a118cfe8086ecdf5ba705266dae3f1695da00443",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht Beantwoorden schriftelijke vragen DOP Werkzaamheden Dorpsstraat Oudkarspel"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht Beantwoorden schriftelijke vragen DOP Werkzaamheden Dorpsstraat Oudkarspel",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/8f6425be-398a-4b7b-b5c0-d69a8874db18"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:09+00:00"
     },
     "14397eeaa252c2c17d9a811516444e385fa7f6b200cef5c70c3e9c475f1b9fc0": {
       "title": "D66: Drugslab",
@@ -65158,7 +65304,20 @@
       "doc_date": "2026-04-15",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Felicitatie raadsleden en Handreiking|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|7fb3490e2c6679effb3b8fab09f2dbeb875379971a2cfc6d538ec38b09489698|Felicitatie raadsleden en Handreiking|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "7fb3490e2c6679effb3b8fab09f2dbeb875379971a2cfc6d538ec38b09489698",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Felicitatie en Handreiking - De Bruggenbouwers"
+      ],
+      "bijlagen": [
+        {
+          "t": "Felicitatie en Handreiking - De Bruggenbouwers",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/c6904b30-851f-4a80-b1e0-2fc8dac57845"
+        }
+      ],
+      "content_checked": "2026-10-19T20:31:11+00:00"
     },
     "4c83473f0bff9e19071ed08242d583d615e7f6869ad46ce69a82c8f1314002ae": {
       "title": "NS brief gemeenteraadsverkiezingen",
@@ -65178,7 +65337,20 @@
       "doc_date": "2026-04-15",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||NS brief gemeenteraadsverkiezingen|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|feaced5722ba1f41614cfa2dd4b9bf9294f66ea9819e0b7662f20dfcd1b10bc1|NS brief gemeenteraadsverkiezingen|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "feaced5722ba1f41614cfa2dd4b9bf9294f66ea9819e0b7662f20dfcd1b10bc1",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "NS brief gemeenteraadsverkiezingen"
+      ],
+      "bijlagen": [
+        {
+          "t": "NS brief gemeenteraadsverkiezingen",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/979da7a0-840e-4a3e-8f5d-2b224038a105"
+        }
+      ],
+      "content_checked": "2026-10-19T20:31:13+00:00"
     },
     "f3dc74db249c666badaafd9999f3074be78f033ca9bff9d41544f460c92880db": {
       "title": "Uitnodiging webinar voor raadsleden: Lokale keuzes in afvalbeleid",
@@ -65198,7 +65370,20 @@
       "doc_date": "2026-04-15",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Uitnodiging webinar voor raadsleden: Lokale keuzes in afvalbeleid|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|793cdee6dede2164f525f9d097d493c3375b634b668fa454f98e7d2e913804ce|Uitnodiging webinar voor raadsleden: Lokale keuzes in afvalbeleid|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "793cdee6dede2164f525f9d097d493c3375b634b668fa454f98e7d2e913804ce",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Uitnodiging webinar voor raadsleden - Lokale keuzes in afvalbeleid"
+      ],
+      "bijlagen": [
+        {
+          "t": "Uitnodiging webinar voor raadsleden - Lokale keuzes in afvalbeleid",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/b026698b-ab57-41c1-a046-c9e916afb104"
+        }
+      ],
+      "content_checked": "2026-10-19T20:31:13+00:00"
     },
     "b2c8d1ad7aafe7becb97692148e422baf73d3038acb223c455be38fe1b1f1543": {
       "title": "Draagvlaak; juist door het Ondernemersfonds Dijk en Waard",
@@ -65218,7 +65403,20 @@
       "doc_date": "2026-04-15",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Draagvlaak; juist door het Ondernemersfonds Dijk en Waard|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|651bfcf4017176aed7ab43fd256ec6691c36c9f8f92c87f33d2d14fd081d6302|Draagvlaak; juist door het Ondernemersfonds Dijk en Waard|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "651bfcf4017176aed7ab43fd256ec6691c36c9f8f92c87f33d2d14fd081d6302",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Draagvlaak juist door het Ondernemersfonds Dijk en Waard- Ondernemend Dijk"
+      ],
+      "bijlagen": [
+        {
+          "t": "Draagvlaak juist door het Ondernemersfonds Dijk en Waard- Ondernemend Dijk",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/a0a7d83a-23bc-429a-948f-6d37f06f2cfb"
+        }
+      ],
+      "content_checked": "2026-10-19T20:31:15+00:00"
     },
     "8839c5fc85ac0c015277b85ff7ca98050f7361742158656c37a2b4a7c084aae4": {
       "title": "Brief Provincie NH Informeren nieuwe gemeenteraden over RMP en regionale uitvoeringsagenda",
@@ -65238,7 +65436,20 @@
       "doc_date": "2026-04-14",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Brief Provincie NH Informeren nieuwe gemeenteraden over RMP en regionale uitvoeringsagenda|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|e4a79bb095730339aaf6d624537d8585067fd0114abd52ab5eeb64ef4d1401db|Brief Provincie NH Informeren nieuwe gemeenteraden over RMP en regionale uitvoeringsagenda|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "e4a79bb095730339aaf6d624537d8585067fd0114abd52ab5eeb64ef4d1401db",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Informeren nieuwe gemeenteraden over RMP en regionale uitvoeringsagenda"
+      ],
+      "bijlagen": [
+        {
+          "t": "Informeren nieuwe gemeenteraden over RMP en regionale uitvoeringsagenda",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/1f2b57ca-97eb-46f2-a5de-785da9c6599c"
+        }
+      ],
+      "content_checked": "2026-10-19T20:31:47+00:00"
     },
     "2766476c82750376251892a5dceb66bd64b6074064a197fddc81538961e50a2f": {
       "title": "Mail bewoner - Uitnodiging voorstelling",
@@ -65258,7 +65469,30 @@
       "doc_date": "2026-04-14",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Mail bewoner - Uitnodiging voorstelling|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|25f26397f47c1a4bde9077f7d1fa88a44710b737d8632a78efbd6a6ab68e0253|Mail bewoner - Uitnodiging voorstelling|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "25f26397f47c1a4bde9077f7d1fa88a44710b737d8632a78efbd6a6ab68e0253",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Mail bewoner - Uitnodiging voorstelling (geanonimiseerd)",
+        "Poster rom&jul dutch BB",
+        "flyer back ducth BB"
+      ],
+      "bijlagen": [
+        {
+          "t": "Mail bewoner - Uitnodiging voorstelling (geanonimiseerd)",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/1f84f318-bdd2-465e-8efc-e229018031fc"
+        },
+        {
+          "t": "Poster rom&jul dutch BB",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/dc28408d-66c8-4168-ac9c-3e21afc72bfe"
+        },
+        {
+          "t": "flyer back ducth BB",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/a32d850f-ffb8-491e-8008-da12c05eb4d8"
+        }
+      ],
+      "content_checked": "2026-10-19T20:31:52+00:00"
     },
     "e76dba77b859d1007bf9499e509c505528ed6065b39d4c98b94391f430065f6c": {
       "title": "RIONEDnieuws – April 2026",
@@ -65278,7 +65512,20 @@
       "doc_date": "2026-04-14",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||RIONEDnieuws – April 2026|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|84b1d0e5f2177de3b9643d50dedeb8eb8523491a50cc4b4eb234571a1badcbe1|RIONEDnieuws – April 2026|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "84b1d0e5f2177de3b9643d50dedeb8eb8523491a50cc4b4eb234571a1badcbe1",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "RIONEDnieuws- April 2026"
+      ],
+      "bijlagen": [
+        {
+          "t": "RIONEDnieuws- April 2026",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/f980c038-ee0a-44ff-bc60-6706d72f243a"
+        }
+      ],
+      "content_checked": "2026-10-19T20:31:55+00:00"
     },
     "6fe37f09edd60f9ba3be322fbf13836c542fa10595839d54c197720bc1f30a19": {
       "title": "Handvatten voor kinderen in het hittebeleid",
@@ -65298,7 +65545,20 @@
       "doc_date": "2026-04-14",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Handvatten voor kinderen in het hittebeleid|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|14c9f418063d4eceac473088a40b6bad73778aa0eaf7349741d888e976eba810|Handvatten voor kinderen in het hittebeleid|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "14c9f418063d4eceac473088a40b6bad73778aa0eaf7349741d888e976eba810",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Handvatten voor kinderen in het hittebeleid"
+      ],
+      "bijlagen": [
+        {
+          "t": "Handvatten voor kinderen in het hittebeleid",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/82e0ec00-3ee3-4e40-a64b-a938d1118e28"
+        }
+      ],
+      "content_checked": "2026-10-19T20:31:57+00:00"
     },
     "7fc77deb5913ef61de36e055408d2fd46b37ea2454f4efb1d70da4336c3edf1a": {
       "title": "Méér WC's in uw gemeente",
@@ -65318,7 +65578,20 @@
       "doc_date": "2026-04-14",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Méér WC's in uw gemeente|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|e4e3b9bb02debe1998d4aa117e7ad528b900fc83c6d6fab0290b0326156ae85c|Méér WC's in uw gemeente|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "e4e3b9bb02debe1998d4aa117e7ad528b900fc83c6d6fab0290b0326156ae85c",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Het wc-tekort - hoe groot is het en hoe kunnen we het oplossen"
+      ],
+      "bijlagen": [
+        {
+          "t": "Het wc-tekort - hoe groot is het en hoe kunnen we het oplossen",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/d05c8944-7ebe-44ed-a885-8c73cec84b7d"
+        }
+      ],
+      "content_checked": "2026-10-19T20:31:59+00:00"
     },
     "6dbbeac90ba3f0b1ed7a42d988cdb9eb90c796a56bc72643275bdd1af0c2cc68": {
       "title": "Input Nederlandse Akkerbouw Vakbond (NAV) ten behoeve van formatieprocessen gemeenten",
@@ -65338,7 +65611,20 @@
       "doc_date": "2026-04-14",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Input Nederlandse Akkerbouw Vakbond (NAV) ten behoeve van formatieprocessen gemeenten|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|88ad34af4f124af10c4d3eafe17bc92b1e5abd2238550c173518ad1aa6623634|Input Nederlandse Akkerbouw Vakbond (NAV) ten behoeve van formatieprocessen gemeenten|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "88ad34af4f124af10c4d3eafe17bc92b1e5abd2238550c173518ad1aa6623634",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Input Nederlandse Akkerbouw Vakbond (NAV) ten behoeve van formatieprocessen gemeenten"
+      ],
+      "bijlagen": [
+        {
+          "t": "Input Nederlandse Akkerbouw Vakbond (NAV) ten behoeve van formatieprocessen gemeenten",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/ec7287cb-ccdb-41a0-9a59-00b2481dc8bc"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:01+00:00"
     },
     "4c253f29aaaa4b19c575addf6a8a2267a4c08590ea7c973e3b10309d17f94579": {
       "title": "Gezondheid, Duurzaamheid en Voeding",
@@ -65358,7 +65644,20 @@
       "doc_date": "2026-04-14",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Gezondheid, Duurzaamheid en Voeding|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|1fd3ae52c6b918c8edae844a3326e451ccf88154497617a5a269c0f67d0557dd|Gezondheid, Duurzaamheid en Voeding|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "1fd3ae52c6b918c8edae844a3326e451ccf88154497617a5a269c0f67d0557dd",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Voedseladvies Gemeenten 2026"
+      ],
+      "bijlagen": [
+        {
+          "t": "Voedseladvies Gemeenten 2026",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/053574d4-3665-44d7-9fbf-c7c8db3ab53d"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:03+00:00"
     },
     "307910e9a68ea4663b90d83a20e6c72e8860eccf1b31cc55cf60b5ff1c6e423d": {
       "title": "Inbreng MantelzorgNL voor collegevorming in uw gemeente",
@@ -65378,7 +65677,20 @@
       "doc_date": "2026-04-14",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Inbreng MantelzorgNL voor collegevorming in uw gemeente|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|0c189009bbd2c9196ec4e6b50bc3c531df429f1c4cc9cc35ddc5b26de006cde1|Inbreng MantelzorgNL voor collegevorming in uw gemeente|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "0c189009bbd2c9196ec4e6b50bc3c531df429f1c4cc9cc35ddc5b26de006cde1",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "MantelzorgNL inbreng tbv collegeprogramma 2026-2023"
+      ],
+      "bijlagen": [
+        {
+          "t": "MantelzorgNL inbreng tbv collegeprogramma 2026-2023",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/26ee2bcf-4615-4c52-8420-915fb822580c"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:04+00:00"
     },
     "3985e41dedf1c04c8249f600c9fab874ec9ffe4d213c950219517ea854bf3632": {
       "title": "Regionaal Mobiliteitsprogramma Noord-Holland Flevoland (RMP), de regionale uitvoeringsagenda’s duurzame mobiliteit, de financiële ondersteuning van gemeenten en de RMP-monitor.",
@@ -65398,7 +65710,20 @@
       "doc_date": "2026-04-13",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Regionaal Mobiliteitsprogramma Noord-Holland Flevoland (RMP), de regionale uitvoeringsagenda’s duurzame mobiliteit, de financiële ondersteuning van gemeenten en de RMP-monitor.|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|8a2ebb4785b741c0bf0e3c1ea54426170f47aea054f9ed3c68a7c274765ad1b5|Regionaal Mobiliteitsprogramma Noord-Holland Flevoland (RMP), de regionale uitvoeringsagenda’s duurzame mobiliteit, de financiële ondersteuning van gemeenten en de RMP-monitor.|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "8a2ebb4785b741c0bf0e3c1ea54426170f47aea054f9ed3c68a7c274765ad1b5",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Informeren nieuwe gemeenteraden over RMP en regionale uitvoeringsagenda duurzame mobiliteit"
+      ],
+      "bijlagen": [
+        {
+          "t": "Informeren nieuwe gemeenteraden over RMP en regionale uitvoeringsagenda duurzame mobiliteit",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/4bbab7fa-7595-465b-8fd3-72176c1fae9b"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:11+00:00"
     },
     "003ee8bc17913b6d8847ab18e216a33d231bd5f42e70df15d0e3223e7205fc3a": {
       "title": "Het recept voor positieve verandering in de buitenruimte",
@@ -65418,7 +65743,20 @@
       "doc_date": "2026-04-13",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Het recept voor positieve verandering in de buitenruimte|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|e2267f79611fc34389cae4eb7fa66e1e87e07a05b4dfd097bcdee066cb34e244|Het recept voor positieve verandering in de buitenruimte|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "e2267f79611fc34389cae4eb7fa66e1e87e07a05b4dfd097bcdee066cb34e244",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Advies Lab of Thought Gemeente Dijk en Waard"
+      ],
+      "bijlagen": [
+        {
+          "t": "Advies Lab of Thought Gemeente Dijk en Waard",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/c6bfe5cc-ec64-4208-843d-fdaff331fe0b"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:13+00:00"
     },
     "55b76e6596e6422d2cadcb109c66c352b7f4228228adf415919253d709e06bcb": {
       "title": "Waarom doet de gemeente niks tegen deze papierverspilling, die in strijd is met de keuze van de gemeente om de Nee-stickers af te schaffen?",
@@ -65438,7 +65776,20 @@
       "doc_date": "2026-04-10",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Waarom doet de gemeente niks tegen deze papierverspilling, die in strijd is met de keuze van de gemeente om de Nee-stickers af te schaffen?|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|11193ec3d504c4faf58abb1b1b9a49b41425316cc34d73530433119ccfc81b84|Waarom doet de gemeente niks tegen deze papierverspilling, die in strijd is met de keuze van de gemeente om de Nee-stickers af te schaffen?|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "11193ec3d504c4faf58abb1b1b9a49b41425316cc34d73530433119ccfc81b84",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Mail inwoner Waarom doet de gemeente niks tegen deze papierverspilling (Geanonimiseerd)"
+      ],
+      "bijlagen": [
+        {
+          "t": "Mail inwoner Waarom doet de gemeente niks tegen deze papierverspilling (Geanonimiseerd)",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/86f78939-e123-4f2a-9103-164552fc1e0a"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:14+00:00"
     },
     "7a66e6512b2653d4f46501610d11b4977252335820eedbd65916367e61474670": {
       "title": "Beleid interbestuurlijk toezicht 2026-2029",
@@ -65458,7 +65809,20 @@
       "doc_date": "2026-04-10",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Beleid interbestuurlijk toezicht 2026-2029|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|26b9c6612a4ca82f29671d200c58adeb9232bf02fbad81b58a1af33858a3e52a|Beleid interbestuurlijk toezicht 2026-2029|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "26b9c6612a4ca82f29671d200c58adeb9232bf02fbad81b58a1af33858a3e52a",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Beleid interbestuurlijk toezicht 2026-2029"
+      ],
+      "bijlagen": [
+        {
+          "t": "Beleid interbestuurlijk toezicht 2026-2029",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/008ad30d-e506-453d-a2ba-06794f1d6cb6"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:16+00:00"
     },
     "1be746eb1622dd0e60a7eb394dd4b69ab7b312905c490f62561ae6f2853cacf4": {
       "title": "Brief kennemerwaard: Felicitatie en Bibliotheek Kennemerwaard in het Coalitieakoord",
@@ -65478,7 +65842,20 @@
       "doc_date": "2026-04-10",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Brief kennemerwaard: Felicitatie en Bibliotheek Kennemerwaard in het Coalitieakoord|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|08bf86040ccab3eff75bbd74686deee4da7cfb6a2093cd951b56b253916f6cbf|Brief kennemerwaard: Felicitatie en Bibliotheek Kennemerwaard in het Coalitieakoord|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "08bf86040ccab3eff75bbd74686deee4da7cfb6a2093cd951b56b253916f6cbf",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Brief Bibliotheek Kennemerwaard - Felicitatie en veranderingen WSOB 2027"
+      ],
+      "bijlagen": [
+        {
+          "t": "Brief Bibliotheek Kennemerwaard - Felicitatie en veranderingen WSOB 2027",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/dbceb674-a1d8-47cf-8de9-7eba4e683657"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:18+00:00"
     },
     "1d71c8b4870fc4a9c5068861f190e32129ff3f68e5b597eabf5b6332e2769a7f": {
       "title": "Brief interbestuurlijk toezicht Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen",
@@ -65498,7 +65875,20 @@
       "doc_date": "2026-04-09",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Brief interbestuurlijk toezicht Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|e0de8e03dc463b19945ee80d9a468d5877f32e208ff77cae422a14cb45e78390|Brief interbestuurlijk toezicht Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "e0de8e03dc463b19945ee80d9a468d5877f32e208ff77cae422a14cb45e78390",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Brief interbestuurlijk toezicht Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen"
+      ],
+      "bijlagen": [
+        {
+          "t": "Brief interbestuurlijk toezicht Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/92af39f0-5df4-43b3-9af4-d039c4f2b322"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:22+00:00"
     },
     "4711ad810394f05ebfd441a5af30f5acd7109d383865dd7c8c4e38dcbe94116a": {
       "title": "Brief Provincie NH Belang van de woningzoekende bij coalitieakkoord",
@@ -65518,7 +65908,20 @@
       "doc_date": "2026-04-09",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Brief Provincie NH Belang van de woningzoekende bij coalitieakkoord|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|1202d42825d4d26596e83a9e1ddddf123325e76346f6f00a81ef7329871bee5d|Brief Provincie NH Belang van de woningzoekende bij coalitieakkoord|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "1202d42825d4d26596e83a9e1ddddf123325e76346f6f00a81ef7329871bee5d",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Belang van de woningzoekende bij coalitieakkoord"
+      ],
+      "bijlagen": [
+        {
+          "t": "Belang van de woningzoekende bij coalitieakkoord",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/2404e71e-1667-4c65-8d67-1a167ec9762e"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:24+00:00"
     },
     "2a17a20bda7bfddd8e71fda86a4a9998364021254761ba8cd5ce38e4a8040b54": {
       "title": "Nieuwe Modelhuisvestingsverordening en Wet versterking regie volkshuisvesting",
@@ -65538,7 +65941,40 @@
       "doc_date": "2026-04-09",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Nieuwe Modelhuisvestingsverordening en Wet versterking regie volkshuisvesting|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|cae17a3c67221c67c666bc432d38e7f75e9324211780423aeb96e6c0cb870641|Nieuwe Modelhuisvestingsverordening en Wet versterking regie volkshuisvesting|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "cae17a3c67221c67c666bc432d38e7f75e9324211780423aeb96e6c0cb870641",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "VNG - Nieuwe Modelhuisvestingsverordening en Wet versterking regie volkshuisvesting",
+        "bijlage_1-handreiking-huisvestingsverordening-maart-2026",
+        "bijlage_2-modelhuisvestingsverordening-2026-maart-2026",
+        "bijlage_3-toelichting-modelhuisvestingsverordening-maart-2026",
+        "bijlage-4-implementatiehandleiding-modelhuisvestingsverordening-maart-2026"
+      ],
+      "bijlagen": [
+        {
+          "t": "VNG - Nieuwe Modelhuisvestingsverordening en Wet versterking regie volkshuisvesting",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/bd3a7bb1-93d9-45a8-a26d-5ef8241e664c"
+        },
+        {
+          "t": "bijlage_1-handreiking-huisvestingsverordening-maart-2026",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/8f0e1738-8a76-4061-bcf0-12ba4c1bc781"
+        },
+        {
+          "t": "bijlage_2-modelhuisvestingsverordening-2026-maart-2026",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/b4aef8c5-6a2a-4bfd-9abd-f8b847ca5984"
+        },
+        {
+          "t": "bijlage_3-toelichting-modelhuisvestingsverordening-maart-2026",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/e19af5af-cad0-4ec8-a0d4-5fb6dc73279f"
+        },
+        {
+          "t": "bijlage-4-implementatiehandleiding-modelhuisvestingsverordening-maart-2026",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/9cff4a09-3ee8-459f-a27d-bde7da2535e7"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:35+00:00"
     },
     "0e3da1cadd4d4e0c85c09c8073e5706655ef7694bf885ac3e7666bae57c61e4a": {
       "title": "CAR Jaarverslag 2025",
@@ -65558,7 +65994,20 @@
       "doc_date": "2026-04-09",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||CAR Jaarverslag 2025|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|6fa82116c7d1547a14f0e3805780c4ed27c04094a26a2ecc19b71f1f9a5a229e|CAR Jaarverslag 2025|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "6fa82116c7d1547a14f0e3805780c4ed27c04094a26a2ecc19b71f1f9a5a229e",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "CAR Jaarverslag 2025"
+      ],
+      "bijlagen": [
+        {
+          "t": "CAR Jaarverslag 2025",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/a1e053d4-8232-4b60-9a51-540355bfec75"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:36+00:00"
     },
     "a11c242ac2bc48a1ba21f3a2c4271cfa73e4d62fa6ee2ab25905bf1d021bd36a": {
       "title": "Felicitatiebrief raadsleden landelijk definitief - Inclusie Nederland",
@@ -65578,7 +66027,20 @@
       "doc_date": "2026-04-09",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Felicitatiebrief raadsleden landelijk definitief - Inclusie Nederland|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|6a92e9d99ca9d60924c332ca2bb3bfb63387ce1b0efa929fdc515074db0c2ea8|Felicitatiebrief raadsleden landelijk definitief - Inclusie Nederland|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "6a92e9d99ca9d60924c332ca2bb3bfb63387ce1b0efa929fdc515074db0c2ea8",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Felicitatiebrief raadsleden landelijk definitief - inclusie nederland"
+      ],
+      "bijlagen": [
+        {
+          "t": "Felicitatiebrief raadsleden landelijk definitief - inclusie nederland",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/80383410-ecbc-4f97-b178-b87d77d471d0"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:38+00:00"
     },
     "312e32bcdf9f2d74d9bcf86b8fc5a5047719bf6b266cb2d5c8a4465e43dcf860": {
       "title": "Oproep voor steun kinderen die thuis geweld meemaken",
@@ -65598,7 +66060,20 @@
       "doc_date": "2026-04-09",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Oproep voor steun kinderen die thuis geweld meemaken|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|04e528f75b46eb4f300ee9698e29a1bed6afdc74e65d7afa71b5cf1b82bf881f|Oproep voor steun kinderen die thuis geweld meemaken|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "04e528f75b46eb4f300ee9698e29a1bed6afdc74e65d7afa71b5cf1b82bf881f",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Oproep steun voor kinderen die thuis geweld meemaken"
+      ],
+      "bijlagen": [
+        {
+          "t": "Oproep steun voor kinderen die thuis geweld meemaken",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/2d5fc8de-bb48-422f-88cc-df072295d07f"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:39+00:00"
     },
     "304bf342e31cfb99511541d86c8a62f2407c73305057cf5b9c7d1baf795328cb": {
       "title": "Aanbiedingsbrief en Brochure Governance in NHN - Samenwerken in gemeenschappelijke regelingen",
@@ -65618,7 +66093,25 @@
       "doc_date": "2026-04-09",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Aanbiedingsbrief en Brochure Governance in NHN - Samenwerken in gemeenschappelijke regelingen|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|fac698214e508685b4982fdccf27b765920981bc7af3fb2cee6c6c6a357fbb05|Aanbiedingsbrief en Brochure Governance in NHN - Samenwerken in gemeenschappelijke regelingen|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "fac698214e508685b4982fdccf27b765920981bc7af3fb2cee6c6c6a357fbb05",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Aanbiedingsbrief-Regietafel-NHN-brochure-april-2026",
+        "Brochure Governance gemeenschappelijke regelingen NHN - februari 2026"
+      ],
+      "bijlagen": [
+        {
+          "t": "Aanbiedingsbrief-Regietafel-NHN-brochure-april-2026",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/1ad65171-0aab-41ce-80cc-cfadb5084cc0"
+        },
+        {
+          "t": "Brochure Governance gemeenschappelijke regelingen NHN - februari 2026",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/7e7fc16e-e746-46ba-9ec1-3afd4d32de3d"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:42+00:00"
     },
     "c03b363690616f4564d28081835e47f4d9ec16bdfc362c8e902c27de2840bdd4": {
       "title": "Coffeeshopbeleid en schaarse vergunningen",
@@ -65638,7 +66131,20 @@
       "doc_date": "2026-04-09",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Coffeeshopbeleid en schaarse vergunningen|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|f069ba1650d7a8a083e54867de1fe10c06072f92194d9e1c9ecd117575654cde|Coffeeshopbeleid en schaarse vergunningen|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "f069ba1650d7a8a083e54867de1fe10c06072f92194d9e1c9ecd117575654cde",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Coffeeshopbeleid en schaarse vergunningen"
+      ],
+      "bijlagen": [
+        {
+          "t": "Coffeeshopbeleid en schaarse vergunningen",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/5859e0e2-a61e-4112-85ca-b34fa0c97ff1"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:44+00:00"
     },
     "99af73b2c8e00d47e414ba2d7ad4a9831a3437052675d8a6a121619f11010d14": {
       "title": "UNICEF brief aan fractievoorzitters",
@@ -65658,7 +66164,20 @@
       "doc_date": "2026-04-09",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||UNICEF brief aan fractievoorzitters|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|86697b481c99f61bb019abdde7f2005489b6cdc3511f117ff7e5d8a5815548a5|UNICEF brief aan fractievoorzitters|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "86697b481c99f61bb019abdde7f2005489b6cdc3511f117ff7e5d8a5815548a5",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Brief aan Nederlandse Gemeenten - UNICEF NL"
+      ],
+      "bijlagen": [
+        {
+          "t": "Brief aan Nederlandse Gemeenten - UNICEF NL",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/d783a3c9-b48a-4eff-bf6e-d2fe61c04342"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:48+00:00"
     },
     "c19b98645fde7716df4aae2cc572f0ef63a52441d2d34ea9ea1c0daadd12eb59": {
       "title": "Uitnodiging Het is weer tijd voor Samen Slimmer 2026 - Kunstfort Vijfhoven op 7 mei",
@@ -65678,7 +66197,20 @@
       "doc_date": "2026-04-09",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Uitnodiging Het is weer tijd voor Samen Slimmer 2026 - Kunstfort Vijfhoven op 7 mei|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|33334b64809a5772be8113e8bd3f46670bb1bc99cbdd38cd9d7cefbc2d695f9b|Uitnodiging Het is weer tijd voor Samen Slimmer 2026 - Kunstfort Vijfhoven op 7 mei|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "33334b64809a5772be8113e8bd3f46670bb1bc99cbdd38cd9d7cefbc2d695f9b",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Uitnodiging Het is weer tijd voor Samen Slimmer 2026 - Kunstfort Vijfhoven op 7 mei"
+      ],
+      "bijlagen": [
+        {
+          "t": "Uitnodiging Het is weer tijd voor Samen Slimmer 2026 - Kunstfort Vijfhoven op 7 mei",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/4b1e063d-1bd7-49c6-bb3e-abcf93a5750d"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:50+00:00"
     },
     "993cfe1ddc858f2f562f77a2ce4cb12491d930f261b4821f0c4695dc8c6f1d75": {
       "title": "Mail Jeugdfonds Sport & Cultuur",
@@ -65698,7 +66230,25 @@
       "doc_date": "2026-04-09",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Mail Jeugdfonds Sport & Cultuur|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|53bf7a445cfdabb0b9a1a5a70035f9231e23f24f42cd3d40752e6679327ed17a|Mail Jeugdfonds Sport & Cultuur|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "53bf7a445cfdabb0b9a1a5a70035f9231e23f24f42cd3d40752e6679327ed17a",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Mail Jeugdfonds Sport & Cultuur",
+        "Jeugdfonds Sport Cultuur - Dijk en Waard"
+      ],
+      "bijlagen": [
+        {
+          "t": "Mail Jeugdfonds Sport & Cultuur",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/d492688e-e4ce-4d2e-a6f7-eb940a1edcf2"
+        },
+        {
+          "t": "Jeugdfonds Sport Cultuur - Dijk en Waard",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/515275a6-6966-4232-9bec-fbe7f690c0a6"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:55+00:00"
     },
     "7781986e39058f7bb84fa1c0a04830755a1bf1f1b64a16a09178e55bf596b3a1": {
       "title": "Formatiebrief: jongeren en lokale democratie",
@@ -65718,7 +66268,20 @@
       "doc_date": "2026-04-08",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Formatiebrief: jongeren en lokale democratie|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|02e443057f265fc9ae7caa4ef97feaf4b379e7ef1f59d5fddd296ec023ffb807|Formatiebrief: jongeren en lokale democratie|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "02e443057f265fc9ae7caa4ef97feaf4b379e7ef1f59d5fddd296ec023ffb807",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Formatiebrief Jongeren en de lokale democratie - Tienskip"
+      ],
+      "bijlagen": [
+        {
+          "t": "Formatiebrief Jongeren en de lokale democratie - Tienskip",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/985b67db-d608-4af6-bd51-9931c845f8d9"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:56+00:00"
     },
     "9be3093da86579b76f82da3ecc5becced7602e7fc55c93e97d4df9d8014735ed": {
       "title": "Aandacht voor Smartphonevrij Opgroeien in uw gemeente - Smartphonevrij Opgroeien Nederland",
@@ -65738,7 +66301,20 @@
       "doc_date": "2026-04-08",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Aandacht voor Smartphonevrij Opgroeien in uw gemeente - Smartphonevrij Opgroeien Nederland|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|bea13b0c6566d1b054d9398a53511b1a077f0dc90cda4029ed8d1fca599e1887|Aandacht voor Smartphonevrij Opgroeien in uw gemeente - Smartphonevrij Opgroeien Nederland|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "bea13b0c6566d1b054d9398a53511b1a077f0dc90cda4029ed8d1fca599e1887",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Smartphonevrij Opgroeien_Gemeentes.docx"
+      ],
+      "bijlagen": [
+        {
+          "t": "Smartphonevrij Opgroeien_Gemeentes.docx",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/98329c0b-d1c8-4c8b-992c-ac7dbcf669c3"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:00+00:00"
     },
     "c6a036ffe2819f85f78cc2a4d00c9c4558f6678c328e4f3fdaf86176895fbb26": {
       "title": "Aandacht voor slachtofferzorg – Slachtofferhulp",
@@ -65758,7 +66334,25 @@
       "doc_date": "2026-04-08",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Aandacht voor slachtofferzorg – Slachtofferhulp|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|d42d06c349b012a123add43d3b07fbedc175fe19614d634f52b23b5c8972d654|Aandacht voor slachtofferzorg – Slachtofferhulp|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "d42d06c349b012a123add43d3b07fbedc175fe19614d634f52b23b5c8972d654",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Brief gemeenteraad - Slachtofferhulp Nederland",
+        "Infographic Slachtofferhulp 2025"
+      ],
+      "bijlagen": [
+        {
+          "t": "Brief gemeenteraad - Slachtofferhulp Nederland",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/d567998e-038f-4dea-8894-a25105d497c6"
+        },
+        {
+          "t": "Infographic Slachtofferhulp 2025",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/ed586853-277e-4fa6-bd85-bfb4c82a8f00"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:02+00:00"
     },
     "fb727e7ad631add31e350b7774b9f43821bb8573997f606c36c7007539ac3a31": {
       "title": "Brief aan de formateurs en de formerende partijen - Federatie ruimtelijke kwaliteit",
@@ -65778,7 +66372,25 @@
       "doc_date": "2026-04-08",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Brief aan de formateurs en de formerende partijen - Federatie ruimtelijke kwaliteit|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|0d8464341648ef6c08d7378c11e2f36155a6dae37a640faa657472b1af94ae52|Brief aan de formateurs en de formerende partijen - Federatie ruimtelijke kwaliteit|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "0d8464341648ef6c08d7378c11e2f36155a6dae37a640faa657472b1af94ae52",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Brief over de gemeentelijke aanpak van grote opgaven",
+        "FRK_Kwaliteitsadvisering"
+      ],
+      "bijlagen": [
+        {
+          "t": "Brief over de gemeentelijke aanpak van grote opgaven",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/a4535748-e197-4ee6-b2a8-8a24e54a45ea"
+        },
+        {
+          "t": "FRK_Kwaliteitsadvisering",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/da452c38-1625-4015-9c93-86fa9e828215"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:04+00:00"
     },
     "8834d5af4dac699cbc84cdfc9d238596b5bfdedc842e085e9295eb979ae45312": {
       "title": "Raadsleden gefeliciteerd! - samen bouwen we aan het welzijn in de gemeente – Welschap Socius",
@@ -65798,7 +66410,20 @@
       "doc_date": "2026-04-08",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raadsleden gefeliciteerd! - samen bouwen we aan het welzijn in de gemeente – Welschap Socius|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|297c4bdc5072ad6d4da74ed37ef18d5f693b80097d7fdb06b2f61e96bb66a3d0|Raadsleden gefeliciteerd! - samen bouwen we aan het welzijn in de gemeente – Welschap Socius|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "297c4bdc5072ad6d4da74ed37ef18d5f693b80097d7fdb06b2f61e96bb66a3d0",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Raadsleden gefeliciteerd! - samen bouwen we aan het welzijn in de gemeente"
+      ],
+      "bijlagen": [
+        {
+          "t": "Raadsleden gefeliciteerd! - samen bouwen we aan het welzijn in de gemeente",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/8e14d4e1-5295-475c-aa02-67e5238e732a"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:06+00:00"
     },
     "39f60757cefe2fcb51b8fb6203df1f47788d634aa785ad39d9d6ea7a6cefb99a": {
       "title": "Oproep Eén tegen Eenzaamheid - Het kernteam van de Nationale Coalitie tegen Eenzaamheid",
@@ -65818,7 +66443,20 @@
       "doc_date": "2026-04-08",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Oproep Eén tegen Eenzaamheid - Het kernteam van de Nationale Coalitie tegen Eenzaamheid|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|cc42d5eb30fa6afb5ad6ff49a55fc6b6eb77e1e60e9bcedeb7675390c5328a1c|Oproep Eén tegen Eenzaamheid - Het kernteam van de Nationale Coalitie tegen Eenzaamheid|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "cc42d5eb30fa6afb5ad6ff49a55fc6b6eb77e1e60e9bcedeb7675390c5328a1c",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Oproep - Versterk de lokale aanpak op eenzaamheid"
+      ],
+      "bijlagen": [
+        {
+          "t": "Oproep - Versterk de lokale aanpak op eenzaamheid",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/4b9c871f-651a-47a1-a04d-2396503a4a9b"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:07+00:00"
     },
     "52f8a142f2939aa208d44c806054bde8cfbac5dc052e9ee3fecd8ba8328ebd97": {
       "title": "Begrotingscirculaire 2027 – 2029",
@@ -65838,7 +66476,20 @@
       "doc_date": "2026-04-07",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Begrotingscirculaire 2027 – 2029|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|79e3497db0d9964fbb3f87329cf11e0f19076661072192ea3117369e5bdd0015|Begrotingscirculaire 2027 – 2029|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "79e3497db0d9964fbb3f87329cf11e0f19076661072192ea3117369e5bdd0015",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Begrotingscirculaire 2027 - 2029"
+      ],
+      "bijlagen": [
+        {
+          "t": "Begrotingscirculaire 2027 - 2029",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/8a89409f-1363-43b1-98a7-5eee71daf2bc"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:11+00:00"
     },
     "2dac7b674114bdcbd350e64d39d10ed10a5b60101cb67b067c445f76617f9de8": {
       "title": "Eindverslag informateur Dijk en Waard",
@@ -65858,7 +66509,20 @@
       "doc_date": "2026-04-07",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Eindverslag informateur Dijk en Waard|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|49fe4922af54f80eda608d931f42fa7475b4719f82507c5ebc5403a8cdd37f3e|Eindverslag informateur Dijk en Waard|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "49fe4922af54f80eda608d931f42fa7475b4719f82507c5ebc5403a8cdd37f3e",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Eindverslag informateur Dijk en Waard"
+      ],
+      "bijlagen": [
+        {
+          "t": "Eindverslag informateur Dijk en Waard",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/de044752-74cd-45fc-a1bb-c9b502db9053"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:12+00:00"
     },
     "4b4311df9ad4ccb0e120bf8a3aebfa4a6a41cda9cb9ba57c3a013750be6be085": {
       "title": "Informatie over grootschalige shortstay-huisvesting - Stichting Belangenbehartiging Arbeidsmigratie",
@@ -65878,7 +66542,20 @@
       "doc_date": "2026-04-05",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Informatie over grootschalige shortstay-huisvesting - Stichting Belangenbehartiging Arbeidsmigratie|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|3164f4c81cfdf9fd3f2f0ff3a7e1d0b7292c4cfce1dfd7b0dd4d7d17975ec8f7|Informatie over grootschalige shortstay-huisvesting - Stichting Belangenbehartiging Arbeidsmigratie|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "3164f4c81cfdf9fd3f2f0ff3a7e1d0b7292c4cfce1dfd7b0dd4d7d17975ec8f7",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Waarom grootschalige shortstay-huisvesting geen oplossing is"
+      ],
+      "bijlagen": [
+        {
+          "t": "Waarom grootschalige shortstay-huisvesting geen oplossing is",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/c71c9fee-d9ce-4250-b133-180552ca5ecb"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:13+00:00"
     },
     "1b14dd9d2c06e7783c5e232b2c0f7cd0f19f33a9e1ba9ac0f5eebd7d91b98056": {
       "title": "Uitnodiging voor webinar over SUN-noodhulp",
@@ -65898,7 +66575,20 @@
       "doc_date": "2026-04-03",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Uitnodiging voor webinar over SUN-noodhulp|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|4be47a0f0e457e1cbd09397e3777fbb2383d3b6fdfc48f899c9cde63d55672d5|Uitnodiging voor webinar over SUN-noodhulp|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "4be47a0f0e457e1cbd09397e3777fbb2383d3b6fdfc48f899c9cde63d55672d5",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Uitnodiging voor webinar over SUN-noodhulp"
+      ],
+      "bijlagen": [
+        {
+          "t": "Uitnodiging voor webinar over SUN-noodhulp",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/81607ec5-242a-4f3f-a248-027dac82bb2d"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:14+00:00"
     },
     "91e3b85a5b5be8b92c0219faeb1ce96c4adbece90a810f68167945169d7d2b5c": {
       "title": "Reactie op artikel “Gemeenteraad Dijk en Waard stemt voor meer uitgaansgelegenheden en een bruisender Stadshart”",
@@ -65918,7 +66608,20 @@
       "doc_date": "2026-04-03",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Reactie op artikel “Gemeenteraad Dijk en Waard stemt voor meer uitgaansgelegenheden en een bruisender Stadshart”|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|2ec3608f89bdeda02cfe68819ca1fa10bca06ccc15b06d48c38c5095c6b71e2d|Reactie op artikel “Gemeenteraad Dijk en Waard stemt voor meer uitgaansgelegenheden en een bruisender Stadshart”|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "2ec3608f89bdeda02cfe68819ca1fa10bca06ccc15b06d48c38c5095c6b71e2d",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Inwoner - Reactie op artikel “Gemeenteraad Dijk en Waard stemt voor meer uitgaansgelegenheden en een bruisender Stadshart” (geanonimiseerd)"
+      ],
+      "bijlagen": [
+        {
+          "t": "Inwoner - Reactie op artikel “Gemeenteraad Dijk en Waard stemt voor meer uitgaansgelegenheden en een bruisender Stadshart” (geanonimiseerd)",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/9e274ba8-690b-4095-88dc-4be089b15ceb"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:15+00:00"
     },
     "173b4f8489d2655d4e24552b3256073e02bba87da3a77eefe2423cafcac5b91a": {
       "title": "Inwoner: Reactie op artikel “Gemeenteraad Dijk en Waard stemt voor meer uitgaansgelegenheden en een bruisender Stadshart”",
@@ -65938,7 +66641,20 @@
       "doc_date": "2026-04-03",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Inwoner: Reactie op artikel “Gemeenteraad Dijk en Waard stemt voor meer uitgaansgelegenheden en een bruisender Stadshart”|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|22ac604f5f6f69a7a4ee855ced1a20625661e07cb8ee44e001ee5bd0bbbd10c4|Inwoner: Reactie op artikel “Gemeenteraad Dijk en Waard stemt voor meer uitgaansgelegenheden en een bruisender Stadshart”|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "22ac604f5f6f69a7a4ee855ced1a20625661e07cb8ee44e001ee5bd0bbbd10c4",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Reactie op artikel “Gemeenteraad Dijk en Waard stemt voor meer uitgaansgelegenheden en een bruisender Stadshart”"
+      ],
+      "bijlagen": [
+        {
+          "t": "Reactie op artikel “Gemeenteraad Dijk en Waard stemt voor meer uitgaansgelegenheden en een bruisender Stadshart”",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/a8cb5aaa-d9a1-4252-8984-4bdcb2c3b1a2"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:16+00:00"
     },
     "5ec5d4390277b0d9a69456561ff204de6e3db3f0ac0d8e588162e3a398dcd04d": {
       "title": "Sportvissen: zoveel meer dan vangen!",
@@ -65958,7 +66674,20 @@
       "doc_date": "2026-04-03",
       "doc_date_label": "registratiedatum",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Sportvissen: zoveel meer dan vangen!|Informatie van derden"
+      "kw_sig": "4f53cda18c2b|322c243c074577e4a350a1787b2cb2fbd74b7b96abfa3aa9c2581f31696f0fd4|Sportvissen: zoveel meer dan vangen!|Informatie van derden",
+      "missing_count": 0,
+      "text_hash": "322c243c074577e4a350a1787b2cb2fbd74b7b96abfa3aa9c2581f31696f0fd4",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Sportvissen van waarde in jouw gemeente"
+      ],
+      "bijlagen": [
+        {
+          "t": "Sportvissen van waarde in jouw gemeente",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/4bc5bf29-5eca-4fbd-96c3-e02a2cd5590f"
+        }
+      ],
+      "content_checked": "2026-10-19T20:33:18+00:00"
     },
     "db96ebcfb62d0a9112b578f6142d5aeeb3c98b2407fbebc594b87e40964c584a": {
       "title": "Kunnen inwoners in uw gemeente hun recht halen? – Kwartiermaker sociaaljuridische en financiële hulp",
@@ -75695,7 +76424,20 @@
       "doc_date_label": "registratiedatum",
       "portefeuillehouder": "Ester Leibbrand",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Afdoening toezegging Uitvoering input pilot dorps- en wijkgericht werken|Collegeberichten"
+      "kw_sig": "4f53cda18c2b|d3747951075cc5cd649245e4f4232f4261fcb8e8a276f8cc228b63ab5ba2e6e8|Afdoening toezegging Uitvoering input pilot dorps- en wijkgericht werken|Collegeberichten",
+      "missing_count": 0,
+      "text_hash": "d3747951075cc5cd649245e4f4232f4261fcb8e8a276f8cc228b63ab5ba2e6e8",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht Afdoening toezegging Uitvoering input pilot dorps- en wijkgericht werken"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht Afdoening toezegging Uitvoering input pilot dorps- en wijkgericht werken",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/ee2671d3-ed3b-465f-88af-3049b043ef09"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:06+00:00"
     },
     "e94ccf8d02edb645840fe8a04ae4fdaaee13a4bc5fd6a6c05e6e5dbc4be2ca01": {
       "title": "Uitbreidingsbehoefte JGZ en vervolgopgave Dijk en Waard",
@@ -75716,7 +76458,20 @@
       "doc_date_label": "registratiedatum",
       "portefeuillehouder": "Gerard Rep",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Uitbreidingsbehoefte JGZ en vervolgopgave Dijk en Waard|Collegeberichten"
+      "kw_sig": "4f53cda18c2b|96a309b8edc0d65de29dccc149af6c1558e93ec539811c7d343fec1e62020dfb|Uitbreidingsbehoefte JGZ en vervolgopgave Dijk en Waard|Collegeberichten",
+      "missing_count": 0,
+      "text_hash": "96a309b8edc0d65de29dccc149af6c1558e93ec539811c7d343fec1e62020dfb",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht Uitbreidingsbehoefte JGZ en vervolgopgave Dijk en Waard"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht Uitbreidingsbehoefte JGZ en vervolgopgave Dijk en Waard",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/107c7019-2e5e-4635-9e98-a4ee133398a7"
+        }
+      ],
+      "content_checked": "2026-10-19T20:32:10+00:00"
     },
     "263669aebc89f883b69b58ce92f2b658e6355fc1ace781072a8f59347c1b2511": {
       "title": "Voorlopig Ontwerp Inrichtingsplan Oostrand NZS",
@@ -89311,22 +90066,22 @@
   "status": {
     "dijkenwaard": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-19T20:00:54+00:00",
+        "checked": "2026-10-19T20:30:47+00:00",
         "ok": true,
         "count": 152,
         "new": 0,
         "note": "Laatste 30 dagen: 152 van 152 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-19T20:01:08+00:00",
-        "ok": true,
-        "count": 10,
+        "checked": "2026-10-19T20:30:56+00:00",
+        "ok": false,
+        "count": 9,
         "new": 0,
-        "error": null,
-        "note": "10 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-20 t/m 2026-12-03 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
+        "error": "Commissie Raadzaal 2026-10-28: 403 Client Error: Forbidden for url: https://dijkenwaard.bes",
+        "note": "9 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-20 t/m 2026-12-03 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-19T20:01:17+00:00",
+        "checked": "2026-10-19T20:31:06+00:00",
         "ok": true,
         "count": 434,
         "new": 0,
@@ -89334,14 +90089,14 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Collegeberichten 676, Informatie van derden 1169, Informatie van de Rekenkamer 12, Raadsvragen 649, Amendementen 142, Moties 249, Toezeggingen 147, Overige acties raad 3, Besluitenlijsten B&W 227, Gemeenschappelijke regelingen 114, Regels en afspraken 19). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-19T20:01:18+00:00",
+        "checked": "2026-10-19T20:31:07+00:00",
         "ok": true,
         "count": 12,
         "new": 0,
         "note": "Het nieuwsoverzicht van dijkenwaard.nl (de nieuwste berichten, met datum). De gemeente heeft geen nieuwsfeed."
       },
       "In de media": {
-        "checked": "2026-10-19T20:01:20+00:00",
+        "checked": "2026-10-19T20:31:09+00:00",
         "ok": true,
         "count": 19,
         "new": 0,
@@ -89350,19 +90105,19 @@
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-19T20:03:30+00:00",
+        "checked": "2026-10-19T20:33:18+00:00",
         "ok": true,
         "count": 50,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (0 pdf), 1012 gevolgd (alle gemeenten), 412 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "50 documenten gecontroleerd (0 pdf), 1012 gevolgd (alle gemeenten), 362 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-19T20:03:30+00:00",
+        "checked": "2026-10-19T20:33:18+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-19T20:03:30+00:00",
+        "checked": "2026-10-19T20:33:18+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -89392,7 +90147,7 @@
         "label": "dinsdag 8 december 2026"
       },
       "86b9c17c-db3a-41a8-ad53-14af7b0e86ad": {
-        "checked": "2026-10-19T19:32:05+00:00",
+        "checked": "2026-10-19T20:30:47+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-11-12",
@@ -89400,7 +90155,7 @@
         "documents": 0
       },
       "69fe915e-439f-4907-91f2-4569cc84e335": {
-        "checked": "2026-10-19T19:32:05+00:00",
+        "checked": "2026-10-19T20:30:47+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -89408,7 +90163,7 @@
         "documents": 15
       },
       "196e4f3f-725c-4eab-9d43-790273c10379": {
-        "checked": "2026-10-19T19:32:05+00:00",
+        "checked": "2026-10-19T20:30:47+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-10-22",
@@ -89416,7 +90171,7 @@
         "documents": 0
       },
       "ff9d067a-fe48-4dcd-9ac4-87e2f196b690": {
-        "checked": "2026-10-19T19:32:05+00:00",
+        "checked": "2026-10-19T20:30:47+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-10-21",
@@ -89526,7 +90281,7 @@
         "documents": 0
       },
       "0779ec56-65a7-4439-a468-37dbdce4cb47": {
-        "checked": "2026-10-19T19:01:59+00:00",
+        "checked": "2026-10-19T20:30:47+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-24",
@@ -89534,7 +90289,7 @@
         "documents": 0
       },
       "c2b96a6d-9b2f-47f2-af33-02e88f8dd97f": {
-        "checked": "2026-10-19T19:01:59+00:00",
+        "checked": "2026-10-19T20:30:47+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-03",
@@ -89542,7 +90297,7 @@
         "documents": 6
       },
       "f0eb8367-beed-4ac2-bca0-2c7084edce9b": {
-        "checked": "2026-10-19T19:01:59+00:00",
+        "checked": "2026-10-19T20:30:47+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-10-28",
@@ -89550,7 +90305,7 @@
         "documents": 0
       },
       "f78a8961-2113-4c1d-a986-80fe26f4e192": {
-        "checked": "2026-10-19T19:01:59+00:00",
+        "checked": "2026-10-19T20:30:47+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-10-27",
@@ -89558,7 +90313,7 @@
         "documents": 5
       },
       "cb81d999-2d60-47ee-b751-bc1ff41054d8": {
-        "checked": "2026-10-19T19:01:59+00:00",
+        "checked": "2026-10-19T20:30:47+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-09-22",
@@ -89566,7 +90321,7 @@
         "documents": 41
       },
       "7c8cb824-9061-46f8-8c74-ac73d6abf9e7": {
-        "checked": "2026-10-19T19:01:59+00:00",
+        "checked": "2026-10-19T20:30:47+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-09-01",
