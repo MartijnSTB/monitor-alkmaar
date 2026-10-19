@@ -56308,7 +56308,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Maarten Poorter",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Vuurwerk als onderdeel van de Veiligheidsmonitor|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|ec0cd9c2cf8abdf14d4d2e56e3ade1bb8783c81e40433ecca696a87f9c300b1e|Vuurwerk als onderdeel van de Veiligheidsmonitor|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "ec0cd9c2cf8abdf14d4d2e56e3ade1bb8783c81e40433ecca696a87f9c300b1e",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:01+00:00"
     },
     "b42e33f7f6fdfd6a70e139f914aaacd09f1f37664fed04166da7e596254dab5e": {
       "title": "Met het Aanjaagteam Wonen en Zorg om tafel gaan om aanhaken te bekijken",
@@ -56327,7 +56333,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Maarten Poorter",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Met het Aanjaagteam Wonen en Zorg om tafel gaan om aanhaken te bekijken|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|aa8c622ffb5a377757b74668f5289655a9d54b7b9fb7ab2276bbcd162b906931|Met het Aanjaagteam Wonen en Zorg om tafel gaan om aanhaken te bekijken|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "aa8c622ffb5a377757b74668f5289655a9d54b7b9fb7ab2276bbcd162b906931",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:02+00:00"
     },
     "52b4a0a59eec27acbf12f73c34892199f252f43bee7f6903380961e8f44a6f29": {
       "title": "Onderzoek naar de parkeerdruk",
@@ -56346,7 +56358,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "John Does",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Onderzoek naar de parkeerdruk|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|94eace8eb549a75a27126c49cb1142f5c5dc6fd5c34ba55da2d23253a455c1c3|Onderzoek naar de parkeerdruk|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "94eace8eb549a75a27126c49cb1142f5c5dc6fd5c34ba55da2d23253a455c1c3",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht Herschikking Sportpark De Kabel Heerhugowaard 28 mei 2024"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht Herschikking Sportpark De Kabel Heerhugowaard 28 mei 2024",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/7b81c5d5-6edd-4525-a43d-5c76daded341"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:05+00:00"
     },
     "bd307a887cf699f2fb8b6f53e707c20d35a4f656e8a6b2dfa254d7110c7dc80d": {
       "title": "Bespreeknotitie minimabeleid",
@@ -56365,7 +56390,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Gerard Rep",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Bespreeknotitie minimabeleid|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|cfe4257d2cc78b8b456accdba1c87820a8f6affb0a6ca511547bf463df802948|Bespreeknotitie minimabeleid|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "cfe4257d2cc78b8b456accdba1c87820a8f6affb0a6ca511547bf463df802948",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:05+00:00"
     },
     "3d1737863a7fa98b87777d8e3e202bbd1876fafeecb6efd1ff4eb03ad2922bb7": {
       "title": "Initiatief IKC Oudkarspel – KanZklas",
@@ -56384,7 +56415,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "John Does",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Initiatief IKC Oudkarspel – KanZklas|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|d312f298094f663a3f63d2a5cb0b22b83f5cc0f4ea2f83ff257a05c9f62a09a1|Initiatief IKC Oudkarspel – KanZklas|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "d312f298094f663a3f63d2a5cb0b22b83f5cc0f4ea2f83ff257a05c9f62a09a1",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:06+00:00"
     },
     "9a12df50beb9b95805dde4c0f7e693e3530e06dace1519722f8e09b171342e38": {
       "title": "Uitvoeringsprogramma Visie GAB 2030",
@@ -56403,7 +56440,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Annette Groot",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Uitvoeringsprogramma Visie GAB 2030|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|c29ff7f4ae3f8b72972d6326699a57495dda7d32210ba81803a4ec260467305a|Uitvoeringsprogramma Visie GAB 2030|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "c29ff7f4ae3f8b72972d6326699a57495dda7d32210ba81803a4ec260467305a",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:07+00:00"
     },
     "fbecdb3072be6fa567c9eae887ebc2245ca069ec447865e40d69f926d6d81569": {
       "title": "Toezegging 2022-01-18 over minimabeleid",
@@ -56422,7 +56465,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Gerard Rep",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Toezegging 2022-01-18 over minimabeleid|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|dd893ed6c374b61a921c04084abbd8246efed567163a156c40e4e377e70c0374|Toezegging 2022-01-18 over minimabeleid|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "dd893ed6c374b61a921c04084abbd8246efed567163a156c40e4e377e70c0374",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:07+00:00"
     },
     "3bc8df603b35ec2dcaf64b583767370e93ecd8427880e4c2b2ba9e12f1fb84f7": {
       "title": "Beantwoorden technische vragen Ondernemersfonds",
@@ -56441,7 +56490,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Fred Ruiten",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Beantwoorden technische vragen Ondernemersfonds|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|a98338844934c47ab61f7bb9e76b51de8466ed516ac2d0c74e8169715a6c438b|Beantwoorden technische vragen Ondernemersfonds|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "a98338844934c47ab61f7bb9e76b51de8466ed516ac2d0c74e8169715a6c438b",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:07+00:00"
     },
     "3ffb3c6f193b2380c7a2d96e3d9a9611170da667c73b5dc8b2375ef41ffe29f7": {
       "title": "Toezegging beantwoorden technische vragen Ondernemersfonds",
@@ -56460,7 +56515,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Fred Ruiten",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Toezegging beantwoorden technische vragen Ondernemersfonds|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|8be142b6b49740c151d11717c5b8f76d314844ae3c6ec2315314226edca97568|Toezegging beantwoorden technische vragen Ondernemersfonds|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "8be142b6b49740c151d11717c5b8f76d314844ae3c6ec2315314226edca97568",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:08+00:00"
     },
     "07719f26e052edf9c6139b5384dafb3fe472a2572a04746f2e70a801b19dadfa": {
       "title": "Plaatsen komborden 't Kruis",
@@ -56479,7 +56540,25 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Floris de Boer",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Plaatsen komborden 't Kruis|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|7cd3499258ffef1ef59fd91f44032055357882bd5ac85b61169587461c750d3d|Plaatsen komborden 't Kruis|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "7cd3499258ffef1ef59fd91f44032055357882bd5ac85b61169587461c750d3d",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht, beantwoording schriftelijke vragen DOP over komborden 't Kruis",
+        "Collegebericht het beantwoorden van schriftelijke vragen DOP 't Kruis Kombord 29 oktober 2024"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht, beantwoording schriftelijke vragen DOP over komborden 't Kruis",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/d0f644f1-2ba8-4de7-aff8-c34655224fac"
+        },
+        {
+          "t": "Collegebericht het beantwoorden van schriftelijke vragen DOP 't Kruis Kombord 29 oktober 2024",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/09f0e462-cb70-422d-87dd-a008de1ef709"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:10+00:00"
     },
     "944e379a0ea5eb52d4630cfd7f175586c523dca68aecceaf15fc1f0dc0ef00ef": {
       "title": "Integraal parkeerbeleid - afstand tot parkeervoorzieningen",
@@ -56498,7 +56577,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Nils Langedijk",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Integraal parkeerbeleid - afstand tot parkeervoorzieningen|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|9bc078803db1de1cf9a4078269ae6d0ef4ca1f7bc00d5717128a8aac66ee1178|Integraal parkeerbeleid - afstand tot parkeervoorzieningen|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "9bc078803db1de1cf9a4078269ae6d0ef4ca1f7bc00d5717128a8aac66ee1178",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Motie 04 D66 - Parkeerbeleid, voorrang bewoners Lapis Lazuli INGETROKKEN"
+      ],
+      "bijlagen": [
+        {
+          "t": "Motie 04 D66 - Parkeerbeleid, voorrang bewoners Lapis Lazuli INGETROKKEN",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/7a9d059a-4c78-4f76-92d9-d2a0f005f854"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:11+00:00"
     },
     "2e4bc29c4ccf56f95eae0c8f6fd45646747a87937e1915e6da714a31d5094ce2": {
       "title": "Motie van Stilte naar Stem - uitvoering motie",
@@ -56517,7 +56609,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Soledad van Eijk",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Motie van Stilte naar Stem - uitvoering motie|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|5e272849e66b7fec7f7d7860d57ecda09344d40dc5e629aada307c9cd9c3f449|Motie van Stilte naar Stem - uitvoering motie|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "5e272849e66b7fec7f7d7860d57ecda09344d40dc5e629aada307c9cd9c3f449",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:12+00:00"
     },
     "0abbfd4bd0e2808c27a1d598d48cf3433835f926f9dac081ec4eea491c33cbc9": {
       "title": "Brugfunctionaris - uitvoering motie",
@@ -56536,7 +56634,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Antoine Tromp",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Brugfunctionaris - uitvoering motie|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|255a29001d62890ddb06f41f66fba7e77ca6079c8f98d7350bb67e1d78ed72a7|Brugfunctionaris - uitvoering motie|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "255a29001d62890ddb06f41f66fba7e77ca6079c8f98d7350bb67e1d78ed72a7",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:12+00:00"
     },
     "b8ab9e16ac8b07f65522babf05870be93ff20e3ea92104f97ea7f18c8c8bb892": {
       "title": "Inzet bruisbudget Stadshart",
@@ -56555,7 +56659,25 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Floris de Boer",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Inzet bruisbudget Stadshart|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|49eb6ddb0edeb052bae98a58271b0a574b64097b51ea1fed4e220a8a70e60ae3|Inzet bruisbudget Stadshart|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "49eb6ddb0edeb052bae98a58271b0a574b64097b51ea1fed4e220a8a70e60ae3",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht Afdoening toezegging bruisagenda en -budget Stadshart (22 sept)",
+        "Commissieadvies - Doorontwikkelvisie en -Strategie Stasdshart en budgetaanvraag"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht Afdoening toezegging bruisagenda en -budget Stadshart (22 sept)",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/ccf93638-7ece-44dd-94ac-bb4023c99e5b"
+        },
+        {
+          "t": "Commissieadvies - Doorontwikkelvisie en -Strategie Stasdshart en budgetaanvraag",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/dbb2481a-0596-4c44-9277-b2239f005b2f"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:14+00:00"
     },
     "d00305246e023a7c177b5bd86b2cd3162d7b3f4650afb21df0191e4b0195ec35": {
       "title": "Kosten klein onderhoud in de begroting",
@@ -56574,7 +56696,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Jasper John",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Kosten klein onderhoud in de begroting|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|3afee88ca58e1ca77520c5295612791ec8b17b5a33c9c39d70c09c8c63d21805|Kosten klein onderhoud in de begroting|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "3afee88ca58e1ca77520c5295612791ec8b17b5a33c9c39d70c09c8c63d21805",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:15+00:00"
     },
     "ed93bf905fb3a7d7e663bdffcd435d41e51e38a2509b996cf7a14dfc23fe7c30": {
       "title": "Doorrijplan en doorbouwplan",
@@ -56593,7 +56721,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Nils Langedijk",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Doorrijplan en doorbouwplan|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|a33d1499b0b52e09b47b80785a6dbb76b64cabed56c64c4f41912de2c6c236eb|Doorrijplan en doorbouwplan|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "a33d1499b0b52e09b47b80785a6dbb76b64cabed56c64c4f41912de2c6c236eb",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:15+00:00"
     },
     "dfed51fb9d45086a845cac95c819790ff32709dc50688caeec0149998b015686": {
       "title": "Hitteplan",
@@ -56612,7 +56746,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Soledad van Eijk",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Hitteplan|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|6893eca41bbe8785f3c73c8511f5922c52d05a9c3c44bb6375dde108005e56d0|Hitteplan|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "6893eca41bbe8785f3c73c8511f5922c52d05a9c3c44bb6375dde108005e56d0",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:16+00:00"
     },
     "ae70c0059ebd025aadef16ea05998006a0f07280707e514a78467dcb90e519d0": {
       "title": "Geestmerambacht",
@@ -56631,7 +56771,25 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Soledad van Eijk",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Geestmerambacht|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|e584e194e3685a045f8b778519b1840cc6cb5facf77d4cbdabb986ea07beeec0|Geestmerambacht|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "e584e194e3685a045f8b778519b1840cc6cb5facf77d4cbdabb986ea07beeec0",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Motie 16 juni 2026 - Geestmerambacht, betrokken raad",
+        "Motie 17 februari 2026 - Passende ontwikkeling Zomerdel Noord en Zuid"
+      ],
+      "bijlagen": [
+        {
+          "t": "Motie 16 juni 2026 - Geestmerambacht, betrokken raad",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/335ade3e-73f8-4567-afee-13a5dec306e4"
+        },
+        {
+          "t": "Motie 17 februari 2026 - Passende ontwikkeling Zomerdel Noord en Zuid",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/0ea4cb7e-9c98-462a-9767-fb9899b93a16"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:19+00:00"
     },
     "8882569faca40476f1e21c657b526eddec65c84f5bf37a4259579dd3c251ca45": {
       "title": "Ondernemersfonds",
@@ -56650,7 +56808,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Ben Hoejenbos",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Ondernemersfonds|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|fc656a281c77740e8ecb17a0afbc603060cccb84cc9102c9e519c04f7f72f3f3|Ondernemersfonds|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "fc656a281c77740e8ecb17a0afbc603060cccb84cc9102c9e519c04f7f72f3f3",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht Tussenbericht Ondernemersfonds Dijk en Waard"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht Tussenbericht Ondernemersfonds Dijk en Waard",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/fa3808a0-b828-4ca3-9c3b-03374e6b30f1"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:20+00:00"
     },
     "4840d9f9b56237a100c6f419e2c1109c88d10c7f0418793af1daf840b8b863ca": {
       "title": "Tussenevaluatie dienstverlening Recreatie Noord-Holland",
@@ -56669,7 +56840,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Soledad van Eijk",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Tussenevaluatie dienstverlening Recreatie Noord-Holland|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|ce18340eadfb01deed828356970ced8dfecc118f01c12598c304212632377731|Tussenevaluatie dienstverlening Recreatie Noord-Holland|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "ce18340eadfb01deed828356970ced8dfecc118f01c12598c304212632377731",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Motie CDA - Geestmerambacht, betrokken raad"
+      ],
+      "bijlagen": [
+        {
+          "t": "Motie CDA - Geestmerambacht, betrokken raad",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/740a4411-3136-4f4e-84ea-0dcce04a98e9"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:21+00:00"
     },
     "1a5cdb87425ee9d813bbbd9693a77f9739e3f0410dfde8762e048b30ffbc57c7": {
       "title": "Onderzoek gemeenschappelijke regelingsvorm Geestmerambacht",
@@ -56688,7 +56872,25 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Soledad van Eijk",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Onderzoek gemeenschappelijke regelingsvorm Geestmerambacht|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|d1a3c6d6711288ab67c6603f1b10298e197d70b0fb2acc7f4ecda97853fdda4e|Onderzoek gemeenschappelijke regelingsvorm Geestmerambacht|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "d1a3c6d6711288ab67c6603f1b10298e197d70b0fb2acc7f4ecda97853fdda4e",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht Projectplan Tussentijdse evaluatie Visie 2030 Geestmerambacht Parkenlint tussen stad en dorp",
+        "Projectplan Geestmerambacht"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht Projectplan Tussentijdse evaluatie Visie 2030 Geestmerambacht Parkenlint tussen stad en dorp",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/69fe28b4-c58e-4b54-b676-2d8836a847a2"
+        },
+        {
+          "t": "Projectplan Geestmerambacht",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/edaa3173-b4df-44bf-9054-1c0d51497d9c"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:23+00:00"
     },
     "16f15571445e769be91fb2ad38934f90cb861c504ff6b008f1d6660235895aa5": {
       "title": "Delen evaluatie Omgevingsdienst",
@@ -56707,7 +56909,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Nils Langedijk",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Delen evaluatie Omgevingsdienst|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|2c7333edf038209aa99da3e49ed688e9aab9e7fbd7188bd91e835be95a45e95e|Delen evaluatie Omgevingsdienst|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "2c7333edf038209aa99da3e49ed688e9aab9e7fbd7188bd91e835be95a45e95e",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:24+00:00"
     },
     "46363b59ad18851371f71e127f2d778886e24d19411198851e4131043670217b": {
       "title": "Verstrekking ruimtelijke stukken bij bouwprojecten",
@@ -56726,7 +56934,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Nils Langedijk",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Verstrekking ruimtelijke stukken bij bouwprojecten|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|834a84ddff6dd80ec5fef21a4a048c7ae9ada52cc2a84b1aff8e4e7535d0d8b7|Verstrekking ruimtelijke stukken bij bouwprojecten|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "834a84ddff6dd80ec5fef21a4a048c7ae9ada52cc2a84b1aff8e4e7535d0d8b7",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:24+00:00"
     },
     "8b583572f3718c253ce39238b01a2ec4ebd48b796fd2b198ceb7f06439041ce4": {
       "title": "Brand De Mossel: sanering watergangen",
@@ -56745,7 +56959,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Maarten Poorter",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Brand De Mossel: sanering watergangen|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|b10e2d41419306fa148e5bad91fbc30beca6034cb7fae687206fbe8394cd1f09|Brand De Mossel: sanering watergangen|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "b10e2d41419306fa148e5bad91fbc30beca6034cb7fae687206fbe8394cd1f09",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:25+00:00"
     },
     "84b8476c64b8b4ade3a6111c82a4dd10bc74b0c2ca6f0d082be17b6a4c8a5521": {
       "title": "Brand De Mossel: Registratienummer Asbestrapport",
@@ -56764,7 +56984,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Maarten Poorter",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Brand De Mossel: Registratienummer Asbestrapport|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|8b38ed8d55284fdb1d62d69145f05800bb3ef0b827b604888503ef7dc830c1bc|Brand De Mossel: Registratienummer Asbestrapport|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "8b38ed8d55284fdb1d62d69145f05800bb3ef0b827b604888503ef7dc830c1bc",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:26+00:00"
     },
     "25995d5f9d85c657a69b8c3248f4cb230364a930f6a33747b2d1c6741a004412": {
       "title": "Evenementenvisie veiligheid bij evenementen (n.a.v. motie F)",
@@ -56783,7 +57009,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Maarten Poorter",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Evenementenvisie veiligheid bij evenementen (n.a.v. motie F)|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|c8c684c20999355f51537d4e5abf89394960cf438b1cf8d7c133579d45d742c2|Evenementenvisie veiligheid bij evenementen (n.a.v. motie F)|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "c8c684c20999355f51537d4e5abf89394960cf438b1cf8d7c133579d45d742c2",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Motie F - Veiligheid evenementen INGETROKKEN"
+      ],
+      "bijlagen": [
+        {
+          "t": "Motie F - Veiligheid evenementen INGETROKKEN",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/25ca01e4-1a81-4a7f-97c4-7a28b7a91c5e"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:27+00:00"
     },
     "2282de17b6616b9c64f8a3dd159e57a82c81374c85bb13f49ad623eb084a88d9": {
       "title": "Evenementenvisie: leges evenementen (n.a.v. motie C)",
@@ -56802,7 +57041,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Floris de Boer",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Evenementenvisie: leges evenementen (n.a.v. motie C)|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|eb63f1e9d3442231c85b903d2694d0b7260936e916c0b1ec28ecd2fe40326ebe|Evenementenvisie: leges evenementen (n.a.v. motie C)|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "eb63f1e9d3442231c85b903d2694d0b7260936e916c0b1ec28ecd2fe40326ebe",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Motie C - LDW - Verlagen leges en afschaffen prettax VERWORPEN"
+      ],
+      "bijlagen": [
+        {
+          "t": "Motie C - LDW - Verlagen leges en afschaffen prettax VERWORPEN",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/ccbbc884-2ae8-46dc-921e-bd09c68f8b3d"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:29+00:00"
     },
     "9d9e9f388b8a026c40eaa5d385125a7c5f706eb54e9b557ff0d326e9dacc31ac": {
       "title": "Toezegging doorstroomlening",
@@ -56821,7 +57073,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Fred Ruiten",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Toezegging doorstroomlening|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|dd9ba95b4cade9bdceb4f15579c7ba978f909c77807387a593239864c95bb401|Toezegging doorstroomlening|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "dd9ba95b4cade9bdceb4f15579c7ba978f909c77807387a593239864c95bb401",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht - Opvolging toezegging 'Doorstromingslening voor senioren'"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht - Opvolging toezegging 'Doorstromingslening voor senioren'",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/f8b67d93-d86f-4c07-b9c7-d0de186adc6b"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:31+00:00"
     },
     "89b452ddf9c745ec374255d26b4c5e9818ed5fd7a3445223c1c1692fef6aa911": {
       "title": "Brief ouders van de Boomladder met klacht over parkeren",
@@ -56840,7 +57105,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Ben Hoejenbos",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Brief ouders van de Boomladder met klacht over parkeren|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|9a35d6578728b7402ca25fe9d6ac96a51c2ce4e64eeee31ffa659eece1019683|Brief ouders van de Boomladder met klacht over parkeren|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "9a35d6578728b7402ca25fe9d6ac96a51c2ce4e64eeee31ffa659eece1019683",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Klacht parkeren rondom kindcentrum de Boomladder"
+      ],
+      "bijlagen": [
+        {
+          "t": "Klacht parkeren rondom kindcentrum de Boomladder",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/ff91c73c-e35e-4268-950f-e658b387da9a"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:32+00:00"
     },
     "82e01d23919e5657657fb3d2180f0d0fa95cdf4ff4eb6c8d513386e25a1dc07c": {
       "title": "Geestmerambacht (n.a.v. vragenkwartier)",
@@ -56859,7 +57137,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Ester Leibbrand",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Geestmerambacht (n.a.v. vragenkwartier)|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|b82b80930f7d5a15fe44046e413648373a0a5a759f4658993e98a0aa4a8f93c2|Geestmerambacht (n.a.v. vragenkwartier)|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "b82b80930f7d5a15fe44046e413648373a0a5a759f4658993e98a0aa4a8f93c2",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Vragen ex artikel 33 - GroenLinks - Uitvoeringsagenda GAB"
+      ],
+      "bijlagen": [
+        {
+          "t": "Vragen ex artikel 33 - GroenLinks - Uitvoeringsagenda GAB",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/29ad1a07-fdd8-4a7f-954c-4c6768712f46"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:33+00:00"
     },
     "10357558023deef0a1d7434518b7697d28f93ac6cf0a2710e9283035e1646618": {
       "title": "Aanvulling te geven op vraag 10 van de technische vragen van LDW",
@@ -56878,7 +57169,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "John Does",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Aanvulling te geven op vraag 10 van de technische vragen van LDW|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|6d68c72afbe9796f90d3c53aecde1ac7c3bf72597042433bde46706174b94b26|Aanvulling te geven op vraag 10 van de technische vragen van LDW|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "6d68c72afbe9796f90d3c53aecde1ac7c3bf72597042433bde46706174b94b26",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:34+00:00"
     },
     "80ebc3351a92d5ac748c947dcf1dc87bda602f314b0fb474248ccbe9a36ce6c3": {
       "title": "Overzicht van de criteria die Dijk & Waard Sport B.V.",
@@ -56897,7 +57194,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "John Does",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Overzicht van de criteria die Dijk & Waard Sport B.V.|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|e095358e19a8c8b3565786ba85f3f6c7fab4ca3188e056b080e7af18d90a631e|Overzicht van de criteria die Dijk & Waard Sport B.V.|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "e095358e19a8c8b3565786ba85f3f6c7fab4ca3188e056b080e7af18d90a631e",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:35+00:00"
     },
     "91aa5c1be9adbbdb0c1d04005fd4f60dc4b09ec048e3658a8fae61ce9c9e7c89": {
       "title": "Raad informeren over de benodigde hoogte van een eventueel voorbereidingskrediet.",
@@ -56916,7 +57219,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "John Does",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Raad informeren over de benodigde hoogte van een eventueel voorbereidingskrediet.|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|1627983e5c5ad79efd0af97dc7e9f675bc820546533b38383d3bece1ae7dc96d|Raad informeren over de benodigde hoogte van een eventueel voorbereidingskrediet.|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "1627983e5c5ad79efd0af97dc7e9f675bc820546533b38383d3bece1ae7dc96d",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:35+00:00"
     },
     "f6ad95132a4369fe3fa0f630139ed8426c5c34436abb5cd19ca1ecd6a64c0148": {
       "title": "Borgen toegankelijkheid minder validen in vergunningaanvraag",
@@ -56935,7 +57244,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Floris de Boer",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Borgen toegankelijkheid minder validen in vergunningaanvraag|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|5bef2f05d716a060f76704071755bc76a0494b02f094777987bffec88704202c|Borgen toegankelijkheid minder validen in vergunningaanvraag|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "5bef2f05d716a060f76704071755bc76a0494b02f094777987bffec88704202c",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Commissie advies evenementenvisie en reactienota concept visie"
+      ],
+      "bijlagen": [
+        {
+          "t": "Commissie advies evenementenvisie en reactienota concept visie",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/5b40eeb8-5809-4d7d-a100-5494a660d28a"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:36+00:00"
     },
     "d3dd8a2d23f17f560cc784655f734d8fae0c0cdc6ddcc98deb9d7e95366a96ec": {
       "title": "Borgen toegankelijkheid minder validen in uitvoeringsplan evenementenbeleid",
@@ -56954,7 +57276,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Floris de Boer",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Borgen toegankelijkheid minder validen in uitvoeringsplan evenementenbeleid|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|64dfc20362ec0a896fd138f18579f456b8ccc60dfad3236963da48f38e719d41|Borgen toegankelijkheid minder validen in uitvoeringsplan evenementenbeleid|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "64dfc20362ec0a896fd138f18579f456b8ccc60dfad3236963da48f38e719d41",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Commissie advies evenementenvisie en reactienota concept visie"
+      ],
+      "bijlagen": [
+        {
+          "t": "Commissie advies evenementenvisie en reactienota concept visie",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/4542a6ac-3fe3-49a7-8857-46655cb71474"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:37+00:00"
     },
     "71f9005f2da6926ceb73be20732ad23078f959a83d66b57f7ccd211795699ee9": {
       "title": "Crisissituaties en weerbare samenleving",
@@ -56973,7 +57308,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Maarten Poorter",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Crisissituaties en weerbare samenleving|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|f21bf897bfff2afb89d6edde6168d70a5eda95c6ec2789750a93597658ffea52|Crisissituaties en weerbare samenleving|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "f21bf897bfff2afb89d6edde6168d70a5eda95c6ec2789750a93597658ffea52",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:38+00:00"
     },
     "ea150ad2e886146d4a0f12263db103d9991773e6fb2c2c66bd4f475bcb624b40": {
       "title": "Nachtelijke decibellen van auto's en motoren",
@@ -56992,7 +57333,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Maarten Poorter",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Nachtelijke decibellen van auto's en motoren|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|7e2da12cdab0b68ddfbcf4b69b41a0f918a1592e34a3aaf207649cf5ad848dc7|Nachtelijke decibellen van auto's en motoren|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "7e2da12cdab0b68ddfbcf4b69b41a0f918a1592e34a3aaf207649cf5ad848dc7",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:38+00:00"
     },
     "1ef9c227928fa9b1566d8d104b38bf837f761330477862f8716af15de52593b2": {
       "title": "Kleydrivers en Outdoor Bike Experience (OBE)",
@@ -57011,7 +57358,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "John Does",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Kleydrivers en Outdoor Bike Experience (OBE)|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|7d33f006a7f920259a943d494f92e91e9468e3dc8dfd6e8fa3b07b8ee69518ba|Kleydrivers en Outdoor Bike Experience (OBE)|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "7d33f006a7f920259a943d494f92e91e9468e3dc8dfd6e8fa3b07b8ee69518ba",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht BMX-baan op De Vork"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht BMX-baan op De Vork",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/b50f2188-7348-4dac-a90c-0a6b9944015f"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:39+00:00"
     },
     "606866148f77ed98bcded5309475ca941171b8b6e04032937d46d9fa5538a0b6": {
       "title": "Voortgang uitvoering motie jongerengemeenteraad",
@@ -57030,7 +57390,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Gerard Rep",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Voortgang uitvoering motie jongerengemeenteraad|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|31126015af07687853300ec3853b468737f9a48757bf55b5fcf34e26decd54e1|Voortgang uitvoering motie jongerengemeenteraad|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "31126015af07687853300ec3853b468737f9a48757bf55b5fcf34e26decd54e1",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht Afhandeling van de Motie Ontmoetingsplek voor jongeren in Dijk en Waard"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht Afhandeling van de Motie Ontmoetingsplek voor jongeren in Dijk en Waard",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/efb8b67c-a5ce-48a0-b30e-f2af311edc73"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:40+00:00"
     },
     "2fbef6f872c3be9c7dc0b2d25d062ca60289ea4ac6829db0dff20c7798a546a4": {
       "title": "Snippergroen",
@@ -57049,7 +57422,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Floris de Boer",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Snippergroen|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|6a5e7e07f21f31358e3fe0f50191545a70a304bc2a669bd85b64ef2a5f5d9b35|Snippergroen|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "6a5e7e07f21f31358e3fe0f50191545a70a304bc2a669bd85b64ef2a5f5d9b35",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:41+00:00"
     },
     "22aa86e02cd23d8c12ee52886fd0c151d887608a81ce56e7e51cfff265bb2aa1": {
       "title": "Bewegwijzering",
@@ -57068,7 +57447,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Ester Leibbrand",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Bewegwijzering|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|6c4b6cd5ff1beea05501f078c26d285390017d58551c0c0e3025f62767b6ad04|Bewegwijzering|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "6c4b6cd5ff1beea05501f078c26d285390017d58551c0c0e3025f62767b6ad04",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht afhandeling Motie 04 Bewegwijzering Dijk en Waard"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht afhandeling Motie 04 Bewegwijzering Dijk en Waard",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/d5c85dc6-cd4c-4c0e-b82d-6553c6952c63"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:42+00:00"
     },
     "f88fc9f6367eda6a17bcc924f7b2e25c961a39398aee3e6a5c5d792a356de0b4": {
       "title": "Impuls verkeersveiligheid vrouwen op straat",
@@ -57087,7 +57479,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Ester Leibbrand",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Impuls verkeersveiligheid vrouwen op straat|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|7b48e429e2c66d4a656683971ee3edbec73679b5cad737513b8557525ad52e68|Impuls verkeersveiligheid vrouwen op straat|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "7b48e429e2c66d4a656683971ee3edbec73679b5cad737513b8557525ad52e68",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht het afhandelen van de motie Onze vrouwen veilig op straat"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht het afhandelen van de motie Onze vrouwen veilig op straat",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/7464834f-4ab7-438f-b73b-35ed461c9cf0"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:44+00:00"
     },
     "02fd60432de569bcd728ea5c0e498d9dd2caa81045819c00eed0c0f88cc6eef3": {
       "title": "Werklocaties bedrijven",
@@ -57106,7 +57511,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Ben Hoeienbos",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Werklocaties bedrijven|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|222062dbad5fc2b0905a8e92a90b57fe4333eb5fa1961ecda5b5959da17fdf53|Werklocaties bedrijven|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "222062dbad5fc2b0905a8e92a90b57fe4333eb5fa1961ecda5b5959da17fdf53",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:44+00:00"
     },
     "5e7be9663d95143cc3f32c819f17a4a636847d6e1f503b77334330408e375f0a": {
       "title": "De toekenning van de subsidie van € 38.5 miljoen door het rijk",
@@ -57125,7 +57536,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Nils Langedijk",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||De toekenning van de subsidie van € 38.5 miljoen door het rijk|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|1cb267d289aff6ca7c3f6e258bda74839bf2aae154422801b047392f38e83d06|De toekenning van de subsidie van € 38.5 miljoen door het rijk|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "1cb267d289aff6ca7c3f6e258bda74839bf2aae154422801b047392f38e83d06",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht succesfactoren bij subsidieaanvraag 16 december 2025"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht succesfactoren bij subsidieaanvraag 16 december 2025",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/16d41b8f-3bdd-40f9-a028-e1aa664f0771"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:45+00:00"
     },
     "2a674736de8d5fb97c4dbe0c53371f9208c72aaf1ff29cc73de6427445b87fae": {
       "title": "Informatiesessie raad over robuust lokaal team",
@@ -57144,7 +57568,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Gerard Rep",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Informatiesessie raad over robuust lokaal team|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|048e27ef2c07630e905607dea7c57e795949cbce09c5a48b83491b023d7288b1|Informatiesessie raad over robuust lokaal team|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "048e27ef2c07630e905607dea7c57e795949cbce09c5a48b83491b023d7288b1",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:46+00:00"
     },
     "ecdc53233c01a20cf00506a6d3a07c313a23cb1a99244bba92e176d30c4161ae": {
       "title": "Bestemmingsplan De Vaandel Noord",
@@ -57163,7 +57593,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Ben Hoeienbos",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Bestemmingsplan De Vaandel Noord|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|e5352e31ab69c96c5b35ba929ea1943730b4e09bdc7c876b1fd6b46b91278da0|Bestemmingsplan De Vaandel Noord|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "e5352e31ab69c96c5b35ba929ea1943730b4e09bdc7c876b1fd6b46b91278da0",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:46+00:00"
     },
     "d09edc5e6058e16996eb2ece39bbb4c22aab4c2eb6991c394a93657617be70af": {
       "title": "Beleidsvisie Diversiteit & Inclusie 2025-2030",
@@ -57182,7 +57618,13 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Soledad van Eijk",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Beleidsvisie Diversiteit & Inclusie 2025-2030|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|1cd94815d52e0513952bf2ceb146e1498ed68d88b100295ea360c36c742d9a3a|Beleidsvisie Diversiteit & Inclusie 2025-2030|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "1cd94815d52e0513952bf2ceb146e1498ed68d88b100295ea360c36c742d9a3a",
+      "text_v": 2,
+      "bijlagen_titels": [],
+      "bijlagen": [],
+      "content_checked": "2026-10-19T23:31:47+00:00"
     },
     "203b01e61521b790c9f4e70790ec9741b7671070237df7487de0e48ef22a92d7": {
       "title": "Participatietraject Vaandel Noord",
@@ -57201,7 +57643,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Fred Ruiten",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Participatietraject Vaandel Noord|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|88b01fe6ec6849e8d443065a657e5fd9784b0b79aeddddabf707aa2c94ee7c1b|Participatietraject Vaandel Noord|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "88b01fe6ec6849e8d443065a657e5fd9784b0b79aeddddabf707aa2c94ee7c1b",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Beantwoorden technische vragen Commissie De vaandel Noord PvdA"
+      ],
+      "bijlagen": [
+        {
+          "t": "Beantwoorden technische vragen Commissie De vaandel Noord PvdA",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/c30abcb6-a8d5-4d45-98d7-f2f49261ed90"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:48+00:00"
     },
     "f7ca2c5635d72202b7f5913baa0faba8e378c0a0a3ac0f437c830b30eb275140": {
       "title": "Verkeersveiligheid Kruissloot monitoren",
@@ -57220,7 +57675,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Ben Hoejenbos",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Verkeersveiligheid Kruissloot monitoren|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|49a74f5ad2489f0434c93497004b7e62f849bcdfcfd7c7cbfb3071d8f96a8f7e|Verkeersveiligheid Kruissloot monitoren|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "49a74f5ad2489f0434c93497004b7e62f849bcdfcfd7c7cbfb3071d8f96a8f7e",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht, Motie LDW Voetpad aansluiting noordzijde Kruissloot Sint Pancras (1)"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht, Motie LDW Voetpad aansluiting noordzijde Kruissloot Sint Pancras (1)",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/11671f26-9180-4356-97f3-c261c2dab62d"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:49+00:00"
     },
     "d0a3a717ffb4b1d5e25a7938d1b121e47558415a47181c93798e9f9c4709f01c": {
       "title": "Kinderburgemeester",
@@ -57239,7 +57707,20 @@
       "report_pass": "2026-10-19T14:34:22+00:00",
       "portefeuillehouder": "Maarten Poorter",
       "report_seen": true,
-      "kw_sig": "4f53cda18c2b||Kinderburgemeester|Toezeggingen"
+      "kw_sig": "4f53cda18c2b|99a91e93f4c8c13de7c146fdd52cecaf13f38ad2187a79912b7d5eac0d7e3e06|Kinderburgemeester|Toezeggingen",
+      "missing_count": 0,
+      "text_hash": "99a91e93f4c8c13de7c146fdd52cecaf13f38ad2187a79912b7d5eac0d7e3e06",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Kadernota 2026 - Motie LDW DOP SDW GL PvdA CU SDW Kinderburgemeester (ingetrokken)"
+      ],
+      "bijlagen": [
+        {
+          "t": "Kadernota 2026 - Motie LDW DOP SDW GL PvdA CU SDW Kinderburgemeester (ingetrokken)",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/f598881f-b14b-46f3-9566-0f744cb61417"
+        }
+      ],
+      "content_checked": "2026-10-19T23:31:50+00:00"
     },
     "de9e6bf2f4e353e195a946e8ed959a41dad46136096b6dedd1f72370f591db44": {
       "title": "Educatie erfgoedbeleid",
@@ -93796,22 +94277,22 @@
   "status": {
     "dijkenwaard": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-19T23:04:03+00:00",
+        "checked": "2026-10-19T23:30:44+00:00",
         "ok": true,
         "count": 152,
         "new": 0,
         "note": "Laatste 30 dagen: 152 van 152 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-19T23:04:17+00:00",
-        "ok": true,
-        "count": 10,
+        "checked": "2026-10-19T23:30:54+00:00",
+        "ok": false,
+        "count": 9,
         "new": 0,
-        "error": null,
-        "note": "10 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-20 t/m 2026-12-03 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
+        "error": "Commissie Raadzaal 2026-10-28: 403 Client Error: Forbidden for url: https://dijkenwaard.bes",
+        "note": "9 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-20 t/m 2026-12-03 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-19T23:04:24+00:00",
+        "checked": "2026-10-19T23:31:00+00:00",
         "ok": true,
         "count": 434,
         "new": 0,
@@ -93819,31 +94300,33 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Collegeberichten 676, Informatie van derden 1169, Informatie van de Rekenkamer 12, Raadsvragen 649, Amendementen 142, Moties 249, Toezeggingen 147, Overige acties raad 3, Besluitenlijsten B&W 227, Gemeenschappelijke regelingen 114, Regels en afspraken 19). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-19T23:05:02+00:00",
-        "ok": false,
-        "error": "HTTPSConnectionPool(host='www.dijkenwaard.nl', port=443): Max retries exceeded with url: /actueel/nieuws (Caused by NewConnectionError(\"HTTPSConnection(host='www.dijkenwaard.nl', port=443): Failed to establish a new connection: [Errno 101] Network is"
+        "checked": "2026-10-19T23:31:01+00:00",
+        "ok": true,
+        "count": 12,
+        "new": 0,
+        "note": "Het nieuwsoverzicht van dijkenwaard.nl (de nieuwste berichten, met datum). De gemeente heeft geen nieuwsfeed."
       },
       "In de media": {
-        "checked": "2026-10-19T23:05:10+00:00",
-        "ok": false,
-        "error": "Google Nieuws gaf HTTP 503; 2 uur pauze"
+        "checked": "2026-10-19T23:31:01+00:00",
+        "ok": true,
+        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-19T23:06:30+00:00",
+        "checked": "2026-10-19T23:31:50+00:00",
         "ok": true,
         "count": 50,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (0 pdf), 1012 gevolgd (alle gemeenten), 216 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "50 documenten gecontroleerd (0 pdf), 1012 gevolgd (alle gemeenten), 166 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-19T23:06:30+00:00",
+        "checked": "2026-10-19T23:31:50+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-19T23:06:30+00:00",
+        "checked": "2026-10-19T23:31:50+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -93873,7 +94356,7 @@
         "label": "dinsdag 8 december 2026"
       },
       "86b9c17c-db3a-41a8-ad53-14af7b0e86ad": {
-        "checked": "2026-10-19T22:30:45+00:00",
+        "checked": "2026-10-19T23:30:44+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-11-12",
@@ -93881,7 +94364,7 @@
         "documents": 0
       },
       "69fe915e-439f-4907-91f2-4569cc84e335": {
-        "checked": "2026-10-19T22:30:45+00:00",
+        "checked": "2026-10-19T23:30:44+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -93889,7 +94372,7 @@
         "documents": 15
       },
       "196e4f3f-725c-4eab-9d43-790273c10379": {
-        "checked": "2026-10-19T22:30:45+00:00",
+        "checked": "2026-10-19T23:30:44+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-10-22",
@@ -93897,7 +94380,7 @@
         "documents": 0
       },
       "ff9d067a-fe48-4dcd-9ac4-87e2f196b690": {
-        "checked": "2026-10-19T22:30:45+00:00",
+        "checked": "2026-10-19T23:30:44+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-10-21",
@@ -94007,7 +94490,7 @@
         "documents": 0
       },
       "0779ec56-65a7-4439-a468-37dbdce4cb47": {
-        "checked": "2026-10-19T22:00:57+00:00",
+        "checked": "2026-10-19T23:30:44+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-24",
@@ -94015,7 +94498,7 @@
         "documents": 0
       },
       "c2b96a6d-9b2f-47f2-af33-02e88f8dd97f": {
-        "checked": "2026-10-19T22:00:57+00:00",
+        "checked": "2026-10-19T23:30:44+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-03",
@@ -94023,7 +94506,7 @@
         "documents": 6
       },
       "f0eb8367-beed-4ac2-bca0-2c7084edce9b": {
-        "checked": "2026-10-19T22:00:57+00:00",
+        "checked": "2026-10-19T23:30:44+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-10-28",
@@ -94031,7 +94514,7 @@
         "documents": 0
       },
       "f78a8961-2113-4c1d-a986-80fe26f4e192": {
-        "checked": "2026-10-19T22:00:57+00:00",
+        "checked": "2026-10-19T23:30:44+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-10-27",
@@ -94039,7 +94522,7 @@
         "documents": 5
       },
       "cb81d999-2d60-47ee-b751-bc1ff41054d8": {
-        "checked": "2026-10-19T22:00:57+00:00",
+        "checked": "2026-10-19T23:30:44+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-09-22",
@@ -94047,7 +94530,7 @@
         "documents": 41
       },
       "7c8cb824-9061-46f8-8c74-ac73d6abf9e7": {
-        "checked": "2026-10-19T22:00:57+00:00",
+        "checked": "2026-10-19T23:30:44+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-09-01",
