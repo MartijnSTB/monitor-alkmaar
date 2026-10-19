@@ -1,0 +1,1598 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Gemeentemonitor</title>
+<meta name="description" content="Wat de gemeente Alkmaar publiceert, besluit en wijzigt">
+<meta name="theme-color" content="#ffffff">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Monitor">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script>
+  // Thema vóór het tekenen zetten (geen witte flits in donkere modus).
+  try { const t = localStorage.getItem('gm-theme'); if (t === 'licht' || t === 'donker') document.documentElement.dataset.theme = t === 'donker' ? 'dark' : 'light'; } catch (e) {}
+</script>
+<style>
+  /* ===================================================================
+     Kleuren uit het Rodi Media-logo, met een donkere variant.
+     =================================================================== */
+  :root{
+    --rodi:#006dac; --deep:#1b4e8e; --orange:#f18700; --sky:#5498cf; --ice:#daeaf3;
+    --bg:#edf2f7; --card:#fff; --card2:#f7f9fb; --ink:#1d1d1b; --muted:#5b6672; --faint:#8b97a3; --line:#e2e8ef; --line2:#eef2f6;
+    --chip:#fff; --chipline:#cfd9e3; --link:#006dac; --hi:#f6f9fc; --media:#3b4650;
+    --green:#2e9a5a; --greenbg:#e2f2e7; --greenink:#165c35; --red:#a52d2d; --redbg:#f8e0e0; --amberbg:#fff6ea; --amberink:#8a4c00;
+    --shadow:0 1px 2px rgba(16,32,48,.06),0 2px 8px rgba(16,32,48,.04);
+    --serif:'Bricolage Grotesque','Figtree',system-ui,sans-serif; --sans:'Figtree',system-ui,-apple-system,'Segoe UI',sans-serif;
+    --brand:'Cinzel',Georgia,serif;
+    color-scheme:light;
+  }
+  @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+    --bg:#0e151c; --card:#151f29; --card2:#121b24; --ink:#e6ecf2; --muted:#9aa8b6; --faint:#6f7e8c; --line:#24323f; --line2:#1c2834;
+    --chip:#182430; --chipline:#2b3b4a; --link:#7fbbe6; --hi:#18242f; --ice:#1d3346; --media:#c3ced8;
+    --greenbg:#173426; --greenink:#8fd6a8; --redbg:#3a1e1e; --amberbg:#2e2414; --amberink:#f3b968;
+    --shadow:0 1px 2px rgba(0,0,0,.3); color-scheme:dark;
+  }}
+  :root[data-theme="dark"]{
+    --bg:#0e151c; --card:#151f29; --card2:#121b24; --ink:#e6ecf2; --muted:#9aa8b6; --faint:#6f7e8c; --line:#24323f; --line2:#1c2834;
+    --chip:#182430; --chipline:#2b3b4a; --link:#7fbbe6; --hi:#18242f; --ice:#1d3346; --media:#c3ced8;
+    --greenbg:#173426; --greenink:#8fd6a8; --redbg:#3a1e1e; --amberbg:#2e2414; --amberink:#f3b968;
+    --shadow:0 1px 2px rgba(0,0,0,.3); color-scheme:dark;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 var(--sans)}
+  a{color:inherit}
+  button,select,input{font:inherit;color:inherit}
+  :focus-visible{outline:3px solid var(--orange);outline-offset:2px}
+  .wrap{max-width:1680px;margin:0 auto;padding:0 20px}
+  [hidden]{display:none!important}
+  svg.i{width:18px;height:18px;flex:0 0 auto;fill:none;stroke:currentColor;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}
+
+  /* ===== Kop: Rodi-blauwe band ===== */
+  /* Kop in Rodi-stijl: wit, het logo, de naam in een klassieke kapitaal en 'MEDIA'-oranje */
+  .band{position:relative;background:var(--card);color:var(--ink);padding-top:env(safe-area-inset-top)}
+  .band::after{content:'';position:absolute;left:0;right:0;bottom:0;height:3px;background:linear-gradient(90deg,#f18700,#f18700 30%,#5498cf 62%,#006dac)}
+  .logo{height:54px;width:auto;display:block}
+  .logo.dark{display:none}
+  :root[data-theme="dark"] .logo.light{display:none} :root[data-theme="dark"] .logo.dark{display:block}
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .logo.light{display:none} :root:not([data-theme="light"]) .logo.dark{display:block}}
+  .sep{width:1px;align-self:stretch;margin:4px 4px;background:var(--line)}
+  .top{display:flex;align-items:center;gap:18px;padding-top:14px;padding-bottom:14px}
+  .brand{display:flex;align-items:center;gap:14px;min-width:0}
+  .brand h1{font:700 27px/1 var(--brand);margin:0;letter-spacing:.02em;white-space:nowrap;color:var(--ink)}
+  /* Zoals 'MEDIA' onder 'RODI' in het logo */
+  .brand .eyebrow{font:600 12px/1 var(--sans);color:#f18700;letter-spacing:.42em;text-transform:uppercase;margin-top:6px;display:flex;align-items:center}
+  .fresh{display:inline-flex;align-items:center;gap:6px;font:600 12.5px var(--sans);letter-spacing:0;text-transform:none;color:var(--muted);margin-left:6px;white-space:nowrap}
+  .fresh::before{content:'';width:8px;height:8px;border-radius:50%;background:var(--f,#4cc47f);box-shadow:0 0 0 3px color-mix(in srgb,var(--f,#4cc47f) 30%,transparent)}
+  .gem{display:flex;gap:4px;margin-left:auto;background:var(--ice);border-radius:999px;padding:4px}
+  .gem a{text-decoration:none;padding:7px 16px;border-radius:999px;font-weight:600;color:var(--link);white-space:nowrap}
+  .gem a:hover{background:color-mix(in srgb,var(--card) 60%,transparent)}
+  .gem a.active{background:#006dac;color:#fff}
+  .iconbtn{border:1px solid var(--line);background:var(--card);color:var(--muted);width:38px;height:38px;border-radius:50%;display:grid;place-items:center;cursor:pointer;flex:0 0 auto}
+  .iconbtn:hover{color:var(--link);border-color:var(--sky)}
+
+  /* ===== Werkbalk (blijft bovenaan staan) ===== */
+  .toolbar{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--card) 94%,transparent);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+  .tools{display:flex;gap:10px;align-items:center;padding-top:10px;padding-bottom:10px}
+  .search{position:relative;flex:1 1 300px;max-width:520px}
+  .search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--faint)}
+  .search input{width:100%;padding:9px 12px 9px 38px;border:1px solid var(--chipline);border-radius:10px;background:var(--chip)}
+  .search input::placeholder{color:var(--faint)}
+  .chips{display:flex;gap:6px;align-items:center;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;min-width:0}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{flex:0 0 auto;font-weight:600;font-size:14px;border:1px solid var(--chipline);background:var(--chip);padding:7px 12px;border-radius:999px;cursor:pointer;white-space:nowrap;display:inline-flex;align-items:center;gap:6px}
+  .chip:hover{border-color:var(--sky)}
+  .chip[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:var(--card)}
+  .chip .cnt{font-weight:700;opacity:.65}
+  .menu{position:static;flex:0 0 auto}
+  .menu summary{list-style:none}
+  .menu summary::-webkit-details-marker{display:none}
+  .menu .pop{position:absolute;margin-top:6px;background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:0 8px 28px rgba(0,0,0,.14);padding:6px;display:flex;flex-direction:column;min-width:230px;z-index:60}
+  .menu .pop button{border:0;background:none;text-align:left;padding:8px 10px;border-radius:8px;cursor:pointer;font-weight:600;font-size:14px}
+  .menu .pop button:hover{background:var(--hi)}
+  .menu .pop button[aria-pressed=true]{color:var(--link)}
+  .menu .pop button[aria-pressed=true]::after{content:' ✓'}
+  #dorp{flex:0 0 auto;font-weight:600;font-size:14px;padding:7px 10px;border:1px solid var(--chipline);border-radius:999px;background:var(--chip);cursor:pointer;max-width:170px}
+  #dorp.on{background:var(--deep);color:#fff;border-color:var(--deep)}
+  .seg{display:flex;background:var(--ice);border-radius:10px;padding:3px;flex:0 0 auto}
+  .seg button{border:0;background:transparent;color:var(--link);font-weight:600;font-size:14px;padding:6px 11px;border-radius:8px;cursor:pointer;display:flex;gap:6px;align-items:center}
+  .seg button[aria-pressed=true]{background:var(--card);color:var(--ink);box-shadow:var(--shadow)}
+  .summary{color:var(--muted);font-size:13.5px;margin-left:auto;white-space:nowrap}
+
+  .warn{background:var(--red);color:#fff;padding:12px 16px;border-radius:12px;margin:16px 0 0}
+
+  /* ===== Vandaag: rustige briefing ===== */
+  .today{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:24px 28px;max-width:1200px;margin:22px auto 40px}
+  /* De kop van Vandaag: Rodi-blauw met het stippenpatroon uit het logo */
+  .hero{grid-column:1 / -1;position:relative;overflow:hidden;border-radius:24px;background:#1b4e8e;color:#fff;padding:34px 38px 30px;isolation:isolate}
+  .hero::after{content:'';position:absolute;right:-70px;top:50%;width:440px;height:440px;transform:translateY(-50%);z-index:-1;opacity:.95;background:url(spiraal.svg) center/contain no-repeat}
+  .hero .hi1{font:600 16px var(--sans);color:#cfe2f4;margin:0}
+  .hero h2{font:700 clamp(28px,3.8vw,48px)/1.08 var(--brand);letter-spacing:.005em;margin:10px 0 0;max-width:18ch}
+  .hero h2 .num{color:#f9b25a}
+  .hero .since{font-size:15px;color:#cfe2f4;margin:12px 0 0}
+  .hstats{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}
+  .hstat{display:flex;align-items:baseline;gap:7px;border:0;background:rgba(255,255,255,.12);color:#fff;border-radius:12px;padding:8px 13px;cursor:pointer;font-size:14px;font-weight:600}
+  .hstat:hover{background:rgba(255,255,255,.2)}
+  .hstat.seen{background:transparent;box-shadow:inset 0 0 0 1.5px rgba(255,255,255,.45)}
+  .hstat b{font:800 20px var(--serif);letter-spacing:-.02em}
+  .live{display:inline-block;width:9px;height:9px;border-radius:50%;background:#4cc47f;margin-right:8px;vertical-align:1px;box-shadow:0 0 0 0 rgba(76,196,127,.6);animation:pulse 2.4s ease-out infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(76,196,127,.55)}70%{box-shadow:0 0 0 10px rgba(76,196,127,0)}100%{box-shadow:0 0 0 0 rgba(76,196,127,0)}}
+  .tsec{margin-top:0}
+  .tsec + .tsec{margin-top:26px}
+  .tsec > h3{display:block;font:700 21px var(--serif);letter-spacing:-.015em;color:var(--ink);margin:0 0 10px}
+  .tsec > h3 .cnt{font:600 14px var(--sans);color:var(--faint);margin-left:6px}
+  /* Hoofdverhaal en de rest als raster */
+  .leadcard{position:relative;display:block;background:var(--card);border-radius:20px;padding:22px 24px;box-shadow:0 1px 2px rgba(16,32,48,.05),0 10px 30px rgba(16,32,48,.07);cursor:pointer;border-top:5px solid var(--c)}
+  .leadcard:hover{box-shadow:0 1px 2px rgba(16,32,48,.05),0 14px 36px rgba(16,32,48,.12)}
+  .leadcard .k{display:flex;align-items:center;gap:6px;font-weight:700;font-size:14px;color:var(--c)}
+  .leadcard .tt{display:block;font:700 clamp(21px,2.2vw,27px)/1.15 var(--serif);letter-spacing:-.02em;margin:8px 0 0;color:var(--ink);text-decoration:none}
+  .leadcard .ex{color:var(--muted);font-size:15px;line-height:1.5;margin:10px 0 0;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;max-width:70ch}
+  .leadcard .ts{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13.5px;color:var(--muted);margin-top:12px}
+  .kgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px;margin-top:12px}
+  .kcard{position:relative;background:var(--card);border-radius:16px;padding:14px 16px;cursor:pointer;border:1px solid var(--line);display:flex;flex-direction:column;gap:6px}
+  .kcard:hover{border-color:color-mix(in srgb,var(--c) 45%,var(--line))}
+  .kcard .k{display:flex;align-items:center;gap:6px;font-weight:700;font-size:13px;color:var(--c)}
+  .kcard .k svg{width:16px;height:16px}
+  .kcard .tt{font:700 16.5px/1.25 var(--serif);letter-spacing:-.01em;color:var(--ink);text-decoration:none}
+  .kcard .ts{display:flex;flex-wrap:wrap;gap:2px 12px;font-size:13px;color:var(--muted);margin-top:auto}
+  .kcard .badges,.leadcard .badges{margin-top:4px;flex:none}
+  .kcard.isnew .k::after,.leadcard.isnew .k::after{content:'nieuw';margin-left:auto;font-size:11.5px;font-weight:700;color:#fff;background:var(--orange);border-radius:999px;padding:1px 8px}
+  /* Agenda als tijdlijn */
+  .tl{position:relative;background:var(--card);border-radius:18px;padding:8px 16px 8px 14px;border:1px solid var(--line)}
+  .tl a{position:relative;display:grid;grid-template-columns:70px minmax(0,1fr);gap:10px;padding:10px 0;text-decoration:none}
+  .tl a + a{border-top:1px dashed var(--line)}
+  .tl .when2{font:800 15px/1.1 var(--serif);color:var(--link)}
+  .tl .when2 small{display:block;font:600 12px var(--sans);color:var(--muted);margin-top:2px}
+  .tl strong{display:block;font-size:14.5px;line-height:1.25}
+  .tl span.s{display:block;font-size:13px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .tl a:hover strong{color:var(--link)}
+  .tcard{background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden}
+  .ti{display:flex;gap:12px;align-items:flex-start;padding:12px 16px;cursor:pointer}
+  .ti + .ti{border-top:1px solid var(--line2)}
+  .ti:hover{background:var(--hi)}
+  .ti .tic{width:32px;height:32px;border-radius:9px;display:grid;place-items:center;flex:0 0 auto;background:color-mix(in srgb,var(--c) 13%,transparent);color:var(--c)}
+  .ti .tb{min-width:0;flex:1}
+  .ti .tt{display:block;font-weight:600;font-size:15.5px;line-height:1.3;color:var(--ink);text-decoration:none}
+  .ti .ts{display:flex;flex-wrap:wrap;gap:2px 12px;font-size:13px;color:var(--muted);margin-top:2px}
+  .ti .ts .k{font-weight:700;color:var(--c)}
+  .ti .tt{font-family:var(--serif);font-weight:600;letter-spacing:-.01em}
+  .ti .badges{margin-top:5px}
+  .ti .also{margin-top:2px}
+  .tline{padding:12px 16px;font-size:15px;line-height:1.5}
+  .tline + .tline{border-top:1px solid var(--line2)}
+  .tline .lab{font-weight:700}
+  .pills{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+  .pill{border:1px solid var(--chipline);background:var(--chip);border-radius:999px;padding:4px 11px;font-size:13.5px;font-weight:600;cursor:pointer}
+  .pill:hover{border-color:var(--sky)}
+  .pill b{color:var(--link);margin-left:3px}
+  .calm{padding:16px;color:var(--muted);font-size:15px}
+  .more-link{display:block;width:100%;text-align:left;border:0;border-top:1px solid var(--line2);background:none;padding:10px 16px;font-weight:700;font-size:14px;color:var(--link);cursor:pointer}
+  .more-link:hover{background:var(--hi)}
+  .tev{display:flex;gap:12px;align-items:center;padding:10px 14px;text-decoration:none}
+  .tev + .tev{border-top:1px solid var(--line2)}
+  .tev:hover{background:var(--hi)}
+  .tev .d{flex:0 0 auto;width:44px;text-align:center;border-radius:9px;background:var(--ice);color:var(--deep);line-height:1.05;padding:5px 0}
+  :root[data-theme="dark"] .tev .d{color:#cfe2f4}
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .tev .d{color:#cfe2f4}}
+  .tev .d small{display:block;font-size:10.5px;font-weight:700;text-transform:uppercase}
+  .tev .d b{font:700 18px var(--serif)}
+  .tev strong{display:block;font-size:14.5px;line-height:1.25}
+  .tev span.s{display:block;font-size:13px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:220px}
+  .gobig{display:inline-flex;align-items:center;gap:8px;margin-top:26px;border:0;background:var(--ink);color:var(--card);font-weight:700;font-size:15px;padding:12px 20px;border-radius:999px;cursor:pointer}
+  .gobig:hover{background:var(--deep);color:#fff}
+  .colpick{display:flex;gap:9px;align-items:center;padding:7px 10px;border-radius:8px;font-weight:600;font-size:14px;cursor:pointer}
+  .colpick:hover{background:var(--hi)}
+  .colpick i{width:10px;height:10px;border-radius:50%;display:inline-block}
+
+  /* ===== Dagoverzicht: tegels ===== */
+  .overview{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px;margin:18px 0 0}
+  .tile{position:relative;text-align:left;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:11px 14px 9px;box-shadow:var(--shadow);cursor:pointer;overflow:hidden;display:flex;flex-direction:column;min-height:104px}
+  .tile::before{content:'';position:absolute;inset:0 0 auto 0;height:3px;background:var(--c)}
+  .tile:hover{border-color:color-mix(in srgb,var(--c) 50%,var(--line))}
+  .tile[aria-pressed=true]{outline:2px solid var(--c);outline-offset:-2px}
+  .tile .lab{font-size:12.5px;font-weight:700;color:var(--muted);letter-spacing:.02em}
+  .tile .val{font:700 30px/1.1 var(--serif);margin-top:4px;color:var(--ink)}
+  .tile .sub{font-size:12.5px;color:var(--muted);margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .tile .spark{margin-top:auto;padding-top:6px;height:26px;width:100%;display:block}
+  .tile.lead{background:linear-gradient(135deg,#1b4e8e,#006dac);color:#fff;border-color:transparent}
+  .tile.lead .lab,.tile.lead .sub{color:#cfe2f4}
+  .tile.lead .val{color:#fff}
+  .tile.lead::before{display:none}
+  .tile.lead[aria-pressed=true]{outline-color:var(--orange)}
+
+  /* ===== Agenda: smalle strook ===== */
+  .agenda{display:flex;align-items:center;gap:12px;margin:14px 0 0;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:6px 8px 6px 14px;box-shadow:var(--shadow)}
+  .agl{display:flex;align-items:center;gap:7px;font:700 15px var(--serif);flex:0 0 auto;color:var(--ink)}
+  .agl svg{color:var(--sky)}
+  .evs{display:flex;gap:6px;overflow-x:auto;scrollbar-width:thin;scroll-snap-type:x proximity;min-width:0;padding:2px 0}
+  .ev{flex:0 0 auto;scroll-snap-align:start;display:flex;align-items:center;gap:9px;text-decoration:none;padding:6px 12px 6px 6px;border-radius:9px;max-width:360px}
+  .ev:hover{background:var(--hi)}
+  .ev .d{flex:0 0 auto;width:42px;text-align:center;border-radius:8px;background:var(--ice);color:var(--deep);line-height:1.05;padding:4px 0}
+  :root[data-theme="dark"] .ev .d{color:#cfe2f4}
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .ev .d{color:#cfe2f4}}
+  .ev .d small{display:block;font-size:10.5px;font-weight:700;text-transform:uppercase;letter-spacing:.04em}
+  .ev .d b{font:700 17px var(--serif)}
+  .ev .w{min-width:0;display:flex;flex-direction:column}
+  .ev .w strong{font-size:14px;line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .ev .w span{font-size:12.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .empty{color:var(--muted);font-size:14px;padding:8px 0}
+
+  /* ===== Kolommen ===== */
+  .board{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:14px;margin:18px 0 28px;align-items:start}
+  .col{background:var(--card);border-radius:16px;border:1px solid var(--line);box-shadow:var(--shadow);display:flex;flex-direction:column;max-height:calc(100vh - 86px);position:sticky;top:72px;overflow:hidden}
+  .colhead{padding:12px 14px 10px;border-bottom:1px solid var(--line);position:relative}
+  .colhead::before{content:'';position:absolute;inset:0 0 auto 0;height:4px;background:var(--c)}
+  .colhead .row{display:flex;align-items:center;gap:9px;margin-top:2px}
+  .colhead .ci{width:28px;height:28px;border-radius:8px;display:grid;place-items:center;background:color-mix(in srgb,var(--c) 14%,transparent);color:var(--c);flex:0 0 auto}
+  .colhead h2{font:700 19px/1.2 var(--serif);letter-spacing:-.01em;margin:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+  .colhead .n{margin-left:auto;flex:0 0 auto;white-space:nowrap;font-weight:700;font-size:12.5px;color:var(--muted)}
+  .colhead .n b{color:var(--link)}
+  .colhead p{display:none}
+  .tgl{display:flex;gap:6px;align-items:center;margin-top:6px;font-size:12.5px;color:var(--muted);cursor:pointer}
+  .list{overflow-y:auto;padding:0 0 6px;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+  .list::-webkit-scrollbar{width:6px}
+  .list::-webkit-scrollbar-thumb{background:var(--line);border-radius:6px}
+  .list:hover::-webkit-scrollbar-thumb{background:var(--chipline)}
+  .day{position:sticky;top:0;z-index:2;background:color-mix(in srgb,var(--card) 92%,transparent);backdrop-filter:blur(4px);font:700 13px var(--serif);color:var(--ink);padding:11px 14px 4px}
+
+  /* Stukken: drie soorten */
+  .it{position:relative;display:block;padding:8px 14px 8px 13px;border-left:3px solid transparent;cursor:pointer}
+  .it + .it, .bundle + .it, .it + .bundle{border-top:1px solid var(--line2)}
+  .it:hover{background:var(--hi)}
+  .it.sel{background:var(--hi);border-left-color:var(--sky)}
+  .it .t{display:block;font-weight:600;font-size:14.5px;line-height:1.28;text-decoration:none;color:var(--ink)}
+  .it .t:hover{color:var(--link)}
+  .kicker{display:flex;align-items:center;gap:5px;font-size:12.5px;font-weight:700;color:var(--c);margin-bottom:2px}
+  .kicker svg{width:14px;height:14px}
+  /* Uitgelicht: raadsvragen, moties, collegebesluiten, beantwoord, trefwoord, gewijzigd */
+  .it.hi{margin:8px 10px;padding:10px 12px;border:1px solid color-mix(in srgb,var(--c) 30%,var(--line));border-left:4px solid var(--c);border-radius:10px;background:color-mix(in srgb,var(--c) 5%,var(--card))}
+  .it.hi + .it, .it + .it.hi, .it.hi + .bundle{border-top:0}
+  .it.hi .t{font-size:15.5px;font-weight:700}
+  .it.hi:hover{background:color-mix(in srgb,var(--c) 9%,var(--card))}
+  .it.hi.changed{border-left-color:var(--orange)}
+  /* Routine: compacte regel met icoon */
+  .it.lo{display:flex;gap:10px;align-items:flex-start;padding:7px 14px 7px 13px}
+  .it.lo .ic{width:28px;height:28px;border-radius:8px;display:grid;place-items:center;background:color-mix(in srgb,var(--tc,var(--c)) 13%,transparent);color:var(--tc,var(--c));flex:0 0 auto;margin-top:1px}
+  .it.lo .ic svg{width:16px;height:16px}
+  .it.lo .body{min-width:0;flex:1}
+  .it.lo .t{font-weight:500;font-size:14px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  /* Nieuw sinds je bezoek: een stipje vóór de titel in plaats van een badge */
+  .it.fresh-it .t::before,.ti.isnew .tt::before{content:'';display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--rodi);margin-right:7px;vertical-align:2px}
+  .it.changed{border-left-color:var(--orange)}
+  .it.done{opacity:.5}
+  .it.done:hover{opacity:1}
+  .line{display:flex;flex-wrap:wrap;align-items:baseline;gap:2px 8px;margin-top:2px;font-size:12px}
+  .tm{font-weight:700;color:var(--link)}
+  .tm.found{color:var(--muted);font-weight:600}
+  .src2{font-weight:600;color:var(--ink)}
+  .when{font-weight:700;color:var(--orange)}
+  .pl{color:var(--muted);font-weight:600}
+  .it .m{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;color:var(--muted);font-size:12.5px;line-height:1.3;margin-top:2px}
+  .foot{display:flex;align-items:flex-start;gap:6px}
+  .badges{display:flex;gap:4px;flex-wrap:wrap;margin-top:5px;flex:1;min-width:0}
+  .badges:empty{margin-top:0}
+  .b{font-size:11.5px;font-weight:700;padding:0 7px;border-radius:999px;background:var(--ice);color:var(--link);line-height:1.65;white-space:nowrap}
+  .b.new{background:var(--deep);color:#fff}
+  .b.chg{background:var(--orange);color:#fff}
+  .b.ans{background:var(--greenbg);color:var(--greenink)}
+  .b.old{background:var(--line2);color:var(--muted)}
+  .b.gone{background:var(--redbg);color:var(--red)}
+  .b.kw{background:transparent;color:var(--amberink);box-shadow:inset 0 0 0 1.5px var(--orange)}
+  .b.done{background:var(--greenbg);color:var(--greenink)}
+  .b.att{background:transparent;color:var(--muted);box-shadow:inset 0 0 0 1px var(--chipline)}
+  .snip{display:block;margin-top:5px;font-size:13px;background:var(--hi);border-left:3px solid var(--sky);padding:4px 8px;border-radius:0 6px 6px 0}
+  .snip mark,.ptext mark{background:#ffe1b3;color:#1d1d1b;padding:0 1px;border-radius:2px}
+  .snip .via{display:block;font-size:11px;font-weight:700;color:var(--muted);margin-bottom:1px}
+  .also{display:block;margin-top:3px;font-size:12px;color:var(--muted);line-height:1.35}
+  .also a{color:var(--link);font-weight:600;text-decoration:none}
+  .acts{position:absolute;top:6px;right:8px;z-index:3;display:flex;background:var(--card);border:1px solid var(--line);border-radius:9px;box-shadow:var(--shadow);padding:1px;opacity:0;transition:opacity .12s}
+  .it:hover .acts,.acts:focus-within{opacity:1}
+  .acts.keep{opacity:1;background:transparent;border-color:transparent;box-shadow:none}
+  .it:hover .acts.keep{background:var(--card);border-color:var(--line);box-shadow:var(--shadow)}
+  .it:not(:hover) .acts.keep:not(:focus-within) button:not(.s){display:none}
+  .acts button{border:0;background:none;cursor:pointer;color:var(--faint);padding:3px 4px;border-radius:6px;display:flex}
+  .acts button:hover{background:var(--ice);color:var(--link)}
+  .acts svg{width:16px;height:16px}
+  .acts button.s[aria-pressed=true]{color:var(--orange)}
+  .acts button.s[aria-pressed=true] svg{fill:currentColor}
+  .acts button.k[aria-pressed=true]{color:var(--green)}
+
+  /* Bundel routinestukken */
+  .bundle summary{list-style:none;cursor:pointer;display:flex;gap:10px;align-items:flex-start;padding:9px 14px 9px 13px;border-left:3px solid transparent}
+  .bundle summary::-webkit-details-marker{display:none}
+  .bundle summary:hover{background:var(--hi)}
+  .bundle .count{flex:0 0 auto;min-width:28px;height:28px;padding:0 6px;border-radius:8px;display:grid;place-items:center;background:var(--c);color:#fff;font:700 14px var(--sans);margin-top:1px}
+  .bundle .bt{font-weight:700;font-size:14px;line-height:1.25}
+  .bundle .bp{display:block;font-size:12.5px;color:var(--muted);margin-top:1px}
+  .bundle .chev{margin-left:auto;color:var(--faint);transition:transform .15s;margin-top:3px}
+  .bundle[open] .chev{transform:rotate(90deg)}
+  .bundle[open] summary{border-bottom:1px dashed var(--line)}
+  .bundle .inner{background:var(--card2)}
+  .more{margin:8px 14px 12px;font-weight:600;font-size:14px;border:1px dashed var(--chipline);background:var(--card);border-radius:10px;padding:8px;cursor:pointer;color:var(--link);width:calc(100% - 28px)}
+
+  /* ===== Leesvenster ===== */
+  .scrim{position:fixed;inset:0;background:rgba(8,16,24,.35);z-index:90;opacity:0;pointer-events:none;transition:opacity .2s}
+  .scrim.on{opacity:1;pointer-events:auto}
+  .panel{position:fixed;top:0;right:0;bottom:0;width:min(500px,100vw);background:var(--card);z-index:100;box-shadow:-10px 0 40px rgba(0,0,0,.18);transform:translateX(102%);transition:transform .22s ease;display:flex;flex-direction:column;padding-top:env(safe-area-inset-top);visibility:hidden}
+  .panel.on{transform:none;visibility:visible}
+  .phead{display:flex;align-items:center;gap:10px;padding:14px 16px 12px;border-bottom:1px solid var(--line);position:relative}
+  .phead::before{content:'';position:absolute;inset:0 0 auto 0;height:4px;background:var(--c)}
+  .phead .k{font-size:13.5px;font-weight:700;color:var(--c);display:flex;gap:6px;align-items:center}
+  .phead button{margin-left:auto;border:0;background:var(--hi);width:34px;height:34px;border-radius:50%;cursor:pointer;display:grid;place-items:center}
+  .pbody{overflow-y:auto;padding:16px 20px calc(30px + env(safe-area-inset-bottom))}
+  .pbody h2{font:700 25px/1.18 var(--serif);letter-spacing:-.015em;margin:0 0 8px}
+  .facts{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;font-size:14px;margin:12px 0}
+  .facts dt{color:var(--muted)}
+  .facts dd{margin:0;font-weight:600}
+  .pacts{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 6px}
+  .btn{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--chipline);background:var(--chip);border-radius:10px;padding:8px 12px;font-weight:600;font-size:14px;cursor:pointer;text-decoration:none}
+  .btn:hover{border-color:var(--sky)}
+  .btn.primary{background:var(--deep);border-color:var(--deep);color:#fff}
+  .btn[aria-pressed=true].s{color:var(--orange);border-color:var(--orange)}
+  .btn[aria-pressed=true].s svg{fill:currentColor}
+  .btn[aria-pressed=true].k{color:var(--green);border-color:var(--green)}
+  .psec{margin-top:20px}
+  .psec h3{font:700 16px var(--serif);margin:0 0 6px}
+  .ptext{font-size:14.5px;line-height:1.55;background:var(--hi);border-radius:10px;padding:12px 14px;white-space:pre-line;max-height:360px;overflow:auto}
+  .plist a{display:flex;gap:8px;align-items:flex-start;color:var(--link);text-decoration:none;padding:7px 0;border-bottom:1px solid var(--line2);font-size:14px}
+  .plist a:hover{text-decoration:underline}
+  .pchg{border:1px solid var(--line);border-radius:10px;padding:8px 10px;margin-bottom:8px;font-size:13.5px}
+  .pchg b{color:var(--amberink)}
+  .pchg .p{color:var(--greenink)} .pchg .r{color:var(--red);text-decoration:line-through}
+
+  /* ===== Kaart ===== */
+  .mapwrap{margin:16px 0 28px;background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:var(--shadow)}
+  .maptools{display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:12px 16px;border-bottom:1px solid var(--line);font-size:14px}
+  .maptools select{padding:6px 8px;border:1px solid var(--chipline);border-radius:8px;background:var(--chip)}
+  .legend{display:flex;gap:12px;flex-wrap:wrap;color:var(--muted)}
+  .legend span{display:inline-flex;align-items:center;gap:5px}
+  .legend i{display:inline-grid;place-items:center;width:20px;height:20px;border-radius:50%;color:#fff}
+  .legend i svg{width:12px;height:12px}
+  #map{height:72vh;min-height:420px;background:var(--card2)}
+  .mapnote{padding:8px 16px;font-size:13px;color:var(--muted);border-top:1px solid var(--line)}
+  .pin{width:26px;height:26px;border-radius:50%;display:grid;place-items:center;color:#fff;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.35)}
+  .pin svg{width:14px;height:14px}
+  .marker-cluster-small,.marker-cluster-medium,.marker-cluster-large{background:rgba(0,109,172,.22)!important}
+  .marker-cluster-small div,.marker-cluster-medium div,.marker-cluster-large div{background:#1b4e8e!important;color:#fff;font:700 12px var(--sans)}
+  .leaflet-popup-content{font:14px/1.4 var(--sans)}
+  .leaflet-popup-content a{color:#006dac;font-weight:600}
+  :root[data-theme="dark"] .leaflet-tile-pane{filter:invert(1) hue-rotate(180deg) brightness(.85) contrast(.9)}
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .leaflet-tile-pane{filter:invert(1) hue-rotate(180deg) brightness(.85) contrast(.9)}}
+
+  /* ===== Bronnen ===== */
+  .status{margin:0 0 30px;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:6px 18px}
+  .status summary{cursor:pointer;font:700 17px var(--serif);padding:10px 0}
+  .srcs{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px;padding:6px 0 16px}
+  .src{border:1px solid var(--line);border-radius:12px;padding:10px 12px;font-size:14px}
+  .src b{display:flex;gap:8px;align-items:center}
+  .src b::before{content:'';width:9px;height:9px;border-radius:50%;background:var(--s)}
+  .src p{margin:4px 0 0;color:var(--muted);font-size:13px}
+  .src .err{color:var(--red)}
+  footer{color:var(--muted);font-size:13px;padding:0 0 30px}
+  .toast{position:fixed;left:50%;bottom:calc(24px + env(safe-area-inset-bottom));transform:translateX(-50%);background:var(--ink);color:var(--card);padding:9px 16px;border-radius:999px;font-weight:600;font-size:14px;z-index:200;opacity:0;transition:opacity .2s;pointer-events:none}
+  .toast.show{opacity:1}
+  .coltabs{display:none}
+
+  /* ===== Schermbreedtes ===== */
+  @media (max-width:1180px){.overview{grid-template-columns:repeat(3,minmax(0,1fr))}}
+  @media (max-width:1000px){.today{grid-template-columns:1fr;gap:22px}}
+  @media (max-width:1800px){.summary{display:none}}
+  @media (max-width:1000px){.top{flex-wrap:wrap}.gem{order:3;margin-left:0;width:100%}.gem a{flex:1;text-align:center}}
+  @media (max-width:760px){
+    .wrap{padding:0 14px}
+    .top{gap:12px;padding-top:12px;padding-bottom:12px}
+    .brand{flex:1}
+    .brand h1{font-size:21px}
+    .logo{height:34px}
+    .brand .eyebrow{letter-spacing:.3em;font-size:11px}
+    .tools{flex-wrap:wrap;gap:8px;padding-top:8px;padding-bottom:8px}
+    .search{flex:1 1 100%;max-width:none}
+    .chips{flex:1 1 100%}
+    .overview{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;margin:14px -14px 0;padding:0 14px 4px;scrollbar-width:none}
+    .overview::-webkit-scrollbar{display:none}
+    .tile{flex:0 0 46%;scroll-snap-align:start;min-height:104px}
+    .agenda{flex-direction:column;align-items:stretch;gap:4px;padding:8px}
+    .board{grid-template-columns:1fr;gap:0;margin-top:0}
+    .coltabs{display:flex;gap:6px;overflow-x:auto;padding:14px 0 10px;scrollbar-width:none}
+    .coltabs button{flex:0 0 auto;font-weight:600;font-size:14px;border:1.5px solid var(--c);background:var(--card);padding:7px 12px;border-radius:999px;cursor:pointer}
+    .coltabs button[aria-pressed=true]{background:var(--c);color:#fff}
+    .coltabs button[data-c=med][aria-pressed=true]{color:var(--card)}
+    .coltabs small{font-weight:700;opacity:.75;margin-left:4px}
+    .col{position:static;max-height:none}
+    .col:not(.on){display:none}
+    .today{margin-top:14px}
+    .hero{padding:24px 20px 20px;border-radius:20px}
+    .hero::after{width:300px;height:300px;right:-120px;opacity:.45}
+    .leadcard{padding:18px}
+    .ti{padding:11px 13px}
+    .acts,.acts.keep,.it:hover .acts.keep{position:static;opacity:1;background:none;border:0;box-shadow:none;align-self:flex-start;margin-left:auto}
+    .acts button:not(.s){display:none!important}
+  }
+  @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<header class="band">
+  <div class="wrap top">
+    <div class="brand">
+      <img class="logo light" src="rodi-logo.png" alt="Rodi Media" width="150" height="51">
+      <img class="logo dark" src="rodi-logo-dark.png" alt="Rodi Media" width="150" height="51">
+      <span class="sep" aria-hidden="true"></span>
+      <div>
+        <h1 id="title">Laden…</h1>
+        <div class="eyebrow">Gemeentemonitor<span class="fresh" id="fresh" hidden></span></div>
+      </div>
+    </div>
+    <nav class="gem" id="tabs" aria-label="Gemeente" hidden></nav>
+    <button class="iconbtn" id="theme" title="Thema" aria-label="Thema wisselen"></button>
+  </div>
+</header>
+
+<div class="toolbar">
+  <div class="wrap tools">
+    <label class="search">
+      <svg class="i" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Zoek in titels én in de tekst van stukken" aria-label="Zoeken">
+    </label>
+    <div class="chips" id="chips" role="group" aria-label="Filter">
+      <button class="chip" data-k="" aria-pressed="true">Alles</button>
+      <button class="chip" data-k="nieuw" aria-pressed="false" title="Binnengekomen sinds je vorige bezoek">Nieuw</button>
+      <button class="chip" data-k="gewijzigd" aria-pressed="false">Gewijzigd</button>
+      <button class="chip" data-k="trefwoord" aria-pressed="false" id="kwchip">Trefwoorden</button>
+      <button class="chip" data-k="mijn" aria-pressed="false" id="mijnchip" title="Stukken die je met een ster hebt bewaard (in deze browser)">★ Mijn lijst</button>
+      <details class="menu" id="moremenu">
+        <summary class="chip" id="moresum">Meer ▾</summary>
+        <div class="pop">
+          <button data-k="beantwoord" aria-pressed="false">Beantwoorde raadsvragen</button>
+          <button data-k="verwijderd" aria-pressed="false">Verdwenen stukken</button>
+          <button data-k="sinds" aria-pressed="false">Nieuw of gewijzigd sinds vorig bezoek</button>
+          <button data-k="opgepakt" aria-pressed="false">Opgepakt (vinkje)</button>
+        </div>
+      </details>
+      <select id="dorp" aria-label="Kern"><option value="">Alle kernen</option></select>
+      <details class="menu" id="colmenu">
+        <summary class="chip" title="Kies welke kolommen je ziet">Kolommen ▾</summary>
+        <div class="pop" id="colpop"></div>
+      </details>
+      <div class="seg" role="group" aria-label="Weergave" id="viewseg">
+        <button data-v="vandaag" aria-pressed="true"><svg class="i" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2.5M12 19v2.5M2.5 12H5M19 12h2.5M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8"/></svg>Vandaag</button>
+        <button data-v="lijst" aria-pressed="false"><svg class="i" viewBox="0 0 24 24"><path d="M4 5v14M10 5v14M16 5v14M21 5v14"/></svg>Kolommen</button>
+        <button data-v="kaart" aria-pressed="false"><svg class="i" viewBox="0 0 24 24"><path d="M9 4L3 6v14l6-2 6 2 6-2V4l-6 2z"/><path d="M9 4v14M15 6v14"/></svg>Kaart</button>
+      </div>
+    </div>
+    <span class="summary" id="summary">Laden…</span>
+  </div>
+</div>
+
+<main class="wrap">
+  <div id="stale"></div>
+  <section class="today" id="today" hidden aria-label="Vandaag"></section>
+  <div class="coltabs" id="coltabs" role="group" aria-label="Kolom"></div>
+  <div class="board" id="board"></div>
+  <section class="mapwrap" id="mapwrap" hidden aria-label="Kaart van bekendmakingen">
+    <div class="maptools">
+      <label>Periode <select id="period">
+        <option value="7">afgelopen week</option>
+        <option value="30" selected>afgelopen 30 dagen</option>
+        <option value="90">afgelopen 3 maanden</option>
+        <option value="9999">alles vanaf 2026</option>
+      </select></label>
+      <span class="legend" id="legend"></span>
+      <span id="mapcount" style="margin-left:auto"></span>
+    </div>
+    <div id="map"></div>
+    <p class="mapnote">Bekendmakingen met een plek: het kaartpunt van KOOP zelf, of het adres uit de titel opgezocht via PDOK. Stukken zonder adres (bijv. verordeningen) staan niet op de kaart. Zoeken, filters en het dorpfilter werken ook hier. Achtergrondkaart en gemeentegrens: Kadaster / PDOK.</p>
+  </section>
+  <details class="status">
+    <summary>Bronnen: wat wordt wel en niet gevolgd</summary>
+    <div class="srcs" id="status"></div>
+  </details>
+  <footer>Experimentele monitor. Detecteert wat hij kan ophalen; geen garantie op volledigheid. Een oud stuk dat pas nu gevonden is, krijgt het label ‘historisch’. Sterren, vinkjes en ‘vorig bezoek’ worden alleen in deze browser onthouden.</footer>
+</main>
+
+<div class="scrim" id="scrim"></div>
+<aside class="panel" id="panel" aria-label="Leesvenster" aria-hidden="true"></aside>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+// Datum in Nederlandse tijd (YYYY-MM-DD), ook rond middernacht goed.
+const dayNL = s => new Date(s).toLocaleDateString('sv-SE',{timeZone:'Europe/Amsterdam'});
+const TODAY = dayNL(Date.now());
+const YESTERDAY = dayNL(Date.now() - 864e5);
+const daysAgo = n => dayNL(Date.now() - n * 864e5);
+const day = s => s ? String(s).slice(0,10) : '';
+const dt = s => new Date(day(s)+'T12:00:00');
+const nl = (s,o={day:'numeric',month:'long',year:'numeric'}) => s ? dt(s).toLocaleDateString('nl-NL',o) : 'onbekend';
+const diff = (a,b) => (new Date(a)-new Date(b))/864e5;
+const hm = s => new Date(s).toLocaleTimeString('nl-NL',{hour:'2-digit',minute:'2-digit',timeZone:'Europe/Amsterdam'});
+const cap = s => s ? s[0].toUpperCase() + s.slice(1) : s;
+const store = {
+  get(k, d = null){ try { const v = localStorage.getItem(k); return v === null ? d : v; } catch (e) { return d; } },
+  set(k, v){ try { localStorage.setItem(k, v); } catch (e) {} },
+};
+
+// ---------------------------------------------------------------------------
+// Iconen (eigen lijntekeningen, 24x24)
+// ---------------------------------------------------------------------------
+const P = {
+  bouw: '<path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M10 20v-6h4v6"/>',
+  boom: '<path d="M12 21v-5"/><path d="M12 3l6 9h-3l4 5H5l4-5H6z"/>',
+  melding: '<path d="M6 9a6 6 0 0 1 12 0c0 6 2.5 8 2.5 8h-17S6 15 6 9"/><path d="M10 20.5a2 2 0 0 0 4 0"/>',
+  evenement: '<path d="M5 21V4"/><path d="M5 4h12l-2.5 4L17 12H5"/>',
+  verkeer: '<path d="M12 3l9.5 17h-19z"/><path d="M12 10v4.5"/><path d="M12 17.3v.2"/>',
+  regel: '<path d="M5 4h9l5 5v11H5z"/><path d="M14 4v5h5"/><path d="M8.5 13h7M8.5 16.5h5"/>',
+  plan: '<path d="M9 4L3 6v14l6-2 6 2 6-2V4l-6 2z"/><path d="M9 4v14M15 6v14"/>',
+  persoon: '<circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/>',
+  doc: '<path d="M6 3h8l5 5v13H6z"/><path d="M14 3v5h5"/>',
+  vraag: '<path d="M4 5h16v11H9l-5 4z"/><path d="M10 9a2 2 0 1 1 2.6 1.9c-.4.2-.6.5-.6.9v.4"/><path d="M12 13.8v.1"/>',
+  motie: '<path d="M7 11V5.5a1.5 1.5 0 0 1 3 0V10m0-3.5a1.5 1.5 0 0 1 3 0V10m0-2.5a1.5 1.5 0 0 1 3 0V11m0-1.5a1.5 1.5 0 0 1 3 0V15a6 6 0 0 1-6 6h-1a6 6 0 0 1-5-2.7L4.3 14.6a1.6 1.6 0 0 1 2.6-1.8L7 13"/>',
+  raad: '<path d="M3 21h18"/><path d="M5 21V10M9.5 21V10M14.5 21V10M19 21V10"/><path d="M2.5 10L12 4l9.5 6z"/>',
+  college: '<path d="M8 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM16 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/><path d="M2.5 20a5.5 5.5 0 0 1 11 0M10.5 20a5.5 5.5 0 0 1 11 0"/>',
+  nieuws: '<path d="M3 10v4h3l7 5V5L6 10z"/><path d="M16.5 8.5a5 5 0 0 1 0 7"/>',
+  media: '<path d="M4 5h13v14H6a2 2 0 0 1-2-2z"/><path d="M17 9h3v8a2 2 0 0 1-2 2"/><path d="M7.5 9h6M7.5 12.5h6M7.5 16h4"/>',
+  bek: '<path d="M4 4h16v16H4z"/><path d="M8 9h8M8 13h8M8 17h5"/>',
+  kal: '<rect x="3.5" y="5" width="17" height="15" rx="2"/><path d="M3.5 10h17M8 3v4M16 3v4"/>',
+  ster: '<path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8-4.3-4.1 5.9-.9z"/>',
+  vink: '<path d="M4.5 12.5l5 5 10-11"/>',
+  kopie: '<rect x="8" y="8" width="12" height="13" rx="2"/><path d="M16 8V5a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v11a2 2 0 0 0 2 2h2"/>',
+  uit: '<path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/>',
+  sluit: '<path d="M6 6l12 12M18 6L6 18"/>',
+  clip: '<path d="M20 11.5l-7.8 7.8a5 5 0 0 1-7-7l8.2-8.2a3.3 3.3 0 0 1 4.7 4.7l-8.2 8.2a1.7 1.7 0 0 1-2.4-2.4l7.4-7.4"/>',
+  chev: '<path d="M9 6l6 6-6 6"/>',
+  zon: '<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>',
+  maan: '<path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/>',
+  auto: '<circle cx="12" cy="12" r="8.5"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/>',
+};
+const ic = (k, cls = 'i') => `<svg class="${cls}" viewBox="0 0 24 24" aria-hidden="true">${P[k] || P.doc}</svg>`;
+
+// ---------------------------------------------------------------------------
+// Vijf kolommen in de logokleuren
+// ---------------------------------------------------------------------------
+const COLS = [
+  {id:'bek',  title:'Bekendmakingen', icon:'bek', color:'#006dac', note:'Vergunningen, verordeningen en besluiten uit het Gemeenteblad (KOOP)',
+   test:x => x.source === 'Officiele bekendmakingen (KOOP)'},
+  {id:'raad', title:'Raad', icon:'raad', color:'#1b4e8e', note:'Raadsstukken, moties en amendementen (via Open Raadsinformatie, kan achterlopen)',
+   test:x => x.source === 'Raadsinformatie (ORI)' && x.kind !== 'vergadering'},
+  {id:'col',  title:'College', icon:'college', color:'#f18700', note:'Besluiten en besluitenlijsten van burgemeester en wethouders',
+   test:x => ['Collegebesluiten','Raadsstukken','Raadsportaal'].includes(x.source) && x.kind !== 'vergadering'},
+  {id:'nws',  title:'Nieuws en Woo', icon:'nieuws', color:'#5498cf', note:'Nieuwsberichten van de gemeente en openbaar gemaakte informatie',
+   test:x => ['Nieuws','Woo-verzoeken','Openbare informatie'].includes(x.source)},
+  {id:'med',  title:'In de media', icon:'media', color:'var(--media)', note:'Artikelen over de gemeente en haar dorpen, via Google Nieuws',
+   test:x => x.source === 'In de media'},
+];
+const colOf = x => COLS.find(c => c.test(x)) || COLS[3];
+const STATUS_COLOR = s => s.includes('KOOP') ? '#006dac' : /Raad/.test(s) ? '#1b4e8e' : /College/.test(s) ? '#f18700' : /media/.test(s) ? '#3b4650' : /Document/.test(s) ? '#1d1d1b' : '#5498cf';
+const PAGE = 60;
+let DATA = null, filter = '', shown = {};
+const cache = {};
+
+// ---------------------------------------------------------------------------
+// Vorig bezoek. 'Nieuw' = binnengekomen sinds je vorige bezoek (onthouden in deze browser).
+// Binnen één sessie blijft het ijkpunt gelijk, zodat herladen de labels niet wist.
+// ---------------------------------------------------------------------------
+// Een 'bezoek' eindigt als je het dashboard 30 minuten niet hebt bekeken (tabblad weg of op de
+// achtergrond). Zolang je erop zit, telt 'nieuw' vanaf het begin van dit bezoek. Kom je na een
+// pauze terug, ook in een tabblad dat open bleef, dan begint er een nieuw bezoek.
+const PAUSE = 30 * 6e4;
+let FIRST_VISIT = false;
+function visitBase(){
+  const now = Date.now();
+  try {
+    const last = Date.parse(localStorage.getItem('gm-last') || '');
+    let base = Date.parse(localStorage.getItem('gm-base') || '');
+    if (!last) { base = now - 864e5; FIRST_VISIT = true; }
+    else if (now - last > PAUSE || !base) base = last;
+    localStorage.setItem('gm-base', new Date(base).toISOString());
+    localStorage.setItem('gm-last', new Date(now).toISOString());
+    return new Date(base).toISOString();
+  } catch (e) { FIRST_VISIT = true; return new Date(now - 864e5).toISOString(); }
+}
+let VISIT = visitBase();
+let VISIT_MS = new Date(VISIT).getTime();
+// Bijhouden dat je kijkt: elke minuut zolang het dashboard zichtbaar is, en bij weggaan.
+const seen = () => { try { localStorage.setItem('gm-last', new Date().toISOString()); } catch (e) {} };
+setInterval(() => { if (document.visibilityState === 'visible') seen(); }, 6e4);
+addEventListener('pagehide', seen);
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'hidden') { seen(); return; }
+  // Terug na een pauze? Dan een nieuw bezoek: 'nieuw' telt vanaf je vorige keer kijken.
+  const before = VISIT;
+  VISIT = visitBase(); VISIT_MS = new Date(VISIT).getTime();
+  if (VISIT !== before) resetVisit();
+});
+function resetVisit(){
+  Object.values(cache).forEach(d => d.items.forEach(x => { x._k = null; }));
+  if (DATA) render();
+}
+// 'Alles gezien': vanaf nu telt alleen wat er hierna binnenkomt als nieuw.
+function markAllSeen(){
+  const now = new Date().toISOString();
+  try { localStorage.setItem('gm-base', now); localStorage.setItem('gm-last', now); } catch (e) {}
+  VISIT = now; VISIT_MS = Date.parse(now); FIRST_VISIT = false; resetVisit();
+}
+const after = s => !!s && new Date(s).getTime() > VISIT_MS;
+const chgSince = x => (x.changes || []).some(c => after(c.at));
+
+function kinds(x){
+  if (x._k) return x._k;
+  const t = [], f = day(x.first_seen);
+  if (x.doc_date && x.doc_date > TODAY) t.push('gepland');
+  else if (x.doc_date && diff(f, x.doc_date) > 30) t.push('historisch');
+  if (after(x.first_seen) && !t.includes('historisch')) t.push('nieuw');
+  if (t.includes('nieuw') || chgSince(x)) t.push('sinds');
+  if (x.last_change) t.push('gewijzigd');
+  if (x.antwoord_datum) t.push('beantwoord');
+  if (x.removed) t.push('verwijderd');
+  if (x.kw_hits) t.push('trefwoord');
+  return (x._k = t);
+}
+
+// ---------------------------------------------------------------------------
+// Soort stuk: label, icoon, en of het uitgelicht (belangrijk) of routine is.
+// ---------------------------------------------------------------------------
+function typeInfo(x){
+  if (x._type) return x._type;
+  const t = (x.title || '').toLowerCase(), r = x.rapport || '', k = x.koop_type || '';
+  let label = '', icon = 'doc', tc = null, routine = false, important = false;
+  if (x.source === 'Officiele bekendmakingen (KOOP)') {
+    label = cap(k) || 'Bekendmaking';
+    if (/\bkap(pen)?\b|vellen|houtopstand|\bbo(o)?m(en)?\b/.test(t)) { icon = 'boom'; tc = '#2e9a5a'; }
+    else if (/verkeer/.test(k)) { icon = 'verkeer'; tc = '#f18700'; }
+    else if (/evenement/.test(k)) { icon = 'evenement'; tc = '#c2410c'; }
+    else if (/melding/.test(k)) { icon = 'melding'; tc = '#5498cf'; }
+    else if (/omgevingsvergunning|andere vergunning/.test(k)) { icon = 'bouw'; tc = '#006dac'; }
+    else if (/verordening|beleidsregel|algemene strekking|mandaat/.test(k)) { icon = 'regel'; important = true; }
+    else if (/ruimtelijk plan|omgevingsdocument/.test(k)) { icon = 'plan'; important = true; }
+    else if (/basisregistratie personen/.test(k)) { icon = 'persoon'; tc = '#6b7785'; }
+    else { icon = 'doc'; tc = '#1b4e8e'; }
+    routine = !important;
+  } else if (x.source === 'Raadsinformatie (ORI)') {
+    // Eerst het overzicht waar het in staat: 'Raadsvragen over amendement 39' is een raadsvraag.
+    if (/vragen/i.test(r)) { label = r; icon = 'vraag'; important = true; }
+    else if (/^amendement/i.test(t) || /^amendementen$/i.test(r)) { label = 'Amendement'; icon = 'motie'; important = true; }
+    else if (/motie/i.test(t) || /motie/i.test(r)) { label = /amendement/i.test(t) ? 'Amendement' : 'Motie'; icon = 'motie'; important = true; }
+    else if (/raadsvoorstel/i.test(t)) { label = 'Raadsvoorstel'; icon = 'raad'; important = true; }
+    else if (/informatienota/i.test(r)) { label = 'Informatienota'; icon = 'doc'; important = true; }
+    else if (/raadsinformatiebrie/i.test(r)) { label = 'Raadsinformatiebrief'; icon = 'doc'; important = true; }
+    else if (/rekenkamer/i.test(r)) { label = 'Rekenkamer'; icon = 'doc'; important = true; }
+    else if (r && !/raadsportaal/i.test(r)) { label = r; icon = 'doc'; }
+    else { label = x.kind === 'raadsdocument' ? 'Vergaderstuk' : 'Raad'; icon = 'raad'; }
+  } else if (x.source === 'Raadsstukken' || x.source === 'Raadsportaal') {
+    // Alkmaar: het iBabs-portaal bevat alleen collegestukken (openbare besluitenlijsten B&W).
+    label = /besluitenlijst/i.test(r + ' ' + t) ? 'Besluitenlijst' : 'Collegestuk'; icon = 'college'; important = label === 'Besluitenlijst';
+  } else if (x.source === 'Collegebesluiten') {
+    label = x.kind === 'besluitenlijst' ? 'Besluitenlijst' : x.kind === 'collegeagenda' ? 'Collegeagenda' : x.kind === 'collegebesluit' ? 'Collegebesluit' : 'College';
+    icon = 'college'; important = x.kind === 'besluitenlijst';
+  } else if (x.source === 'In de media') { label = ''; icon = 'media'; }
+  else if (x.source === 'Nieuws') { label = 'Nieuws gemeente'; icon = 'nieuws'; }
+  else { label = x.source === 'Woo-verzoeken' ? 'Woo-verzoek' : x.source; icon = 'doc'; }
+  return (x._type = {label, icon, tc, routine, important});
+}
+// Uitgelicht: belangrijke soort, of er is iets gebeurd (beantwoord, trefwoord, gewijzigd sinds je bezoek).
+// Gekleurde kaart alleen als er écht iets is: beantwoord, trefwoord of gewijzigd sinds je bezoek.
+const isHi = x => !!x.antwoord_datum || !!x.kw_hits || chgSince(x);
+const isLo = x => typeInfo(x).routine && !isHi(x);
+// Belangrijk voor 'Dit moet je zien': belangrijke soort óf er is iets gebeurd.
+const isKey = x => typeInfo(x).important || isHi(x);
+
+function badges(x){
+  const k = kinds(x), out = [];
+  if (mark(x.id, 'k')) out.push('<span class="b done">Opgepakt</span>');
+  if (k.includes('gewijzigd')) out.push('<span class="b chg">Gewijzigd</span>');
+  if (k.includes('beantwoord')) out.push(`<span class="b ans">Beantwoord ${nl(x.antwoord_datum,{day:'numeric',month:'short'})}</span>`);
+  if (k.includes('verwijderd')) out.push('<span class="b gone">Niet meer online</span>');
+  if (k.includes('historisch')) out.push('<span class="b old">Historisch</span>');
+  (x.kw_hits || []).forEach(w => out.push(`<span class="b kw" title="Trefwoord uit trefwoorden.txt">${esc(w)}</span>`));
+  if (x.besluit_status) out.push(`<span class="b">${esc(x.besluit_status)}</span>`);
+  if (x.bijlagen && x.bijlagen.length) out.push(`<span class="b att" title="Bijlagen">📎 ${x.bijlagen.length}</span>`);
+  if (x.media_match === 'tekst') out.push('<span class="b old" title="De plaatsnaam staat niet in de kop, maar wel in het artikel.">plaats alleen in de tekst</span>');
+  return `<span class="badges">${out.join('')}</span>`;
+}
+
+// Tijd: echte publicatietijd van de bron, of anders wanneer de monitor het stuk vond.
+function timeLabel(x){
+  if (x.published_at) return `<span class="tm">${x.source === 'In de media' ? '' : 'gepubliceerd '}${hm(x.published_at)}</span>`;
+  if (x.first_seen && !kinds(x).includes('historisch'))
+    return `<span class="tm found" title="De bron geeft geen publicatietijd; dit is wanneer de monitor het stuk vond.">gevonden ${dayNL(x.first_seen) === x._d ? '' : nl(dayNL(x.first_seen),{day:'numeric',month:'short'}) + ' '}${hm(x.first_seen)}</span>`;
+  return '';
+}
+// Hoort het stuk bij een latere datum (bijv. een vergadering volgende maand)? Dan die datum erbij.
+function laterDate(x){
+  if (!x.doc_date || !x._d || x.doc_date <= x._d) return '';
+  const wat = x.meeting_title || /vergader/.test(x.doc_date_label || '') ? 'vergadering' : (x.doc_date_label || 'datum');
+  return `<span class="when">${esc(wat)} ${nl(x.doc_date,{weekday:'short',day:'numeric',month:'short'})}</span>`;
+}
+function line(x){
+  const parts = [timeLabel(x), x.media_bron ? `<span class="src2">${esc(x.media_bron)}</span>` : '',
+                 x._plaats && isLo(x) && !norm(x.title).includes(norm(x._plaats)) ? `<span class="pl">${esc(x._plaats)}</span>` : '', laterDate(x)].filter(Boolean);
+  return parts.length ? `<span class="line">${parts.join('')}</span>` : '';
+}
+function meta(x){
+  const parts = [];
+  // Adres alleen als het niet al in de titel staat.
+  if (x.locatie && !/^(lijn|punt|vlak|gebied)\s*\d*$/i.test(x.locatie) && !norm(x.title).includes(norm(x.locatie))) parts.push(esc(x.locatie));
+  if (x.meeting_title) parts.push(esc(x.meeting_title.replace(/\s+(maandag|dinsdag|woensdag|donderdag|vrijdag|zaterdag|zondag)?\s*\d{1,2}\s+[a-z]+\s+\d{4}.*$/i,'')));
+  if (x.agendapunt) parts.push('agendapunt ' + esc(x.agendapunt));
+  if (x.n_meetings) parts.push(`ook in ${x.n_meetings-1} andere vergadering${x.n_meetings>2?'en':''}`);
+  if (x.portefeuillehouder) parts.push(esc(x.portefeuillehouder));
+  return parts.length ? `<span class="m">${parts.join(', ')}</span>` : '';
+}
+
+// ---------------------------------------------------------------------------
+// Markeren (ster = Mijn lijst, vinkje = opgepakt). Bewaard in deze browser.
+// ---------------------------------------------------------------------------
+let MARKS = {};
+try { MARKS = JSON.parse(store.get('gm-marks', '{}')) || {}; } catch (e) {}
+const mark = (id, k) => !!(MARKS[id] && MARKS[id][k]);
+function toggleMark(id, k){
+  const m = MARKS[id] || (MARKS[id] = {});
+  if (m[k]) delete m[k]; else m[k] = new Date().toISOString().slice(0, 10);
+  if (!Object.keys(m).length) delete MARKS[id];
+  store.set('gm-marks', JSON.stringify(MARKS));
+}
+function acts(x){
+  const s = mark(x.id, 's'), k = mark(x.id, 'k');
+  return `<span class="acts${s ? ' keep' : ''}">`
+    + `<button class="s" data-a="s" data-id="${x.id}" aria-pressed="${s}" title="${s ? 'Uit Mijn lijst halen' : 'Bewaren in Mijn lijst'}" aria-label="Bewaren">${ic('ster')}</button>`
+    + `<button class="k" data-a="k" data-id="${x.id}" aria-pressed="${k}" title="${k ? 'Niet meer als opgepakt markeren' : 'Markeren als opgepakt'}" aria-label="Opgepakt">${ic('vink')}</button>`
+    + `<button data-a="c" data-id="${x.id}" title="Bronvermelding kopiëren" aria-label="Bron kopiëren">${ic('kopie')}</button></span>`;
+}
+
+// ---------------------------------------------------------------------------
+// Bronvermelding kopiëren: ‘titel’ – bron, datum. link
+// ---------------------------------------------------------------------------
+function bronNaam(x){
+  const g = 'gemeente ' + DATA.naam;
+  if (x.source === 'In de media') return x.media_bron || 'Google Nieuws';
+  if (x.source === 'Officiele bekendmakingen (KOOP)') return (x.koop_type ? cap(x.koop_type) + ', ' : '') + 'officiële bekendmaking ' + g;
+  if (x.source === 'Collegebesluiten') return 'College van B&W, ' + g;
+  if (x.source === 'Raadsstukken' || x.source === 'Raadsportaal')
+    return (x.rapport && !/raadsportaal/i.test(x.rapport) ? x.rapport : 'Bestuurlijke informatie') + ', ' + g;
+  if (x.source === 'Raadsinformatie (ORI)') return 'Raadsinformatie ' + g + ' (via Open Raadsinformatie)';
+  if (x.source === 'Nieuws') return 'Nieuwsbericht ' + g;
+  return x.source + ', ' + g;
+}
+function citation(x){
+  const lang = {day:'numeric', month:'long', year:'numeric', timeZone:'Europe/Amsterdam'};
+  let datum = '';
+  if (x.published_at) datum = new Date(x.published_at).toLocaleDateString('nl-NL', lang);
+  else if (x.doc_date) {
+    const label = (x.doc_date_label || '').replace(/\s*\(KOOP\)/, '');
+    datum = (label && !/publicatie/.test(label) ? label + ' ' : '') + dt(x.doc_date).toLocaleDateString('nl-NL', lang);
+  }
+  return `‘${x.title}’ – ${bronNaam(x)}${datum ? ', ' + datum : ''}. ${x.url}`;
+}
+let toastTimer;
+function toast(msg){
+  const t = $('toast'); t.textContent = msg; t.classList.add('show');
+  clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.remove('show'), 2200);
+}
+async function copyText(text){
+  try { await navigator.clipboard.writeText(text); return true; } catch (e) {}
+  const ta = document.createElement('textarea'); ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+  document.body.appendChild(ta); ta.select();
+  let ok = false; try { ok = document.execCommand('copy'); } catch (e) {}
+  ta.remove(); return ok;
+}
+
+// 'Ook bij': hetzelfde nieuws bij andere media (zie clusterMedia).
+function also(x){
+  if (!x._also || !x._also.length) return '';
+  const when = y => y._d === x._d ? hm(y.published_at || y.first_seen) : nl(y._d,{weekday:'short'}) + ' ' + hm(y.published_at || y.first_seen);
+  return `<span class="also">Ook bij: ${x._also.map(y => `<a href="${esc(y.url)}" target="_blank" rel="noopener" title="${esc(y.title)}">${esc(y.media_bron || 'onbekend')}</a> (${when(y)})`).join(', ')}</span>`;
+}
+
+// ---------------------------------------------------------------------------
+// Eén stuk in een kolom: uitgelicht (hi), gewoon, of routine (lo, compact met icoon).
+// ---------------------------------------------------------------------------
+function item(x, col){
+  const viaText = SEARCH.hits && SEARCH.hits.has(x._i) && !titleMatch(x, SEARCH.q);
+  const k = kinds(x), ti = typeInfo(x);
+  const cls = (mark(x.id, 'k') ? ' done' : chgSince(x) ? ' changed' : k.includes('nieuw') ? ' fresh-it' : '') + (PANEL_ID === x.id ? ' sel' : '');
+  const snip = viaText && x.tx ? `<span class="snip" data-id="${x.id}"><span class="via">Gevonden in de tekst</span>…</span>` : '';
+  const title = `<a class="t" href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a>`;
+  if (isLo(x)) {
+    const showBadges = mark(x.id, 'k') || k.some(v => ['gewijzigd', 'historisch', 'verwijderd'].includes(v));
+    return `<article class="it lo${cls}" data-id="${x.id}" style="--tc:${ti.tc || col.color}">
+      <span class="ic" title="${esc(ti.label)}">${ic(ti.icon)}</span>
+      <div class="body">${title}${line(x)}${snip}${showBadges ? badges(x) : ''}</div>${acts(x)}</article>`;
+  }
+  const hi = isHi(x);
+  // Label alleen als het iets vertelt (Motie, Raadsvragen, Verordening), niet 'Collegebesluit' in de kolom College.
+  const kicker = ti.label && ti.important ? `<span class="kicker">${ic(ti.icon)}${esc(ti.label)}</span>` : '';
+  return `<article class="it${hi ? ' hi' : ''}${cls}" data-id="${x.id}">${kicker}${title}${line(x)}${meta(x)}${also(x)}${snip}
+    <div class="foot">${badges(x)}${acts(x)}</div></article>`;
+}
+
+// ---------------------------------------------------------------------------
+// Zoeken in de tekst van stukken. De zoekindex is per gemeente verdeeld op de eerste twee letters
+// (search/<gemeente>/<xx>.json: woord -> volgnummers). Alleen de benodigde stukjes worden geladen.
+// ---------------------------------------------------------------------------
+const SEARCH = {q: '', hits: null};
+const shardCache = {}, textCache = {};
+const norm = s => String(s || '').normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase();
+const qTokens = q => norm(q).match(/[a-z0-9]+/g)?.filter(t => t.length >= 3 || (/^\d+$/.test(t) && t.length >= 2)) || [];
+const titleMatch = (x, q) => !q || norm(x.title + ' ' + (x.excerpt || '') + ' ' + (x.locatie || '') + ' ' + (x.plaats || '')).includes(norm(q));
+const getText = id => (id in textCache) ? textCache[id] : (textCache[id] = fetch(`text/${id}.txt`).then(r => r.ok ? r.text() : '').catch(() => ''));
+
+async function shard(g, key){
+  const id = g + '/' + key;
+  if (!(id in shardCache)) {
+    shardCache[id] = fetch(`search/${g}/${key}.json?v=${encodeURIComponent(DATA.generated)}`)
+      .then(r => r.ok ? r.json() : {}).catch(() => ({}));
+  }
+  return shardCache[id];
+}
+async function textSearch(q){
+  const toks = qTokens(q);
+  if (!toks.length) return null;
+  let result = null;
+  for (const t of toks) {
+    const words = await shard(DATA.gemeente, t.slice(0, 2));
+    const ids = new Set();
+    // Vanaf 4 tekens ook woorden die ermee beginnen: 'bloesem' vindt 'bloesemgaerde'.
+    for (const [w, list] of Object.entries(words)) {
+      if (w === t || (t.length >= 4 && w.startsWith(t))) list.forEach(i => ids.add(i));
+    }
+    result = result ? new Set([...result].filter(i => ids.has(i))) : ids;
+    if (!result.size) break;
+  }
+  return result;
+}
+// Tekstfragment rond de eerste treffer, met de zoekwoorden gemarkeerd.
+function fragment(text, toks, before = 90, afterN = 110){
+  text = text.replace(/\s+/g, ' ');
+  let flat = '', map = [];
+  for (let i = 0; i < text.length; i++) { const n = norm(text[i]); for (let j = 0; j < n.length; j++) { flat += n[j]; map.push(i); } }
+  let pos = -1, len = 0;
+  for (const t of toks) { const m = new RegExp('(?<![a-z0-9])' + t).exec(flat); if (m) { pos = m.index; len = t.length; break; } }
+  if (pos < 0) return null;
+  const a = map[pos], b = map[Math.min(pos + len, map.length) - 1] + 1;
+  const from = Math.max(0, a - before), to = Math.min(text.length, b + afterN);
+  let frag = esc(text.slice(from, to));
+  for (const t of toks) {
+    frag = frag.replace(new RegExp('(?<![\\p{L}\\p{N}])(' + t.split('').map(c => c.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\p{M}*').join('') + '[\\p{L}\\p{N}]*)', 'giu'), '<mark>$1</mark>');
+  }
+  return `${from > 0 ? '…' : ''}${frag}${to < text.length ? '…' : ''}`;
+}
+async function fillSnippets(){
+  const toks = qTokens(SEARCH.q);
+  for (const el of document.querySelectorAll('.snip[data-id]:not([data-done])')) {
+    el.dataset.done = 1;
+    const f = fragment(await getText(el.dataset.id), toks);
+    if (!f) { el.remove(); continue; }
+    el.innerHTML = `<span class="via">Gevonden in de tekst</span>${f}`;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// In de media: hetzelfde verhaal bij meerdere media samenvoegen. Twee koppen horen bij elkaar
+// als ze binnen 2 dagen verschenen en minstens 2 bijzondere woorden delen, of 1 bijzonder woord
+// plus dezelfde plaats ('Kleingouw' + 'Andijk'). Bovenaan staat wie het eerst had.
+// ---------------------------------------------------------------------------
+const STOP = new Set(('gemeente gemeenten inwoners nieuwe eerste tweede derde extra grote kleine alles waarom wordt worden kunnen '
+  + 'moeten blijft blijven krijgt krijgen tijdens tussen vanaf onder dorpen jaren weken dagen maanden hebben heeft zijn deze '
+  + 'bijna steeds wanneer hoeveel komen komt gaat gaan staat staan maken maakt nemen neemt willen zegt zeggen terug verder '
+  + 'ondanks alleen echt helemaal nooit weer jouw onze jullie zich iedereen mensen waarin welke omdat waardoor later vandaag '
+  + 'gisteren morgen avond ochtend middag zaterdag zondag maandag dinsdag woensdag donderdag vrijdag oktober november december').split(' '));
+const sigWords = t => new Set((norm(t).match(/[a-z0-9]+/g) || []).filter(w => (w.length >= 5 || /^\d{3,}$/.test(w)) && !STOP.has(w)));
+function clusterMedia(rows){
+  const places = new Set((DATA.dorpen || []).concat(DATA.naam).flatMap(p => norm(p).split(/[\s-]+/)));
+  const sw = rows.map(x => sigWords(x.title));
+  const parent = rows.map((_, i) => i);
+  const find = i => parent[i] === i ? i : (parent[i] = find(parent[i]));
+  for (let i = 0; i < rows.length; i++) for (let j = i + 1; j < rows.length; j++) {
+    if (Math.abs(rows[i]._t - rows[j]._t) > 2 * 864e5) continue;
+    let gewoon = 0, plaats = 0;
+    for (const w of sw[i]) if (sw[j].has(w)) places.has(w) ? plaats++ : gewoon++;
+    if (gewoon >= 2 || (gewoon >= 1 && plaats >= 1)) parent[find(j)] = find(i);
+  }
+  const groups = new Map();
+  rows.forEach((x, i) => { const r = find(i); if (!groups.has(r)) groups.set(r, []); groups.get(r).push(x); });
+  const out = [];
+  for (const g of groups.values()) {
+    const first = g.reduce((a, b) => (a._t <= b._t ? a : b));
+    // Per medium maar één keer (Google noemt hetzelfde artikel soms twee keer).
+    const bronnen = new Set([first.media_bron]);
+    first._also = g.filter(y => y !== first).sort((a, b) => a._t - b._t)
+      .filter(y => !bronnen.has(y.media_bron) && bronnen.add(y.media_bron));
+    first._pos = Math.min(...g.map(y => rows.indexOf(y)));
+    out.push(first);
+  }
+  return out.sort((a, b) => a._pos - b._pos);
+}
+let MEDTEKST = store.get('gm-medtekst') === '1';
+
+// ---------------------------------------------------------------------------
+// Kolom tekenen. In Bekendmakingen worden routinestukken van één dag gebundeld
+// ('14 vergunningen en meldingen: Andijk 4 · Wognum 3 …'), behalve bij zoeken of filteren.
+// ---------------------------------------------------------------------------
+const OPEN_BUNDLES = new Set();
+function bundleHTML(col, day, rows){
+  const key = DATA.gemeente + '|' + day;
+  const plaatsen = {};
+  rows.forEach(x => { const p = x._plaats || 'overig'; plaatsen[p] = (plaatsen[p] || 0) + 1; });
+  const top = Object.entries(plaatsen).sort((a, b) => (a[0] === 'overig') - (b[0] === 'overig') || b[1] - a[1]);
+  const pl = top.slice(0, 4).map(([p, n]) => `${esc(p)} ${n}`).join(' · ') + (top.length > 4 ? ` · +${top.slice(4).reduce((s, [, n]) => s + n, 0)} elders` : '');
+  const nNew = rows.filter(x => kinds(x).includes('nieuw')).length;
+  const soort = rows.every(x => /vergunning/i.test(x.koop_type || '')) ? 'vergunningen' : 'vergunningen, meldingen en besluiten';
+  const open = OPEN_BUNDLES.has(key);
+  return `<details class="bundle" data-key="${esc(key)}"${open ? ' open' : ''}>
+    <summary><span class="count">${rows.length}</span>
+      <span style="flex:1;min-width:0"><span class="bt">${cap(soort)}${nNew ? ` <span class="b new">${nNew} nieuw</span>` : ''}</span><span class="bp">${pl}</span></span>
+      <span class="chev">${ic('chev')}</span></summary>
+    <div class="inner">${open ? rows.map(x => item(x, col)).join('') : ''}</div></details>`;
+}
+function columnHTML(col, rows, extra = ''){
+  const n = shown[col.id] || PAGE;
+  const bundling = col.id === 'bek' && !filter && !$('q').value.trim() && !DORP.name;
+  let html = '';
+  const visible = rows.slice(0, n);
+  for (let i = 0; i < visible.length;) {
+    const d = visible[i]._d, group = [];
+    while (i < visible.length && visible[i]._d === d) group.push(visible[i++]);
+    const label = !d ? 'Zonder datum' : d === TODAY ? 'Vandaag' : d === YESTERDAY ? 'Gisteren' : nl(d,{weekday:'short',day:'numeric',month:'long'});
+    html += `<div class="day">${label}</div>`;
+    const lo = bundling ? group.filter(isLo) : [];
+    const rest = lo.length >= 4 ? group.filter(x => !lo.includes(x)) : group;
+    html += rest.map(x => item(x, col)).join('');
+    if (lo.length >= 4) html += bundleHTML(col, d, lo);
+  }
+  if (!rows.length) html = `<p class="empty" style="padding:14px 16px">${col.id === 'raad' ? 'Geen raadsstukken gevonden. De raad komt via Open Raadsinformatie binnen en dat loopt soms achter (zie Bronnen onderaan).' : 'Niets gevonden met deze filters.'}</p>`;
+  const more = rows.length > n ? `<button class="more" data-col="${col.id}">Toon ${Math.min(PAGE, rows.length-n)} oudere</button>` : '';
+  const fresh = rows.filter(x => kinds(x).includes('nieuw') || (x._also || []).some(y => kinds(y).includes('nieuw'))).length;
+  return `<section class="col${col.id === MOBCOL ? ' on' : ''}" style="--c:${col.color}" aria-labelledby="h-${col.id}">
+    <div class="colhead"><div class="row"><span class="ci">${ic(col.icon)}</span><h2 id="h-${col.id}">${col.title}</h2><span class="n" title="${fresh ? fresh + ' nieuw sinds je vorige bezoek' : ''}">${fresh ? `<b>+${fresh}</b> · ` : ''}${rows.length}</span></div><p title="${esc(col.note)}">${col.note}</p>${extra}</div>
+    <div class="list">${html}${more}</div></section>`;
+}
+
+// ---------------------------------------------------------------------------
+// Dorpfilter: alles over één dorp, in titel, adres, omschrijving én (behalve voor de hoofdplaats,
+// die in elk briefhoofd staat) in de tekst van de stukken.
+// ---------------------------------------------------------------------------
+const DORP = {name: '', re: null, hits: null};
+const placeRe = name => new RegExp('(?<![a-z0-9-])' + norm(name).replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '(?![a-z0-9])');
+function dorpMatch(x){
+  if (!DORP.name) return true;
+  if (x._plaats === DORP.name || (x.plaats && norm(x.plaats) === norm(DORP.name))) return true;
+  if (DORP.re.test(norm([x.title, x.excerpt, x.locatie, x.meeting_title, x.agendapunt].join(' ')))) return true;
+  return !!(DORP.hits && DORP.hits.has(x._i));
+}
+async function setDorp(name){
+  DORP.name = name; DORP.hits = null; DORP.re = name ? placeRe(name) : null;
+  $('dorp').value = name; $('dorp').classList.toggle('on', !!name);
+  shown = {}; render();
+  if (name && norm(name) !== norm(DATA.naam)) {
+    const hits = await textSearch(name);
+    if (DORP.name === name) { DORP.hits = hits; render(); }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Het adres onthoudt gemeente, zoekterm, filter, dorp, weergave en het geopende stuk,
+// bijv. #alkmaar?q=parkeren&f=nieuw&dorp=Oudorp. Te bewaren als bladwijzer of door te sturen.
+// ---------------------------------------------------------------------------
+const GEMS = ['alkmaar'];
+function parseHash(){
+  const [g, qs] = location.hash.slice(1).split('?');
+  const p = new URLSearchParams(qs || '');
+  return {g: GEMS.includes(g) ? g : 'alkmaar', q: p.get('q') || '', f: p.get('f') || '', dorp: p.get('dorp') || '', v: p.get('v') || '', stuk: p.get('stuk') || ''};
+}
+function syncHash(){
+  if (!DATA) return;
+  const p = new URLSearchParams();
+  const q = $('q').value.trim();
+  if (q) p.set('q', q);
+  if (filter) p.set('f', filter);
+  if (DORP.name) p.set('dorp', DORP.name);
+  if (VIEW !== 'vandaag') p.set('v', VIEW === 'kaart' ? 'kaart' : 'kolommen');
+  if (PANEL_ID) p.set('stuk', PANEL_ID);
+  const h = '#' + DATA.gemeente + (p.toString() ? '?' + p : '');
+  if (location.hash !== h) history.replaceState(null, '', h);
+}
+
+// ---------------------------------------------------------------------------
+// Dagoverzicht: tegels met een staafje per dag (14 dagen). Volgt het dorpfilter.
+// ---------------------------------------------------------------------------
+function spark(counts, color){
+  const max = Math.max(1, ...counts), w = 100 / counts.length;
+  return `<svg class="spark" viewBox="0 0 100 30" preserveAspectRatio="none" aria-hidden="true">${counts.map((n, i) => {
+    const h = n ? Math.max(2.5, (n / max) * 28) : 1.2;
+    return `<rect x="${(i * w + w * .14).toFixed(2)}" y="${(30 - h).toFixed(2)}" width="${(w * .72).toFixed(2)}" height="${h.toFixed(2)}" rx="1" fill="${color}" opacity="${i === counts.length - 1 ? 1 : .42}"/>`;
+  }).join('')}</svg>`;
+}
+const DAYS14 = Array.from({length: 14}, (_, i) => daysAgo(13 - i));
+const perDay = (rows, f = x => x._d) => DAYS14.map(d => rows.filter(x => f(x) === d).length);
+function renderOverview(){
+  const base = DATA.items.filter(x => x.kind !== 'vergadering' && dorpMatch(x));
+  const bek = base.filter(COLS[0].test), rc = base.filter(x => COLS[1].test(x) || COLS[2].test(x)), med = base.filter(COLS[4].test);
+  const nieuw = base.filter(x => kinds(x).includes('nieuw')).length, chg = base.filter(chgSince).length;
+  const week = daysAgo(6), month = daysAgo(29);
+  const inWeek = x => x._d >= week && x._d <= TODAY;
+  const ans = base.filter(x => x.antwoord_datum && x.antwoord_datum >= month);
+  const kw = base.filter(x => x.kw_hits), kwNew = kw.filter(x => kinds(x).includes('sinds')).length;
+  const when = new Date(VISIT).toLocaleString('nl-NL',{weekday:'short',day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'});
+  const T = [
+    {cls:'lead', act:'f:sinds', lab:'Sinds je vorige bezoek', val:nieuw, sub:`nieuw${chg ? ` · ${chg} gewijzigd` : ''} · ${when}`, extra:''},
+    {c:'#006dac', act:'col:bek', lab:'Bekendmakingen vandaag', val:bek.filter(x => x._d === TODAY).length, sub:`${bek.filter(inWeek).length} deze week`, extra:spark(perDay(bek), '#006dac')},
+    {c:'#1b4e8e', act:'col:raad', lab:'Raad en college, 7 dagen', val:rc.filter(inWeek).length, sub:`${rc.filter(x => isHi(x) && inWeek(x)).length} uitgelicht`, extra:spark(perDay(rc), 'var(--link)')},
+    {c:'#2e9a5a', act:'f:beantwoord', lab:'Beantwoord, 30 dagen', val:ans.length, sub:'raadsvragen met antwoord', extra:spark(perDay(ans, x => x.antwoord_datum), '#2e9a5a')},
+    {c:'#f18700', act:'f:trefwoord', lab:'Trefwoorden', val:kw.length, sub:kwNew ? `${kwNew} nieuw sinds je bezoek` : 'treffers in alle stukken', extra:''},
+    {c:'var(--media)', act:'col:med', lab:'In de media vandaag', val:med.filter(x => x._d === TODAY).length, sub:`${med.filter(inWeek).length} deze week`, extra:spark(perDay(med), 'var(--media)')},
+  ];
+  $('overview').innerHTML = T.map(t => {
+    const on = t.act.startsWith('f:') && filter === t.act.slice(2);
+    return `<button class="tile ${t.cls || ''}" style="--c:${t.c || '#1b4e8e'}" data-act="${t.act}" aria-pressed="${on}">
+      <span class="lab">${t.lab}</span><span class="val">${t.val}</span><span class="sub">${t.sub}</span>${t.extra}</button>`;
+  }).join('');
+}
+
+// Agenda: smalle strook met komende vergaderingen.
+function meetParts(x){
+  const t = x.title;
+  const DATUM = /(maandag|dinsdag|woensdag|donderdag|vrijdag|zaterdag|zondag)?\s*\d{1,2}\s+[a-z]+\s+\d{4}.*$/i;
+  const soort = t.split(' (')[0].replace(DATUM, '').trim();
+  let rest = t.includes(')') ? t.slice(t.lastIndexOf(')') + 1) : t.slice(soort.length);
+  const tijd = (rest.match(/(\d{1,2}:\d{2})/) || [])[1];
+  rest = rest.replace(DATUM, '').trim();
+  if (rest.toLowerCase().startsWith(soort.toLowerCase())) rest = rest.slice(soort.length).trim();
+  return {soort, rest, tijd};
+}
+function renderAgenda(){
+  const up = DATA.items.filter(x => x.kind === 'vergadering' && x.doc_date >= TODAY).sort((a,b) => a.doc_date.localeCompare(b.doc_date));
+  const head = `<span class="agl">${ic('kal')}Agenda</span>`;
+  if (!up.length) {
+    $('agenda').innerHTML = head + `<span class="empty">Geen vergaderingen gepland in de komende weken.</span>`;
+    return;
+  }
+  $('agenda').innerHTML = head + `<div class="evs">${up.slice(0, 14).map(x => {
+    const m = meetParts(x), d = dt(x.doc_date);
+    return `<a class="ev" href="${esc(x.url)}" target="_blank" rel="noopener" title="${esc(x.title)}">
+      <span class="d"><small>${d.toLocaleDateString('nl-NL',{weekday:'short'})}</small><b>${d.getDate()}</b><small>${d.toLocaleDateString('nl-NL',{month:'short'})}</small></span>
+      <span class="w"><strong>${esc(m.soort)}</strong><span>${m.tijd ? m.tijd + (m.rest ? ' · ' : '') : ''}${esc(m.rest)}</span></span></a>`;
+  }).join('')}</div>`;
+}
+
+// ---------------------------------------------------------------------------
+// Kolommen kiezen (onthouden in deze browser)
+// ---------------------------------------------------------------------------
+let HIDE = new Set((store.get('gm-hide', '') || '').split(',').filter(Boolean));
+function renderColMenu(){
+  $('colpop').innerHTML = COLS.map(c => `<label class="colpick"><input type="checkbox" data-hide="${c.id}"${HIDE.has(c.id) ? '' : ' checked'}><i style="background:${c.color}"></i>${c.title}</label>`).join('');
+}
+
+// ---------------------------------------------------------------------------
+// Vandaag: één rustige briefing. Wat is er sinds je vorige bezoek gebeurd, het belangrijkste eerst.
+// ---------------------------------------------------------------------------
+function todayItem(x, big = false){
+  const col = colOf(x), ti = typeInfo(x), k = kinds(x);
+  // Bij media is het medium het label ('AD.nl'), anders de soort of de kolom.
+  const sub = [`<span class="k">${esc(x.media_bron || (ti.label && ti.important ? ti.label : col.title))}</span>`];
+  if (x.published_at) sub.push(hm(x.published_at));
+  else if (x.first_seen && !k.includes('historisch')) sub.push((x._d === TODAY ? '' : nl(dayNL(x.first_seen), {weekday:'short', day:'numeric', month:'short'}) + ' ') + hm(x.first_seen));
+  if (x._plaats && !norm(x.title).includes(norm(x._plaats))) sub.push(esc(x._plaats));
+  if (x.doc_date && x._d && x.doc_date > x._d) sub.push(`<span class="when">${/vergader/.test(x.doc_date_label || '') || x.meeting_title ? 'vergadering' : esc(x.doc_date_label || 'datum')} ${nl(x.doc_date,{weekday:'short',day:'numeric',month:'short'})}</span>`);
+  const special = [];
+  if (chgSince(x)) special.push(`<span class="b chg">${esc(((x.changes || []).slice(-1)[0] || {}).type || 'Gewijzigd')}</span>`);
+  if (x.antwoord_datum) special.push(`<span class="b ans">Beantwoord ${nl(x.antwoord_datum,{day:'numeric',month:'short'})}</span>`);
+  (x.kw_hits || []).forEach(w => special.push(`<span class="b kw">${esc(w)}</span>`));
+  if (mark(x.id, 's')) special.push('<span class="b">★ bewaard</span>');
+  return `<article class="ti${big ? ' big' : ''}${k.includes('nieuw') ? ' isnew' : ''}" data-id="${x.id}" style="--c:${col.color}">
+    <span class="tic">${ic(ti.icon)}</span>
+    <span class="tb"><a class="tt" href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a>
+      <span class="ts">${sub.join('')}</span>${also(x)}
+      ${special.length ? `<span class="badges">${special.join('')}</span>` : ''}</span></article>`;
+}
+const plural = (n, een, meer) => `${n} ${n === 1 ? een : meer}`;
+function renderToday(){
+  const base = DATA.items.filter(x => x.kind !== 'vergadering' && dorpMatch(x));
+  const since = base.filter(x => kinds(x).includes('sinds'));
+  const newN = since.filter(x => kinds(x).includes('nieuw')).length, chgN = since.filter(chgSince).length;
+  const media = COLS[4].test, isBek = COLS[0].test;
+  const hr = +new Date().toLocaleString('nl-NL', {hour: 'numeric', hour12: false, timeZone: 'Europe/Amsterdam'});
+  const groet = hr < 6 ? 'Goedenacht' : hr < 12 ? 'Goedemorgen' : hr < 18 ? 'Goedemiddag' : 'Goedenavond';
+  const when = new Date(VISIT).toLocaleString('nl-NL',{weekday:'long',day:'numeric',month:'long',hour:'2-digit',minute:'2-digit'});
+  const byTime = (a, b) => b._t - a._t;
+  const sec = (title, n, body) => `<section class="tsec"><h3>${title}${n !== '' ? ` <span class="cnt">${n}</span>` : ''}</h3>${body}</section>`;
+  const moreBtn = (label, act) => `<button class="more-link" data-go="${act}">${label}</button>`;
+
+  // 1. Dit moet je zien
+  let key = since.filter(x => !media(x) && isKey(x)).sort(byTime);
+  let keyTitle = 'Dit moet je zien';
+  if (!key.length) {
+    key = base.filter(x => !media(x) && isKey(x) && x._d >= daysAgo(6) && x._d <= TODAY).sort(byTime);
+    keyTitle = 'Belangrijk van de afgelopen week';
+  }
+  const keyIds = new Set(key.map(x => x.id));
+  // 2. Raad, college en nieuws van de gemeente (wat niet al bovenaan staat)
+  const rcn = since.filter(x => !media(x) && !isBek(x) && !keyIds.has(x.id)).sort(byTime);
+  // 3. Vergunningen e.d.: één regel per dorp
+  const bek = since.filter(x => isBek(x) && !keyIds.has(x.id));
+  const perPlaats = {}, perSoort = {};
+  bek.forEach(x => {
+    perPlaats[x._plaats || 'Overig'] = (perPlaats[x._plaats || 'Overig'] || 0) + 1;
+    const s = typeInfo(x).icon === 'melding' ? 'melding' : typeInfo(x).icon === 'verkeer' ? 'verkeersbesluit' : typeInfo(x).icon === 'evenement' ? 'evenement' : typeInfo(x).icon === 'boom' ? 'kap' : 'vergunning';
+    perSoort[s] = (perSoort[s] || 0) + 1;
+  });
+  const soortTxt = Object.entries(perSoort).sort((a, b) => b[1] - a[1]).map(([s, n]) => plural(n, s, {vergunning:'vergunningen', melding:'meldingen', verkeersbesluit:'verkeersbesluiten', evenement:'evenementen', kap:'kapvergunningen'}[s])).join(', ');
+  // 4. Media: samengevoegd, nieuwste verhalen
+  let med = since.filter(x => media(x) && (MEDTEKST || x.media_match !== 'tekst'));
+  med.forEach(x => { x._also = null; });
+  med = clusterMedia(med.sort(byTime));
+  // 5. Agenda
+  const agenda = DATA.items.filter(x => x.kind === 'vergadering' && x.doc_date >= TODAY).sort((a,b) => a.doc_date.localeCompare(b.doc_date)).slice(0, 5);
+
+  // Kop: hoeveel er sinds je vorige bezoek is gebeurd.
+  const visitDay = dayNL(VISIT), vd = new Date(VISIT);
+  const sindsWanneer = visitDay === TODAY ? (hm(VISIT) < '12:00' ? 'vanochtend' : 'vanmiddag')
+    : visitDay === YESTERDAY ? 'gisteren' : diff(TODAY, visitDay) < 7 ? vd.toLocaleDateString('nl-NL', {weekday: 'long', timeZone: 'Europe/Amsterdam'}) : vd.toLocaleDateString('nl-NL', {day: 'numeric', month: 'long', timeZone: 'Europe/Amsterdam'});
+  const headline = newN ? `${plural(newN, 'nieuw stuk', 'nieuwe stukken')} sinds ${sindsWanneer}` : `Rustig sinds ${sindsWanneer}`;
+  const sinceTxt = (FIRST_VISIT ? 'Dit is je eerste bezoek in deze browser, dus je ziet de afgelopen 24 uur.' : `Je vorige bezoek was ${new Date(VISIT).toLocaleString('nl-NL',{weekday:'long',day:'numeric',month:'long',hour:'2-digit',minute:'2-digit'})}.`)
+    + (chgN ? ` Ook ${chgN === 1 ? 'is 1 stuk' : `zijn ${chgN} stukken`} gewijzigd of beantwoord.` : '')
+    + (DORP.name ? ` Je kijkt alleen naar ${esc(DORP.name)}.` : '');
+  const cnt = f => since.filter(f).length;
+  const stats = [
+    ['col:raad', 'raad en college', cnt(x => COLS[1].test(x) || COLS[2].test(x))],
+    ['col:bek', 'bekendmakingen', cnt(isBek)],
+    ['col:nws', 'gemeentenieuws en Woo', cnt(COLS[3].test)],
+    ['col:med', 'in de media', cnt(media)],
+    ['f:trefwoord', 'met een trefwoord', cnt(x => x.kw_hits)],
+  ].filter(([, , n]) => n);
+  const hero = `<section class="hero" aria-label="Samenvatting">
+    <p class="hi1"><span class="live" aria-hidden="true"></span>${groet}. Dit gebeurde er in ${esc(DATA.naam)}.</p>
+    <h2>${headline}</h2>
+    <p class="since">${sinceTxt}</p>
+    <div class="hstats">${stats.map(([go, l, n]) => `<button class="hstat" data-go="${go}"><b>${n}</b>${l}</button>`).join('')}${newN || chgN ? '<button class="hstat seen" data-seen="1">Alles gezien</button>' : ''}</div>
+  </section>`;
+
+  // Hoofdverhaal + raster met de rest van 'Dit moet je zien'.
+  const subOf = x => {
+    const parts = [];
+    if (x.published_at) parts.push((x._d === TODAY ? 'vandaag ' : nl(x._d, {weekday:'short', day:'numeric', month:'short'}) + ' ') + hm(x.published_at));
+    else if (x.first_seen) parts.push('gevonden ' + (dayNL(x.first_seen) === TODAY ? '' : nl(dayNL(x.first_seen), {weekday:'short', day:'numeric', month:'short'}) + ' ') + hm(x.first_seen));
+    if (x._plaats && !norm(x.title).includes(norm(x._plaats))) parts.push(esc(x._plaats));
+    if (x.doc_date && x._d && x.doc_date > x._d) parts.push(`<span class="when">${/vergader/.test(x.doc_date_label || '') || x.meeting_title ? 'vergadering' : esc(x.doc_date_label || 'datum')} ${nl(x.doc_date,{weekday:'short',day:'numeric',month:'short'})}</span>`);
+    return parts.map(p => `<span>${p}</span>`).join('');
+  };
+  const special = x => {
+    const out = [];
+    if (chgSince(x)) out.push(`<span class="b chg">${esc(((x.changes || []).slice(-1)[0] || {}).type || 'Gewijzigd')}</span>`);
+    if (x.antwoord_datum) out.push(`<span class="b ans">Beantwoord ${nl(x.antwoord_datum,{day:'numeric',month:'short'})}</span>`);
+    (x.kw_hits || []).forEach(w => out.push(`<span class="b kw">${esc(w)}</span>`));
+    return out.length ? `<span class="badges">${out.join('')}</span>` : '';
+  };
+  const kLabel = x => { const ti = typeInfo(x); return ti.label && ti.important ? ti.label : colOf(x).title; };
+  const leadCard = x => {
+    const ex = /^Officiele bekendmaking;/.test(x.excerpt || '') ? '' : (x.excerpt || '');
+    return `<article class="leadcard${kinds(x).includes('nieuw') ? ' isnew' : ''}" data-id="${x.id}" style="--c:${colOf(x).color}">
+      <span class="k">${ic(typeInfo(x).icon)}${esc(kLabel(x))}</span>
+      <a class="tt" href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a>
+      ${ex && norm(ex) !== norm(x.title) ? `<p class="ex">${esc(ex)}</p>` : ''}
+      ${special(x)}<span class="ts">${subOf(x)}</span></article>`;
+  };
+  const keyCard = x => `<article class="kcard${kinds(x).includes('nieuw') ? ' isnew' : ''}" data-id="${x.id}" style="--c:${colOf(x).color}">
+      <span class="k">${ic(typeInfo(x).icon)}${esc(kLabel(x))}</span>
+      <a class="tt" href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a>
+      ${special(x)}<span class="ts">${subOf(x)}</span></article>`;
+
+  const main = `<div>
+    ${sec(keyTitle, key.length || '', key.length
+        ? leadCard(key[0]) + (key.length > 1 ? `<div class="kgrid">${key.slice(1, 7).map(keyCard).join('')}</div>` : '')
+          + (key.length > 7 ? `<button class="more-link" style="border:0;padding-left:2px" data-go="f:sinds">Nog ${key.length - 7} belangrijke stukken bekijken</button>` : '')
+        : `<div class="tcard"><p class="calm">Geen raadsvragen, moties, besluitenlijsten of trefwoorden deze week.</p></div>`)}
+    ${rcn.length ? sec('Verder bij raad, college en gemeente', rcn.length, `<div class="tcard">${rcn.slice(0, 6).map(x => todayItem(x)).join('')}${rcn.length > 6 ? moreBtn(`Nog ${rcn.length - 6} bekijken`, 'f:sinds') : ''}</div>`) : ''}
+    ${bek.length ? sec('Vergunningen en meldingen', bek.length, `<div class="tcard"><div class="tline">${esc(cap(soortTxt))}. Kies een dorp om alleen dat te zien.
+        <div class="pills">${Object.entries(perPlaats).sort((a, b) => (a[0] === 'Overig') - (b[0] === 'Overig') || b[1] - a[1]).map(([p, n]) => p === 'Overig' ? `<button class="pill" data-go="col:bek">Overig<b>${n}</b></button>` : `<button class="pill" data-dorp="${esc(p)}">${esc(p)}<b>${n}</b></button>`).join('')}</div></div>
+        ${moreBtn('Alle bekendmakingen bekijken', 'col:bek')}</div>`) : ''}
+    <button class="gobig" data-go="col:">Alles bekijken in kolommen</button>
+  </div>`;
+  const side = `<div>
+    ${sec('Agenda', '', agenda.length ? `<div class="tl">${agenda.map(x => { const m = meetParts(x), d = dt(x.doc_date); return `<a href="${esc(x.url)}" target="_blank" rel="noopener" title="${esc(x.title)}">
+        <span class="when2">${d.toLocaleDateString('nl-NL',{weekday:'short'})} ${d.getDate()}<small>${d.toLocaleDateString('nl-NL',{month:'short'})}${m.tijd ? ' ' + m.tijd : ''}</small></span>
+        <span><strong>${esc(m.soort)}</strong>${m.rest ? `<span class="s">${esc(m.rest)}</span>` : ''}</span></a>`; }).join('')}</div>`
+      : `<div class="tcard"><p class="calm">Geen vergaderingen gepland.</p></div>`)}
+    ${sec('In de media', med.length || '', med.length ? `<div class="tcard">${med.slice(0, 5).map(x => todayItem(x)).join('')}${med.length > 5 ? moreBtn(`Nog ${med.length - 5} verhalen bekijken`, 'col:med') : ''}</div>`
+      : `<div class="tcard"><p class="calm">Geen nieuwe artikelen sinds je vorige bezoek.</p></div>`)}
+  </div>`;
+  $('today').innerHTML = hero + main + side;
+}
+
+// ---------------------------------------------------------------------------
+// Alles tekenen
+// ---------------------------------------------------------------------------
+function render(){
+  if (!DATA) return;
+  const q = $('q').value.trim();
+  const match = x => (!filter || (filter === 'mijn' ? mark(x.id, 's') : filter === 'opgepakt' ? mark(x.id, 'k') : kinds(x).includes(filter)))
+    && (!q || titleMatch(x, q) || (SEARCH.q === q && SEARCH.hits && SEARCH.hits.has(x._i)))
+    && dorpMatch(x);
+  const items = DATA.items.filter(match);
+  CURRENT = items;
+
+  const changed = items.filter(x => x.last_change).length;
+  const viaText = q && SEARCH.hits ? items.filter(x => !titleMatch(x, q)).length : 0;
+  $('summary').textContent = `${items.length} stukken` + (viaText ? `, waarvan ${viaText} via de tekst` : '')
+    + (changed ? `, ${changed} gewijzigd` : '') + (q && SEARCH.q !== q && qTokens(q).length ? ' (tekst wordt doorzocht…)' : '');
+  const kwN = DATA.items.filter(x => x.kw_hits).length;
+  $('kwchip').innerHTML = 'Trefwoorden' + (kwN ? ` <span class="cnt">${kwN}</span>` : '');
+  const mijnN = DATA.items.filter(x => mark(x.id, 's')).length;
+  $('mijnchip').innerHTML = '★ Mijn lijst' + (mijnN ? ` <span class="cnt">${mijnN}</span>` : '');
+  const inMenu = ['beantwoord', 'verwijderd', 'sinds', 'opgepakt'].includes(filter);
+  $('moresum').setAttribute('aria-pressed', inMenu);
+  $('moresum').textContent = inMenu ? $('moremenu').querySelector(`[data-k="${filter}"]`).textContent + ' ▾' : 'Meer ▾';
+  syncHash();
+  renderColMenu();
+  if (VIEW === 'vandaag') { renderToday(); return; }
+  if (VIEW === 'kaart') { renderMap(); return; }
+  const perCol = COLS.filter(c => !HIDE.has(c.id)).map(c => {
+    let rows = items.filter(c.test), extra = '';
+    if (c.id === 'med') {
+      const tekst = rows.filter(x => x.media_match === 'tekst').length;
+      if (!MEDTEKST) rows = rows.filter(x => x.media_match !== 'tekst');
+      rows.forEach(x => { x._also = null; });
+      rows = clusterMedia(rows);
+      if (tekst) extra = `<label class="tgl"><input type="checkbox" id="medtekst"${MEDTEKST ? ' checked' : ''}> Ook artikelen met de plaats alleen in de tekst (${tekst})</label>`;
+    }
+    return [c, rows, extra];
+  });
+  $('coltabs').innerHTML = perCol.map(([c, rows]) => `<button style="--c:${c.color}" data-c="${c.id}" aria-pressed="${c.id === MOBCOL}">${c.title}<small>${rows.length}</small></button>`).join('');
+  // Scrollpositie per kolom bewaren bij opnieuw tekenen.
+  const scroll = {};
+  document.querySelectorAll('.col').forEach(el => { const l = el.querySelector('.list'); if (l) scroll[el.getAttribute('aria-labelledby')] = l.scrollTop; });
+  $('board').innerHTML = perCol.map(([c, rows, extra]) => columnHTML(c, rows, extra)).join('');
+  document.querySelectorAll('.col').forEach(el => { const l = el.querySelector('.list'); const s = scroll[el.getAttribute('aria-labelledby')]; if (l && s) l.scrollTop = s; });
+  fillSnippets();
+}
+
+// ---------------------------------------------------------------------------
+// Leesvenster
+// ---------------------------------------------------------------------------
+let PANEL_ID = '';
+async function openPanel(id){
+  const x = DATA && DATA.items.find(y => y.id === id);
+  if (!x) return;
+  PANEL_ID = id;
+  const col = colOf(x), ti = typeInfo(x);
+  const facts = [];
+  if (x.published_at) facts.push(['Gepubliceerd', new Date(x.published_at).toLocaleString('nl-NL',{weekday:'short',day:'numeric',month:'long',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Amsterdam'})]);
+  else if (x.doc_date) facts.push([esc(cap((x.doc_date_label || 'Datum').replace(/\s*\(KOOP\)/, ''))), nl(x.doc_date,{weekday:'short',day:'numeric',month:'long',year:'numeric'})]);
+  if (x.first_seen) facts.push(['Gevonden door monitor', new Date(x.first_seen).toLocaleString('nl-NL',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'})]);
+  if (x.media_bron) facts.push(['Medium', esc(x.media_bron)]);
+  if (x.koop_type) facts.push(['Soort', esc(cap(x.koop_type))]);
+  if (x.rapport && !/raadsportaal/i.test(x.rapport)) facts.push(['Overzicht', esc(x.rapport)]);
+  if (x.meeting_title) facts.push(['Vergadering', esc(x.meeting_title)]);
+  if (x.agendapunt) facts.push(['Agendapunt', esc(x.agendapunt)]);
+  if (x.portefeuillehouder) facts.push(['Portefeuillehouder', esc(x.portefeuillehouder)]);
+  const plek = x.locatie && !/^(lijn|punt|vlak|gebied)/i.test(x.locatie) ? x.locatie : (x.plaats || x._plaats);
+  if (plek) facts.push(['Plaats', esc(plek)]);
+  if (x.antwoord_datum) facts.push(['Beantwoord', nl(x.antwoord_datum)]);
+  const s = mark(x.id, 's'), k = mark(x.id, 'k');
+  const changes = (x.changes || []).slice().reverse();
+  // KOOP zet bij stukken zonder samenvatting een technische regel als omschrijving; die tonen we niet.
+  const excerpt = /^Officiele bekendmaking;/.test(x.excerpt || '') ? '' : (x.excerpt || '');
+  $('panel').style.setProperty('--c', col.color);
+  $('panel').innerHTML = `<div class="phead"><span class="k">${ic(ti.icon)}${esc(col.title)}${ti.label ? ' · ' + esc(ti.label) : ''}</span>
+      <button id="pclose" aria-label="Sluiten">${ic('sluit')}</button></div>
+    <div class="pbody">
+      <h2>${esc(x.title)}</h2>
+      ${badges(x)}
+      <div class="pacts">
+        <a class="btn primary" href="${esc(x.url)}" target="_blank" rel="noopener">${ic('uit')}Open origineel</a>
+        <button class="btn s" data-pa="s" aria-pressed="${s}">${ic('ster')}${s ? 'Bewaard' : 'Bewaren'}</button>
+        <button class="btn k" data-pa="k" aria-pressed="${k}">${ic('vink')}${k ? 'Opgepakt' : 'Markeer als opgepakt'}</button>
+        <button class="btn" data-pa="c">${ic('kopie')}Bron kopiëren</button>
+      </div>
+      <dl class="facts">${facts.map(([a, b]) => `<dt>${a}</dt><dd>${b}</dd>`).join('')}</dl>
+      ${x._also && x._also.length ? `<div class="psec"><h3>Ook bij andere media</h3><div class="plist">${x._also.map(y => `<a href="${esc(y.url)}" target="_blank" rel="noopener">${ic('media')}<span><b>${esc(y.media_bron)}</b>: ${esc(y.title)}</span></a>`).join('')}</div></div>` : ''}
+      <div class="psec"${x.tx || excerpt ? '' : ' hidden'}><h3 id="ptexth">${x.tx ? 'Uit de tekst' : 'Omschrijving'}</h3><div class="ptext" id="ptext">${x.tx ? 'Laden…' : esc(excerpt)}</div></div>
+      ${x.bijlagen && x.bijlagen.length ? `<div class="psec"><h3>Bijlagen (${x.bijlagen.length})</h3><div class="plist">${x.bijlagen.map(b => `<a href="${esc(b.u)}" target="_blank" rel="noopener">${ic('clip')}<span>${esc(b.t)}</span></a>`).join('')}</div></div>` : ''}
+      ${changes.length ? `<div class="psec"><h3>Wijzigingen (${changes.length})</h3>${changes.map(c => `<div class="pchg"><b>${esc(c.type)}</b> · ${nl(c.at,{day:'numeric',month:'short'})} ${hm(c.at)}<div>${esc(c.summary || '')}</div>${(c.added || []).map(l => `<div class="p">+ ${esc(l)}</div>`).join('')}${(c.removed || []).map(l => `<div class="r">− ${esc(l)}</div>`).join('')}</div>`).join('')}</div>` : ''}
+      <p style="color:var(--muted);font-size:12.5px;margin-top:22px">Bronvermelding: ${esc(citation(x))}</p>
+    </div>`;
+  $('panel').classList.add('on'); $('panel').setAttribute('aria-hidden', 'false'); $('scrim').classList.add('on');
+  document.querySelectorAll('.it.sel').forEach(el => el.classList.remove('sel'));
+  document.querySelectorAll(`.it[data-id="${id}"]`).forEach(el => el.classList.add('sel'));
+  syncHash();
+  if (x.tx) {
+    const text = (await getText(x.id)).replace(/[ \t]+/g, ' ').replace(/\n\s*\n+/g, '\n').trim();
+    if (PANEL_ID !== id) return;
+    const toks = qTokens(SEARCH.q || DORP.name || '');
+    const f = toks.length ? fragment(text, toks, 260, 600) : null;
+    if (f) { $('ptexth').textContent = 'Uit de tekst (rond je zoekterm)'; $('ptext').innerHTML = f; }
+    else $('ptext').textContent = text ? text.slice(0, 1600) + (text.length > 1600 ? ' …' : '') : (x.excerpt || 'Geen tekst beschikbaar.');
+  }
+}
+function closePanel(){
+  if (!PANEL_ID && !$('panel').classList.contains('on')) return;
+  PANEL_ID = '';
+  $('panel').classList.remove('on'); $('panel').setAttribute('aria-hidden', 'true'); $('scrim').classList.remove('on');
+  document.querySelectorAll('.it.sel').forEach(el => el.classList.remove('sel'));
+  syncHash();
+}
+
+// ---------------------------------------------------------------------------
+// Kaart (Leaflet + PDOK-achtergrondkaart + gemeentegrens), pas geladen als je de kaart opent.
+// ---------------------------------------------------------------------------
+let VIEW = 'vandaag', CURRENT = [], MAP = null, CLUSTER = null, GRENS = null;
+const MAPTYPES = [['bouw','#006dac','vergunning'],['melding','#5498cf','melding'],['verkeer','#f18700','verkeersbesluit'],['evenement','#c2410c','evenement'],['boom','#2e9a5a','kap / bomen'],['doc','#1b4e8e','overig']];
+const mapType = x => { const i = typeInfo(x).icon; return MAPTYPES.find(m => m[0] === i) || MAPTYPES[5]; };
+function loadAsset(tag, attrs){
+  return new Promise((ok, fail) => { const el = document.createElement(tag); Object.assign(el, attrs); el.onload = ok; el.onerror = fail; document.head.appendChild(el); });
+}
+async function ensureLeaflet(){
+  if (window.L && L.markerClusterGroup) return;
+  const cdn = 'https://cdnjs.cloudflare.com/ajax/libs/';
+  await Promise.all([
+    loadAsset('link', {rel: 'stylesheet', href: cdn + 'leaflet/1.9.4/leaflet.min.css'}),
+    loadAsset('link', {rel: 'stylesheet', href: cdn + 'leaflet.markercluster/1.5.3/MarkerCluster.min.css'}),
+    loadAsset('link', {rel: 'stylesheet', href: cdn + 'leaflet.markercluster/1.5.3/MarkerCluster.Default.min.css'}),
+  ]);
+  await loadAsset('script', {src: cdn + 'leaflet/1.9.4/leaflet.min.js'});
+  await loadAsset('script', {src: cdn + 'leaflet.markercluster/1.5.3/leaflet.markercluster.min.js'});
+}
+async function renderMap(){
+  $('legend').innerHTML = MAPTYPES.map(([i, c, l]) => `<span><i style="background:${c}">${ic(i)}</i>${l}</span>`).join('');
+  try { await ensureLeaflet(); } catch (e) { $('mapcount').textContent = 'De kaart kon niet worden geladen. Controleer je internetverbinding en probeer opnieuw.'; return; }
+  if (!MAP) {
+    MAP = L.map('map', {scrollWheelZoom: true}).setView([52.7, 5.0], 11);
+    L.tileLayer('https://service.pdok.nl/brt/achtergrondkaart/wmts/v2_0/grijs/EPSG:3857/{z}/{x}/{y}.png', {maxZoom: 19, minZoom: 6,
+      attribution: 'Kaartgegevens &copy; <a href="https://www.kadaster.nl">Kadaster</a> / PDOK'}).addTo(MAP);
+  }
+  setTimeout(() => MAP.invalidateSize(), 50);
+  if (GRENS) { MAP.removeLayer(GRENS); GRENS = null; }
+  try {
+    const g = await fetch(`grens/${DATA.gemeente}.json`).then(r => r.ok ? r.json() : null);
+    if (g) GRENS = L.geoJSON(g, {style: {color: '#1b4e8e', weight: 2.5, opacity: .9, fillColor: '#5498cf', fillOpacity: .05, dashArray: '6 4'}, interactive: false}).addTo(MAP);
+  } catch (e) {}
+  if (CLUSTER) MAP.removeLayer(CLUSTER);
+  CLUSTER = L.markerClusterGroup({maxClusterRadius: 40, showCoverageOnHover: false});
+  const days = +$('period').value;
+  const since = new Date(Date.now() - days * 864e5).toISOString().slice(0, 10);
+  const pts = CURRENT.filter(x => x.geo && (!x.doc_date || x.doc_date >= since));
+  pts.forEach(x => {
+    const [icon, color] = mapType(x);
+    const m = L.marker(x.geo, {icon: L.divIcon({className: '', html: `<span class="pin" style="background:${color}">${ic(icon)}</span>`, iconSize: [26, 26], iconAnchor: [13, 13]})});
+    m.bindPopup(`<a href="#" data-open="${x.id}">${esc(x.title)}</a><br>`
+      + `<small>${x.doc_date ? nl(x.doc_date) : ''}${x.koop_type ? ' · ' + esc(x.koop_type) : ''}${x._plaats ? ' · ' + esc(x._plaats) : ''}</small>`);
+    CLUSTER.addLayer(m);
+  });
+  MAP.addLayer(CLUSTER);
+  $('mapcount').textContent = `${pts.length} op de kaart`;
+  if (pts.length) MAP.fitBounds(L.latLngBounds(pts.map(x => x.geo)).pad(0.15), {maxZoom: 15});
+  else if (GRENS) MAP.fitBounds(GRENS.getBounds());
+}
+function setView(v){
+  VIEW = v;
+  store.set('gm-view', v);
+  document.querySelectorAll('#viewseg button').forEach(b => b.setAttribute('aria-pressed', b.dataset.v === v ? 'true' : 'false'));
+  $('board').hidden = v !== 'lijst';
+  $('coltabs').hidden = v !== 'lijst';
+  $('mapwrap').hidden = v !== 'kaart';
+  $('today').hidden = v !== 'vandaag';
+  $('colmenu').hidden = v !== 'lijst';
+  render();
+}
+
+function renderStatus(){
+  const all = {...DATA.status, ...DATA.algemeen};
+  $('status').innerHTML = Object.entries(all).map(([s,v]) => {
+    if (v.skip) return `<div class="src" style="--s:#9aa5b1"><b>${esc(s)}: niet gevolgd</b><p>${esc(v.note)}</p></div>`;
+    const when = v.checked ? new Date(v.checked).toLocaleString('nl-NL',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}) : '';
+    return `<div class="src" style="--s:${v.ok ? STATUS_COLOR(s) : '#a52d2d'}"><b>${esc(s)}</b><p>${v.ok ? 'Bijgewerkt' : 'Probleem bij ophalen'} ${when}${v.new ? `, ${v.new} nieuw` : ''}</p>`
+      + (v.note ? `<p>${esc(v.note)}</p>` : '') + (v.error ? `<p class="err">${esc(v.error)}</p>` : '') + '</div>';
+  }).join('');
+  const t = Object.values(all).map(v => v.checked).filter(Boolean).sort().pop();
+  const min = t ? (Date.now() - new Date(t)) / 6e4 : 0;
+  if (t) {
+    $('fresh').hidden = false;
+    $('fresh').style.setProperty('--f', min <= 45 ? '#4cc47f' : min <= 90 ? '#f18700' : '#e05252');
+    $('fresh').textContent = 'bijgewerkt ' + hm(t);
+    $('fresh').title = 'Laatste run van de monitor: ' + new Date(t).toLocaleString('nl-NL');
+  }
+  $('stale').innerHTML = min > 90 ? `<div class="warn"><strong>De monitor heeft al ${min >= 120 ? Math.round(min/60)+' uur' : Math.round(min)+' minuten'} niet gedraaid.</strong> Laatste run: ${new Date(t).toLocaleString('nl-NL')}. Wat daarna is gepubliceerd, ontbreekt hier.</div>` : '';
+}
+
+async function load(g){
+  document.querySelectorAll('#tabs a').forEach(a => { a.classList.toggle('active', a.dataset.g === g); a.setAttribute('aria-current', a.dataset.g === g ? 'page' : 'false'); });
+  $('summary').textContent = 'Laden…';
+  shown = {};
+  try {
+    if (!cache[g]) {
+      const r = await fetch(`data/${g}.json?t=${Date.now()}`);
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      const d = await r.json();
+      const dorpRes = (d.dorpen || []).slice().sort((a, b) => b.length - a.length).map(p => [p, placeRe(p)]);
+      d.items.forEach((x, i) => {
+        x._i = i;  // volgnummer zoals in de zoekindex
+        // Wanneer verscheen het stuk? De publicatiedatum; of de dag dat de monitor het vond als de bron
+        // een latere datum geeft (stukken voor een vergadering van volgende maand staan dan niet bovenaan).
+        const f = x.first_seen ? dayNL(x.first_seen) : '';
+        x._d = x.published_at ? dayNL(x.published_at) : (!x.doc_date ? '' : (!f || x.doc_date <= f ? x.doc_date : f));
+        x._t = new Date(x.published_at || x.first_seen || 0).getTime();
+        // Plaats van het stuk (voor bundels, dorpfilter en kaart).
+        const txt = norm(`${x.locatie || ''} ${x.title || ''}`);
+        x._plaats = x.plaats || (dorpRes.find(([, re]) => re.test(txt)) || [])[0] || '';
+      });
+      d.items.sort((a,b) => (b._d||'').localeCompare(a._d||'') || b._t - a._t);
+      cache[g] = d;
+    }
+    DATA = cache[g];
+  } catch (e) {
+    $('summary').textContent = 'De gegevens konden niet worden geladen (' + e.message + '). Probeer de pagina opnieuw te laden.';
+    $('title').textContent = 'Niet geladen';
+    return;
+  }
+  $('title').textContent = DATA.naam;
+  document.title = 'Gemeentemonitor ' + DATA.naam;
+  renderStatus();
+  SEARCH.q = ''; SEARCH.hits = null;
+  $('dorp').innerHTML = '<option value="">Alle kernen</option>' + (DATA.dorpen || []).map(d => `<option>${esc(d)}</option>`).join('');
+  $('dorp').hidden = !(DATA.dorpen || []).length;
+  const d0 = (DATA.dorpen || []).includes(PENDING.dorp) ? PENDING.dorp : '';
+  const stuk = PENDING.stuk;
+  PENDING.dorp = PENDING.stuk = '';
+  DORP.name = ''; DORP.re = null; DORP.hits = null; $('dorp').classList.remove('on');
+  if ($('q').value.trim()) $('q').dispatchEvent(new Event('input'));
+  setView(VIEW);
+  if (d0) setDorp(d0);
+  if (stuk) openPanel(stuk);
+}
+
+function setFilter(k){
+  filter = k;
+  if (VIEW === 'vandaag' && k) { VIEW = 'lijst'; setView('lijst'); }
+  document.querySelectorAll('#chips [data-k]').forEach(x => x.setAttribute('aria-pressed', x.dataset.k === k ? 'true' : 'false'));
+  $('moremenu').open = false;
+  shown = {}; render();
+}
+
+// ---------------------------------------------------------------------------
+// Thema: automatisch (volgt het apparaat), licht of donker
+// ---------------------------------------------------------------------------
+const THEMES = ['auto', 'licht', 'donker'];
+let THEME = store.get('gm-theme', 'auto');
+function applyTheme(){
+  if (THEME === 'auto') delete document.documentElement.dataset.theme;
+  else document.documentElement.dataset.theme = THEME === 'donker' ? 'dark' : 'light';
+  const dark = THEME === 'donker' || (THEME === 'auto' && matchMedia('(prefers-color-scheme: dark)').matches);
+  document.querySelector('meta[name=theme-color]').content = dark ? '#151f29' : '#ffffff';
+  $('theme').innerHTML = ic(THEME === 'auto' ? 'auto' : THEME === 'donker' ? 'maan' : 'zon');
+  $('theme').title = `Thema: ${THEME === 'auto' ? 'automatisch (volgt je apparaat)' : THEME}. Klik om te wisselen.`;
+}
+
+// ---------------------------------------------------------------------------
+// Gebeurtenissen
+// ---------------------------------------------------------------------------
+$('chips').addEventListener('click', e => { const b = e.target.closest('button[data-k]'); if (b) setFilter(filter === b.dataset.k && b.dataset.k ? '' : b.dataset.k); });
+document.addEventListener('click', e => {
+  if (!e.target.closest('#moremenu')) $('moremenu').open = false;
+  if (!e.target.closest('#colmenu')) $('colmenu').open = false;
+});
+false && document.body.addEventListener('click', e => {
+  const t = e.target.closest('.tile'); if (!t) return;
+  const [kind, val] = t.dataset.act.split(':');
+  if (kind === 'f') { setFilter(filter === val ? '' : val); return; }
+  MOBCOL = val; store.set('gm-col', val);
+  if (VIEW !== 'lijst') setView('lijst'); else render();
+  const target = matchMedia('(max-width:760px)').matches ? $('coltabs') : document.querySelector(`.col[aria-labelledby="h-${val}"]`);
+  if (target) target.scrollIntoView({behavior: 'smooth', block: 'start'});
+});
+let MOBCOL = store.get('gm-col', 'bek');
+$('coltabs').addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  MOBCOL = b.dataset.c; store.set('gm-col', MOBCOL); render();
+});
+$('board').addEventListener('click', async e => {
+  const a = e.target.closest('.acts button');
+  if (a) {
+    e.preventDefault();
+    const x = DATA.items.find(y => y.id === a.dataset.id); if (!x) return;
+    if (a.dataset.a === 'c') { toast(await copyText(citation(x)) ? 'Bronvermelding gekopieerd' : 'Kopiëren lukte niet'); return; }
+    toggleMark(x.id, a.dataset.a);
+    if (a.dataset.a === 's') toast(mark(x.id, 's') ? 'Bewaard in Mijn lijst' : 'Uit Mijn lijst gehaald');
+    render(); return;
+  }
+  const more = e.target.closest('.more');
+  if (more) { shown[more.dataset.col] = (shown[more.dataset.col] || PAGE) + PAGE; render(); return; }
+  if (e.target.closest('summary, .also a, .tgl')) return;
+  // Klik op een stuk: leesvenster. Ctrl/Cmd-klik of middelste knop opent het origineel zoals altijd.
+  const it = e.target.closest('.it[data-id]');
+  if (it && !(e.metaKey || e.ctrlKey || e.shiftKey)) { e.preventDefault(); openPanel(it.dataset.id); }
+});
+// Bundels pas vullen als ze openklappen (sneller bij honderden stukken).
+$('board').addEventListener('toggle', e => {
+  const d = e.target; if (!d.classList || !d.classList.contains('bundle')) return;
+  if (d.open) OPEN_BUNDLES.add(d.dataset.key); else OPEN_BUNDLES.delete(d.dataset.key);
+  if (d.open && !d.querySelector('.inner').children.length) render();
+}, true);
+$('board').addEventListener('change', e => {
+  if (e.target.id !== 'medtekst') return;
+  MEDTEKST = e.target.checked; store.set('gm-medtekst', MEDTEKST ? '1' : '0'); render();
+});
+$('panel').addEventListener('click', async e => {
+  if (e.target.closest('#pclose')) { closePanel(); return; }
+  const b = e.target.closest('[data-pa]'); if (!b) return;
+  const x = DATA.items.find(y => y.id === PANEL_ID); if (!x) return;
+  if (b.dataset.pa === 'c') { toast(await copyText(citation(x)) ? 'Bronvermelding gekopieerd' : 'Kopiëren lukte niet'); return; }
+  toggleMark(x.id, b.dataset.pa); render(); openPanel(x.id);
+});
+$('scrim').addEventListener('click', closePanel);
+$('today').addEventListener('click', e => {
+  if (e.target.closest('[data-seen]')) { markAllSeen(); toast('Alles gemarkeerd als gezien'); return; }
+  const d = e.target.closest('[data-dorp]');
+  if (d) { setDorp(d.dataset.dorp); return; }
+  const go = e.target.closest('[data-go]');
+  if (go) {
+    const [kind, val] = go.dataset.go.split(':');
+    if (kind === 'f') { setFilter(val); window.scrollTo({top: 0}); return; }
+    if (val) { MOBCOL = val; store.set('gm-col', val); HIDE.delete(val); }
+    setView('lijst'); window.scrollTo({top: 0});
+    return;
+  }
+  if (e.target.closest('.also a')) return;
+  const it = e.target.closest('.ti[data-id], .leadcard[data-id], .kcard[data-id]');
+  if (it && !(e.metaKey || e.ctrlKey || e.shiftKey)) { e.preventDefault(); openPanel(it.dataset.id); }
+});
+$('colpop').addEventListener('change', e => {
+  const id = e.target.dataset.hide; if (!id) return;
+  if (e.target.checked) HIDE.delete(id); else HIDE.add(id);
+  if (HIDE.size >= COLS.length) { HIDE.delete(id); e.target.checked = true; }
+  store.set('gm-hide', [...HIDE].join(',')); render();
+});
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && PANEL_ID) closePanel(); });
+$('map').addEventListener('click', e => { const a = e.target.closest('[data-open]'); if (a) { e.preventDefault(); openPanel(a.dataset.open); } });
+$('dorp').addEventListener('change', e => setDorp(e.target.value));
+// Wisselen van gemeente: zoekterm, filter en weergave blijven staan; dorp en geopend stuk niet.
+$('tabs').addEventListener('click', e => {
+  const a = e.target.closest('a'); if (!a) return;
+  e.preventDefault();
+  const p = new URLSearchParams(location.hash.split('?')[1] || '');
+  p.delete('dorp'); p.delete('stuk');
+  closePanel();
+  location.hash = a.dataset.g + (p.toString() ? '?' + p : '');
+});
+let timer; $('q').addEventListener('input', () => {
+  clearTimeout(timer);
+  timer = setTimeout(async () => {
+    shown = {};
+    const q = $('q').value.trim();
+    if (q && VIEW === 'vandaag') setView('lijst');
+    render();  // titels meteen
+    if (!qTokens(q).length) { SEARCH.q = q; SEARCH.hits = null; render(); return; }
+    const hits = await textSearch(q);
+    if ($('q').value.trim() !== q) return;  // intussen verder getypt
+    SEARCH.q = q; SEARCH.hits = hits; render();
+  }, 250);
+});
+$('viewseg').addEventListener('click', e => { const b = e.target.closest('button'); if (b) setView(b.dataset.v); });
+$('period').addEventListener('change', () => renderMap());
+$('theme').addEventListener('click', () => { THEME = THEMES[(THEMES.indexOf(THEME) + 1) % 3]; store.set('gm-theme', THEME); applyTheme(); });
+try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', applyTheme); } catch (e) {}
+applyTheme();
+
+// Bij openen altijd 'Vandaag', tenzij de link iets anders vraagt.
+const PENDING = {dorp: '', stuk: ''};
+function applyHash(){
+  const h = parseHash();
+  $('q').value = h.q;
+  filter = h.f;
+  document.querySelectorAll('#chips [data-k]').forEach(x => x.setAttribute('aria-pressed', x.dataset.k === filter ? 'true' : 'false'));
+  PENDING.dorp = h.dorp; PENDING.stuk = h.stuk;
+  VIEW = h.v === 'kaart' ? 'kaart' : h.v === 'kolommen' || h.v === 'lijst' ? 'lijst' : (h.q || h.f) ? 'lijst' : 'vandaag';
+  load(h.g);
+}
+window.addEventListener('hashchange', applyHash);
+applyHash();
+</script>
+</body>
+</html>

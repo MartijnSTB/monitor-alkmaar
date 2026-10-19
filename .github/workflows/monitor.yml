@@ -1,0 +1,50 @@
+name: Monitor publicaties
+on:
+  workflow_dispatch:
+    inputs:
+      test:
+        description: 'Stuur een testpush en testmail'
+        type: boolean
+        default: false
+  schedule:
+    - cron: '7,37 * * * *'
+permissions:
+  contents: write
+# Nooit twee runs tegelijk (externe wekker + GitHub-schema + handmatig): de volgende wacht netjes.
+concurrency:
+  group: monitor
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: python monitor.py
+        env:
+          # Meldingen (zie notify.py). Stel deze in onder Settings > Secrets and variables > Actions.
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          MAIL_USER: ${{ secrets.MAIL_USER }}
+          MAIL_APP_PASSWORD: ${{ secrets.MAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_SMTP_HOST: ${{ secrets.MAIL_SMTP_HOST }}
+          MAIL_SMTP_PORT: ${{ secrets.MAIL_SMTP_PORT }}
+          TEST_MELDING: ${{ inputs.test }}
+      - name: Bewaar resultaten
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Monitor update"
+          # Heeft een andere run intussen iets opgeslagen? Dan eerst bijwerken en opnieuw proberen.
+          # Bij een botsing in gegenereerde bestanden wint de versie van deze (nieuwste) run.
+          for poging in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase -X theirs origin main || { git rebase --abort; sleep 5; }
+          done
+          echo "Opslaan lukte niet na 3 pogingen; de volgende run haalt dit in."
