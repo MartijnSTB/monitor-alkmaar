@@ -1,0 +1,42 @@
+Partij
+BvDW ← Selecteer partijnaam (afkorting)
+NummerPagina Betreft onderdeel Vraag
+BvDW - 1 4 Woord vooraf Welke bezuinigingen zijn verwerkt in de begroting 2027 en de meerjarenraming 2028-2030?
+Om welke bedragen gaat het per jaar?
+2 BvDW - 2 7 Ontwikkelingen perspectief Welke financiële uitgangspunten liggen ten grondslag aan de geraamde tekorten voor 2028 en 2029, en welke maatregelen zijn hiervoor al verwerkt in de meerjarenraming?
+3 BvDW - 3 7 Ontwikkelingen perspectief Hoe is de inzet van € 1.183.000 uit de algemene reserve in 2027 financieel verwerkt en wat betekent dit voor de ontwikkeling van de algemene reserve in de meerjarenraming?
+BvDW - 4 7 Ontwikkelingen perspectief Is het tekort van 13,3 miljoen zoals gesteld in het raadsvoorstel indicatief en inclusief de eventuele tegen of meevallers van 2026?
+BvDW - 5 7 Ontwikkelingen perspectief Is in de begroting van 2027 de eventuele terugvloeiing van de subsidie die nog kan worden aangevraagd voor sportpark de Kabel meegenomen?
+4 BvDW - 6 10 Programma 1 Mens en Samenleving Welke factoren verklaren de stijging van het geraamde negatieve saldo binnen programma 1 Mens en Samenleving van circa € 11,65 miljoen in 2026 naar € 14,62 miljoen in 2027?
+5 BvDW - 7 15 1.3 Kwalitatieve en beheersbare hulp en ondersteuningDe kosten voor huishoudelijke hulp dalen van € 8,06 miljoen in 2027 naar € 2,76 miljoen in 2029.
+Welke oorzaken liggen aan deze daling ten grondslag?
+6 BvDW - 8 15 1.3 Kwalitatieve en beheersbare hulp en ondersteuningWelke concrete besparingen binnen de jeugdhulp zijn verwerkt in de begroting 2027 en op welke aannames zijn deze gebaseerd?
+BvDW - 9 26 2.1 Aantrekkelijke en diverse woon- en werkomgeving Is er bekend hoeveel procent sociale huurwoningen Dijk en Waard momenteel bedraagt, omdat men streeft naar een percentage 30% bij nieuwbouw?
+BvDW - 10 26 2.1 Aantrekkelijke en diverse woon- en werkomgeving Welke criteria gebruikt de gemeente voor betaalbare woningen en hoeveel woningzoekenden komen jaarlijks van buiten Dijk en Waard?
+BvDW - 11 26 2.1 Aantrekkelijke en diverse woon- en werkomgeving Men praat over mensen voorrang te geven bij het zoeken naar een woning als ze economisch of maatschappelijk verbonden zijn met Dijk en Waard, welke wettelijke mogelijkheden en regels gelden
+hiervoor?
+BvDW - 12 28 2.1 Aantrekkelijke en diverse woon- en werkomgeving Men wil voorrang geven aan lokale ondernemers bij gemeentelijke aanbestedingen en opdrachten waar mogelijk, hoe biedt de gemeente deze kansen binnen de aanbestedingsregels aan lokale
+ondernemers?
+BvDW - 13 33 2.1 Aantrekkelijke en diverse woon- en werkomgeving Lost alleen de gemeente Dijk en waard alle meldingen op fixi op, of worden er externe partijen ingehuurd?
+Hoe controleert men de uitgevoerde werkzaamheden van de externe partijen?
+BvDW - 14 33 2.1 Aantrekkelijke en diverse woon- en werkomgeving Worden er binnen het gebiedsgericht werken ook projecten uitgevoerd met de inwoners zodat ze meer binding krijgen met hun wijk?
+Papierprikken, groen planten?
+BvDW - 15 46 Programma 3 Bestuur, Veiligheid en Dienstverlening Zijn er in de begroting 2027 en de meerjarenraming bezuinigingen op de gemeentelijke organisatie opgenomen?
+Zo ja, welke bedragen zijn hiermee gemoeid?
+BvDW - 16 66 § 3.1 Lokale heffingen Wordt er nu bij de aanleg van riolering een gescheiden systeem gehanteerd in 2 soorten, voor standaard riolering vanuit de huizen, en afvoer van regenwater wat hergebruikt kan worden?
+7 BvDW - 17 73 § 3.2 Weerstandsvermogen en risicobeheersing Hoe is de weerstandsratio van 2,5 berekend en hoe hoog zou deze zijn wanneer de onbenutte belastingcapaciteit buiten beschouwing wordt gelaten?
+8 BvDW - 18 74 § 3.2 Weerstandsvermogen en risicobeheersing Welke bouwprojecten zijn meegenomen in de risicoanalyse, welke financiële risico's zijn daarbij geraamd en hoe zijn deze verwerkt in de meerjarenbegroting?
+BvDW - 19 74 § 3.2 Weerstandsvermogen en risicobeheersing Zijn er bij de risico's op pagina 74 ook mogelijke positieve financiële effecten in de meerjarenraming verwerkt?
+Zo ja, welke?
+BvDW - 20 91 § 3.6 Verbonden partijen Zijn in de grondexploitaties maatregelen of bijstellingen verwerkt die leiden tot lagere kosten of hogere opbrengsten?
+Zo ja, welke?
+9 BvDW - 21 107§ 3.7 Grondbeleid Welke uitgangspunten en omstandigheden verklaren de geraamde negatieve resultaten bij de grondexploitaties Stadshart, Oostrand en IKOC Noord-Scharwoude, en hoe zijn deze financiële risico's
+verwerkt in de begroting 2027 en de meerjarenraming?
+BvDW - 22 107§ 3.7 Grondbeleid Welke positieve resultaten uit grondexploitaties zijn in de begroting 2027 en de meerjarenraming al opgenomen?
+10 BvDW - 23 1104.
+Financiële positie Kunt u de ontwikkeling van de vaste schuld en de reserves in de meerjarenraming toelichten en aangeven welke financiële uitgangspunten hieraan ten grondslag liggen?
+Handleiding gebruik 'Format technische vragen':1.
+Selecteer in cel B10 door middel van de drop down namens welke de partij de vraag gesteld wordt.2.
+Vermeld in kolom 'pagina' de waarop de vraag betrekking heeft.3.
+In de kolom vraag kan de vraag gesteld worden.4.
+De grijze velden zijn bescherm, die worden automatisch gevuld.
