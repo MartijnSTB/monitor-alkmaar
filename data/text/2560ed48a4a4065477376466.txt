@@ -1,0 +1,2564 @@
+Voorverkenning Diepe Aanlandingen
+Bijlage 3 Effectbeoordeling energiesysteem
+Datum: 17-06-2026
+Versienummer: 1.0
+Status: Definitief
+In opdracht van:
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+2
+INHOUDSOPGAVE
+1 Leeswijzer ........................................................................................................................................
+4
+2 Inleiding ...........................................................................................................................................
+5
+2.1 Wat is een energiesysteemanalyse? .......................................................................................
+5
+2.2 Het toekomstige energiesysteem: scenario’s voor toekomstige ontwikkelingen ..................
+6
+2.3 Elektriciteitsinfrastructuur en mogelijke impact diepe aanlanding ........................................
+7
+2.4 Wat bepaalt of een locatie geschikt is voor diepe aanlanding? .............................................
+9
+2.5 Welke locaties voor diepe aanlanding worden onderzocht? ...............................................
+10
+3 Methodiek energiesysteemanalyse ..............................................................................................
+12
+3.1 Analyse impact op elektriciteitsinfrastructuur .....................................................................
+12
+3.2 Scenario’s en varianten .........................................................................................................
+13
+4 Beoordelingskader ........................................................................................................................
+15
+4.1 Introductie ............................................................................................................................
+15
+4.2 Algemene uitgangspunten ....................................................................................................
+16
+4.3 Aansluitcapaciteit ..................................................................................................................
+17
+4.4 Impact op 380kV-verbindingen .............................................................................................
+18
+5 Resultaten per regio ......................................................................................................................
+20
+5.1 Flevoland ...............................................................................................................................
+20
+5.1.1 Introductie .......................................................................................................................
+20
+5.1.2 Aansluitcapaciteit ............................................................................................................
+22
+5.1.3 Impact op 380kV-verbindingen .......................................................................................
+23
+5.1.4 Afwegingen tussen stations binnen regio .......................................................................
+24
+5.1.5 Conclusies ........................................................................................................................
+24
+5.2 Overijssel ...............................................................................................................................
+25
+5.2.1 Introductie .......................................................................................................................
+25
+5.2.2 Aansluitcapaciteit ............................................................................................................
+27
+5.2.3 Impact op 380kV-380kV-verbindingen ...........................................................................
+27
+5.2.4 Afwegingen tussen stations binnen regio .......................................................................
+28
+5.2.5 Conclusies ........................................................................................................................
+28
+5.3 Gelderland/Noord-Brabant ...................................................................................................
+29
+5.3.1 Introductie .......................................................................................................................
+29
+5.3.2 Aansluitcapaciteit ............................................................................................................
+31
+5.3.3 Impact op 380kV-380kV-verbindingen ...........................................................................
+31
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+3
+5.3.4 Afwegingen tussen stations binnen regio .......................................................................
+32
+5.3.5 Conclusies ........................................................................................................................
+32
+5.4 Limburg en Eindhoven ..........................................................................................................
+33
+5.4.1 Introductie .......................................................................................................................
+33
+5.4.2 Aansluitcapaciteit ............................................................................................................
+36
+5.4.3 Impact op 380kV-verbindingen .......................................................................................
+36
+5.4.4 Afwegingen tussen stations binnen regio .......................................................................
+37
+5.4.5 Conclusies ........................................................................................................................
+38
+6 Overkoepelend beeld en afhankelijkheden tussen regio’s ...........................................................
+39
+6.1 Overkoepelend beeld impact diepe aanlanding op energiesysteem ...................................
+39
+6.2 Afhankelijkheden tussen regio’s ...........................................................................................
+42
+6.3 Algemene afhankelijkheden en onzekerheden ....................................................................
+42
+6.4 Openstaande vragen vervolg ................................................................................................
+45
+Colofon ..................................................................................................................................................
+47
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+4
+1 Leeswijzer
+Dit document is een bijlage van het hoofdrapport van de Voorverkenning Diepe Aanlandingen,
+waarin de Energiesysteemanalyse en de beoordeling Energiesysteem behandeld wordt.
+Dit document bevat de volgende onderdelen:
+ Hoofdstuk 2 bevat een inleiding over wat een energiesysteemanalyse inhoudt en wat bepaalt of
+een diepe aanlanding vanuit het energiesysteem bezien gunstig is.
+ Hoofdstuk 3 bevat een toelichting op de methodiek voor de energiesysteemanalyse.
+ Hoofdstuk 4 beschrijft het beoordelingskader voor het thema energiesysteem.
+ Hoofdstuk 5 geeft een overzicht van de resultaten per regio.
+ Hoofdstuk 6 geeft een overkoepelend beeld van de resultaten en een overzicht van de
+belangrijkste afhankelijkheden en de vervolgvragen.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+5
+2 Inleiding
+2.1 Wat is een energiesysteemanalyse?
+Voor de Voorverkenning Diepe Aanlandingen is een energiesysteemanalyse uitgevoerd.
+Bij een
+energiesysteemanalyse wordt gekeken naar de gevolgen van bepaalde vraag en aanbod voor het
+energiesysteem.
+In het geval van de Voorverkenning is gekeken naar de gevolgen voor het
+energiesysteem van het aanbod van windenergie op zee dieper landinwaarts aansluiten.
+Bij de energiesysteemanalyse wordt specifiek gekeken naar de invloed van diepe aanlanding van
+wind op zee op de hoogspanningsnetten van TenneT.
+Dit betekent dat de focus ligt op de impact op
+het elektriciteitssysteem en niet op andere energiedragers, aangezien diepe aanlanding vooral
+impact zal hebben op het elektriciteitssysteem.
+Bij de scenario’s die gebruikt worden voor de
+energiesysteemanalyse (zie paragraaf 3.2) zijn alle energiedragers integraal meegenomen.
+De energiesysteemanalyse richt zich op het toekomstige energiesysteem, in 2040 en 2050.
+Vanwege
+de hoge ambitie voor wind op zee en de grote uitdagingen voor de uitbreidingen aan het
+hoogspanningsnet is een efficiënte inpassing van windparken op zee in het energiesysteem een
+uitdaging en van groot belang.
+Bij de impact op het elektriciteitssysteem is de cumulatieve impact van verschillende mogelijke
+diepe aanlandingen van belang, aangezien alle ontwikkelingen van het energiesysteem invloed op
+elkaar hebben en samenkomen op het hoogspanningsnet.
+Daarom is ook de wisselwerking met
+overige ontwikkelingen in het energiesysteem van belang, zoals aansluiting van wind op zee aan de
+kust, uitbouw van kernenergie en elektrificatie van de industrie en overige sectoren.
+De ontwikkeling
+van de elektriciteitsvraag, overige opwekbronnen en flexibele bronnen zoals omzetten van
+elektriciteit naar waterstof met elektrolysers en opslag van elektriciteit bepalen hoe en waar de
+windenergie benut wordt en daarmee waar de geproduceerde elektriciteit het meest efficiënt op
+het hoogspanningsnet ingevoed kan worden.
+Daardoor is de meest efficiënte inpassing van wind op
+zee in het energiesysteem afhankelijk van deze overige ontwikkelingen.
+Dit vraagt om een integrale
+benadering van het hele energiesysteem.
+De energiesysteemanalyse in deze studie beschouwt specifiek de inpassing van diepe aanlanding van
+wind op zee, waarbij de afhankelijkheden van overige ontwikkelen worden beschreven.
+In de
+Integrale Effectenanalyse en energiesysteemanalyse van het PEH II wordt een bredere set aan
+ontwikkelingen van het energiesysteem tegen elkaar afgewogen.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+6
+2.2 Het toekomstige energiesysteem: scenario’s voor toekomstige
+ontwikkelingen
+In de energiesysteemanalyse wordt een inschatting gemaakt van de impact van diepe aanlandingen
+van wind op zee in het toekomstige energiesysteem, in 2040 en 2050.
+Het is op dit moment nog niet
+duidelijk hoe de wereld er in 2040 en 2050 uit zal zien en hoe het energiesysteem zich zal
+ontwikkelen.
+Daarom wordt gebruik gemaakt van verschillende scenario’s voor de ontwikkeling van
+het energiesysteem.
+Deze scenario’s hebben verschillende uitgangspunten over toekomstige
+ontwikkelingen, bijvoorbeeld over de rol van waterstofdragers of de mate van zelfvoorzienendheid
+van het Nederlandse energiesysteem.
+Er worden integrale scenario’s gebruikt.
+Deze integrale
+scenario’s beschrijven het totaal van vraag, aanbod, flexibiliteit en energie-infrastructuur voor alle
+sectoren en alle energiedragers in volumes.
+De scenario’s hebben een nationale uitwerking (hoeveel
+vraag, opwek, flexibiliteit en energie-infrastructuur in heel Nederland), maar ook een ruimtelijke
+verdeling (waar wordt deze vraag, opwek, flexibiliteit en energie-infrastructuur gerealiseerd).
+De belangrijkste trends die toekomstscenario’s voor het energiesysteem laten zien zijn:
+ Elektrificatie energievraag.
+Op dit moment wordt het grootste deel van de energievraag in
+Nederland ingevuld met fossiele brandstoffen.
+Deze fossiele energievraag moet worden
+verduurzaamd en hiervoor is elektrificatie (bijvoorbeeld warmtepompen en elektrische
+voertuigen) de belangrijkste optie.
+Het is de verwachting dat de elektriciteitsvraag daardoor fors
+zal stijgen en in 2050 drie tot vijf keer zo hoog is als nu.
+Naast elektrificatie zal in het
+toekomstige energiesysteem naar verwachting ook gebruik gemaakt worden van schone gassen,
+duurzame warmte en biobrandstoffen.
+ Toename hernieuwbare opwek.
+Om in de groeiende vraag van elektriciteit te voorzien en de
+elektriciteitsvoorziening verder te verduurzamen zal het aanbod van windenergie (op land en op
+zee) en zonne-energie verder moeten toenemen.
+In scenario’s voor 2050 ligt de productie van
+deze bronnen tot tien keer zo hoog als nu.
+Het is de verwachting dat wind op zee de
+belangrijkste bron van hernieuwbare elektriciteit zal zijn.
+ Van vraaggestuurd naar aanbodgestuurd elektriciteitssysteem.
+In het verleden werd het
+grootste deel van de elektriciteitsvraag ingevuld door productie van regelbare
+Potentie van HVDC-schakelstations in het energiesysteem
+De diepe aanlanding van wind op zee kan gezien worden als eenrichtingsverkeer – er is alleen sprake van aanbod
+op het station waarop de diepe aanlanding wordt aangesloten.
+Dit is ook in de scenario’s en varianten op deze
+manier doorgerekend.
+Het is ook mogelijk om een HVDC-schakelstation te realiseren.
+Bij een HVDC-schakelstation
+wordt de kabel vanaf het windpark op zee richting het aansluitstation voor de diepe aanlanding gekoppeld aan een
+aanlandlocatie aan de kust.
+Dat heeft als voordeel dat als er aanbod op twee plekken in het land is en er
+bijvoorbeeld minder vraag naar elektriciteit is bij de diepe aanlanding, dat stroom dan aan de kust op het 380kV-
+net ingevoed kan worden.
+Een ander voordeel is dat er tweerichtingsverkeer mogelijk is; op momenten met weinig
+wind op zee kan elektriciteit vanuit de locatie waar de diepe aanlanding is aangesloten elektriciteit richting het
+aansluitstation aan de kust getransporteerd worden.
+De stroom kan afkomstig zijn uit bijvoorbeeld zon-PV
+productie of import via interconnectie.
+Daarnaast zijn nog andere opties denkbaar waarin een netwerk aan HVDC-
+verbindingen en stations wordt gevormd.
+Er wordt in de Voorverkenning Diepe Aanlandingen ook onderzoek gedaan naar de potentie van HVDC-
+schakelstations.
+In de voorverkenning worden HVDC-schakelstation alleen ruimtelijk onderzocht.
+De impact van
+HVDC-schakelstations op het energiesysteem wordt niet onderzocht in de Voorverkenning maar is onderdeel van
+onderzoek voor het Programma Energiehoofdstructuur (PEH) II.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+7
+elektriciteitscentrales, waarbij de productie de vraag volgt.
+In het toekomstige energiesysteem
+zal het grootste deel van de elektriciteitsproductie komen van zonne-energie en windenergie,
+waarvan de productie weers- en tijdsafhankelijk is.
+Dit betekent dat er bronnen van flexibiliteit,
+zoals batterijen en elektrolysers, nodig zullen zijn om de productie in balans te brengen met de
+vraag.
+Voor de Voorverkenning Diepe Aanlandingen wordt gebruik gemaakt van de scenario’s en de
+energiesysteemanalyses van het Programma Energiehoofdstructuur (PEH) II.
+De scenario’s die in
+2025 door Netbeheer Nederland ontwikkeld zijn, vormen de basis voor deze analyses.
+Er zijn vier
+scenario’s ontwikkeld door Netbeheer Nederland.
+Drie scenario’s zijn hoekpunten van de mogelijke
+ontwikkelingen, elk met een focus op verschillende energiedragers (‘Eigen Vermogen’ met focus op
+elektriciteit, ‘Horizon Aanvoer’ met focus op waterstofdragers en ‘Gezamenlijke Balans’ met focus
+op (groen) gas en biomassa).
+Daarnaast is er één centraal scenario, ’Koersvaste Middenweg’.
+Elk van
+deze scenario’s gaat uit van het behalen van de doelstelling voor een klimaatneutraal
+energiesysteem in 2050, maar de wijze waarop dit bereikt wordt verschilt dus.
+In het PEH II zijn
+daarnaast verschillende energetische en ruimtelijke varianten ontwikkeld, om de impact van
+specifieke ontwikkelingen te onderzoeken.
+Er zijn onder meer varianten ontwikkeld voor diepe
+aanlanding van wind op zee en ook in de basisscenario’s van Netbeheer Nederland wordt diepe
+aanlanding meegenomen.
+Meer hierover volgt in paragraaf 3.2.
+Een uitgebreide omschrijving van de scenario’s en varianten is te vinden in de concept-NRD van PEH
+II1.
+2.3 Elektriciteitsinfrastructuur en mogelijke impact diepe aanlanding
+Het elektriciteitsnet moet door de verwachtte toename van vraag en aanbod van elektriciteit de
+komende jaren fors uitgebreid worden.
+Er zijn uitbreidingen nodig op elk niveau van het
+elektriciteitsnet.
+Diepe aanlanding van wind op zee heeft door het grote vermogen vooral effect op
+het hoogste spanningsniveau van het hoogspanningsnet, het (bovengrondse) 380kV2-netwerk.
+Ook
+op dit niveau zijn veel uitbreidingen gepland.
+Daarnaast worden de 150kV- en 110kV-netten op een
+andere manier ingericht, met een pocketstructuur3.
+1 Concept-NRD PEH II.
+2 kiloVolt
+3 In hun visie op het toekomstige hoogspanningsnet voorziet TenneT dat ze de 110kV- en 150kV-netten
+opsplitsen in kleine deelnetjes, die elk verbonden zijn met één 380kV- of 220kV-station.
+Zo is er minder
+transport via de lagere spanningsniveaus noodzakelijk doordat de stroom snel afgevoerd kan worden naar het
+380kV- of 220kV-net.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+8
+In het toekomstige energiesysteem zal wind op zee één van de belangrijkste productiebronnen
+worden.
+Het grootste deel van de geproduceerde elektriciteit van windparken zal bij de kust
+aangesloten worden op het 380kV-netwerk.
+Dit betekent dat er veel aanbod van elektriciteit aan de
+kust zal zijn.
+Een groot deel van de elektriciteitsvraag zal ook aan de kust zijn, aangezien vier van de
+vijf grote industrieclusters aan de kust zitten.
+Maar er zal ook transport van elektriciteit richting het
+binnenland plaatsvinden, door vraag in het binnenland en op bepaalde momenten, bij een overschot
+aan elektriciteit in Nederland, ook export.
+Vanwege het benodigde transport van elektriciteit naar
+het binnenland wordt diepe aanlanding van wind op zee onderzocht.
+Bij diepe aanlanding van wind
+op zee wordt het aanbod dichter bij de landinwaartse vraag aangesloten waardoor minder transport
+vanaf de kust richting het binnenland noodzakelijk is.
+Daarnaast geldt dat met de bestaande plannen van de Routekaart Windenergie op Zee (23 GW) en
+de voorkeursalternatieven van Programma VAWOZ, er in bijna elke regio aan de kust sprake zal zijn
+van een overschot van elektriciteit op momenten met veel productie van windparken op zee.
+Ook
+geldt dat er beperkte mogelijkheden zijn om extra windparken aan te sluiten zonder dat ingrepen
+nodig zijn aan 380kV-verbindingen die de elektriciteit uit die regio’s moeten afvoeren.
+Daarom is het
+dus ook een voordeel dat bij diepe aanlanding een deel van de windparken op zee niet aan de kust
+aangesloten wordt.
+Dit zorgt ervoor dat bij diepe aanlanding minder transport van elektriciteit van
+zee via 380kV-verbindingen noodzakelijk is.
+Hiermee kunnen mogelijk uitbreidingen aan het 380kV-
+netwerk beperkt of voorkomen worden, wat gezien ruimtelijke en technische beperkingen en de
+reeds grote opgave voor versterking van het 380 kV-netwerk een belangrijk voordeel is.
+Diepe aanlanding kan echter ook nieuwe knelpunten op 380kV-verbindingen veroorzaken in de
+nabijheid van de aansluitstations, als er door diepe aanlanding lokaal te veel aanbod is aan
+elektriciteit die niet afgevoerd kan worden met 380kV-verbindingen.
+Of dit het geval is, hangt af van
+de lokale vraag en aanbod, en de positie van het aansluitstation in het netwerk.
+In de volgende
+paragraaf wordt besproken wat bepaalt of een locatie nettechnisch geschikt is voor diepe
+aanlanding.
+De impact van diepe aanlanding van wind op zee op de 380kV-verbindingen wordt bepaald met een
+integrale netdoorrekening van TenneT.
+In paragraaf 3.1 wordt dit besproken.
+Impact diepe aanlanding wind op zee op lagere spanningsniveaus en relatie met huidige netcongestie
+De diepe aanlandingen worden aangesloten op het hoogste spanningsniveau van het hoogspanningsnet
+(380 kV).
+Diepe aanlanding heeft geen significante impact op lagere spanningsniveaus, zoals het 150 kV,
+110 kV en regionale elektriciteitsnet.
+Dit komt doordat het toekomstige hoogspanningsnet ingericht wordt
+met een pocketstructuur.
+In een pocketstructuur wordt de belasting op het elektriciteitsnet binnen de
+pocket alleen bepaald door vraag en aanbod op de lagere spanningsniveaus van de pocket, en is dit niet
+afhankelijk van ontwikkelingen op het 380kV-net (zoals diepe aanlanding).
+De huidige problemen met netcongestie vinden op lagere spanningsniveaus plaats, bijvoorbeeld op de
+koppelstations tussen 150/110kV en de regionale elektriciteitsnetten.
+Diepe aanlanding zal daarmee ook
+geen oplossing zijn voor de huidige problemen met netcongestie.
+Wel kan het potentiële toekomstige
+problemen met netcongestie op het 380kV-net verminderen of voorkomen.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+9
+2.4 Wat bepaalt of een locatie geschikt is voor diepe aanlanding?
+Er zijn verschillende aspecten die bepalen of een locatie, vanuit het energiesysteem bezien, geschikt
+is voor diepe aanlanding van wind op zee.
+In deze paragraaf worden de relevante aspecten
+toegelicht.
+In hoofdstuk 4 wordt besproken hoe deze aspecten in het beoordelingskader zijn
+verwerkt.
+Een eerste relevant aspect hiervoor is de aansluitcapaciteit.
+De kabels vanaf windparken op zee
+moeten, via converterstations, aangesloten worden op het 380kV-net op land bij 380kV-
+hoogspanningsstations.
+Bij deze 380kV-hoogspanningsstations is aansluitcapaciteit nodig.
+Aansluitcapaciteit, of de mogelijkheid om het station uit te breiden om aansluitcapaciteit te
+realiseren, is een harde randvoorwaarde voor het realiseren van een diepe aanlanding bij een
+bepaald station.
+Op basis van deze randvoorwaarden zijn de te onderzoeken aansluitstations
+geselecteerd.
+Stations waar naar verwachting geen aansluitcapaciteit beschikbaar is, of geen
+aansluitcapaciteit gerealiseerd kan worden, zijn niet onderzocht in de voorverkenning.
+Meer
+hierover is te vinden in Bijlage 2 Alternatievendocument.
+De diepe aanlandingen van wind op zee hebben, zoals hiervoor besproken, als doel om aanbod van
+elektriciteit dichter bij de vraag aan te sluiten en daarmee het transport via 380kV-verbindingen te
+verminderen.
+Een locatie zien we als geschikt voor diepe aanlanding als:
+ Het knelpunten aan 380kV-verbindingen door transport van elektriciteit van de kust naar het
+binnenland vermindert.
+Als dit niet het geval is, dan draagt de diepe aanlanding namelijk niet bij
+aan het doel waarvoor deze gerealiseerd wordt.
+Een diepe aanlanding kan op twee manieren
+transport via 380kV-verbindingen verminderen:
+o Doordat de aansluiting nabij vraag in het binnenland gerealiseerd wordt waardoor
+minder transport richting het binnenland nodig is.
+Hierdoor wordt de belasting op
+380kV-verbindingen vanaf de kust richting gebieden met veel elektriciteitsvraag in het
+binnenland verminderd.
+o Doordat minder aansluitingen van windparken op zee aan de kust gerealiseerd hoeven
+te worden.
+Er zit namelijk een grens aan de hoeveelheid windenergie op zee die aan de
+kust aangeland kan worden zonder dat grote ingrepen nodig zijn aan 380kV-
+verbindingen die de elektriciteit vanuit die regio’s moet afvoeren.
+ Er door een diepe aanlanding geen nieuwe grote knelpunten aan 380kV-verbindingen ontstaan.
+Vanwege de ruimtelijke en technische beperkingen voor uitbreidingen aan 380kV-verbindingen
+is het belangrijk om te voorkomen dat nieuwe uitbreidingen noodzakelijk zijn.
+Of diepe aanlanding knelpunten aan 380kV-verbindingen kan voorkomen en of door diepe
+aanlandingen nieuwe knelpunten aan 380kV-verbindingen ontstaan, is afhankelijk van de volgende
+aspecten:
+ De ontwikkeling van (flexibele) elektriciteitsvraag is een belangrijke factor, aangezien een
+hogere vraag kan zorgen dat meer productie lokaal benut kan worden en minder elektriciteit
+getransporteerd hoeft te worden.
+Hoe beter de diepe aanlanding aansluit bij lokale vraag, hoe
+gunstiger dit is voor de netinpassing.
+Flexibele bronnen, zoals power-to-heat en elektrolyse (en
+in beperkte mate batterijen), kunnen ook bijdragen aan een gunstigere netinpassing.
+ Overige productie.
+Als er in een regio veel overige productie is, zoals wind op land en zon of
+eventueel kernenergie, dan kan diepe aanlanding er toe leiden dat er (nog) meer lokale
+overschotten zijn en meer elektriciteit getransporteerd moet worden.
+Dit geldt met name bij
+wind op land (en eventueel kernenergie), aangezien de productie van windparken op zee en
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+10
+wind op land vaak gelijktijdig is.
+Maar ook bij zon-PV zijn er momenten met gelijktijdige
+productie met wind op zee, waardoor deze combinatie ook tot een forse netbelasting kan
+leiden.
+In een deel van de regio’s die onderzocht worden voor diepe aanlanding staan grote
+gascentrales, die in de toekomst naar verwachting (deels) ook nog operationeel zullen zijn (op
+waterstof, groengas of eventueel met afvang van CO2).
+De productie van die centrales zal naar
+verwachting weinig overlappen met de productie van windparken op zee, aangezien die
+centrales vooral op momenten met weinig productie van wind- en zonne-energie draaien, en
+daardoor geen significante impact hebben op de inpassing van diepe aanlanding.
+ Locatie in het netwerk.
+Naast de lokale ontwikkeling van (flexibele) vraag en overig aanbod is
+ook de locatie in het netwerk van belang.
+De locatie in het netwerk bepaald de beschikbare
+transportcapaciteit (dit is niet overal gelijk), maar ook andere aspecten zijn hierbij van belang.
+Zo
+lopen er flows door het netwerk, veroorzaakt door de verdeling van vraag en aanbod in het land,
+die ervoor kunnen zorgen dat bepaalde locaties juist wel of niet gunstig zijn.
+Het kan een voordeel zijn als een aansluitstation nabij een interconnectie ligt, aangezien er op
+bepaalde momenten elektriciteit geëxporteerd wordt op uren met veel productie van
+windparken op zee.
+Dus dan kan het gunstig zijn om diepe aanlanding zo dicht mogelijk bij een
+interconnectie te realiseren.
+Het is echter niet volledig zeker dat dit positief uitvalt, aangezien
+het niet altijd zo is dat er elektriciteit geëxporteerd wordt op momenten met veel productie.
+De
+netdoorrekeningen geven hier uitsluitsel over.
+2.5 Welke locaties voor diepe aanlanding worden onderzocht?
+De onderzochte locaties voor een diepe aanlanding van windenergie zijn:
+ Regio Limburg en Eindhoven (Eindhoven, Maasbracht en Einighausen)
+ Regio Gelderland en Noord-Brabant (Wijchen, Rivierenland, Doetinchem, Boxmeer)
+ Regio Flevoland (Lelystad en Almere)
+ Regio Overijssel (Almelo en Hengelo)
+De potentiële aansluitstations en de routes richting deze aansluitstations worden in onderstaande
+Figuur 2-1 weergegeven.
+Rol van interconnectie in het energiesysteem
+Het Nederlandse elektriciteitsnet is via kabels en hoogspanningslijnen verbonden met Duitsland, België,
+Noorwegen, Denemarken en het Verenigd Koninkrijk.
+Hierdoor kan import of export van elektriciteit
+plaatsvinden en is het elektriciteitsnet flexibeler, betaalbaarder en worden variaties in vraag en aanbod
+beter opgevangen.
+Als er in een buurland veel duurzame productie is, dan kan Nederland deze stroom
+importeren.
+Tegelijkertijd, als er meer productie van wind op zee is dan de Nederlandse vraag naar
+elektriciteit dan kan dat naar de buurlanden geëxporteerd worden zodat productie niet hoeft te worden
+afgeschakeld (curtailment).
+In de netdoorrekeningen van TenneT is de buitenlandse vraag en aanbod van elektriciteit gemodelleerd en
+niet afhankelijk van waar diepe aanlanding gerealiseerd wordt.
+Op momenten met veel wind op zee zal er
+waarschijnlijk export plaatsvinden.
+Diep aanlanden dicht bij een interconnectie is daarmee een voordeel
+bij een vergelijking tussen stations in een regio.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+11
+Figuur 2-1 Overzicht aansluitstations en routes richting aansluitstations
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+12
+3 Methodiek energiesysteemanalyse
+In bovenstaand hoofdstuk is besproken wat de energiesysteemanalyse inhoudt, hoe het
+energiesysteem zich ontwikkelt, welke impact dit heeft op het elektriciteitsnet en wat maakt of een
+locatie, vanuit het energiesysteem bezien, geschikt is voor diepe aanlanding.
+In dit hoofdstuk wordt
+besproken welke analyses gedaan zijn.
+Hiervoor wordt eerst de wijze waarop de impact op de elektriciteitsinfrastructuur bepaald wordt
+besproken.
+Vervolgens wordt besproken welke scenario’s en varianten doorgerekend zijn.
+3.1 Analyse impact op elektriciteitsinfrastructuur
+Zoals eerder besproken zijn er twee aspecten van belang bij de impact op de
+elektriciteitsinfrastructuur: er moet voldoende aansluitcapaciteit zijn op het aansluitstation (of
+aansluitcapaciteit gerealiseerd kunnen worden) en de diepe aanlanding heeft impact op de belasting
+op 380kV-verbindingen.
+Voor het bepalen van de effecten van aansluiting van wind op zee op de belasting op 380kV-
+verbindingen zijn integrale netdoorrekeningen van TenneT uitgevoerd.
+In deze doorrekeningen
+wordt een inschatting gemaakt van de effecten van verschillende scenario’s op het 380kV-net in
+2040 en 2050.
+De integrale netdoorrekeningen van TenneT bestaat uit twee stappen.
+In de eerste stap, de
+marktanalyses, wordt bepaald welke inzet van verschillende bronnen van vraag, aanbod en
+flexibiliteit en welke uitwisseling met het buitenland plaatsvindt om vraag en aanbod binnen
+Nederland op elk moment van het in balans te brengen.
+Vervolgens wordt berekend hoe vraag en
+aanbod verdeeld zijn over het land en welk transport noodzakelijk is om te zorgen dat alle vraag
+ingevuld kan worden.
+De doorrekeningen gaan uit van een energiesysteem waarin vraag en aanbod
+op elk moment in balans moet zijn en dat het elektriciteitsnet de stromen tussen producenten en
+afnemers kan transporteren.
+Uit de doorrekeningen volgt welke knelpunten aan 380kV-verbindingen
+ontstaan doordat de capaciteit onvoldoende is om al het benodigde transport te faciliteren.
+Voor elk knelpunt door een overschrijding van de transportknelpunt is een oplossing noodzakelijk.
+Het is echter niet zo dat nieuwe energie-infrastructuur altijd noodzakelijk is.
+Welke oplossing nodig
+is, is afhankelijk van de ernst van de overschrijding, wat wordt bepaald op basis van de hoeveelheid
+energie die op jaarbasis niet getransporteerd kan worden (aangeduid als Energy Not Transported
+Richtinggevend onderzoek naar impact wind op zee op energie-infrastructuur, geen absolute waarheid
+Het gaat bij de netdoorrekeningen van TenneT expliciet om richtinggevende doorrekeningen, om de
+relatieve impact bij aansluiting op verschillende locaties in te schatten.
+Daarmee dienen deze
+doorrekeningen om afwegingen te maken tussen diepe aanlanding van wind op zee in verschillende
+regio’s.
+Deze doorrekeningen geven geen overzicht van uitbreidingen die nodig zijn aan de energie-
+infrastructuur op land.
+Daarvoor zijn de investeringsplannen van de netbeheerders leidend.
+De resultaten zijn geldig binnen de bandbreedte van de gehanteerde scenario’s.
+Scenario’s en modellen
+geven inzicht in de mogelijke ontwikkelingen richting 2040 en 2050, maar zijn geen absolute waarheid.
+Bij
+andere ontwikkelingen zal de impact van wind op zee op het elektriciteitsnet ook anders zijn.
+We geven bij
+de resultaten een reflectie op de belangrijkste onzekerheden en afhankelijkheden.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+13
+(ENT)).
+Als dit een kleine hoeveelheid is, kan het knelpunt vaak opgelost worden met een
+operationele ingreep, met re-dispatch4.
+Als grote hoeveelheden energie niet getransporteerd
+kunnen worden dan is het knelpunt niet operationeel op te lossen en is een grote ingreep
+noodzakelijk (zoals aanleg nieuwe verbinding).
+De energiesysteemanalyses worden uitgevoerd voor de zichtjaren 2040 en 2050.
+Op dit moment is
+er al veel energie-infrastructuur aanwezig en tot 2040 staan al veel investeringen voor nieuwe
+projecten op de planning.
+Zo worden veel uitbreidingen gedaan aan het 380kV-net.
+In de analyses
+voor de beoordeling zijn de huidige situatie en de geplande investeringen de uitgangssituatie.
+Dit
+betekent dat aangenomen wordt dat de geplande investeringen in ieder geval gerealiseerd worden.
+Investeringen die opgenomen zijn in het investeringsplan van TenneT worden meegenomen.
+Hieronder wordt besproken welke scenario’s en varianten doorgerekend zijn in de
+netdoorrekeningen van TenneT.
+3.2 Scenario’s en varianten
+Er zijn meerdere scenario’s en varianten doorgerekend om een goede inschatting te kunnen maken
+van de onzekerheden en de impact van diepe aanlanding op verschillende locaties op de
+hoogspanningsinfrastructuur op land.
+De scenario’s en variëren op twee onderdelen:
+ Overige ontwikkelingen energiesysteem/energetisch scenario.
+De ontwikkeling van de
+energievraag en overige productiebronnen is van belang voor de impact van wind op zee op de
+energie-infrastructuur op land.
+Hoe deze ontwikkelingen gaan lopen is nog niet duidelijk.
+ Locaties diepe aanlanding wind op zee.
+Dit wordt gevarieerd om de impact van diepe
+aanlanding op verschillende locaties te bepalen.
+De basisscenario’s van Netbeheer Nederland en de ruimtelijke varianten van PEH II worden gebruikt
+voor de Voorverkenning Diepe Aanlandingen.
+De volgende scenario’s en varianten zijn doorgerekend
+en worden gebruikt voor de energiesysteemanalyse:
+ Basisscenario’s Koersvaste Middenweg, Eigen Vermogen en Gezamenlijke Balans 2040.
+De
+scenario’s Koersvaste Middenweg en Eigen Vermogen hebben elk één diepe aanlanding van 2
+GW in Limburg, maar andere aannames voor de overige ontwikkelingen van het
+elektriciteitssysteem.
+Het scenario Gezamenlijke Balans heeft geen diepe aanlanding.
+ Ruimtelijke variant diepe aanlanding voor Koersvaste Middenweg 2040.
+Er is één ruimtelijke
+variant onderzocht voor 2040, waarbij diepe aanlanding in Overijssel (Twente), Flevoland en
+Gelderland-Zuid/Noord-Brabant Oost is meegenomen (2 GW per regio).
+Dit is een variant op het
+scenario Koersvaste Middenweg, waarbij de overige aannames over de ontwikkeling van het
+energiesysteem gelijk blijven maar alleen de locaties voor aansluiting van wind op zee wijzigt.
+Deze variant heeft minder aansluiting in Limburg, Zuid-Holland en Noord-Holland.
+4 Bij redispatch betaalt TenneT afnemers of producenten van elektriciteit om hun productie of afname te
+verminderen of juist toe te laten nemen zodat minder transport nodig is op een verbinding waar een knelpunt
+dreigt op te treden.
+Als er slechts op enkele momenten in het jaar knelpunten optreden op een bepaalde
+verbinding is dit goedkoper dan het aanleggen van nieuwe infrastructuur.
+We gaan uit van een technische
+grens van maximaal 0,5 TWh/jaar (economisch gezien is bij een lagere grens verzwaring al voordeliger).
+Dit is
+nadrukkelijk een vuistregel; de daadwerkelijke redispatch-mogelijkheden zullen per locatie verschillen en zijn
+sterk afhankelijk van de beschikbaarheid van regelbaar vermogen op de juiste locaties in het net.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+14
+ Basisscenario’s Koersvaste Middenweg, Eigen Vermogen en Gezamenlijke Balans 2050.
+Deze
+scenario’s hebben elk twee diepe aanlanding in Limburg, maar andere aannames voor de
+overige ontwikkelingen van het elektriciteitssysteem.
+ Ruimtelijke variant diepe aanlanding voor Koersvaste Middenweg 2050.
+Ook voor 2050 is een
+variant op het scenario Koersvaste Middenweg doorgerekend met diepe aanlanding in Overijssel
+(Twente), Flevoland en Gelderland-Zuid/Noord-Brabant Oost is meegenomen (2 GW per regio).
+Deze variant heeft minder aansluiting in Limburg en Noord-Holland.
+Figuur 3-1 Aansluiting wind op zee bij basisscenario Koersvaste Middenweg en Diepe aanlanding
+variant
+De inzichten van de netdoorrekeningen worden gebruikt om per aansluitregio uitspraken te doen
+over de effecten van diepe aanlanding van wind op zee in die regio.
+Idealiter wordt hiervoor een
+scenario zonder diepe aanlandingen vergeleken met varianten met alle mogelijke combinaties van
+diepe aanlandingen in de verschillende regio’s.
+Echter doorrekeningen zijn arbeidsintensief.
+Daarom
+is ervoor gekozen om, naast het basisscenario met diepe aanlanding in Limburg, een variant door te
+rekenen met één diepe aanlanding in elk van de andere drie regio’s (Flevoland, Overijssel,
+Gelderland-Zuid/Noord-Brabant Oost).
+Op basis van een gedetailleerde analyse van de uitkomsten
+en op basis van expert judgement worden de inzichten van netdoorrekeningen van de
+basisscenario’s en de ruimtelijke varianten vertaald naar een inschatting van de effecten van diepe
+aanlanding per regio.
+Binnen elk van de vier regio’s die onderzocht zijn er verschillende mogelijke aansluitstations.
+In de
+basisscenario’s en de varianten is voor elke regio een aanname gemaakt op welk van de
+aansluitstations in de regio de diepe aanlanding gerealiseerd wordt5.
+Met behulp van aanvullende
+kwalitatieve analyses kan er gedegen inzicht gegeven worden in de impact bij aansluiting op een
+ander station in dezelfde regio waardoor specifieke aanvullende doorrekeningen niet nodig zijn.
+Op
+basis van de uitkomsten van de netdoorrekeningen en de verwachtte ontwikkeling van vraag en
+aanbod per aansluitstation wordt vervolgens een beschouwing gegeven op de geschiktheid van de
+verschillende aansluitstations binnen een regio.
+5 Om een netdoorrekening te kunnen doen moet een specifiek aansluitstation gekozen worden.
+De keuze
+hiervoor is arbitrair en zegt niets over de wenselijkheid van diepe aanlanding bij dat aansluitstation.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+15
+4 Beoordelingskader
+4.1 Introductie
+In de effectbeoordeling worden potentiële diepe aanlandingen beoordeeld, waarbij zowel naar
+routes als naar de converterstations en aansluitstations gekeken wordt.
+Voor het energiesysteem is
+met name het aansluitstation, het eindpunt van de routes, van belang aangezien de routes hier
+worden aangesloten op het energiesysteem op land.
+Hoe de routes zelf lopen, zowel het deel onder
+de Noordzee als het deel onder land, is voor de impact op het energiesysteem op land niet van
+belang.
+Daarom maken we bij de beoordeling energiesysteem geen onderscheid tussen
+verschillende routes die eenzelfde aansluitstation hebben, per aansluitstation volgt één beoordeling.
+De kabels vanaf windparken op zee moeten, via converterstations, aangesloten worden op het
+hoogspanningsnet op land bij hoogspanningsstations.
+Hier is aansluitcapaciteit voor nodig.
+Daarnaast moet de elektriciteit vanaf de aansluitstations getransporteerd worden richting de
+eindgebruikers.
+Een diepe aanlanding heeft impact op de transportstromen en daarmee op de
+belasting en benodigde ingrepen aan 380kV-verbindingen.
+Beide aspecten worden beoordeeld.
+De aansluitcapaciteit beoordelen we op het niveau van individuele stations/aansluitstations.
+De
+impact op 380kV-verbinding wordt per regio beoordeeld.
+Er zijn meerdere stations per regio.
+Voor
+elk van de stations brengen we de relevante overwegingen met betrekking tot de impact op de
+380kV-verbindingen in kaart.
+Daarmee geven we inzicht welke stations binnen de regio, vanuit het
+perspectief van het energiesysteem, het meest geschikt lijken voor een diepe aanlanding.
+Daarnaast is voor het energiesysteem niet alleen de impact van een enkele aansluiting, maar ook de
+gezamenlijke impact van diepe aanlandingen, aansluitingen aan de kust en de overige
+ontwikkelingen van het energiesysteem van belang.
+Daarom geven we ook een overkoepelende
+beschouwing van de impact van diepe aanlanding en de interactie tussen aansluitingen in
+verschillende regio’s.
+Bij de beoordeling van de impact op het energiesysteem zijn twee assen van belang:
+ Omvang ingreep.
+Bij het bepalen van de impact van diepe aanlanding van wind op zee op de
+hoogspanningsinfrastructuur op land is van belang of de bestaande infrastructuur het aansluiten
+en transporteren van elektriciteit kan faciliteren of niet.
+Indien de bestaande en geplande
+hoogspanningsinfrastructuur voldoende capaciteit heeft, dan is er geen probleem.
+Maar als er
+onvoldoende capaciteit is, dan is een ingreep noodzakelijk.
+Welke ingreep noodzakelijk is, is
+afhankelijk van de mate van overschrijding van de capaciteit (in tijd en/of omvang).
+Bij een
+beperkte overschrijding van de capaciteit kan het probleem naar waarschijnlijkheid met een
+operationele ingreep (zoals re-dispatch6) opgelost worden.
+Als grote hoeveelheden energie niet
+getransporteerd kunnen worden dan is het knelpunt niet operationeel op te lossen en is een
+grote ingreep noodzakelijk (zoals aanleg nieuwe verbinding).
+6 Bij re-dispatch betaalt TenneT afnemers of producenten van elektriciteit om hun productie of afname te
+verminderen of juist toe te laten nemen zodat minder transport nodig is op een verbinding waar een knelpunt
+dreigt op te treden.
+Als er slechts op enkele momenten in het jaar knelpunten optreden op een bepaalde
+verbinding is dit goedkoper dan het aanleggen van nieuwe infrastructuur.
+We gaan uit van een technische
+grens van maximaal 0,5 TWh/jaar (economisch gezien is bij een lagere grens verzwaring al voordeliger).
+Dit is
+nadrukkelijk een vuistregel; de daadwerkelijke re-dispatch-mogelijkheden zullen per locatie verschillen en zijn
+sterk afhankelijk van de beschikbaarheid van regelbaar vermogen op de juiste locaties in het net.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+16
+ Robuustheid/overige ontwikkelingen energiesysteem.
+De ontwikkelingen rondom wind op zee
+staan niet op zichzelf.
+Het hele energiesysteem zal ingrijpend veranderen richting 2040 en 2050.
+De overige ontwikkelingen in het energiesysteem hebben een impact op de inpassing van diepe
+aanlanding van wind op zee.
+Daarom is het niet mogelijk om één beoordeling per verbinding of
+regio te doen.
+Dit vangen we op door naar de robuustheid van de beoordeling te kijken.
+Hierbij
+geven we aan in welke mate de impact van wind op zee op de hoogspanningsinfrastructuur, en
+dus de beoordeling, afhankelijk is van de overige ontwikkelingen van het energiesysteem.
+Daarbij ligt de focus op de afhankelijkheid van de geplande uitbreidingen van de
+elektriciteitsinfrastructuur, de aansluiting van wind op zee aan de kust, de elektriciteitsvraag,
+flexibele bronnen (zoals opslag en elektrolyse) en kernenergie.
+De beoordeling werkt volgens een stoplichtmodel, zoals weergegeven in onderstaande tabel.
+Tabel 4-1 Beoordelingstabel Impact op energiesysteem
+In de volgende paragrafen worden de beoordeling voor de aansluitcapaciteit en impact op 380kV-
+verbindingen in meer detail besproken.
+Eerst wordt dieper ingegaan op algemene uitgangspunten bij
+de beoordeling.
+4.2 Algemene uitgangspunten
+De algemene uitgangspunten bij de beoordeling voor energiesysteem zijn:
+ De effecten worden beoordeeld ten opzichte van een referentiesituatie zonder diepe
+aanlanding.
+ In de beoordeling wordt gekeken naar zichtjaren 2040 en 2050.
+ In de beoordeling wordt aangenomen dat het energiesysteem altijd kloppend is.
+Dit
+betekent dat aangenomen wordt dat vraag en aanbod ten alle tijden in balans zijn en dat
+alle energie getransporteerd kan worden vanaf de windparken op de Noordzee naar de
+eindgebruikers.
+Bij de beoordeling wordt beschouwd welke ingrepen aan energie-
+infrastructuur noodzakelijk zijn om dit te kunnen faciliteren.
+ Voor de overige ontwikkelingen wordt uitgegaan van het energiesysteem van de
+ontwikkelingen van de scenario’s die gebruikt worden voor het PEH II (zie paragraaf 3.2).
+ Er wordt ervan uitgegaan dat alle geplande uitbreidingen aan de elektriciteitsinfrastructuur
+in 2040 gerealiseerd zijn, inclusief de voorkeursalternatieven van het Programma VAWOZ.
+Dit is dus de referentiesituatie.
+Investeringen die opgenomen zijn in het investeringsplan van
+netbeheerders of waar een investeringsbeslissing voor is gedaan, worden meegenomen.
+Beoordelingsaspect Score Criterium beoordeling
+Impact op het
+energiesysteem
+Geen ingreep nodig voor diepe aanlanding en
+gunstige impact op energiesysteem.
+Deze uitkomst is robuust en niet/beperkt afhankelijk
+van de overige ontwikkelingen van het
+energiesysteem.
+Beperkte ingreep nodig voor diepe
+aanlanding en gunstige impact op
+energiesysteem.
+Deze uitkomst is robuust en niet/beperkt afhankelijk
+van de overige ontwikkelingen van het
+energiesysteem.
+Mogelijk grote ingreep nodig voor diepe
+aanlanding of mogelijk geen gunstige impact
+diepe aanlanding op energiesysteem.
+Dit is afhankelijk van de overige ontwikkelingen van
+het energiesysteem.
+Grote ingreep nodig en/of geen gunstige
+impact op energiesysteem.
+Deze uitkomst is robuust en niet/beperkt afhankelijk
+van de overige ontwikkelingen van het
+energiesysteem.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+17
+ In de energiesysteemstudie voor elektriciteit wordt uitgegaan van de wettelijke normen
+rondom zekerheid van het elektriciteitsnet, zoals N-1 redundantie7.
+4.3 Aansluitcapaciteit
+Of aansluitcapaciteit beschikbaar is wordt op het niveau van individuele stations beoordeeld.
+Voor
+de keuze tussen stations binnen de regio is de aansluitcapaciteit van de verschillende stations, vanuit
+het energiesysteem, een relevante factor.
+Beschikbare aansluitcapaciteit op een station, of de
+mogelijkheid om het station uit te breiden om aansluitcapaciteit te realiseren, is een harde
+randvoorwaarde voor het realiseren van een diepe aanlanding bij een bepaald station.
+In theorie is het ook mogelijk om een nieuw station te realiseren, maar binnen de voorverkenning
+hanteren we het aansluiten bij bestaande en geplande stations die zijn opgenomen in het
+investeringsplan Net op Land 2026 van TenneT als uitgangspunt.
+Om een knelpuntanalyse te kunnen
+uitvoeren moet de toekomstige netstructuur duidelijk zijn wat niet het geval is bij nog niet voorziene
+stations.
+Daarnaast moet voldoende ruimte beschikbaar zijn voor een nieuw station en kost de
+aanleg van een nieuw station veel tijd (7-10 jaar).
+Ook moeten nieuwe stations aangekoppeld
+worden met bovengrondse verbindingen, wat ook een ruimtelijke impact heeft.
+Daarom wordt voor
+nu uitgegaan van bestaande en geplande stations, en wordt onderzocht of er bij die stations
+voldoende aansluitcapaciteit beschikbaar is.
+Stations die zich momenteel nog in een vroege planfase bevinden en niet in het investeringsplan van
+TenneT zijn opgenomen, zoals een mogelijk nieuw station bij Utrecht-West, kunnen – zodra ze zijn
+opgenomen in het investeringsplan – alsnog worden beoordeeld op een diepe aanlanding, mits dit
+op dat moment nog wenselijk is vanuit het energiesysteem.
+Per station wordt beoordeeld of er (naar verwachting) voldoende aansluitcapaciteit is voor het
+aansluiten van één of twee 2 GW diepe aanlanding(en).
+Dit wordt gedaan op basis van inzichten van
+TenneT.
+Bij de beoordeling wordt ook de (on)zekerheid voor de aanwezigheid van aansluitcapaciteit
+meegenomen.
+De onderstaande Tabel 4-2 geeft de mogelijke beoordelingen voor het onderdeel
+aansluitcapaciteit.
+Stations waar geen aansluitcapaciteit beschikbaar is, zijn al afgevallen bij de
+toetsing van mogelijke alternatieven (zie bovenstaand kader).
+Dit betekent dat de stations die nog
+onderzocht worden alleen een groene of oranje beoordeling kunnen krijgen.
+7 Dit betekent dat het elektriciteitsnet ook nog alle energie moet kunnen transporteren als één component
+uitvalt, bijvoorbeeld door een calamiteit.
+Er is dus een reservecomponent.
+Deze N-1 redundantie dient overal
+in het hoogspanningsnet te gelden.
+Relatie met toetsing mogelijke alternatieven op basis van aansluitcapaciteit
+Bij de toetsing van potentiële aansluitstations bij het bepalen van mogelijke alternatieven (zie bijlage 2
+Alternatievendocument) is de (mogelijke) beschikbaarheid van aansluitcapaciteit al meegenomen als
+randvoorwaarde.
+Dit betekent dat alleen stations zijn meegenomen in het onderzoek en beoordeeld
+worden die mogelijk aansluitcapaciteit hebben en dat er geen stations zijn die een rode beoordeling
+krijgen (zie onderstaande beoordelingsschaal).
+Bij deze effectbeoordeling op het thema Energiesysteem
+doen we nog een beoordeling op het onderwerp aansluitcapaciteit om te specificeren hoe (on)zeker het is
+dat aansluitcapaciteit beschikbaar is en dit mee te kunnen wegen in de keuze tussen aansluitstations.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+18
+Tabel 4-2 Beoordelingstabel aansluitcapaciteit
+4.4 Impact op 380kV-verbindingen
+Op regioniveau wordt de impact van diepe aanlandingen op 380kV-verbindingen beoordeeld.
+De
+beoordeling of voldoende transportcapaciteit beschikbaar is, gebeurt op basis van de
+netdoorrekeningen van de scenario’s en varianten door TenneT (zie paragraaf 3.1).
+Bepalend voor
+de impact van diepe aanlanding op 380kV-verbindingen zijn: lokale elektriciteitsvraag,
+flexibiliteitsbronnen, overige productie, beschikbare transportcapaciteit en de locatie in het
+netwerk.
+Deze aspecten worden meegewogen bij de beoordeling voor impact op de
+hoogspanningsverbindingen op land.
+De beoordeling op het aspect impact op 380kV-verbindingen wordt gedaan op basis van de ingrepen
+die nodig zijn.
+Daarbij wordt onderscheid gemaakt naar beperkte ingrepen en grote ingrepen.
+Re-
+dispatch wordt gezien als een beperkte ingreep aangezien dit een operationele ingreep is en
+hiervoor geen fysieke uitbreidingen noodzakelijk zijn.
+Als de knelpunten op de 380kV-verbindingen
+te groot zijn of te veel momenten in het jaar voorkomen, dan is re-dispatch niet voldoende en is een
+grote ingreep noodzakelijk.
+De ‘standaard’ grote ingreep is een netuitbreiding, maar er zijn ook
+andere grote ingrepen denkbaar zoals ingrijpen in de markt om windparken af te kunnen schakelen
+als knelpunten dreigen.
+Beoordelingsaspect Score Toelichting beoordeling
+Aansluitcapaciteit Aansluitcapaciteit beschikbaar Verbinding kan met grote zekerheid aangesloten worden
+op het 380kV-hoogspanningsstation.
+Geplande stations
+moeten in de fase voorbereiding/basisontwerp of
+realisatie zijn opgenomen in het investeringsplan.
+Beschikbaarheid afhankelijk van
+besluitvorming over uitbreiding/ realisatie
+hoogspanningsstation
+Beschikbaarheid van aansluitcapaciteit is afhankelijk van
+overige ontwikkelingen (zoals ontwikkeling
+elektriciteitsvraag, kernenergie).
+Dit is ook van toepassing
+op geplande stations die nog in studiefase zijn, en
+waarvoor nog geen basisontwerp ligt.
+Geen aansluitcapaciteit beschikbaar Aansluiting kan naar verwachting niet aangesloten
+worden op het 380kV-hoogspanningsstation.
+Er is geen
+aansluitcapaciteit beschikbaar en er uitbreiding is niet
+realistisch.
+Deze locaties maken geen onderdeel uit van
+de alternatieven.
+Inschatting beschikbare aansluitcapaciteit
+Voor elk van de stations die onderzocht worden voor diepe aanlanding is een inschatting gemaakt van de
+beschikbare aansluitcapaciteit, en de mogelijkheid voor uitbreiding.
+Hiervoor is voor elk van de stations
+een inschatting gemaakt van de vrije velden die op dit moment beschikbaar zijn, maar de beschikbare vrije
+velden kunnen ook voor aansluiting van andere partijen of netuitbreidingen gebruikt worden.
+Daarom is
+ook een inschatting gemaakt hoeveel velden al voor andere doeleinden (netuitbreidingen/kwaliteit
+netwerk) noodzakelijk zijn.
+Bij het aansluiten van andere partijen is door TenneT rekening gehouden met
+klantaanvragen die contractueel ver gevorderd, en daarmee behoorlijk zeker zijn.
+Maar het is alsnog niet
+100% zeker dat deze partijen daadwerkelijk een aansluiting zullen krijgen.
+Daarnaast is het ook mogelijk
+dat er nog andere partijen een aansluiting willen en is het nog niet duidelijk hoeveel velden nodig zijn voor
+netuitbreidingen en kwaliteit van het netwerk.
+Dit betekent dat de inschatting van de beschikbare aansluitcapaciteit de best mogelijke inschatting is die
+nu gemaakt kan worden, maar geen absolute waarheid is.
+Het is nog niet duidelijk hoeveel velden
+daadwerkelijk beschikbaar zullen zijn, dit kan zowel positiever als negatiever uitvallen.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+19
+Voor de impact op de 380kV-verbindingen wordt per regio beoordeeld of:
+ Er nieuwe grote ingrepen aan 380kV-verbindingen nodig zijn.
+Vanwege de ruimtelijke en
+technische beperkingen voor uitbreidingen aan 380kV-verbindingen is het wenselijk om te
+voorkomen dat nieuwe uitbreidingen noodzakelijk zijn.
+Voor dit punt wordt per regio
+beoordeeld welke ingrepen noodzakelijk zijn bij realisatie van diepe aanlanding in die regio, en
+wordt dit vergeleken met de ingrepen die nodig zijn zonder diepe aanlanding in die regio.
+ Het knelpunten aan 380kV-verbindingen door transport van elektriciteit van de kust naar het
+binnenland vermindert.
+Het verminderen van ingrepen aan het elektriciteitsnet en netcongestie
+is een doel van het realiseren van diepe aanlandingen.
+Voor dit punt wordt per regio beoordeeld
+of er ingrepen in andere gebieden van Nederland, bijvoorbeeld op verbindingen vanaf de kust
+naar het binnenland, voorkomen kunnen worden door diepe aanlandingen.
+Bij de beoordeling voor beide punten wordt onderscheid gemaakt naar de mate van ingreep aan
+380kV-verbinding die noodzakelijk is (bij het eerste punt) of voorkomen kan worden (bij het tweede
+punt) enerzijds en de robuustheid/afhankelijkheid van andere ontwikkelingen anderzijds.
+Tabel 4-3 Beoordelingstabel impact op 380kV-verbindingen
+Bovenstaande aspecten worden per regio beoordeeld.
+Er zijn echter meerdere stations per regio en
+de impact op 380kV-verbindingen kan wel verschillen tussen stations.
+Voor elk van de 380kV-
+hoogspanningsstations worden de relevante overwegingen met betrekking tot de impact op de
+380kV-verbindingen in kaart gebracht.
+Daarmee wordt inzichtelijk gemaakt welke 380kV-
+hoogspanningsstations binnen de regio, vanuit het perspectief van het energiesysteem, het meest
+geschikt lijken voor een diepe aanlanding.
+Daarvoor wordt de toekomstige vraag, aanbod en
+flexibele bronnen per station in kaart gebracht.
+Daarnaast wordt een beschouwing gegeven op de
+locatie in het netwerk van het station en wat dit betekent voor de geschiktheid.
+Beoordelingsaspect Score Criterium beoordeling
+Impact op 380kV-
+verbindingen:
+inpasbaarheid in regio
+Geen ingrepen aan 380kV-verbindingen nodig
+voor inpassing.
+Geen extra ingrepen bij 380kV-verbindingen in
+aansluitregio door diepe aanlanding.
+Beperkte ingrepen aan 380kV-verbindingen
+nodig voor inpassing.
+Beperkte ingrepen (<0,5 TWh ENT) bij 380kV-
+verbindingen in aansluitregio door diepe aanlanding.
+Risico dat nieuwe grote ingrepen nodig zijn
+voor inpassing.
+Mogelijk grote ingrepen (>0,5 TWh ENT) bij 380kV-
+verbindingen in aansluitregio door diepe aanlanding.
+Of dit gebeurt is afhankelijk van overige
+ontwikkelingen van het energiesysteem.
+Nieuwe grote ingrepen nodig voor inpassing.
+Grote ingrepen (>0,5 TWh ENT) nodig aan 380kV-
+verbindingen in aansluitregio door diepe aanlanding.
+Dit is robuust en niet/beperkt afhankelijk van overige
+ontwikkelingen van het energiesysteem.
+Impact op 380kV-
+verbindingen:
+voorkomen ingrepen
+elders in het land
+Kan grote ingrepen aan 380kV-verbindingen
+elders in het land voorkomen
+Kan grote ingrepen (>0,5 TWh ENT) aan 380kV-
+verbindingen elders in Nederland voorkomen.
+Dit is
+robuust en niet/beperkt afhankelijk van overige
+ontwikkelingen van het energiesysteem.
+Afhankelijk van andere ontwikkelingen
+energiesysteem (zoals vraag elektriciteit,
+flexibiliteit of kernenergie) of het ingrepen
+elders in het land kan voorkomen.
+Kan grote ingrepen (>0,5 TWh ENT) aan 380kV-
+verbindingen elders in Nederland voorkomen of
+verminderen, maar dit is afhankelijk van andere
+ontwikkelingen in het energiesysteem.
+Kan geen grote ingrepen aan 380kV-
+verbindingen elders in het land voorkomen
+en heeft vanuit energiesysteem bezien in
+geen enkel denkbaar scenario meerwaarde
+ten opzichte van aanlanding aan kust.
+Kan in geen enkel denkbaar scenario grote ingrepen
+(>0,5 TWh ENT) aan 380kV-verbindingen elders in
+Nederland voorkomen, ten opzichte van aanlanding
+aan de kust.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+20
+5 Resultaten per regio
+5.1 Flevoland
+5.1.1 Introductie
+In Flevoland wordt een diepe aanlanding onderzocht voor een nieuw 380kV-hoogspanningsstation
+bij Lelystad, of op het geplande 380kV-hoogspanningsstations Almere.
+Er wordt onderzoek gedaan
+naar realisatie van maximaal één aanlanding van 2 GW in de regio.
+Het bestaande 380kV-net in Flevoland is weergegeven in Figuur 5-1.
+Station Lelystad is verbonden
+met Diemen en Ens via twee circuits.
+In het meest recente investeringsplan van TenneT staan
+uitbreidingen gepland op beide verbindingen voor een 3e en 4e circuit, met een geplande realisatie
+in 2038-2041.
+Als onderdeel van de uitbreiding van de verbindingen tussen Diemen en Ens is ook het
+plan voor een nieuw 380kV-hoogspanningsstation bij Lelystad opgenomen.
+Dit station zit in de
+studiefase.
+Een nieuw 380kV-hoogspanningsstation in Almere zit in de studiefase en staat gepland
+voor 2038-2041 en zal verbonden worden met Diemen en Lelystad.
+Richtinggevend onderzoek naar impact wind op zee op energie-infrastructuur, geen absolute waarheid
+Het gaat bij de netdoorrekeningen van TenneT expliciet om richtinggevende doorrekeningen, om de
+relatieve impact bij aansluiting op verschillende locaties in te schatten.
+Daarmee dienen deze
+doorrekeningen om afwegingen te maken tussen diepe aanlanding van wind op zee in verschillende
+regio’s.
+Deze doorrekeningen geven geen overzicht van uitbreidingen die nodig zijn aan de energie-
+infrastructuur op land.
+Daarvoor zijn de investeringsplannen van de netbeheerders leidend.
+De resultaten zijn geldig binnen de bandbreedte van de gehanteerde scenario’s.
+Scenario’s en modellen
+geven inzicht in de mogelijke ontwikkelingen richting 2040 en 2050, maar zijn geen absolute waarheid.
+Bij
+andere ontwikkelingen zal de impact van wind op zee op het elektriciteitsnet ook anders zijn.
+We geven bij
+de resultaten een reflectie op de belangrijkste onzekerheden en afhankelijkheden.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+21
+Figuur 5-1 Bestaande en geplande 380kV-infrastructuur Flevoland
+In Tabel 5-1 staan de kerncijfers voor vraag, aanbod en flexibiliteit weergegeven.
+De grootste
+elektriciteitsvraag komt vanuit de gebouwde omgeving, gevolgd door mobiliteit en industrie.
+Het
+opgestelde vermogen van wind-op-land en zon-PV is hoog er ook is er veel flexibiliteit beschikbaar
+door batterijen.
+Door het hoge opgestelde vermogen van hernieuwbare energie zal de regio
+regelmatig exporteren.
+Deze stroom zal richting de Randstad gaan, waar de elektriciteitsvraag hoog
+is.
+Tabel 5-1 Kerncijfers vraag, aanbod en flexibiliteit Flevoland8
+2040 2050
+Vraag en aanbod
+Elektriciteitsvraag (piek) 4300-5300 MW 5000-6000 MW
+Wind op land 2200-2500 MW 2500-3800 MW
+Zon-pv 1700-2800 MW 2400-4100 MW
+Flexibiliteit
+Elektrolysers 200-400 MW 200-500 MW
+Batterijen 1900-2000 MW 2200-2500 MW
+Naast de lokale vraag en aanbod is ook de locatie van Flevoland in het nationale netwerk van belang
+voor de geschiktheid van Flevoland voor diepe aanlanding.
+Er zal in de toekomst naar verwachting
+doortransport van elektriciteit plaatsvinden door Flevoland, door transportstromen vanaf Noord-
+Nederland (met veel aanbod van wind op zee en elektriciteitscentrales) richting de Randstad (met
+een grote vraag naar elektriciteit).
+Het doortransport vanaf Noord-Nederland naar de Randstad via
+Flevoland zal voornamelijk plaatsvinden op momenten met weinig productie van windparken op
+8 De geografische afbakening hiervoor zijn de pockets van de 380kV-stations Almere, Lelystad en Ens.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+22
+zee9, maar ook op momenten met veel productie van windparken op zee zal doortransport
+plaatsvinden.
+Het effect van 2 GW diepe aanlanding in Flevoland is meer aanbod van windenergie, dat grotendeels
+overeenkomt qua profiel met windenergie op land.
+Dit betekent dat er extra productie plaatsvindt
+op momenten dat de vraag binnen Flevoland al grotendeels ingevuld wordt met lokale productie, of
+dat er zelfs lokaal al overschotten zijn.
+Dit betekent dat er door diepe aanlanding (extra) elektriciteit
+vanuit Flevoland afgevoerd wordt richting de Randstad.
+Dit wordt versterkt door het doortransport
+van elektriciteit vanaf Noord-Nederland richting de Randstad.
+De belangrijkste factoren die impact hebben op wat er mogelijk is qua diepe aanlanding in Flevoland
+zijn:
+ Ontwikkeling vraag en aanbod in rest van Nederland.
+Zoals hierboven besproken is, vindt er
+veel doortransport plaats van elektriciteit via Flevoland.
+Dit heeft ook impact op de
+mogelijkheden voor diepe aanlanding.
+De ontwikkeling van vraag en aanbod van elektriciteit, en
+dan met name de ontwikkeling van vraag in de Randstad en aanbod in Noord-Nederland,
+bepalen hoeveel doortransport van elektriciteit via Flevoland plaatsvindt.
+ Ontwikkeling elektriciteitsvraag en aanbod in Flevoland.
+Zowel de lokale productie van
+duurzame elektriciteit door zon en wind als de elektriciteitsvraag nemen toe in Flevoland.
+De
+balans tussen vraag en aanbod in de provincie bepaalt of de elektriciteit van een diepe
+aanlanding lokaal benut kan worden of moet worden afgevoerd.
+Het opgestelde vermogen van
+zon-PV en windenergie op land is in de scenario’s voor 2040 en 2050 groter dan de vraag naar
+elektriciteit.
+Maar als de elektriciteitsvraag sterker toeneemt dan voorzien in de scenario’s,
+bijvoorbeeld door een forse toename van datacenters in Flevoland10, dan zal een groter deel van
+de elektriciteit van een diepe aanlanding lokaal benut worden en minder afgevoerd te hoeven
+worden richting de Randstad.
+ Ontwikkeling 380 kV in de regio.
+In Flevoland staan extra circuits op bestaande verbindingen
+gepland en de realisatie van een nieuw station in Almere.
+In het kader van uitbreiding van het 3e
+en 4e circuit tussen Diemen, Lelystad en Ens wordt ook gekeken naar een nieuw station bij
+Lelystad.
+Als niet alle uitbreidingsinvesteringen doorgaan, dan zal de transportcapaciteit door
+Flevoland kleiner zijn.
+5.1.2 Aansluitcapaciteit
+Er zijn de in de regio twee potentiële aansluitstations: Lelystad en Almere.
+De conclusies over de
+aansluitcapaciteit van deze stations zijn:
+ Bij het geplande 380kV-hoogspanningsstation Almere is er naar verwachting aansluitcapaciteit
+voor een diepe aanlanding.
+Dit station is echter nog wel in studiefase.
+ In het kader van de nieuwe 380kV-verbindingen tussen Diemen, Lelystad en Ens wordt een
+nieuw 380kV-hoogspanningsstation bij Lelystad onderzocht.
+Bij het geplande 380kV-
+hoogspanningsstation Lelystad is er naar verwachting aansluitcapaciteit voor een diepe
+aanlanding.
+Dit station is echter nog wel in studiefase.
+9 Op momenten met veel productie van windparken op zee is er ook veel aanbod van elektriciteit in de
+Randstad, door de aansluitingen van wind op zee daar, die dan een groot deel van de vraag in de Randstad
+invullen.
+10 Dit wordt als ruimtelijke variant onderzocht in PEH II, zie de concept-NRD van PEHII.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+23
+Tabel 5-2 Beoordeling aansluitcapaciteit stations Flevoland
+5.1.3 Impact op 380kV-verbindingen
+De conclusies over de impact op 380kV-verbindingen zijn:
+ Uit de netdoorrekeningen volgt dat er door diepe aanlanding in Flevoland geen nieuwe
+knelpunten ontstaan waar grote ingrepen voor nodig zijn.
+Wel worden knelpunten waarvoor een
+beperkte ingreep nodig is mogelijk wat groter.
+ Op momenten met hoge productie van windenergie op zee wordt de lokale vraag in Flevoland
+grotendeels ingevuld met de productie van windenergie op land.
+Dit betekent dat diepe
+aanlanding in Flevoland niet tot het verminderen van knelpunten op 380kV-verbindingen leidt
+doordat het nabij vraag gerealiseerd wordt.
+Diepe aanlanding in Flevoland leidt er naar
+verwachting juist toe dat meer elektriciteit afgevoerd wordt vanuit Flevoland, richting de
+Randstad.
+Onder bepaalde voorwaarden kan diepe aanlanding in Flevoland echter wel leiden tot
+vermindering van knelpunten op 380kV-verbindingen:
+o Als de vraag in Flevoland nog een stuk sterker toeneemt dan in de doorgerekende
+scenario’s doordat er fors meer vraag van datacenters komt, dan zal een diepe
+aanlanding voor het invullen van de lokale vraag wel gunstig kunnen zijn.
+o Er zit een grens aan de hoeveelheid aansluitingen die aan de kust gerealiseerd kunnen
+worden.
+Ruimtelijk en technisch zijn er grenzen, maar er zit ook energetisch een grens
+aan de hoeveelheid aansluitingen die in kustregio’s gerealiseerd kunnen worden zonder
+dat knelpunten ontstaan op 380kV-verbindingen die elektriciteit vanuit die regio’s
+moeten afvoeren.
+Bij een hoge ambitie voor (elektrische aansluitingen van) windenergie
+op zee kan een diepe aanlanding bij Flevoland voor het energiesysteem wel gunstig zijn
+als alternatief van een aansluiting aan de kust.
+o Of een diepe aanlanding bij Flevoland een gunstige impact kan hebben op het
+energiesysteem hangt ook af van waarvoor het als alternatief gezien wordt.
+Zoals eerder
+besproken worden er transportstromen vanaf Noord-Nederland richting de Randstad
+voorzien door veel aanbod in Noord-Nederland en veel vraag in de Randstad.
+Dit
+betekent dat een diepe aanlanding bij Flevoland als alternatief voor een aansluiting bij
+de Eemshaven, bijvoorbeeld vanwege de technische en economische uitdagingen van de
+tunnelroute, voor het energiesysteem gunstig kan zijn.
+In dat geval is namelijk minder
+transport vanaf Noord-Nederland tot aan Flevoland nodig.
+Maar een diepe aanlanding in
+Flevoland als alternatief voor een aansluiting in de Randstad is juist ongunstig voor het
+energiesysteem, aangezien er dan meer transport vanaf Zeeland richting de Randstad
+nodig is.
+Dit benadrukt dat de effecten van diepe aanlandingen niet in isolatie gezien
+kunnen worden en uiteindelijk naar het hele portfolio van aansluitingen, en ook de
+samenhang met overige ontwikkelingen van het energiesysteem (zoals
+elektriciteitsvraag), gekeken moet worden.
+Tabel 5-3 Beoordeling impact op 380kV-verbindingen in Flevoland
+Station Lelystad Station Almere
+Aansluitcapaciteit
+Inpasbaarheid in de regio Voorkomen ingrepen buiten de regio
+Flevoland
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+24
+5.1.4 Afwegingen tussen stations binnen regio
+De belangrijkste afwegingen tussen de stations binnen de regio zijn:
+ Windenergie op land.
+Lelystad heeft meer windenergie op land dan Almere.
+Windenergie op
+land en zee produceren grotendeels gelijktijdig met elkaar, zodat op momenten met veel wind
+er waarschijnlijk knelpunten op verbindingen vanaf de stations waarbij zeer veel windenergie
+wordt ingevoed in het net.
+Ook de hoeveelheid zon-PV in de pocket Lelystad is veel groter dan in
+Almere.
+ Lokale elektriciteitsvraag.
+In Almere is een grote vraag naar elektriciteit dan in Lelystad,
+voornamelijk door vraag vanuit de gebouwde omgeving.
+Ook andere ontwikkelingen die
+mogelijk gerealiseerd zullen worden, bijvoorbeeld datacenters in Zeewolde, zullen eerder op het
+380kV-hoogspanningsstation Almere of lagere netvlakken worden aangesloten dan in Lelystad.
+ Locatie in netwerk.
+In de Randstad wordt veel vraag naar elektriciteit verwacht.
+Dit leidt, zoals
+eerder besproken, tot doortransport vanaf Noord-Nederland richting de Randstad door
+Flevoland.
+Diepe aanlanding bij een station dichter bij de Randstad is daarmee gunstig.
+Voor alle drie afwegingen geldt dat station Almere gunstiger is om aan te landen dan in Lelystad.
+5.1.5 Conclusies
+Onderstaande Tabel 5-4 geeft een overzicht van de beoordeling voor de regio Flevoland.
+De tabel laat zien dat er mogelijk beperkte ingrepen in de regio nodig zijn door diepe aanlanding in
+Flevoland.
+Daarnaast is het nog niet duidelijk of diepe aanlanding in Flevoland ingrepen op 380kV-
+verbindingen buiten de regio kan verminderen of voorkomen.
+Op momenten met hoge productie
+van windenergie op zee wordt de lokale vraag in Flevoland al grotendeels ingevuld met de productie
+van windenergie op land.
+Dit betekent dat een diepe aanlanding in Flevoland niet tot het
+verminderen van knelpunten op 380kV-verbindingen leidt, doordat al veel elektriciteitsproductie
+nabij de vraag plaatsvindt.
+Een diepe aanlanding in Flevoland leidt er naar verwachting juist toe dat
+meer elektriciteit afgevoerd wordt vanuit Flevoland, richting de Randstad.
+Diepe aanlanding kan alleen bijdragen aan vermindering van de ingrepen aan de 380kV-verbinding
+als de elektriciteitsvraag in de regio fors sterker stijgt dan aangenomen in de scenario’s of als
+aansluitingen aan de kust ruimtelijk, technisch of energetisch niet meer haalbaar zijn.
+Of een diepe
+aanlanding bij Flevoland een gunstige impact kan hebben op het energiesysteem hangt ook af van
+waarvoor het als alternatief gezien wordt.
+Het kan als alternatief voor aansluitingen in Noord-
+Nederland wel een gunstige impact hebben, maar als alternatief voor aansluitingen in de Randstad
+leidt het naar verwachting juist tot meer ingrepen aan 380kV-verbindingen.
+Bij zowel het geplande 380kV-hoogspanningsstation Almere als het geplande nieuwe 380kV-
+hoogspanningsstation bij Lelystad is er naar verwachting aansluitcapaciteit voor een diepe
+aanlanding.
+Deze stations zijn echter nog wel in studiefase.
+Almere lijkt een gunstigere locatie dan
+Lelystad vanwege een hogere vraag, minder aanbod van elektriciteit en een gunstigere locatie in het
+netwerk.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+25
+Tabel 5-4 Beoordeling energiesysteem regio Flevoland
+5.2 Overijssel
+5.2.1 Introductie
+In deze regio wordt gekeken naar diepe aanlanding bij het bestaande 380kV-hoogspanningsstation
+Hengelo of een nog te realiseren 380kV-hoogspanningsstation in Almelo.
+In het Investeringsplan van
+TenneT staat dit nieuwe station gepland tussen 2034-2037.
+Er wordt onderzoek gedaan naar
+realisatie van maximaal 1 aansluiting van 2 GW in de regio.
+De netstructuur in de regio Overijssel is weergegeven in Figuur 5-2.
+Op dit moment is Hengelo
+verbonden met 380kV-hoogspanningsstation Zwolle.
+Het nieuwe 380kV-hoogspanningsstation
+Almelo zal worden aangesloten op de verbinding tussen Zwolle en Hengelo.
+Hengelo is verbonden
+met 380kV-Doetinchem, het 380kV-net loopt daarnaar door naar Dodewaard, Wijchen, Boxmeer en
+Maasbracht.
+Aansluitstation Aansluitcapaciteit Impact op 380kV-verbindingen
+Inpasbaarheid
+in de regio
+Voorkomen van ingrepen
+buiten de regio
+Geschiktheid locatie
+Flevoland Er zijn geen grote
+ingrepen nodig bij diepe
+aanlanding, maar
+mogelijk wel beperkte
+ingrepen.
+Afhankelijk van andere
+ontwikkelingen of het
+ingrepen kan
+voorkomen.
+Het is vooral
+gunstig om in Flevoland
+aan te landen als
+aansluiting in regio’s aan
+kust technisch, ruimtelijk
+en energetisch niet
+haalbaar is.
+Lelystad Mogelijk op
+gepland station.
+Station nog in
+studiefase.
+Er is relatief veel
+windenergie op land
+beschikbaar wat
+ongunstig is voor
+inpassing.
+Almere Mogelijk op
+gepland station.
+Station nog in
+studiefase.
+Gunstiger dan
+Lelystad door grotere
+vraag naar
+elektriciteit en
+gunstigere locatie in
+netwerk.
+Indicatie geschiktheid 380kV-station Ens
+Het bestaande 380kV-station Ens is niet uitgebreid onderzocht in deze studie.
+Vanuit het elektriciteitsnet is
+Ens qua impact op de verbindingen vergelijkbaar met aanlanden in Lelystad.
+Dit komt omdat door het
+realiseren van een 3e en 4e circuit tussen Lelystad en Ens veel transportcapaciteit ontstaat.
+Vanwege deze
+extra transportcapaciteit is het niet de verwachting dat op deze verbinding significante knelpunten zullen
+ontstaan, ondanks het extra aanbod door diepe aanlanding.
+Bij het bestaande 380kV-station Ens zal, na
+uitbreidingen op het station, nog ruimte zijn voor één aansluiting van diepe aanlanding.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+26
+Figuur 5-2 Bestaande en geplande 380kV-infrastructuur Overijssel
+Bij Hengelo is het Nederlandse 380kV-net verbonden met het Duitse 380kV-net.
+Dit betekent dat
+hier import en export van elektriciteit plaatsvindt.
+In Tabel 5-5 staan de kerncijfers voor vraag, aanbod en flexibiliteit in Overijssel.
+Tabel 5-5 Kerncijfers vraag, aanbod en flexibiliteit in Overijssel11
+2040 2050
+Vraag en aanbod
+Elektriciteitsvraag (piek) 3400-4100 MW 4100-4500 MW
+Wind op land 300-600 MW 400-700 MW
+Zon-pv 700-1300 MW 1100-1900 MW
+Flexibiliteit
+Elektrolysers 100 MW 100 MW
+Batterijen 500-800 MW 600-1300 MW
+De belangrijkste factoren die bepalen of diepe aanlanding in deze regio gunstig is zijn:
+ Ontwikkeling elektriciteitsvraag.
+De elektriciteitsvraag in Almelo en Hengelo zal fors toenemen
+richting 2040 en 2050, maar in vergelijking met andere regio’s blijft de vraag relatief laag.
+Windenergie op land blijft relatief klein in de scenario’s, terwijl er veel zon-PV wordt verwacht.
+ Ontwikkeling vraag en aanbod in rest van Nederland.
+Op momenten met veel productie van
+windparken op zee zal elektriciteit veelal vanuit de Eemshaven aangevoerd worden aangezien
+daar veel aanbod voorzien wordt van windparken op zee.
+Een deel van deze elektriciteit wordt
+lokaal benut in Overijssel, maar er zal ook elektriciteit doorgevoerd worden.
+De omvang van de
+elektriciteitsvraag in Gelderland, Noord-Brabant Oost en Limburg bepaalt hoeveel transport
+11 De geografische afbakening hiervoor zijn de pockets van de 380kV-stations Almelo, Hengelo en Zwolle.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+27
+nodig is door deze regio richting het zuiden.
+Het is afhankelijk van de ontwikkeling van
+aansluitingen van windenergie op zee aan de kust en de vraag in andere regio’s in Nederland
+hoeveel doortransport van elektriciteit via Overijssel noodzakelijk is.
+ Import en export van elektriciteit.
+Bij Hengelo vindt import en export van elektriciteit van en
+naar Duitsland plaats.
+Naar verwachting zal Nederland op momenten met veel productie van
+windparken op zee regelmatig elektriciteit exporteren, en op momenten met weinig productie
+van windparken op zee elektriciteit importeren.
+Export van elektriciteit op momenten met veel
+productie van windparken op zee zorgt er extra transport nodig is vanaf de Eemshaven richting
+Overijssel.
+De import en export van elektriciteit bij Hengelo is voornamelijk afhankelijk van de
+nationale balans tussen vraag en aanbod van elektriciteit, en de ontwikkelingen in het
+buitenland.
+Als er in Nederland op momenten met wind op zee grote overschotten zijn en als
+gevolg daarvan lage elektriciteitsprijzen, en dit in Duitsland minder het geval is, dan zal export
+plaatsvinden op die momenten.
+5.2.2 Aansluitcapaciteit
+Er zijn in de regio twee potentiële aansluitstations: het bestaande 380kV-hoogspanningsstation
+Hengelo en geplande 380kV-hoogspanningsstation Almelo.
+De conclusies over de aansluitcapaciteit
+van deze stations zijn:
+ Bij het bestaande station Hengelo is, na het vervangen van grote delen van het bestaande
+station, ruimte voor een diepe aanlanding van wind op zee.
+Verdere uitbreiding is ruimtelijk
+gezien niet mogelijk.
+ Op het geplande station in Almelo is ruimte voor een diepe aanlanding.
+Tabel 5-6 Beoordeling aansluitcapaciteit stations Overijssel
+5.2.3 Impact op 380kV-380kV-verbindingen
+De conclusies over de impact op 380kV-verbindingen zijn:
+ Door diepe aanlanding in Almelo is een grotere ingreep nodig voor de 380kV-verbinding tussen
+Almelo en Hengelo ten opzichte van de situatie zonder diepe aanlanding.
+Dit heeft vermoedelijk
+te maken met export naar Duitsland en doorvoer van elektriciteit richting Gelderland en
+Limburg, waardoor de elektriciteit van een diepe aanlanding vanaf Almelo richting Hengelo
+getransporteerd wordt.
+Door doortransport vanaf Noord-Nederland via Overijssel wordt dit
+effect vermoedelijk versterkt.
+Afhankelijk van het gekozen scenario kan dit mogelijk zo groot
+worden dat een grote ingreep noodzakelijk is.
+Deze knelpunten en ingrepen zijn naar
+verwachting niet of minder nodig bij een diepe aanlanding in Hengelo.
+ De verwachtte elektriciteitsvraag in de regio Overijssel is beperkt, vergeleken met andere regio’s
+en vergeleken met het aanbod van een diepe aanlanding (2 GW).
+Hierdoor zal elektriciteit van
+een diepe aanlanding ook grotendeels doorgevoerd worden richting de rest van Nederland.
+Diepe aanlanding in deze regio heeft als voordeel dat er minder elektriciteit vanuit de
+Eemshaven naar het zuiden getransporteerd hoeft te worden.
+Dit lijkt echter geen ingrepen aan
+380kV-verbindingen te voorkomen.
+ Er zit een grens aan de hoeveelheid aansluitingen die aan de kust gerealiseerd kunnen worden.
+Ruimtelijk en technisch zijn er grenzen, maar er zit ook energetisch een grens aan de
+hoeveelheid aansluitingen die in kustregio’s gerealiseerd kunnen worden zonder dat knelpunten
+Station Hengelo Station Almelo
+Aansluitcapaciteit
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+28
+ontstaan op 380kV-verbindingen die elektriciteit vanuit die regio’s moeten afvoeren.
+Bij een
+hoge ambitie voor (elektrische aansluitingen van) windenergie op zee kan een diepe aanlanding
+in Overijssel voor het energiesysteem wel gunstig zijn als alternatief van een aansluiting aan de
+kust.
+Tabel 5-7 Beoordeling impact op 380kV-380kV-verbindingen in Overijssel
+5.2.4 Afwegingen tussen stations binnen regio
+De belangrijkste afwegingen tussen de stations binnen de regio zijn:
+ Lokale elektriciteitsvraag.
+De vraag naar elektriciteit is zowel in Almelo als in Hengelo relatief
+laag, vergeleken met andere regio’s en vergeleken met het aanbod van een diepe aanlanding (2
+GW).
+ Locatie in netwerk.
+Hengelo heeft een voordeel vanwege de verbinding met Duitsland.
+Uit de
+netdoorrekeningen volgt dat er mogelijk een grote ingreep nodig is tussen Almelo en Hengelo als
+een diepe aanlanding gerealiseerd wordt bij Almelo.
+Bij realisatie van een diepe aanlanding bij
+Hengelo is naar deze grote ingreep naar verwachting niet nodig.
+5.2.5 Conclusies
+Onderstaande Tabel 5-8 geeft een overzicht van de beoordeling voor de regio Overijssel.
+De tabel laat zien dat er mogelijk grote ingrepen in de regio nodig zijn door diepe aanlanding in
+Overijssel.
+Door diepe aanlanding in Almelo wordt het knelpunt tussen Almelo en Hengelo groter ten
+opzichte van de situatie zonder diepe aanlanding.
+Deze knelpunten en ingrepen zijn naar
+verwachting niet of minder nodig bij een diepe aanlanding in Hengelo.
+Daarnaast is het nog niet
+duidelijk of diepe aanlanding in Overijssel ingrepen op 380kV-verbindingen buiten de regio kan
+verminderen of voorkomen.
+De verwachtte elektriciteitsvraag in de regio Overijssel is beperkt,
+vergeleken met andere regio’s en vergeleken met het aanbod van een diepe aanlanding (2 GW).
+Hierdoor zal elektriciteit van een diepe aanlanding ook grotendeels doorgevoerd worden richting de
+rest van Nederland of Duitsland (zie tekstkader over interconnectie in paragraaf 2.4).
+Diepe
+aanlanding in deze regio heeft als voordeel dat er minder elektriciteit vanuit de Eemshaven naar het
+zuiden getransporteerd hoeft te worden.
+Dit lijkt echter geen ingrepen aan 380kV-verbindingen te
+voorkomen.
+Diepe aanlanding kan alleen bijdragen aan vermindering van de ingrepen aan de 380kV-
+verbindingen aan kust en vanaf de kust naar het binnenland als aansluitingen aan de kust ruimtelijk,
+technisch of energetisch niet meer haalbaar zijn.
+Bij beide aansluitstations, Hengelo en Almelo, lijkt voldoende aansluitcapaciteit te zijn voor een
+diepe aanlanding.
+Hengelo lijkt een gunstigere locatie vanwege de verbinding met Duitsland.
+Uit de
+netdoorrekeningen volgt dat er mogelijk een grote ingreep nodig is tussen Almelo en Hengelo als
+een diepe aanlanding gerealiseerd wordt bij Almelo.
+Bij realisatie van een diepe aanlanding bij
+Hengelo is naar deze grote ingreep naar verwachting niet nodig.
+Inpasbaarheid in de regio Voorkomen ingrepen buiten de regio
+Overijssel
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+29
+Tabel 5-8 Beoordeling energiesysteem regio Overijssel
+5.3 Gelderland/Noord-Brabant
+5.3.1 Introductie
+In deze regio wordt gekeken naar een diepe aanlanding bij de bestaande 380kV-
+hoogspanningsstations Boxmeer, geplande 380kV-hoogspanningsstations bij Wijchen en
+Doetinchem en een potentieel nieuw 380kV-hoogspanningsstation Rivierenland.
+Er wordt onderzoek
+gedaan naar realisatie van maximaal één aansluiting van 2 GW in deze regio.
+Bij Doetinchem wordt voor diepe aanlanding gekeken naar een gepland nieuw
+hoogspanningsstation.
+In het Investeringsplan van TenneT staat dit nieuwe hoogspanningsstation
+gepland tussen 2035-2038.
+Ook het station bij Wijchen is een gepland nieuw hoogspanningsstation,
+deze staat gepland tussen 2033-2036.
+In deze regio wordt mogelijk nog een extra 380kV-
+hoogspanningsstation gepland genaamd Rivierenland, hiervoor loopt een haalbaarheidsstudie.
+Deze
+zal, indien dit gerealiseerd wordt, in de buurt van Dodewaard geplaatst worden.
+Als alternatief voor
+dit hoogspanningsstation is het ook mogelijk om meerdere hoogspanningsstations op lagere
+spanningsniveaus te plaatsen.
+Onderstaande Figuur 5-3 toont de netsituatie in Gelderland/Noord-Brabant.
+De netstructuur in deze
+regio zit er als volgt uit.
+Het 380kV-net vanuit Hengelo zit aangesloten op 380kV-
+hoogspanningsstation Doetinchem, Dodewaard en Wijchen en Boxmeer.
+De verbindingen in deze
+regio hebben 2 circuits.
+Bij Doetinchem is het Nederlandse 380kV-net verbonden met het Duitse
+380kV-net.
+Dit betekent dat hier import en export van elektriciteit plaatsvindt.
+Aansluitstation Aansluitcapaciteit Impact op 380kV-verbindingen
+Inpasbaarheid
+in de regio
+Voorkomen van ingrepen
+buiten de regio
+Geschiktheid locatie
+Overijssel Er zijn mogelijk grote
+ingrepen nodig om te
+kunnen aansluiten.
+Afhankelijk van andere
+ontwikkelingen of het
+ingrepen kan
+voorkomen.
+Het is vooral
+gunstig om in Overijssel
+aan te landen als
+aansluiting in regio’s aan
+kust of in zuidoost
+Nederland technisch,
+ruimtelijk en energetisch
+niet haalbaar is.
+Hengelo Er is ruimte voor
+een diepe
+aanlanding op het
+bestaande station.
+Verbinding met
+Duitsland is een
+voordeel.
+Waarschijnlijk een
+minder groot
+knelpunt tussen
+Hengelo en Almelo bij
+aansluiting op dit
+station.
+Almelo Er is ruimte voor
+een diepe
+aanlanding na
+realisatie van het
+station.
+Realisatie
+station in fase
+voorbereiding/basis
+ontwerp.
+Geen grote vraag.
+Mogelijk grote
+ingreep op verbinding
+richting Hengelo bij
+aansluiting op dit
+station.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+30
+Figuur 5-3 Bestaande en geplande 380kV-infrastructuur Gelderland/Noord-Brabant
+Tabel 5-9 Kerncijfers vraag, aanbod en flexibiliteit in Gelderland/Noord-Brabant12
+2040 2050
+Vraag en aanbod
+Elektriciteitsvraag (piek) 7000-8600 MW 8400-9500 MW
+Wind op land 600-1100 MW 800-1300 MW
+Zon-pv 2700-4700 MW 3600-6900 MW
+Flexibiliteit
+Elektrolysers 100 MW 100 MW
+Batterijen 1600-2300 MW 2300-3300 MW
+De belangrijkste factoren die bepalen of een diepe aanlanding deze regio gunstig is zijn:
+ Ontwikkeling elektriciteitsvraag.
+Het is de verwachting dat de elektriciteitsvraag in de regio
+richting 2040 en 2050 fors zal toenemen door elektrificatie.
+Dit komt met name door een
+toename van de elektriciteitsvraag van de gebouwde omgeving en mobiliteit.
+Op veel
+momenten van het jaar zal de elektriciteitsvraag een stuk groter zijn dan de lokale productie.
+Deze elektriciteit zal aangevoerd moeten worden vanuit andere delen van Nederland en deels
+ingevuld worden met import.
+Op momenten met veel productie van windparken op zee zal deze
+elektriciteit, zonder diepe aanlanding, veelal vanuit Zeeland en de randstad aangevoerd worden
+aangezien daar veel windparken op zee aangesloten worden.
+De omvang van de
+elektriciteitsvraag in deze regio en Limburg bepaalt hoeveel transport nodig is richting zuidoost-
+Nederland.
+ Import en export van elektriciteit.
+Bij Doetinchem vindt import en export van elektriciteit van
+en naar Duitsland plaats.
+Naar verwachting zal Nederland op momenten met veel productie van
+12 De geografische afbakening hiervoor zijn de pockets van de 380kV-stations Boxmeer, Wijchen, Dodewaard
+en Doetinchem.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+31
+windparken op zee regelmatig elektriciteit exporteren, en op momenten met weinig productie
+van windparken op zee elektriciteit importeren.
+Export van elektriciteit op momenten met veel
+productie van windparken op zee zorgt er extra transport nodig is vanaf Zeeland en de randstad
+richting zuidoost-Nederland.
+De import en export van elektriciteit bij Doetinchem is
+voornamelijk afhankelijk de nationale balans tussen vraag en aanbod van elektriciteit, en de
+ontwikkelingen in het buitenland.
+Als er in Nederland op momenten met wind op zee grote
+overschotten zijn en als gevolg daarvan lage elektriciteitsprijzen, en dit in Duitsland minder het
+geval is, dan zal export plaatsvinden op die momenten.
+ Ontwikkeling van 380kV-hoogspanningsstation Rivierenland.
+TenneT heeft nog geen keuze
+gemaakt tussen het realiseren van een 380kV-hoogspanningsstation Rivierenland of het
+uitbreiden van het 150-kV net met meerdere station in deze regio.
+Voor een diepe aanlanding is
+een 380kV-hoogspanningsstation nodig om de hoeveelheid elektriciteit aan te kunnen sluiten.
+Daarom hangt het af van of dit station gerealiseerd gaat worden of diepe aanlanding in de regio
+Rivierenland een optie is.
+5.3.2 Aansluitcapaciteit
+Er zijn in de regio vier potentiële aansluitstations: bestaande 380kV-hoogspanningsstations
+Dodewaard, Boxmeer, Doetinchem, het geplande station Wijchen en het mogelijke nieuwe 380kV-
+hoogspanningsstation Rivierenland.
+Hoewel er op sommige stations ruimte is voor twee diepe
+aanlandingen, is er in deze regio onvoldoende vraag om twee diepe aanlandingen te realiseren.
+Daarom wordt er naar maximaal één verbinding gekeken in deze regio.
+De conclusies over de aansluitcapaciteit van deze stations zijn:
+ Op het bestaande 380kV-hoogspanningsstation Boxmeer is geen ruimte beschikbaar voor diepe
+aanlanding.
+TenneT onderzoekt of het mogelijk om het station uit te breiden, mocht dat
+mogelijk zijn dan is er ruimte voor het aansluiten van een diepe aanlanding.
+ Op de nog te realiseren 380kV-hoogspanningsstations Wijchen en Doetinchem is naar
+verwachting voldoende ruimte voor het aansluiten van een diepe aanlanding.
+ Op het mogelijk te realiseren 380kV-hoogspanningsstation Rivierenland is ruimte voor het
+aansluiten van een diepe aanlanding.
+Het is afhankelijk van besluitvorming of dit station
+opgenomen gaat worden in het investeringsplan.
+Tabel 5-10 Beoordeling aansluitcapaciteit stations Gelderland-Zuid/Noord-Brabant Oost
+5.3.3 Impact op 380kV-380kV-verbindingen
+De conclusies over de impact op 380kV-verbindingen zijn:
+ Uit de netdoorrekeningen volgt dat er voor de inpassing van diepe aanlandingen in
+Gelderland/Noord-Brabant geen nieuwe knelpunten ontstaan waar ingrepen voor nodig zijn.
+ Diepe aanlanding in deze regio kan naar verwachting grote ingrepen aan 380kV-verbindingen
+vanaf de kust richting zuidoost-Nederland verminderen of voorkomen.
+Het gaat dan met name
+om de 380kV-verbinding Tilburg-Eindhoven.
+Dit komt doordat diepe aanlanding de relatief grote
+elektriciteitsvraag in deze regio en export naar Duitsland kan voorzien en de elektriciteit van de
+diepe aanlanding vanaf deze regio richting Limburg (met een grote elektriciteitsvraag en export
+richting België en Duitsland) getransporteerd kan worden.
+Station Boxmeer Station Doetinchem Station Wijchen Station Rivierenland
+Aansluitcapaciteit
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+32
+ Bovenstaande conclusies gelden zowel voor 2040 als voor 2050.
+ De omvang van de knelpunten op de verbinding tussen Tilburg en Eindhoven en andere
+verbindingen in Noord-Brabant, de ingrepen die nodig zijn en de mate waarin diepe aanlanding
+verlichting kan bieden, is afhankelijk van de ontwikkeling van de elektriciteitsvraag in de regio en
+import en export van elektriciteit.
+In alle doorgerekende scenario’s en varianten ontstaan echter
+knelpunten op 380kV-verbindingen vanaf de kust richting zuidoost-Nederland.
+Diepe aanlanding
+in Gelderland/Noord-Brabant zal in alle gevallen die knelpunten verminderen.
+De conclusie dat
+diepe aanlanding in deze regio grote ingrepen aan 380kV-verbindingen kan verminderen en
+mogelijk voorkomen, is daarmee robuust.
+Tabel 5-11 Beoordeling impact op 380kV-380kV-verbindingen in Gelderland/Noord-Brabant
+5.3.4 Afwegingen tussen stations binnen regio
+De belangrijkste afwegingen tussen de stations binnen de regio zijn:
+ Lokale elektriciteitsvraag.
+De grootste vraag in deze regio zit in pocket Dodewaard.
+Het
+afstemmen van vraag en aanbod is vanuit het elektriciteitsnet gezien gunstig, maar in de
+scenario’s worden ook met diepe aanlanding geen grote knelpunten gezien waardoor dichterbij
+Dodewaard zitten geen doorslaggevend voordeel zich meebrengt.
+Bij stations Wijchen en
+Boxmeer is de verwachtte toekomstige elektriciteitsvraag beperkt, maar ook dit lijken haalbare
+opties aangezien er bij diepe aanlanding bij die stations naar verwachting ook geen grote
+ingrepen nodig zijn aan 380kV-verbinding.
+Als station Rivierenland gerealiseerd wordt, dan hangt
+het af van wat hierop wordt aangesloten of dit een gunstige locatie is om diepe aanlanding op
+aan te sluiten.
+Dat is op basis van het doorrekeningen nu niet te beoordelen.
+ Locatie in netwerk.
+Bij station Doetinchem is de vraag lager, maar ook dit is een potentieel
+geschikt station aangezien hier de verbindingen met het Duitse hoogspanningsnet zitten.
+Op
+momenten met veel productie van windparken op zee en weinig binnenlandse vraag kan
+elektriciteit geëxporteerd worden.
+Bij diepe aanlanding bij Doetinchem kan die export direct
+plaatsvinden vanaf het aansluitstation.
+5.3.5 Conclusies
+Onderstaande Tabel 5-12 geeft een overzicht van de beoordeling voor de regio Gelderland/Noord-
+Brabant.
+De tabel laat zien dat er in de regio geen ingrepen nodig zijn aan 380kV-verbindingen voor
+de inpassing diepe aanlanding en dat grote ingrepen op 380kV-verbindingen richting zuidoost-
+Nederland verminderd of voorkomen kunnen worden.
+Deze conclusie is naar verwachting robuust
+omdat het voor verschillende scenario’s en steekjaren geldt en niet afhankelijk van andere
+ontwikkelingen in het energiesysteem (zoals onzekerheden over ontwikkeling van infrastructuur of
+de vraag naar elektriciteit in deze regio).
+Bij het geplande 380kV-station Wijchen en het geplande nieuwe 380kV-station bij Doetinchem is er
+naar verwachting aansluitcapaciteit beschikbaar voor een diepe aanlanding.
+Beide projecten zitten in
+de fase basisontwerp.
+Bij de andere stations is het nog onzeker of er aansluitcapaciteit beschikbaar
+is, omdat de plannen voor het nieuwe station bij Rivierenland en uitbreiding van het bestaande
+station Boxmeer nog onzeker zijn.
+Station Boxmeer moet voor het aansluiten van een diepe
+aanlanding verder worden uitgebreid dan momenteel in het investeringsplan is opgenomen.
+Inpasbaarheid in de regio Voorkomen ingrepen buiten de regio
+Gelderland/Noord-Brabant
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+33
+Op alle 380kV-hoogspanningsstations in de regio lijkt een aansluiting mogelijk zonder dat grote
+ingrepen nodig zijn aan 380kV-verbindingen.
+Doetinchem kan potentieel een gunstig station zijn
+aangezien dit station een verbinding heeft met het Duitse hoogspanningsnet (zie tekstkader over
+interconnectie in paragraaf 2.4).
+Bij stations Wijchen en Boxmeer is de verwachtte toekomstige
+elektriciteitsvraag beperkt, maar ook dit lijken haalbare opties.
+Of Rivierenland een gunstige locatie
+is, is afhankelijk van de exacte netstructuur bij realisatie van dit station13.
+Tabel 5-12 Beoordeling energiesysteem regio Gelderland/Noord-Brabant
+5.4 Limburg en Eindhoven
+5.4.1 Introductie
+In deze regio wordt gekeken naar diepe aanlanding bij het bestaande 380kV-hoogspanningsstation
+Maasbracht, het geplande 380kV-hoogspanningsstation Einighausen en het mogelijke nieuwe
+380kV-hoogspanningsstation Metropoolregio Eindhoven14.
+Er wordt onderzoek gedaan naar
+realisatie van maximaal 2 aansluitingen van 2 GW in de regio.
+13 Het is nog onduidelijk hoe deze pocket eruit zal zien en welk gebied hieronder zal vallen.
+Daarmee is ook nog
+onduidelijk welke toekomstige elektriciteitsvraag voorzien wordt bij dit station.
+14 In de effectbeoordeling energiesysteem is uitgegaan van twee regio’s: Gelderland/Noord-Brabant en
+Limburg.
+Eindhoven ligt in Noord-Brabant, maar nettechnisch is het logischer om het op te nemen bij Limburg
+Aansluitstation Aansluitcapaciteit Impact op 380kV-verbindingen
+Inpasbaarheid
+in de regio
+Voorkomen van
+ingrepen buiten de
+regio
+Geschiktheid locatie
+Gelderland/No
+ord-Brabant
+Geen grote
+ingrepen nodig
+om in te passen
+in de regio.
+Diepe aanlanding
+kan grote
+knelpunten vanaf
+de kust naar
+zuidoost Nederland
+voorkomen of
+verminderen.
+Boxmeer Diepe aanlanding mogelijk als het
+station wordt uitgebreid
+(bovenop geplande uitbreiding).
+Geen grote
+elektriciteitsvraag, maar
+lijkt een haalbare optie.
+Doetinchem Er is ruimte voor een diepe
+aanlanding na realisatie van het
+station.
+Realisatie station in fase
+voorbereiding/ basisontwerp.
+Verbinding met Duitsland
+is een voordeel.
+Wijchen Er is ruimte voor een diepe
+aanlanding na realisatie van het
+station.
+Realisatie station in fase
+voorbereiding/ basisontwerp.
+Geen grote
+elektriciteitsvraag, maar
+lijkt een haalbare optie.
+Rivierenland Onzeker of dit station
+gerealiseerd wordt.
+Afhankelijk van
+netstructuur bij realisatie
+van het station.
+Indicatie geschiktheid 380kV-380kV-station Dodewaard
+Het bestaande 380kV-380kV-station Dodewaard is niet uitgebreid onderzocht in deze studie.
+Vanuit het
+elektriciteitsnet is Dodewaard interessant aangezien het gebied dat zit aangesloten op de pocket
+Dodewaard groot is en relatief veel vraag naar elektriciteit kent ten opzichte van de omringende
+pockets.
+Op bestaande 380kV-380kV-station Dodewaard is geen ruimte beschikbaar en het station is ook
+niet verder uitbreidbaar.
+In dezelfde regio wordt een nieuwe 380kV-380kV-station Rivierenland
+onderzocht waar bij realisatie wel ruimte voor diepe aanlanding beschikbaar is.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+34
+Onderstaande Figuur 5-4 toont de netsituatie in de regio Limburg en Eindhoven.
+Het bestaand
+380kV-hoogspanningsstation Eindhoven ligt op de 380kV-verbinding vanaf de kust, via Tilburg,
+richting Limburg.
+Het is de verwachting dat het nieuwe 380kV-hoogspanningsstation Metropoolregio
+Eindhoven ook op deze 380kV-verbinding aan zal takken.
+Dit project is nog in studie.
+De geplande
+ingebruikname hiervoor is 2040-2044.
+Er loopt momenteel al een 380kV-verbinding tussen
+Eindhoven en Maasbracht.
+Deze verbinding wordt uitgebreid met een tweede mastenrij met een
+derde en vierde circuit.
+Dan heeft deze verbinding vier circuits.
+Vanaf Maasbracht wordt een 380kV-
+verbinding richting station Einighausen gerealiseerd.
+Deze verbinding krijgt volgens de bestaande
+plannen vier circuits.
+Voor het eerste en tweede circuit wordt de bestaande 150kV-verbinding
+verzwaard tot een 380kV-verbinding.
+Dit project is in voorbereiding en wordt naar verwachting
+tussen 2031 en 2034 gerealiseerd.
+Voor het derde en vierde circuit moet een nieuwe verbinding
+aangelegd worden tussen Maasbracht en Einighausen.
+Dit project is nog in studie.
+De geplande
+ingebruikname hiervoor is 2039-2043.
+Bij Maasbracht is het Nederlandse 380kV-net verbonden met het Duitse en Belgische 380kV-net.
+Dit
+betekent dat hier import en export van elektriciteit plaatsvindt.
+Figuur 5-4 Bestaande en geplande 380kV-infrastructuur Limburg
+Tabel 5-13 geeft de kerncijfers voor vraag, aanbod en flexibiliteit voor de regio.
+aangezien Eindhoven op de 380kV-verbinding vanaf de Randstad richting Limburg ligt.
+De stations bij de regio
+Gelderland/Noord-Brabant liggen op een andere 380kV-verbinding.
+De effecten zijn per aansluiting
+weergegeven.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+35
+Tabel 5-13 Kerncijfers vraag, aanbod en flexibiliteit Limburg en Eindhoven15
+2040 2050
+Vraag en aanbod
+Elektriciteitsvraag (piek) 5700-7500 MW 7000-8200 MW
+Wind op land 300-500 MW 300-500 MW
+Zon-pv 1100-1900 MW 1700-2900 MW
+Flexibiliteit
+Elektrolysers 100-200 MW 100-200 MW
+Batterijen 700-1800 MW 900-3700 MW
+De belangrijkste factoren die bepalen of een diepe aanlanding deze regio gunstig is, zijn:
+ Ontwikkeling elektriciteitsvraag.
+Het is de verwachting dat de elektriciteitsvraag in de regio
+richting 2040 en 2050 fors zal toenemen door elektrificatie.
+De elektriciteitsvraag in deze regio is
+relatief hoog door de aanwezigheid van industriecluster Chemelot, maar ook de
+elektriciteitsvraag van de gebouwde omgeving en mobiliteit zal fors toenemen.
+Op veel
+momenten van het jaar zal de elektriciteitsvraag een stuk groter zijn dan de lokale productie.
+Deze elektriciteit zal aangevoerd moeten worden vanuit andere delen van Nederland en deels
+ingevuld worden met import.
+Op momenten met veel productie van windparken op zee zal deze
+elektriciteit, zonder diepe aanlanding, veelal vanuit Zeeland en de randstad aangevoerd worden
+aangezien daar veel windparken op zee aangesloten worden.
+De omvang van de
+elektriciteitsvraag in Limburg bepaalt hoeveel transport nodig is richting Limburg.
+ Uitwisseling van elektriciteit met het buitenland.
+Bij Maasbracht vindt import en export van
+elektriciteit van en naar Duitsland en België plaats.
+Naar verwachting zal Nederland op
+momenten met veel productie van windparken op zee regelmatig elektriciteit exporteren, en op
+momenten met weinig productie van windparken op zee elektriciteit importeren.
+Export van
+elektriciteit op momenten met veel productie van windparken op zee zorgt er extra transport
+nodig is vanaf Zeeland en de randstad richting Limburg.
+De import en export van elektriciteit bij
+Maasbracht is voornamelijk afhankelijk van twee factoren:
+o De nationale balans tussen vraag en aanbod van elektriciteit, en de ontwikkelingen in
+het buitenland.
+Als er in Nederland op momenten met wind op zee grote overschotten
+zijn en als gevolg daarvan lage elektriciteitsprijzen, en dit in België en Duitsland minder
+het geval is, dan zal export plaatsvinden op die momenten.
+o Capaciteit verbindingen import en export.
+Er kan niet meer elektriciteit geïmporteerd of
+geëxporteerd worden dan de capaciteit van de verbindingen.
+De bestaande
+verbindingen richting Duitsland en België zullen worden opgewaardeerd.
+Daarnaast
+wordt door TenneT gekeken naar de mogelijkheid om, als er diepe aanlanding in
+Limburg gerealiseerd wordt, nieuwe gelijkstroomverbindingen richting België en/of
+Duitsland aan te leggen.
+Dan zou nog meer import en export mogelijk zijn.
+ Ontwikkeling 380kV tussen Maasbracht en Einighausen.
+Zoals hierboven beschreven is op dit
+moment nog onzeker of er twee of vier circuits komen bij de nieuwe verbinding tussen
+Maasbracht en Einighausen.
+Dit is niet relevant voor de afweging of diepe aanlanding in deze
+regio gunstig is, aangezien dit vooral afhankelijk is van het transport vanaf de randstad richting
+de regio.
+Maar het kan wel een relevant aspect zijn bij de keuze tussen de mogelijke
+aansluitstations binnen de regio.
+15 De geografische afbakening hiervoor zijn de pockets van de 380kV-stations Eindhoven, Maasbracht en
+Einighausen.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+36
+Door de combinatie van hoge vraag van elektriciteit in de regio en mogelijke export van elektriciteit
+op momenten met veel aanbod van windparken op zee zal er naar verwachting veel transport van
+elektriciteit nodig richting Limburg vanaf de kust.
+Diepe aanlanding in Eindhoven of Limburg zorgt
+ervoor dat dit transport minder via de bovengrondse 380kV-verbindingen hoeft te gaan.
+De vraag
+waar we in de beoordeling antwoord op geven is of hiermee grote ingrepen voorkomen kunnen
+worden en of er geen nieuwe grote ingrepen nodig zijn door diepe aanlanding in de regio.
+5.4.2 Aansluitcapaciteit
+Bij dit effect beoordelen we of er bij de 380kV-hoogspanningsstations voldoende aansluitcapaciteit
+beschikbaar is om de diepe aanlandingen aan te sluiten, of dat het station uitgebreid kan worden om
+dit te realiseren.
+Deze beoordeling vindt plaats op het niveau van aansluitstations.
+Er zijn in de regio drie potentiële aansluitstations: het bestaande 380kV-hoogspanningsstation
+Maasbracht, het geplande 380kV-hoogspanningsstation Einighausen en het mogelijke nieuwe
+380kV-hoogspanningsstation Metropoolregio Eindhoven.
+De conclusies over de aansluitcapaciteit
+van deze stations zijn:
+ Bij het geplande station 380kV-hoogspanningsstation Einighausen kunnen naar verwachting
+twee diepe aanlandingen aangesloten worden.
+ Bij het bestaande 380kV-hoogspanningsstation Maasbracht is naar verwachting ruimte voor
+maximaal één diepe aanlanding.
+ Voor het station Metropoolregio Eindhoven geldt dat dit nog in studiefase zit en dat nog
+onduidelijk is of en hoe dit station gerealiseerd wordt.
+Indien dit station gerealiseerd wordt,
+dan is er ruimte voor het aansluiten van twee diepe aanlandingen.
+Het bestaande 380kV-
+hoogspanningsstation bij Eindhoven heeft geen ruimte voor aansluiting van diepe
+aanlanding.
+Tabel 5-14 Beoordeling aansluitcapaciteit stations Limburg en Eindhoven
+5.4.3 Impact op 380kV-verbindingen
+Bij dit effect beoordelen we de impact van diepe aanlanding op de 380kV-verbindingen.
+Daarbij
+beoordelen we of nieuwe ingrepen aan verbindingen nodig zijn door diepe aanlanding en of
+ingrepen in andere gebieden in Nederland voorkomen kunnen worden door diepe aanlanding in
+deze regio.
+Deze beoordeling vindt plaats op het niveau van de regio.
+De conclusies over de impact op 380kV-verbindingen zijn:
+ Uit de netdoorrekeningen volgt dat er voor de inpassing van diepe aanlandingen in Limburg
+of Eindhoven geen nieuwe knelpunten ontstaan waar ingrepen voor nodig zijn.
+ Uit de netdoorrekeningen volgt dat er door transport vanaf de kust richting Limburg in
+sommige scenario’s een grote ingreep nodig is aan de 380kV-verbinding tussen Tilburg en
+Eindhoven.
+Diepe aanlanding in Limburg zorgt dat knelpunt minder zwaar is, waardoor deze
+grote ingreep mogelijk voorkomen kan worden.
+Daarnaast zijn er in sommige scenario’s
+beperkte ingrepen nodig aan andere verbindingen, die verminderd kunnen worden door
+diepe aanlanding in Limburg.
+Station Maasbracht Station Einighausen Station Metropoolregio Eindhoven
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+37
+ Bovenstaande conclusies gelden voor zowel één als twee diepe aanlandingen van 2 GW.
+De
+positieve effecten van diepe aanlanding, het verminderen van ingrepen aan 380kV-
+verbindingen in Noord-Brabant, zijn groter bij twee diepe aanlandingen van 2 GW.
+ Bovenstaande conclusies gelden zowel voor 2040 als voor 2050.
+ De omvang van de knelpunten op de verbinding tussen Tilburg en Eindhoven en andere
+verbindingen in Noord-Brabant, de ingrepen die nodig zijn en de mate waarin diepe
+aanlanding verlichting kan bieden is afhankelijk van de ontwikkeling van de
+elektriciteitsvraag in de regio en import en export van elektriciteit.
+In alle doorgerekende
+scenario’s en varianten is te zien dat knelpunten echter ontstaan op 380kV-verbindingen
+vanaf de kust richting Limburg en diepe aanlanding in Limburg zal in alle gevallen die
+knelpunten verminderen.
+De conclusie dat diepe aanlanding in Limburg (grote) ingrepen aan
+380kV-verbindingen kan verminderen en mogelijk voorkomen is daarmee robuust.
+Tabel 5-15 Beoordeling impact op 380kV-380kV-verbindingen in de regio Limburg en Eindhoven
+5.4.4 Afwegingen tussen stations binnen regio
+Bij de beoordeling van de impact op de 380kV-verbindingen is de beoordeling op het niveau van de
+regio uitgevoerd, en niet op het niveau van individuele stations.
+Op basis van de uitkomsten van de
+netdoorrekeningen, de prognoses van toekomstige vraag en aanbod, de locatie van de stations in
+het netwerk en de aansluitcapaciteit worden echter wel de afwegingen tussen stations binnen de
+regio in kaart gebracht.
+De belangrijkste afwegingen tussen de stations binnen de regio zijn:
+ Lokale elektriciteitsvraag.
+De grootste vraag naar elektriciteit zit bij station Einighausen.
+Bij
+dit station is de vraag een stuk groter dan het aanbod.
+Dit maakt dit station geschikt voor
+diepe aanlanding, aangezien de elektriciteit van de windparken op zee in dit geval direct
+lokaal benut kan worden.
+ Verbindingen met buitenland.
+Bij station Maasbracht is de vraag lager, maar ook dit is een
+potentieel geschikt station aangezien hier de verbindingen met het Duitse en Belgische
+hoogspanningsnet zitten.
+Zoals eerder besproken ontstaat het transport vanaf de kust
+richting Limburg voor een groot deel door vraag in Limburg, maar is er ook sprake van export
+op een deel van de momenten dat er veel productie is van windparken op zee.
+Bij diepe
+aanlanding bij Maasbracht kan die export direct plaatsvinden vanaf het aansluitstation.
+ Toekomstige netstructuur.
+Als de verbinding Maasbracht – Einighausen vier circuits krijgt,
+dan is de transportcapaciteit tussen beide stations erg groot en zal diepe aanlanding bij
+beide stations naar verwachting mogelijk zijn zonder dat er knelpunten ontstaan.
+Als de
+verbinding Maasbracht – Einighausen twee circuits heeft, dan is naar verwachting alsnog
+diepe aanlanding bij beide aansluitstations mogelijk zonder dat grote ingrepen nodig zijn.
+ Locatie in netwerk.
+Als diepe aanlanding bij Eindhoven gerealiseerd wordt, dan zullen
+knelpunten op de 380kV-verbindingen tot aan Eindhoven verlicht worden.
+Er zal dan echter
+nog steeds transport van elektriciteit naar Limburg noodzakelijk zijn, door de hoge
+elektriciteitsvraag in Limburg en export.
+Dit maakt diepe aanlanding in Maasbracht of
+Einighausen, vanuit het energiesysteem bezien, in principe wat gunstiger.
+Uit de
+netdoorrekeningen volgt echter dat de grootste knelpunten ontstaan op de 380kV-
+verbindingen tot aan Eindhoven, en voor het verminderen van die knelpunten maakt het
+Inpasbaarheid in de regio Voorkomen ingrepen buiten de regio
+Limburg en Eindhoven
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+38
+geen verschil uit of de diepe aanlanding in Eindhoven of in Limburg plaatsvindt.
+De
+doorrekeningen volgt verder dat er geen knelpunten ontstaan tussen Eindhoven en
+Maasbracht.
+Dit betekent dat deze verbinding voldoende capaciteit lijkt te hebben voor het
+transport naar Limburg, en dat diepe aanlanding in Eindhoven ook mogelijk is zonder dat
+ingrepen nodig zijn.
+5.4.5 Conclusies
+Onderstaande Tabel 5-16 geeft een overzicht van de beoordeling voor regio Limburg en Eindhoven.
+De tabel laat zien dat er in de regio geen ingrepen nodig zijn aan 380kV-verbindingen voor de
+inpassing diepe aanlanding en dat grote ingrepen op 380kV-verbindingen richting Limburg
+verminderd of voorkomen kunnen worden.
+Deze conclusie is naar verwachting robuust omdat het
+voor verschillende scenario’s en steekjaren geldt en niet afhankelijk van andere ontwikkelingen in
+het energiesysteem (zoals onzekerheden over ontwikkeling van infrastructuur of de vraag naar
+elektriciteit in deze regio).
+Bij 380kV-hoogspanningsstation Einighausen is er naar verwachting aansluitcapaciteit voor twee
+diepe aanlandingen, bij 380kV-hoogspanningsstation Maasbracht naar verwachting
+aansluitcapaciteit voor één.
+Bij Eindhoven is het afhankelijk van de realisatie van een nieuw 380kV-
+hoogspanningsstation, die op dit moment nog in studiefase is.
+Zowel Einighausen (grote elektriciteitsvraag) als Maasbracht (verbindingen met Duitsland en België)
+kunnen geschikte locaties zijn vanuit de impact op 380kV-verbindingen.
+Het is nog onzeker of de
+380kV-verbinding tussen Maasbracht en Einighausen twee of vier circuits krijgt.
+Als de verbinding
+Maasbracht – Einighausen twee circuits heeft, dan is naar verwachting alsnog diepe aanlanding bij
+beide aansluitstations mogelijk zonder dat grote ingrepen nodig zijn.
+Eindhoven is vanuit het energiesysteem bezien minder gunstig omdat een groot deel van het aanbod
+van elektriciteit van de diepe aanlanding getransporteerd moet worden richting Limburg.
+Maar ook
+daar lijkt een diepe aanlanding mogelijk zonder ingrepen aan 380kV-verbindingen en met dezelfde
+vermindering van knelpunten aan 380kV-verbindingen.
+Tabel 5-16 Beoordeling energiesysteem regio Limburg en Eindhoven
+Aansluitstation Aansluitcapaciteit Impact op 380kV-verbindingen
+Inpasbaarheid
+in de regio
+Voorkomen van
+ingrepen buiten de
+regio
+Geschiktheid locatie
+Limburg en
+Eindhoven
+Er zijn geen
+grote ingrepen
+nodig.
+Er kunnen grote
+knelpunten vanaf
+de kust naar
+Limburg
+voorkomen worden
+of verminderen.
+Maasbracht Er is ruimte voor een aansluiting
+van diepe aanlanding.
+Gunstig vanwege
+verbindingen met Duitsland
+en België.
+Einighausen Twee aansluitingen lijken
+mogelijk.
+Realisatie station in
+fase voorbereiding/basisontwerp
+Gunstig vanwege hoge
+elektriciteitsvraag.
+Metropoolregio
+Eindhoven
+Mogelijk op gepland station.
+Station nog in studiefase.
+Minder gunstig dan andere
+locaties, maar lijkt ook
+haalbaar zonder ingrepen en
+vergelijkbare positieve
+impact.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+39
+6 Overkoepelend beeld en afhankelijkheden tussen regio’s
+6.1 Overkoepelend beeld impact diepe aanlanding op energiesysteem
+Diepe aanlanding van wind op zee heeft als doel om aanbod van elektriciteit dichter bij de vraag aan
+te sluiten en daarmee het transport via 380kV-verbindingen te verminderen.
+Daarnaast kan het een
+optie zijn als het aansluiten van windparken op zee aan de kust ruimtelijk, technisch of energetisch
+niet meer mogelijk is.
+Een locatie zien we als geschikt voor diepe aanlanding als het knelpunten aan
+380kV-verbindingen door transport van elektriciteit van de kust naar het binnenland vermindert.
+Als
+dit niet het geval is, dan voldoet de diepe aanlanding namelijk niet aan het doel waarvoor deze
+gerealiseerd wordt.
+Een diepe aanlanding kan op twee manieren transport via 380kV-verbindingen verminderen:
+ Doordat het nabij vraag in het binnenland gerealiseerd wordt en minder transport richting het
+binnenland nodig is.
+Hierdoor wordt de belasting op 380kV-verbindingen vanaf de kust richting
+gebieden met veel elektriciteitsvraag in het binnenland verminderd.
+ Doordat minder aansluitingen van windparken op zee aan de kust gerealiseerd hoeft te worden.
+Er zit namelijk een grens aan de hoeveelheid windenergie op zee die aan de kust aangeland kan
+worden zonder dat grote ingrepen nodig zijn aan 380kV-verbindingen die de elektriciteit vanuit
+die regio’s moet afvoeren.
+Regionale knelpunten in het transport van de windenergie van zee vanaf het aansluitstation kunnen
+ontstaan doordat er lokaal overschotten aan elektriciteit ontstaan bij realisatie van een diepe
+aanlanding, die niet afgevoerd kunnen worden via 380kV-verbindingen.
+Relevante factoren hierbij
+zijn lokale elektriciteitsvraag, overige productiebronnen en de locatie in het netwerk.
+Uit de netdoorrekeningen blijkt dat het verminderen van het transport via 380kV-verbindingen door
+aanbod nabij de vraag te realiseren, van toepassing is bij diepe aanlanding in de regio’s
+Limburg/Eindhoven of Gelderland/Noord-Brabant.
+Dit komt doordat er een significante
+elektriciteitsvraag in beide regio’s voorzien wordt, die niet ingevuld kan worden met lokale
+productie.
+Dit wordt versterkt door export van elektriciteit van die regio’s richting Duitsland en
+België op momenten met veel productie van windparken op zee.
+Zonder diepe aanlanding in een van
+deze regio’s zijn knelpunten te verwachten op 380kV-verbindingen in Noord-Brabant, met name op
+de verbinding tussen Tilburg en Eindhoven.
+Deze knelpunten worden verminderd door diepe
+aanlanding in een van deze regio’s (of in beide regio’s).
+Dit geldt zowel voor 2040 als voor 2050 en
+voor zowel de scenario’s met hoge aannames voor elektrische aansluiting van windenergie op zee
+(tot 50 GW in 2050) en de scenario’s met lagere aannames voor elektrische aansluiting van
+windenergie op zee (zoals de doorrekening met 30 GW windenergie op zee uit pVAWOZ).
+Dit effect is niet of slechts in beperkte mate van toepassing bij de regio’s Flevoland en Overijssel.
+In
+de regio Overijssel is de toekomstige vraag naar elektriciteit in de scenario’s beperkt, zowel ten
+opzichte van andere regio’s als ten opzichte van het aanbod van elektriciteit van een diepe
+aanlanding (2 GW).
+In de regio Flevoland is de vraag een stuk hoger, maar is er veel lokaal aanbod
+van windenergie op land.
+Op momenten met hoge productie van windenergie op zee wordt de
+lokale vraag in Flevoland al grotendeels ingevuld met de productie van windenergie op land.
+Als de
+vraag in Flevoland nog een stuk sterker toeneemt dan in de doorgerekende scenario’s doordat er
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+40
+fors meer vraag van datacenters komt, dan zal een diepe aanlanding voor het invullen van de lokale
+vraag wel gunstig kunnen zijn.
+Het tweede effect, de potentiële ontlasting van het 380kV-netwerk doordat er minder windenergie
+op zee aan de kust aangesloten hoeft te worden, is van toepassing op elk van de potentiële
+aansluitstations van diepe aanlanding.
+Er zit een grens zit aan de hoeveelheid windenergie op zee
+die aan de kust aangeland kan worden zonder dat grote ingrepen aan 380kV-verbindingen nodig zijn
+die de stroom vanuit de aansluitstations aan de kust moeten afvoeren.
+Met de huidige routekaart
+voor windenergie op zee en de voorkeursalternatieven vanuit pVAWOZ wordt tot ruim 30 GW
+elektrische aansluiting van windenergie op zee aan de kust gerealiseerd.
+Mogelijk zijn richting 2050
+nog extra aansluitingen aan de kust mogelijk.
+Maar bij een forse doorgroei van het vermogen voor
+windenergie op zee wordt de grens aan de kust bereikt en is het niet meer mogelijk om daar
+aansluitingen aan te sluiten zonder dat grote ingrepen aan 380kV-verbindingen noodzakelijk zijn.
+Dan kan diepe aanlanding een oplossing bieden.
+Hoeveel windenergie aan de kust aangesloten kan
+worden is afhankelijk van de ontwikkeling van (flexibele) vraag en aanbod aan de kust.
+Daarnaast
+kunnen ook ruimtelijke en technische factoren een beperking zijn voor de hoeveelheid aansluitingen
+van windenergie op zee aan de kust gerealiseerd kunnen worden.
+Voorgaande betekent dat diepe aanlanding in Limburg/Eindhoven en/of Gelderland/Noord-Brabant
+naar verwachting in alle gevallen tot vermindering van de belasting op 380kV-verbindingen kan
+leiden, en daarmee altijd gunstig is voor het energiesysteem.
+Diepe aanlanding in Flevoland en
+Overijssel lijken met name gunstig voor het energiesysteem als aansluitingen aan de kust technisch,
+ruimtelijk of energetisch niet meer haalbaar lijken.
+Naast de mogelijke positieve impact van diepe aanlandingen is voor de geschiktheid van een regio
+voor diepe aanlanding ook van belang of er geen nieuwe ingrepen nodig zijn aan 380kV-
+verbindingen in de regio.
+In alle regio’s lijkt diepe aanlanding mogelijk zonder grote ingrepen aan
+380kV-verbindingen.
+Alleen in de regio Overijssel is er een risico dat een grote ingreep nodig is als er
+gekozen wordt voor diepe aanlanding bij Almelo.
+Bij aansluiting in Hengelo lijkt dit risico kleiner.
+Voor de afweging tussen aansluitstations binnen de regio’s is de aansluitcapaciteit bij de 380kV-
+hoogspanningsstations en lokale vraag, aanbod en de locatie in het netwerk van belang.
+Onderstaande Tabel 6-1 geeft hier een overzicht van.
+Daarnaast gaan we bij de resultaten per regio
+(hoofdstuk 5) in op de afweging tussen de verschillende locaties binnen een regio.
+Tabel 6-1 Totaaloverzicht beoordeling energiesysteem
+Aansluitstation Aansluitcapaciteit Impact op 380kV-verbindingen
+Inpasbaarheid
+in de regio
+Voorkomen van ingrepen
+buiten de regio
+Geschiktheid locatie
+Flevoland Er zijn geen grote
+ingrepen nodig bij
+diepe aanlanding,
+maar mogelijk wel
+beperkte ingrepen.
+Afhankelijk van
+ontwikkelingen rond de
+aansluiting aan de kust of
+het ingrepen buiten de
+regio kan voorkomen.
+Het vooral gunstig om
+hier aan te landen als
+aansluiting in regio’s aan
+kust technisch, ruimtelijk
+en energetisch niet
+haalbaar is.
+Lelystad Mogelijk op gepland
+station.
+Station nog in
+studiefase.
+Er is relatief veel
+windenergie op land
+beschikbaar wat
+ongunstig is voor
+inpassing.
+Almere Mogelijk op gepland
+station.
+Station nog in
+studiefase.
+Gunstiger dan Lelystad
+door grotere vraag naar
+elektriciteit en gunstigere
+locatie in netwerk.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+41
+Gelderland/Noord
+-Brabant
+Geen grote ingrepen
+nodig om in te passen
+in de regio.
+Diepe aanlanding kan
+grote knelpunten vanaf
+de kust naar zuidoost
+Nederland voorkomen of
+verminderen.
+Boxmeer Diepe aanlanding
+alleen mogelijk als het
+station wordt
+uitgebreid (bovenop
+geplande uitbreiding).
+Geen grote
+elektriciteitsvraag, maar
+lijkt een haalbare optie.
+Doetinchem Er is ruimte voor een
+diepe aanlanding na
+realisatie van het
+station.
+Realisatie
+station in fase
+voorbereiding/basisont
+werp.
+Verbinding met Duitsland
+is een voordeel.
+Wijchen Er is ruimte voor een
+diepe aanlanding na
+realisatie van het
+station.
+Realisatie
+station in fase
+voorbereiding/basisont
+werp.
+Geen grote
+elektriciteitsvraag, maar
+lijkt een haalbare optie.
+Rivierenland Onzeker of dit station
+gerealiseerd wordt.
+Afhankelijk van
+netstructuur bij realisatie
+van het station.
+Limburg en
+Eindhoven
+Er zijn geen ingrepen
+nodig voor het
+aansluiten van diepe
+aanlanding.
+Er kunnen grote
+knelpunten vanaf de kust
+naar Limburg voorkomen
+worden of verminderen.
+Maasbracht Er is ruimte voor een
+diepe aanlanding op
+het bestaande station.
+Gunstig vanwege
+verbindingen met
+Duitsland en België.
+Einighausen Twee diepe
+aanlandingen lijken
+mogelijk.
+Realisatie
+station in fase
+voorbereiding/basisont
+werp
+Gunstig vanwege hoge
+elektriciteitsvraag.
+Metropoolregio
+Eindhoven
+Mogelijk op gepland
+station.
+Station nog in
+studiefase.
+Minder gunstig dan
+andere locaties, maar lijkt
+ook haalbaar zonder
+ingrepen en vergelijkbare
+positieve impact.
+Overijssel Er zijn mogelijk grote
+ingrepen nodig om te
+kunnen aansluiten.
+Afhankelijk van
+ontwikkelingen rond de
+aansluiting aan de kust of
+het ingrepen buiten de
+regio kan voorkomen.
+Het
+vooral gunstig om hier
+aan te landen als
+aansluiting in regio’s aan
+kust of in zuidoost
+Nederland technisch,
+ruimtelijk en energetisch
+niet haalbaar is.
+Hengelo Er is ruimte voor een
+diepe aanlanding op
+het bestaande station.
+Verbinding met Duitsland
+is een voordeel.
+Waarschijnlijk een minder
+groot knelpunt tussen
+Hengelo en Almelo bij
+aansluiting op dit station.
+Almelo Er is ruimte voor een
+diepe aanlanding na
+realisatie van het
+station.
+Realisatie
+station in fase
+voorbereiding/basisont
+werp.
+Geen grote vraag.
+Mogelijk grote ingreep op
+verbinding richting
+Hengelo bij aansluiting op
+dit station.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+42
+6.2 Afhankelijkheden tussen regio’s
+In bovenstaande paragraaf is per regio besproken of een diepe aanlanding mogelijk is zonder grote
+ingrepen en of het grote ingrepen elders in het land kan voorkomen.
+Diepe aanlanding in de ene
+regio kan echter ook impact hebben op de effecten van diepe aanlanding in een andere regio.
+In
+deze paragraaf worden de afhankelijkheden tussen de mogelijkheid voor aansluiting in verschillende
+regio’s besproken:
+ Diepe aanlanding in de regio’s Limburg/Eindhoven en Gelderland/Noord-Brabant lijken tot op
+zekere hoogte inwisselbaar.
+In beide regio’s wordt richting 2040 en 2050 een hoge
+elektriciteitsvraag verwacht en beide regio’s hebben verbindingen richting het buitenland.
+Diepe
+aanlanding in beide regio’s kan het transport van elektriciteit vanaf de kust richting zuidoost
+Nederland verminderen en daarmee mogelijk grote ingrepen op 380kV-verbindingen in Noord-
+Brabant voorkomen.
+Daarnaast liggen de regio’s nabij elkaar en zijn deze verbonden met de
+380kV-verbinding tussen Boxmeer en Maasbracht, waarvoor in geen van de onderzochte
+scenario’s en varianten grote ingrepen nodig zijn.
+Dit betekent dat er ook benodigd transport
+tussen beide regio’s mogelijk lijkt en het daardoor voor het benodigd aantal ingrepen 380kV-net
+naar verwachting beperkt uitmaakt in welke van beide regio’s diepe aanlanding gerealiseerd
+wordt.
+Het is op basis van de netdoorrekeningen niet mogelijk om te concluderen of diepe
+aanlanding in één van beide regio’s gunstiger is voor het energiesysteem dan aansluiting in de
+andere regio.
+Er lijkt in ieder geval 4 GW diepe aanlanding in totaal inpasbaar in beide regio’s zonder dat grote
+ingrepen nodig zijn.
+Er is niet onderzocht of 6 GW diepe aanlanding gezamenlijk in beide regio’s
+inpasbaar.
+Daarnaast is niet onderzocht of 4 GW diepe aanlanding in Limburg/Eindhoven of 2
+GW in beide regio’s gunstiger is voor het energiesysteem.
+ De effecten van diepe aanlanding in Overijssel kunnen mogelijk beïnvloed worden door diepe
+aanlanding in Gelderland/Noord-Brabant, aangezien de regio’s bij elkaar in de buurt liggen.
+Maar
+op basis van de netdoorrekening lijkt de mogelijkheid voor diepe aanlanding in Overijssel niet
+beperkt te worden door diepe aanlanding in Gelderland-Zuid/Noord-Brabant Oost en vice versa.
+ De effecten van diepe aanlanding in Flevoland zijn naar verwachting niet significant afhankelijk
+van diepe aanlanding in de andere regio’s, aangezien dit op een ander deel van het netwerk ligt
+dan de andere regio’s.
+6.3 Algemene afhankelijkheden en onzekerheden
+Zoals eerder besproken staat de inpassing van wind op zee en de impact van diepe aanlandingen op
+het energiesysteem niet op zichzelf, maar is dit afhankelijk van andere ontwikkelingen in het
+energiesysteem.
+Gezien de grote afhankelijkheid van andere ontwikkelingen in het energiesysteem
+is het van belang om integraal keuzes te maken over diepe aanlandingen en andere ontwikkelingen
+van het energiesysteem.
+In het PEH II en Nationaal Plan Energiesysteem wordt integraal naar de
+verschillende (mogelijke) ontwikkelingen in het energiesysteem gekeken.
+In deze voorverkenning ligt
+de focus op de diepe aanlandingen, maar wordt wel een beschouwing gegeven op de belangrijkste
+afhankelijkheden en onzekerheden.
+De belangrijkste onzekerheden en afhankelijkheden per regio zijn besproken bij de beoordeling per
+regio in hoofdstuk 5.
+In deze paragraaf worden de belangrijkste overkoepelende onzekerheden en
+afhankelijkheden besproken, en hoe deze impact hebben op de diepe aanlandingen.
+De
+belangrijkste afhankelijkheden en onzekerheden zijn de ontwikkeling van aansluiting van
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+43
+windenergie op zee aan de kust en de totale ambitie voor wind op zee, de ontwikkeling van de
+elektriciteitsvraag en flexibiliteit, de ontwikkeling van kerncentrales, de uitwisseling van elektriciteit
+met het buitenland en de tijdige realisatie van geplande uitbreidingen aan de
+elektriciteitsinfrastructuur:
+ Aansluiting windenergie op zee aan de kust en totale ambitie windenergie op zee.
+Zoals eerder
+besproken kan diepe aanlanding op twee manieren een positieve impact hebben op het
+energiesysteem: doordat het nabij vraag in het binnenland gerealiseerd wordt en minder
+transport richting het binnenland nodig is en doordat minder aansluitingen van windparken op
+zee aan de kust gerealiseerd hoeft te worden.
+Het eerste voordeel gaat altijd op, onafhankelijk
+van de hoeveelheid windenergie op zee die aan de kust gerealiseerd wordt.
+Maar in welke mate
+het tweede voordeel optreedt is afhankelijk van de totale ambitie voor windenergie op zee.
+Hoe
+hoger de totale ambitie voor windenergie op zee, hoe groter de noodzaak voor diepe
+aanlanding.
+Dit komt doordat er een grens zit aan de hoeveelheid windenergie op zee die aan de
+kust aangeland kan worden, en bij een hoge ambitie voor windenergie op zee wordt deze grens
+aan de kust bereikt.
+Het is dan niet meer mogelijk om de volledige ambitie voor windenergie op
+zee aan de kust te realiseren zonder grote ingrepen aan het 380kV-net.
+ Elektriciteitsvraag.
+De scenario’s voor 2040 en 2050 gaan uit van een forse toename van de
+elektriciteitsvraag ten opzichte van de huidige situatie.
+De aangenomen elektriciteitsvraag ligt in
+de scenario’s voor 2050 3 tot 5 keer zo hoog als nu.
+Het is echter geen zekerheid dat de
+elektriciteitsvraag zoveel stijgt.
+Het scenario Koersvaste Middenweg, waarvoor de variant met
+diepe aanlanding in Flevoland, Overijssel en Gelderland-Zuid/Noord-Brabant Oost onderzocht
+is16 (zie paragraaf 3.2), gaat uit van een relatief hoge groei van de elektriciteitsvraag.
+Als deze
+elektriciteitsvraag minder sterk stijgt17, dan kan op twee manieren de impact van diepe
+aanlanding van windenergie op zee op het energiesysteem beïnvloeden:
+o Lokale elektriciteitsvraag zorgt ervoor dat een groter deel van de elektriciteit van
+windparken op zee direct benut wordt bij de aansluitstations.
+Als de elektriciteitsvraag
+minder toeneemt dan aangenomen in de scenario’s, dan is het risico groter dat nabij de
+aansluitstations nieuwe knelpunten ontstaan door diepe aanlanding.
+o Als de elektriciteitsvraag aan de kust minder toeneemt, dan zijn minder elektrische
+aansluitingen aan de kust inpasbaar en neemt de noodzaak voor het realiseren van
+diepe aanlandingen in het binnenland toe.
+ Ontwikkeling bronnen van flexibiliteit.
+In de scenario’s voor 2040 en 2050 wordt een forse
+ontwikkeling van bronnen van flexibiliteit, zoals opslag van elektriciteit met batterijen en
+elektrolyse, aangenomen.
+Deze bronnen van flexibiliteit kunnen knelpunten door afvoer van
+windenergie op zee reduceren doordat meer elektriciteit lokaal benut wordt.
+Uit analyses van de
+Integrale Effectenanalyse van pVAWOZ volgt dat vooral elektrolyse een grote impact heeft op
+het verminderen van potentiële knelpunten door windenergie op zee.
+De impact van batterijen
+is beperkter, aangezien bij windenergie op zee doorgaans sprake is van langere periodes van
+productie (tot meerdere dagen) en de batterijen een beperkte opslagcapaciteit hebben.
+De
+ontwikkeling van de bronnen van flexibiliteit kan op twee manieren de impact van diepe
+aanlanding van windenergie op zee op het energiesysteem beïnvloeden:
+16 Er zijn meerdere scenario’s, ook met een stuk lagere elektriciteitsvraag (scenario Gezamenlijke Balans),
+doorgerekend met diepe aanlanding in Limburg.
+17 In theorie is het ook mogelijk dat de elektriciteitsvraag sterker stijgt dan in het scenario Koersvaste
+Middenweg.
+Dan zijn de besproken effecten omgekeerd.
+Aangezien de aannames voor toename van de
+elektriciteitsvraag in dit scenario al groot zijn, zien we een sterkere toename niet als waarschijnlijk.
+In
+specifieke regio’s is het wel mogelijk dat de elektriciteitsvraag sterker toeneemt dan aangenomen in de
+scenario's, bijvoorbeeld in Flevoland als daar veel nieuwe datacenters gerealiseerd worden.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+44
+o Lokale flexibiliteit zorgt ervoor dat een groter deel van de elektriciteit van windparken
+op zee direct benut wordt bij de aansluitstations.
+Als de elektriciteitsvraag minder
+toeneemt dan aangenomen in de scenario’s, dan is het risico groter dat nabij de
+aansluitstations nieuwe knelpunten ontstaan door diepe aanlanding.
+Er wordt in de
+scenario’s aangenomen dat bij de aansluitstations forse vermogens aan batterijen
+gerealiseerd worden, maar er is aangenomen dat geen elektrolyse bij de aansluitstations
+gerealiseerd wordt18.
+Dit betekent dat de impact van de lokale flexibiliteit in de
+scenario’s op de resultaten beperkt is.
+o In de scenario’s worden forse vermogens aan flexibele bronnen, waaronder elektrolyse,
+aangenomen aan de kust.
+Als de ontwikkeling van flexibele bronnen, en dan met name
+elektrolyse, aan de kust minder toeneemt, dan zijn minder elektrische aansluitingen aan
+de kust inpasbaar en neemt de noodzaak voor het realiseren van diepe aanlandingen in
+het binnenland toe.
+ Kerncentrales.
+In het PEH II worden locaties voor een derde en vierde kerncentrale onderzocht.
+Hierbij worden ook locaties in het binnenland onderzocht.
+Eventuele ontwikkeling van grote
+kerncentrale (bij 2 centrales gaat het om circa 3,2 GW) in het energiesysteem kan leiden tot
+overschotten aan elektriciteitsproductie en dus nieuwe knelpunten.
+Deze verhouding wordt in
+PEH II nader onderzocht.
+ De uitwisseling van elektriciteit met het buitenland.
+In drie van de regio’s waarvoor diepe
+aanlanding onderzocht wordt (Overijssel, Gelderland/Noord-Brabant en Limburg) liggen
+verbindingen die het Nederlandse elektriciteitsnet verbinden met Duitsland en België.
+Naar
+verwachting zal Nederland op momenten met veel productie van windparken op zee regelmatig
+elektriciteit exporteren, en op momenten met weinig productie van windparken op zee
+elektriciteit importeren.
+Export van elektriciteit op momenten met veel productie van
+windparken op zee zorgt er extra transport nodig is vanaf Zeeland en de randstad richting het
+binnenland en de regio’s die onderzocht worden voor diepe aanlanding.
+Meer export op
+momenten met veel productie van windparken op zee vergroot daarmee nut en noodzaak van
+diepe aanlanding.
+De import en export van elektriciteit is voornamelijk afhankelijk van twee
+factoren:
+o De nationale balans tussen vraag en aanbod van elektriciteit, en de ontwikkelingen in
+het buitenland.
+Als er in Nederland op momenten met wind op zee grote overschotten
+zijn en als gevolg daarvan lage elektriciteitsprijzen, en dit in België en Duitsland minder
+het geval is, dan zal export plaatsvinden op die momenten.
+o Capaciteit verbindingen import en export.
+Er kan niet meer elektriciteit geïmporteerd of
+geëxporteerd worden dan de capaciteit van de verbindingen.
+De bestaande
+verbindingen richting Duitsland en België zullen worden opgewaardeerd.
+Daarnaast
+wordt door TenneT gekeken naar de mogelijkheid om, als er diepe aanlanding in
+Limburg gerealiseerd wordt, nieuwe gelijkstroomverbindingen richting België en/of
+Duitsland aan te leggen.
+Dan zou nog meer import en export mogelijk zijn.
+Voor
+Overijssel en Gelderland/Noord-Brabant wordt dit op dit moment niet onderzocht.
+ Tijdige realisatie van geplande uitbreidingen aan de elektriciteitsinfrastructuur.
+In de
+netdoorrekeningen van TenneT is aangenomen dat de geplande netuitbreidingen uit het IP in
+18 We verwachten dat grootschalige elektrolyse bij diepe aanlanding, vanuit het perspectief van het
+energiesysteem, niet noodzakelijk en wenselijk.
+Diepe aanlanding wordt gerealiseerd omdat er vraag naar
+elektriciteit is in het binnenland.
+Het is naar verwachting efficiënter om de aangelande windstroom van diepe
+aanlanding door te voeren richting andere delen van Nederland of te exporteren richting België en Duitsland,
+en op andere locaties in Nederland (aan de kust) grootschalige elektrolyse toe te passen.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+45
+2040 gerealiseerd zijn.
+Dit is echter geen zekerheid.
+Als de geplande uitbreidingen aan de
+elektriciteitsinfrastructuur niet tijdig gerealiseerd zijn, dan kan dit op de volgende manieren
+impact hebben op de mogelijkheden voor diepe aanlanding:
+o Tijdige realisatie aansluitstations.
+Er worden verschillende aansluitstations onderzocht
+die op dit moment nog niet gerealiseerd zijn.
+Het gaat om de aansluitstations Almere,
+Almelo, Wijchen, Rivierenland, Einighausen en uitbreidingen/nieuwe stations bij
+Lelystad, Metropoolregio Eindhoven en Doetinchem.
+Er kan pas een diepe aanlanding
+gerealiseerd worden bij deze stations op het moment dat deze stations gereed zijn.
+o Capaciteit 380kV-verbindingen nabij aansluitstations.
+Bij Limburg (380kV-verbinding
+Maasbracht-Einighausen, inclusief 3e en 4e circuit) en Flevoland (3e en 4e circuit 380kV-
+verbinding Vierverlaten – Ens – Lelystad – Diemen) zijn er nieuwe circuits voorzien die de
+capaciteit van 380kV-verbindingen nabij de aansluitstations vergroten.
+Daarnaast zijn in
+elke regio verzwaringen aan bestaande 380kV-verbindingen voorzien.
+Als deze
+uitbreidingen later (of niet) gerealiseerd worden, dan kan dit betekenen dat er meer
+knelpunten ontstaan nabij de aansluitstations.
+6.4 Openstaande vragen vervolg
+Deze energiesysteemanalyse geeft inzicht in de effecten van diepe aanlanding in verschillende
+regio’s, maar geeft nog geen volledig overzicht om een keuze te kunnen maken.
+Hiervoor is op de
+volgende aspecten nog meer inzicht of een integrale afweging noodzakelijk:
+ De energiesysteemanalyse laat zien dat diepe aanlanding in zowel de regio Gelderland/Noord-
+Brabant als de regio Limburg/Eindhoven gunstig is voor het energiesysteem.
+Het is echter nog
+onvoldoende duidelijk of er, vanuit het energiesysteem bezien, een voorkeur is voor één van
+beide locaties of dat een combinatie het meest gunstig is.
+In een volgende fase is hier nader
+onderzoek naar nodig, bijvoorbeeld door middel van doorrekeningen met diepe aanlandingen in
+beide regio’s.
+ De energiesysteemanalyse laat zien dat diepe aanlanding in Flevoland en Overijssel alleen onder
+bepaalde voorwaarden, met name als meer elektrische aansluitingen aan de kust niet mogelijk
+zijn, gunstig is.
+Er is verder onderzoek nodig naar de mogelijkheden voor aansluitingen aan de
+kust en de voorwaarden waaronder diepe aanlanding in Flevoland en Overijssel gunstig is.
+ De impact van diepe aanlandingen is afhankelijk van overige ontwikkelingen in het
+energiesysteem, zoals de ontwikkeling van de elektriciteitsvraag, flexibele bronnen en
+kernenergie.
+Dit vraagt om een integrale weging van de keuze voor diepe aanlanding met keuzes
+voor andere ontwikkelingen in het energiesysteem.
+Dit moet verder onderzocht worden in het
+PEH II.
+ Dit onderzoek geeft een overzicht van de kosten van diepe aanlandingen en de effecten van
+diepe aanlandingen op milieu en ruimte en het energiesysteem.
+Voor een integrale afweging
+moet onderzocht worden hoe de hoge kosten voor diepe aanlandingen afwegen tegen de baten
+voor het energiesysteem en effecten op milieu en ruimte.
+ Diepe aanlandingen kunnen mogelijk ook gerealiseerd worden in combinatie met HVDC-
+schakelstations (bij de diepe aanlanding en bij een aansluitstation aan de kust).
+Als ervoor wordt
+gekozen om HVDC-schakelstations te realiseren is het voor de keuze van een aansluitstation
+voor diepe aanlandingen ook van belang of deze locaties ook gunstig zijn bij realisatie van een
+HVDC-hub, wat niet per se het geval is.
+Hiervoor is van belang dat op die locatie veel aanbod is
+van elektriciteit (vanuit bijvoorbeeld elektriciteitscentrales of import) op momenten met weinig
+productie van windparken op zee zodat deze elektriciteit op die momenten richting de Randstad
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+46
+getransporteerd kunnen worden via de gelijkstroomkabels.
+In de Voorverkenning Diepe
+Aanlandingen is geen energiesysteemanalyse gedaan voor HVDC-schakelstations.
+Dit moet
+verder onderzocht worden in het PEH II.
+De inzichten van de impact HVDC-schakelstations op
+het energiesysteem moeten meegewogen worden in de afweging rondom de keuze voor diepe
+aanlandingen.
+Voorverkenning Diepe Aanlandingen – Bijlage 3 Effectbeoordeling energiesysteem, versie 1.0 – Definitief
+47
+COLOFON
+Voorverkenning Diepe Aanlandingen
+Datum
+17-06-2026
+Status
+Definitief
+Arcadis Nederland B.V.
+Postbus 264
+6800 AG Arnhem
+Nederland
++31 (0)88 4261 261
+www.arcadis.com
+Haskoning B.V.
+Postbus 1132
+3800 BC Amersfoort
+Nederland
++31 (0)88 348 20 00
+www.haskoning.nl
+CE Delft B.V.
+Oude Delft 180
+2611 HH Delft
++31 (0)15-2150150
+www.ce.nl
