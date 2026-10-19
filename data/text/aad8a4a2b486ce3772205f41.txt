@@ -1,0 +1,2107 @@
+Vorige pagina
+Informatie van de Rekenkamer
+Rekenkameronderzoek Voorbereiden op extreme regenval
+ID
+12
+Onderwerp
+Rekenkameronderzoek Voorbereiden op extreme regenval
+Datum
+12-05-2026
+Toelichting
+Inclusief aanbiedingsbrief, bestuurlijke reactie en nawoord van de rekenkamer.
+Bijlage(s)
+Aanbiedingsbrief rekenkamerrapport Extreme regenval
+Rekenkameronderzoek Voorbereiden op extreme regenval
+Bestuurlijk reactie op het conceptrapport ‘Voorbereiden op extreme regenval’ van de Rekenkamer Dijk en Waard
+Nawoord Rekenkamerrapport Extreme regenval
+[Bijlage: Aanbiedingsbrief rekenkamerrapport Extreme regenval]
+Dijk en Waard, 11 mei 2025
+Betreft: Rekenkamerrapport “Voorbereiden op extreme regenval”
+Geachte leden van de gemeenteraad,
+Wij bieden u hierbij het rekenkamerrapport “Voorbereiden op extreme regenval” aan.
+Door klimaatverandering neemt de kans op extreme regenval toe.
+De gemeente Dijk en
+Waard is hier extra kwetsbaar voor vanwege haar lage ligging, de bodemgesteldheid
+(kleigrond) en de bevolkingsdichtheid.
+De rekenkamer heeft onderzocht in hoeverre de
+gemeente zich voorbereidt en in hoeverre zij beleid voert om haar inwoners te
+beschermen.
+Voor dit onderzoek zijn relevante beleidsdocumenten bestudeerd en zijn betrokken
+medewerkers van de gemeente en partnerorganisaties (waterschap en veiligheidsregio)
+geïnterviewd.
+Doel van het onderzoek is om u als raad inzicht te bieden in de
+gemeentelijke voorbereiding op extreme regenval en handvatten te geven voor uw
+kaderstellende en controlerende rol.
+Uit het onderzoek blijkt dat de gemeente over het algemeen goed in beeld heeft wat de
+mogelijke gevolgen zijn van de kwetsbaarheden voor extreme regenval.
+De gemeente
+heeft duidelijke ambities vastgesteld voor het voorkomen van wateroverlast en is goed
+op weg om deze door te vertalen naar een ambtelijke uitvoering.
+De rekenkamer ziet
+echter ook een aantal cruciale aspecten die uw aandacht vereisen.
+Zo blijft de inzet van
+de gemeente op het gebied van gevolgbeperking en duurzaam herstel aanzienlijk achter.
+Daarnaast is de mate van doelbereik niet structureel in beeld en heeft de gemeente
+beperkte sturing op de private ruimte.
+Ook wordt de gemeenteraad relatief weinig op
+strategisch niveau betrokken.
+Op basis van bovenstaande bevindingen heeft de rekenkamer aanbevelingen
+geformuleerd in het rapport.
+Op 7 mei 2026 hebben wij de bestuurlijke reactie van het
+college ontvangen.
+De bestuurlijke reactie is als bijlage bij deze brief toegevoegd, net als
+een nawoord waarin de rekenkamer een reflectie geeft op de bestuurlijke reactie.
+Wanneer u vragen heeft over dit onderzoek kunt u contact opnemen met de rekenkamer
+door een mail te sturen naar rekenkamer@rekenkamerdijkenwaard.nl
+Met vriendelijke groet,
+Remko in ’t Veld, Dylan Donia en Arash Lahyi
+Bijlage 1: Rekenkamerrapport ‘Voorbereiden op extreme regenval’
+Bijlage 2: Bestuurlijke reactie
+Bijlage 3: Nawoord van de rekenkamer
+[Bijlage: Rekenkameronderzoek Voorbereiden op extreme regenval]
+Conclusies en aanbevelingen en bevindingenrapport
+Definitief 3.0
+Voorbereiden op extreme regenval
+Rekenkameronderzoek
+gemeente Dijk en Waard
+Rekenkamer gemeente Dijk en Waard
+16 maart 2026
+Rekenkameronderzoek Extreme regenval
+Pagina 2 van 59
+Colofon
+Rapporttitel
+ Voorbereiden op extreme regenval.
+Rekenkameronderzoek gemeente Dijk en Waard Opdrachtgever  Rekenkamer gemeente Dijk en Waard Adviseur(s)  Marthe van Russen Groen, m.vanrussengroen@ambient.nl  Gert Dekker, g.dekker@ambient.nl Kwaliteitscontrole  Gert Dekker Ons projectnummer  P25042 Datum  16 maart 2026 Versie  Definitief 3.0
+Ambiënt Advies BV
+Arthur van Schendelstraat 550, 3511 MH Utrecht Postbus 255, 3500 AG Utrecht Website: http://www.ambient.nl/
+Rekenkameronderzoek Extreme regenval
+Pagina 3 van 59
+Inhoudsopgave
+Deel II
+1 Inleiding ...........................................................................................................
+4
+2 Opgave: omgaan met extreme regenval .............................................................
+10
+3 Landelijke beleidskaders ...................................................................................
+11
+4 Wie doet wat: preventie ....................................................................................
+13
+5 Wie doet wat: de overige vier lagen van meerlaagsveiligheid .................................
+16
+Deel II
+6 Inzicht in kwetsbaarheden .................................................................................
+19
+7 Ambities en beleid ............................................................................................
+26
+8 Uitvoering en praktijk .......................................................................................
+33
+Conclusies en aanbevelingen
+Conclusies ………………………………………………………………………………………………………………………………42
+Aanbevelingen ..........................................................................................................
+45
+Bijlagen
+Bijlage 1 – Maatlat Klimaatadaptieve Bouw ..................................................................
+48
+Bijlage 2 – Verantwoording Rekenkameronderzoek .......................................................
+51
+Bijlage 3 – Deelvragen en normenkader rapportdeel II ..................................................
+54
+Bijlage 4 – Doelen en maatregelen gemeente Dijk en Waard (zelfstandig of aansluitend bij
+partners) op thema’s extreme neerslag en overstroming ................................................
+56
+Rekenkameronderzoek Extreme regenval
+Pagina 4 van 59
+1 Inleiding
+1.1 Aanleiding en hoofdvraag
+Door klimaatverandering neemt de kans op extreme regenval toe.
+Extreme regenval kan leiden tot wateroverlast, overstromingen en schade.
+De gemeente Dijk en Waard is hier kwetsbaar voor: de lage ligging, de bodemgesteldheid (kleigrond) en de bevolkingsdichtheid vergroten het risico op wateroverlast en overstromingen1.
+De Rekenkamer van de gemeente Dijk en Waard wil weten in hoeverre de gemeente zich voorbereidt op extreme regenval volgens het concept van meerlaagsveiligheid (uitgelegd in Hoofdstuk 3 van dit rapport).
+In hoeverre voert de gemeente beleid om haar inwoners te beschermen tegen de gevolgen van extreme regenval?
+1.2 Rapportage en werkwijze
+Deze rapportage geeft de bevindingen van het rekenkameronderzoek, met de volgende opbouw.
+Deel I
+Het eerste rapportdeel is inleidend.
+Het geeft een beschrijving van de opgave van extreme regenval (Hoofdstuk 2) en van het wettelijk en organisatorisch kader: wat is meerlaagsveiligheid (Hoofdstuk 3)?
+Welke verantwoordelijkheden hebben de gemeente en andere partijen hierin (Hoofdstuk 4 en Hoofdstuk5)?
+Deel I is geschreven aan de hand van een analyse van gedocumenteerd landelijke beleid, wet- en regelgeving.
+Deel I vormt een opstap naar het tweede deel, waarin specifiek de beoordeling van het beleid van de gemeente Dijk en Waard plaatsvindt.
+Deel II Het tweede deel vormt de kern van het rekenkameronderzoek.
+Het onderzoekt de inzet van de gemeente Dijk en Waard op het vlak van waterveiligheid bij extreme regenval.
+In hoeverre heeft de gemeente inzicht in de mogelijke gevolgen van extreme regenval (Hoofdstuk 6)?
+Welke ambities en beleid heeft de gemeente vastgesteld (Hoofdstuk 7)?
+Hoe geeft de gemeente hier uitvoering aan (Hoofdstuk 8)?
+We gaan hierbij in op een aantal deelvragen en normen waaraan we het beleid van de gemeente toetsen (zie voor het complete overzicht Bijlage 3).
+Deze vragen en normen heeft Ambient samen met de Rekenkamer van de gemeente vastgesteld.
+Methode Om tot de bevindingen van dit onderzoek te komen, heeft Ambient in de periode mei en juni 2025 opgevraagde documenten bestudeerd en betrokken medewerkers van de gemeente en van partnerorganisaties (waterschap en veiligheidsregio) geïnterviewd.
+Voor een volledig overzicht van onze onderzoeksmethode en -bronnen, zie Bijlage 2.
+1 Volgens provinciale gegevens uit 2024 heeft Dijk en Waard het hoogste overstromingsrisico van de
+provincie Noord-Holland (cijfers.noord-holland.nl): namelijk gemiddeld 9,4 getroffen inwoners per hectare
+bij een overstroming van een middelgrote kans (1/100 jaar).
+Belangrijke kanttekening is dat dit cijfer
+niet meer actueel is, omdat de gemeente in 2024 een nieuw gemaal heeft aangelegd (zoals besproken in
+H8).
+Niettemin blijft de gemeente risicovol voor wateroverlast en overstromingen in een mate die geldt
+voor alle verstedelijkte laaggelegen gebieden in Noord-Holland en Zuid-Holland (zie de risicokaart
+overstromingen 2025).
+Rekenkameronderzoek Extreme regenval
+Pagina 5 van 59
+Acties en beleid van de gemeente van na juni 2025 zijn niet meegenomen in het bevindingenrapport (Deel I en Deel II van dit rapport).
+Voor zover wij op de hoogte zijn van relevante ontwikkelingen van na juni 2025, benoemen we dit in voetnoten.
+De laatste ontwikkelingen zijn wel meegenomen in de conclusies en aanbevelingen, die in maart 2026 samen met de Rekenkamer zijn opgesteld.
+1.3 Doel
+De aanbevelingen zijn gericht aan het college van B&W en de raad van de gemeente Dijk en Waard.
+Het doel van het rekenkameronderzoek is namelijk het opleveren van leereffecten voor het college en voor de raad.
+Het gaat erom hen inzicht te bieden in de mate waarop de gemeente voorbereid is op extreme regenval, en handvatten te geven voor (bij)sturing voor de toekomst.
+1.4 Leeswijzer
+Dit rapport heeft de volgende opbouw.
+Het begint met een samenvatting van Deel I en een samenvatting van Deel II van het bevindingenrapport.
+Dan volgt het bevindingenrapport Deel I (H 2 t/m 5), en het bevindingenrapport Deel II (H6 t/m 8).
+Direct daarna presenteren we de conclusies en aanbevelingen die we op basis van de bevindingen geformuleerd hebben.
+Tot slot volgen de bijlagen.
+Rekenkameronderzoek Extreme regenval
+Pagina 6 van 59
+SAMENVATTING DEEL I: LANDELIJKE KADERS
+Opgave: omgaan met extreme regenval (Hoofdstuk 2) Met klimaatverandering neemt de kans op extreme regenval toe.
+Extreme regenval kan leiden tot wateroverlast, bijvoorbeeld door binnendringend regen- of grondwater in woningen.
+Of erger, door volledig overstroomde wijken of gebieden.
+Samen met andere overheden en burgers staan gemeenten voor de opgave zich hierop voor te bereiden.
+Landelijke beleidskaders (Hoofdstuk 3) Overheden werken al sinds 2011 aan deze opgave middels het Deltaprogramma.
+Wateroverlast bij extreem zware regen, zoals destijds in Limburg, is niet volledig te voorkomen.
+Deze mate van regenval overschrijdt de grens van wat het watersysteem kan verwerken.
+Wel kan men proberen met goede voorbereiding de schade en slachtoffers te beperken, door naast preventie te werken aan waterbewustzijn, gevolgbeperking, crisisbeheersing en duurzaam herstel.
+Samen vormen deze de vijf lagen van meerlaagsveiligheid, zoals in 2022 geïntroduceerd door De Beleidstafel Wateroverlast en Hoogwater.
+Wie doet wat: preventie (Hoofdstuk 4) Preventie betreft het voorkomen van wateroverlast door een slimme inrichting van het watersysteem en de ruimtelijke ordening.
+Hierin hebben de overheden een eigen wettelijke taak:  Gemeenten zijn verantwoordelijk voor de inrichting van het bebouwd gebied (riolering en stedelijke inrichting).
+Gemeenten kunnen de openbare ruimte zelf inrichten en privaat terrein beïnvloeden met regels, contracten, subsidies en campagnes (§4.1).  Particulieren zijn in beginsel zelf verantwoordelijk voor de verwerking van overtollig regenwater op eigen terrein en bescherming tegen wateroverlast.
+Pas als een perceeleigenaar redelijkerwijs het regen- en grondwater niet meer kan verwerken, moet de gemeente het afvoeren (§4.2).  Waterschappen zijn verantwoordelijk voor de inrichting en het waterpeil van het regionale watersysteem (incl. oppervlaktewater in de gebouwde omgeving).
+Dit betekent onder meer: het aanleggen en onderhouden van keringen en watergangen (§4.3).  Provincies leggen normen op aan waterschappen.
+Normen die aangeven tot welke overstromingskans (door regen en hoogwater) een gebied beschermd moet zijn tegen overstroming (§4.4).  Het Rijk is verantwoordelijk voor de inrichting van het hoofdwatersysteem (kust, IJsselmeer en grote rivieren en kanalen) en het voorkomen van overstroming hiervan (§4.5).
+Wie doet wat: de overige vier lagen van meerlaagsveiligheid (Hoofdstuk 5) Voor de overige vier lagen zijn de verantwoordelijkheden en taken minder afgebakend:  Waterbewustzijn: het bewustzijn onder overheden, burgers en bedrijven van de risico’s van wateroverlast en overstroming en de mogelijke voorbereidingen op die risico’s.
+Met name het Rijk, waterschappen en gemeenten zetten hierop in (§5.1).  Gevolgbeperking: de ruimte slim inrichten om schade door wateroverlast te beperken.
+Denk aan belangrijke voorzieningen toewijzen aan veilige locaties, of gebouwen verhoogd construeren.
+Gemeenten hebben hiervoor dezelfde instrumenten als voor preventie.
+Ook provincies en particulieren hebben verantwoordelijkheden (§5.2).  Crisisbeheersing: de actie tijdens of net voor een situatie van extreme wateroverlast.
+Beperkt de crisis zich tot één gemeente dan heeft de gemeente zelf de regie – met ondersteuning van mensen en middelen van het waterschap en de Veiligheidsregio (§5.3).  Herstel: het herstellen van schade door wateroverlast, op zo’n manier dat de kans op schade afneemt.
+Bijvoorbeeld, een beschadigde parketvloer vervangen door een tegelvloer.
+Hierin hebben de diverse partijen opnieuw een verantwoordelijkheid (§5.4).
+Rekenkameronderzoek Extreme regenval
+Pagina 7 van 59
+SAMENVATTING DEEL II: BEVINDINGEN GEMEENTELIJK BELEID
+Inzicht in kwetsbaarheden (Hoofdstuk 6) De gemeente Dijk en Waard heeft inzicht in de kwetsbaarheden voor extreme regenval door eigen analyses: de hydrologische modellen en de stresstesten (uit 2019 en 2025).
+Verder heeft de gemeente toegang tot regionale en bovenregionale analyses van het waterschap en van de Veiligheidsregio.
+De gemeenteraad wordt geïnformeerd over inzichten in risico’s middels de stresstesten (elke zes jaar) en op projectbasis (bij gebiedsplannen).
+Ambities en beleid (Hoofdstuk 7) De gemeente Dijk en Waard heeft duidelijke doelen en maatregelen die passen bij de preventie en waterbewustzijn.
+Voor gevolgbeperking en crisisbeheersing heeft de gemeente geen expliciete doelen en maatregelen opgesteld, hoewel ze wel acties neemt die hierbij passen (zie Hoofdstuk 8).
+De gemeente zet momenteel niet in op doelen of maatregelen die passen bij de herstel.
+Het beleid is goed afgestemd binnen de regio, en is voorzien van passend budget en middelen.
+De gemeenteraad heeft het beleid formeel vastgesteld.
+Raadsleden dienen echter betrekkelijk weinig vragen of verzoeken in op het onderwerp extreme regenval of klimaatverandering in brede zin.
+Uitvoering en praktijk (Hoofdstuk 8) Het beleid dat past bij de lagen waterbewustzijn, preventie en gevolgbeperking wordt met name uitgevoerd door teams onder het domein “Ruimte” van de gemeente (§8.3).
+Het beleid dat past bij de laag crisisbeheersing wordt uitgevoerd door het team “Veiligheid” uit een ander domein.
+Voor waterbewustzijn en communicatie is het team “Communicatie” eveneens belangrijk.
+De voortgang is als volgt (§8.2): 0.
+Water bewustzijn Eigen medewerkers.
+Bewustzijn van klimaatadaptatie wordt uitgedragen en groeit binnen de organisatie.
+In de praktijk komt het wel nog vaak aan op koplopers, om klimaatadaptatie zo goed mogelijk in planontwikkelingen te borgen.
+Burgers en ondernemers.
+In de pers en op de website staat informatie over wat inwoners zelf kunnen doen aan hun eigen woning/gebouw.
+Voor dergelijke maatregelen aan particuliere huizen is sinds juli een subsidie beschikbaar.
+Verder was er een festival/campagne over het belang van water, hoewel het bereik hiervan beperkt was.
+1.
+Preventie Openbare ruimte en stedelijk watersysteem.
+Klimaatadaptatie is vast onderdeel van gebiedsvisies.
+Klimaatadaptief ontwerp is geborgd in normen in het Handboek Inrichting Openbare Ruimte (HIOR).
+Deze normen geven soms echter dilemma’s in de uitvoering, en niet alle projectleiders hebben er volledig begrip van en aandacht voor.
+Ook is er nog geen monitoringssysteem waarin klimaatadaptieve infrastructuur (en de effecten daarvan) wordt bijgehouden.
+Beïnvloeding private ruimte.
+Een subsidieregeling is beschikbaar voor klimaatadaptieve maatregelen voor particulieren.
+Regels voor in het omgevingsplan zijn in voorbereiding.
+Ook is er een nieuw format voor privaatrechtelijke overeenkomsten met klimaateisen.
+Voor oude lopende contracten gelden klimaateisen niet of minder, en is de gemeente meer aangewezen op overtreding en afstemming.
+Nog niet uitgevoerd is het opstellen van een toezicht- en handhavingsstrategie, en de gemeente heeft weinig personeel voor VTH.
+2.
+Gevolg beperking De klimaatadaptieve normen uit het handboek openbare ruimte (HIOR) richten zich naast preventie ook op gevolgbeperking.
+Verder heeft de gemeente inbreng geleverd aan gesprekken met netbeheerders die het waterschap en de Veiligheidsregio voeren.
+En de gemeente betrekt adviseurs risicobeheersing van de Veiligheidsregio bij complexe herinrichtingsprojecten.
+Rekenkameronderzoek Extreme regenval
+Pagina 8 van 59
+3.
+Crisis beheersing Adviseurs veiligheid van de gemeente werken nauw samen met de Veiligheidsregio, en zijn bekend met de rampscenario’s en calamiteitenplannen.
+Al deze adviseurs zijn afgelopen jaren opgeleid op het vlak van crisisbeheersing.
+Zij bereiden de gemeente voor op de eigen taken tijdens crisis, en oefenen hiervoor.
+De oefeningen onderschrijven het belang om als gemeente over eigen expertise en middelen te beschikken, en niet te veel te leunen op waterschap en Veiligheidsregio.
+4.
+Herstel De gemeente heeft geen maatregelen of acties die passen bij deze laag.
+Een verklaring hiervoor is dat de gemeente sinds 2009 geen (grote) wateroverlast heeft gehad.
+De samenwerking met andere partijen (waterschap, Veiligheidsregio, en DPRA-werkregio) verloopt goed (§8.3).
+De voortgang van maatregelen en het doelbereik wordt niet systematisch bijgehouden en gerapporteerd (§8.4), dus de gemeenteraad is hier (nog) niet over geïnformeerd (§8.5).
+Rekenkameronderzoek Extreme regenval
+Pagina 9 van 59
+DEEL I
+Deel I van deze rapportage gaat in op het landelijk beleidskader.
+Dit deel introduceert de opgave extreme regenval, het concept van meerlaagsveiligheid en de verdeling van verantwoordelijkheden over gemeenten en andere partijen.
+Inhoudsopgave Deel I
+2 Opgave: omgaan met extreme regenval .............................................................
+10
+3 Landelijke beleidskaders ...................................................................................
+11
+3.1 Stresstesten en risicodialoog .....................................................................
+11
+3.2 Meerlaagsveiligheid .................................................................................
+11
+4 Wie doet wat: preventie ....................................................................................
+13
+4.1 Preventie door gemeente ..........................................................................
+13
+4.2 Preventie door particulieren ......................................................................
+14
+4.3 Preventie door waterschap........................................................................
+15
+4.4 Preventie door provincie ...........................................................................
+15
+4.5 Preventie door het Rijk .............................................................................
+15
+5 Wie doet wat: de overige vier lagen van meerlaagsveiligheid .................................
+16
+5.1 Waterbewustzijn......................................................................................
+16
+5.2 Gevolgbeperking .....................................................................................
+16
+5.3 Crisisbeheersing ......................................................................................
+17
+5.4 Herstel ...................................................................................................
+17
+Rekenkameronderzoek Extreme regenval
+Pagina 10 van 59
+2 Opgave: omgaan met extreme regenval
+Met het veranderende klimaat nemen de weersextremen toe.
+Zowel periodes van droogte als extreme regenval komen vaker voor.
+Extreme regenval kan leiden tot wateroverlast, met schade aan bijvoorbeeld wegen, gebouwen, landbouwgewassen en natuur.
+Afhankelijk van het tijdsbestek kan extreme regenval zich uiten in twee vormen.
+De eerste vorm betreft hevige regenbuien: de intensiteit (hoeveelheid neerslag/minuut) is erg hoog.
+De tweede vorm is langdurige regenval: de intensiteit is lager, maar de regen houdt aan over een lange periode.
+Hevige regenbuien zijn doorgaans lokaal van aard en vooral problematisch in stedelijk gebied, waar veel oppervlakte verhard is.
+Op het verharde oppervlak kan de regen snel afstromen en zich gaan verzamelen.
+Dat gebeurt als er per minuut meer water bijvalt dan er via de bodem, oppervlaktewater en afvoervoorzieningen (zoals riolering) kan wegstromen.
+Het water komt op straat te staan en kan gebouwen binnendringen.
+Dit komt overeen met wateroverlast type 3 in onderstaand figuur (Figuur 1).
+Ook wateroverlast type 1 en type 4 (Figuur 1) houden verband met hevige buien.
+Langdurige regenval betreft meestal een groter gebied en biedt uitdagingen aan het regionale watersysteem als geheel.
+De (grond)waterstanden stijgen gestaag tot een niveau waar mogelijk watergangen, keringen en gemalen de hoeveelheid water niet meer kunnen reguleren.
+Dit komt overeen met wateroverlast type 2, type 4 en type 5 in onderstaand figuur (Figuur 1).
+Ook hoge buitenwaterstanden (zoals de zee en het IJsselmeer) kunnen leiden tot overstromingen en schade (type 6 en 7, Figuur 1).
+Figuur 1: Faalmechanismen in het watersysteem van lage gebieden in Nederland (Klopstra & Kok, 2009) Type Faalmechanisme dat leidt tot wateroverlast of overstroming Oorzaak 1 binnendringende neerslag in huis piekbui 2 hoge grondwaterstanden in kruipruimten en tuinen langdurige regen
+3 hemelwater kan niet snel genoeg afstromen en komt op straat te staan piekbui 4 buiten de oevers treden van watergangen (inundatie regionaal watersysteem) beide
+5 overstromen/bezwijken van regionale waterkering bij boezemstelsel en kanalen. divers* 6 overstromen/bezwijken van primaire kering langs de kust en de grote rivieren divers* 7 overstromen van buitendijks gebied door hoge peilen van rivieren of Waddenzee divers*
+*divers: diverse factoren spelen hier vaak een rol, over een groot regio-overstijgend gebied: naast neerslag, ook factoren zoals getijde, smeltwater, opstuwing door stormen of juist droogte (waardoor dijken bezwijken).
+Gezien de verantwoordelijkheden van gemeenten (H4 en H5), richt dit onderzoek zich met name op overlast uit typen 2 t/m 4, en in mindere mate op typen 1 en 5 t/m 7.
+Rekenkameronderzoek Extreme regenval
+Pagina 11 van 59
+3 Landelijke beleidskaders
+3.1 Stresstesten en risicodialoog
+Sinds 2011 wordt cyclisch gewerkt aan een Deltaprogramma, dat inzet op aangepast water- en landbeheer om Nederland klimaatbestendig te maken.
+De opgave van extreme regenval valt onder het onderdeel “Ruimtelijke Adaptatie”.
+Het Deltaplan Ruimtelijke Adaptatie schrijft voor dat regio’s klimaatstresstesten uitvoeren, die in beeld brengen hoe kwetsbaar de regio is voor wateroverlast, hitte, droogte en de gevolgen van overstromingen.
+Met de uitkomst van de stresstesten gaan partners uit de regio (o.a. gemeenten, waterschap, provincie en eigenaren van vitale infrastructuur en objecten) risicodialogen aan, waarin zij bespreken welke risico’s (zie Kader 1) zij wel of niet aanvaardbaar vinden.
+Die dialogen worden vervolgens vertaald naar een strategie en uitvoeringsagenda van de betrokken overheden.
+Dit herhaalt zich in een cyclus van zes jaar.
+Kader 1: Definitie risico Risico wordt benaderd als kans x gevolg.
+Dus een kleine kans met grote gevolgen kan eenzelfde mate van risico vormen als een grote kans met kleine gevolgen.
+Het eindadvies (2022) van de Beleidstafel Wateroverlast en Hoogwater, ingericht naar aanleiding van de crisis in Limburg in 2021, concludeert dat stresstesten ook bovenregionaal uitgevoerd moeten worden.
+De reden is dat de extreme buien in Limburg in 2021 zo grootschalig waren dat ze meerdere regio’s tegelijk besloegen.
+3.2 Meerlaagsveiligheid
+Dezelfde Beleidstafel adviseert eveneens een uitbreiding van het concept ‘meerlaagsveiligheid’, dat in 2009 geïntroduceerd werd in het Nationaal Waterplan 2009-2015.
+Dit concept verwees destijds naar drie lagen die passen bij risicobeheersing: preventie, gevolgbeperking en crisisbeheersing.
+Preventie gaat om het voorkómen van wateroverlast en overstromingen.
+Het richt zich op het verkleinen van de kans hierop (zie Kader 1).
+Dit betekent met name het waterhuishoudkundige systeem op orde maken: het aanleggen en onderhouden van keringen, watergangen, gemalen en riolering.
+En daarnaast een slimme ruimtelijke inrichting kiezen, zodat water in de bodem kan infiltreren, kan afvloeien naar oppervlaktewater of tijdelijk wordt opgevangen.
+Aanvullend kan men inzetten op het beperken van de gevolgen (zie Kader 1).
+Dus schade en slachtoffers beperken als wateroverlast zich toch voordoet door structurele maatregelen vooraf (gevolgbeperking) of maatregelen tijdens de crisis (crisisbeheersing) te treffen.
+Dit is belangrijk, want het watersysteem volledig inrichten op preventie is vrijwel onmogelijk.
+De extreme en grootschalige buien van Limburg in 2021 toonden dat aan.
+Deze mate van neerslag overschrijdt de grens van wat het watersysteem verwerken kan.
+Vandaar dat de Beleidstafel (zie §3.1) in hun eindadvies “Voorkomen kan niet, voorbereiden wel’’ overheden vraagt meer in te zetten op gevolgbeperking en crisisbeheersing.
+Maar dan nog blijft er een resterend risico, die gevolgbeperking en crisisbeheersing niet kunnen ondervangen.
+Daarom voegt de Beleidstafel nóg twee lagen toe.
+Namelijk enerzijds klimaatrobuust herstel: voorsorteren op het herstel van eventueel ontstane schade.
+En anderzijds waterbewustzijn: besef onder burgers en organisaties van het belang zichzelf
+Rekenkameronderzoek Extreme regenval
+Pagina 12 van 59
+en hun omgeving aanvullend te beschermen tegen risico’s.
+Hiermee komt meerlaagsveiligheid uit op vijf lagen (zie Figuur 2).
+Figuur 2: De vijf lagen van meerlaagsveiligheid 0 Waterbewustzijn basis voor het handelen van burgers, bedrijven en overheden voor en tijdens klimaatextremen 1 Preventie
+wateroverlast voorkomen, door slim ontwerp en onderhoud van watersysteem en ruimtelijke
+ordening
+2 Gevolgbeperking de gevolgen (schade en ontwrichting) beperken door aanpassingen in de ruimtelijke inrichting 3 Crisisbeheersing
+het voorkomen van maatschappelijke schade en ontwrichting tijdens crisis
+4 Klimaatrobuust herstel schade op een klimaatrobuuste manier herstellen, nadat een crisis is opgetreden.
+De Beleidstafel adviseert om meerlaagsveiligheid toe te passen op hele stroomgebieden: dus naast het hoofdwatersysteem, ook de regionale watersystemen.
+Dit betekent dat naast het Rijk, tevens decentrale overheden hiermee aan de slag moeten.
+In het navolgende hoofdstuk bespreken we per laag, wat de verantwoordelijkheid is van de gemeente en van andere partijen.
+Vanuit het Rijk zijn een aantal handreikingen opgesteld, die regionale overheden helpen invulling te geven aan de uitvoering van meerlaagsveiligheid (Kader 2).
+Kader 2: Relevante handreikingen vanuit het beleid Kamerbrief Water en bodem sturend 2022 (Harbers & Heijnen, 25-11-2022) noemt uitgangspunten over de rol van water en bodem in de ruimtelijke ordening.
+Zo is het streven: bodem zo min mogelijk afdekken en afgraven, zorgvuldig afwegen op basis van waterrisico’s waar (een functie) wel of niet gebouwd kan worden, en de gebouwde omgeving klimaatadaptief inrichten.
+Deze zijn verder uitgewerkt in handreikingen:  Ruimtelijk afwegingskader klimaatadaptieve gebouwde omgeving 2023 (Bijlage bij Kamerbrief minister Harbers, 9-4-2024)  Maatlat groene klimaatadaptieve locatie gebouwde omgeving 2023 (Bijlage bij Kamerbrief ministers De Jonge, Harbers en Van der Wal-Zeggelink, 23-3-2023)  Ontwerp-Nota Ruimte 2025 (Bijlage bij Kamerbrief minister Keijzer, 26-9-2025) Ook is een nieuwe Kamerbrief over wateroverlast door grootschalige extreme regenval (Tieman, 30-10-2025) uitgekomen waarin een Nationale Aanpak Wateroverlast wordt aangekondigd.
+Rekenkameronderzoek Extreme regenval
+Pagina 13 van 59
+4 Wie doet wat: preventie
+Het Nederlands beleid is traditioneel gezien gericht op preventie: voorkómen van wateroverlast en overstroming door het weren, afvoeren en bergen van water.
+De verdeling van verantwoordelijkheden voor de laag ‘preventie’ is daarom sterk in wetgeving verankerd.
+Gemeente, waterschap, provincie, Rijk en particulier staan elk aan de lat voor een onderdeel van het watersysteem, en voorkómen daarmee een bepaald type wateroverlast (Tabel 1).
+Tabel 1: Verantwoordelijkheden preventie bij de zeven typen wateroverlast uit Figuur 1 (H2) Verdeling verantwoordelijkheden en plichten Type wateroverlast Particulier Gemeente Waterschap Provincie Rijk & RWS 1 binnendringende neerslag in huis 2 overlast uit hoge grondwaterstanden
+3 water op straat bij hevige regenval 4 inundatie van watergangen
+5 overstromen regionale waterkeringen 6 overstromen van primaire keringen 7 overstromen van buitendijks gebied Legenda De partij heeft een eigen wettelijke zorgtaak in de preventie van dit type wateroverlast De partij heeft (door andere partijen opgelegde) plichten in de preventie van dit type wateroverlast Type wateroverlast houdt meestal direct verband met extreme neerslag Type wateroverlast kent meestal meerdere oorzaken, waar extreme neerslag er één van kan zijn
+In dit hoofdstuk volgt een beschrijving van die taakverdeling.
+4.1 Preventie door gemeente
+Taken gemeente
+Een gemeente heeft een eigen wettelijke verantwoordelijkheid in het voorkomen van
+wateroverlast type 2 t/m 4 (Tabel 1), die dus direct verband houdt met extreme neerslag
+(Figuur 1).
+Een gemeente heeft namelijk de volgende wettelijke watertaken (Kader 3).
+Met
+name de grond- en hemelwatertaak zijn relevant voor wateroverlast.
+Kader 3: Gemeentelijke watertaken
+ Grondwatertaak: “gemeenten moeten maatregelen nemen om structureel nadelige gevolgen van
+de grondwaterstand te voorkomen, voor zover de maatregelen doelmatig zijn en niet tot taken van
+waterschap, provincie of Rijk behoren” [Omgevingswet art.
+2.16 lid 1 deel 2].
+ Hemelwatertaak: “gemeenten zijn verantwoordelijk voor het inzamelen en afvoeren van
+regenwater, voor zover een perceeleigenaar het regenwater niet zelf in de bodem of op het
+oppervlaktewater kan laten afvloeien” [Omgevingswet art.
+2.16 lid 1 deel 1].
+ “Beheer van watersysteem voor zover dit aan de gemeente is toebedeeld door de provinciale
+Omgevingsverordening of bij ministeriële regeling” [Omgevingswet art.
+2.16 lid 1 deel 4].
+ Afvalwatertaak: betreft het inzamelen en verwerken van afvalwater [Omgevingswet art.
+2.16 lid
+1 deel 4].
+Dit houdt enkel verband met extreme regenval, in zover gemengd riool (voor afval- en
+regenwater) berekend moet zijn op beide stromen.
+Gemeenten vervullen taken middels de volgende instrumenten: eigen
+uitvoeringsprogramma’s enerzijds, en regels en stimuleringsacties richting burgers en
+bedrijven anderzijds.
+En hierbij hebben ze steeds twee “systemen” waar ze op kunnen
+inspelen: het stedelijk watersysteem (o.a. riolering, wadi’s) en de ruimtelijke ordening.
+Dit is
+weergegeven in Tabel 2.
+Rekenkameronderzoek Extreme regenval
+Pagina 14 van 59
+Tabel 2: Instrumenten van de gemeente voor de preventie van wateroverlast
+Invloed: publieke ruimte
+Domein Riool- en watersysteem publieke ruimte Ruimtelijke Ordening publieke ruimte
+Instrument Water- en rioleringsprogramma Andere gemeentelijke programma’s
+Taak
+Hemelwatertaak aanleggen en onderhouden van rioleringen
+en andere afvoervoorzieningen Groene en blauwe zones aanleggen in
+de publieke ruimte Grondwatertaak aanleggen en onderhouden van
+afvoervoorzieningen overtollig grondwater
+Invloed: privaat terrein
+Domein Riool- en watersysteem privaat terrein Ruimtelijke Ordening privaat terrein
+Instrument Regels in omgevingsplan Regels en contractuele voorwaarden
+Taak
+Hemelwatertaak Voorbeeld: voorwaarden voor lozingen van
+regenwater op de riolering Voorbeeld:
+projectontwikkelaars verplichten tot
+aanleg groene zones bij nieuwbouw Grondwatertaak voorwaarden voor lozingen grondwater op
+de riolering
+Instrument Stimuleringsacties Stimuleringsacties
+Taak
+Hemelwatertaak Voorbeeld: subsidies voor watertonnen of
+hulp bij afkoppelen regenpijp
+Voorbeeld: campagne voor groene
+tuinen Grondwatertaak Voorbeeld: campagne voor impregneren
+kelderwanden
+Plichten gemeente
+In de preventie van overstromingen (type 5 t/m 7, Tabel 1) heeft de gemeente geen
+wettelijke taken, maar vervult ze een andere rol.
+Zo moet de gemeente plichten nakomen en
+beleid voeren dat aansluit op de taak van het waterschap en Rijk om keringen in stand te
+houden.
+4.2 Preventie door particulieren
+Taak particulieren
+Gebouw en -perceeleigenaren en bouwbedrijven hebben een eigen verantwoordelijkheid in de preventie van wateroverlast door lekkage via dak, muren of kelders (type 1 en 2, Tabel 1).
+Het is aan hen ervoor te zorgen dat daken en kelders waterdicht zijn.
+Voor nieuwbouw gelden de eisen uit de Omgevingswet [Omgevingswet, Besluit Bouwwerken Leefomgeving art.
+4.118].
+Ook hebben particulieren een taak voor de afvoer van zowel grond- als hemelwater op hun eigen perceel (overlast type 2 en 3, Tabel 1) [Omgevingswet, art.
+2.16].
+Dat geldt ook voor de gemeente als eigenaar van de openbare ruimte.
+Mogelijke schade op eigen terrein is dus in de basis een zorg voor de eigenaar.
+Pas als perceeleigenaren hemelwater redelijkerwijs niet kunnen lozen op bodem of oppervlaktewater, is de gemeente formeel aan zet en is verplicht het hemelwater via de riolering af te voeren (zie §4.1).
+Plichten particulieren
+In de praktijk echter voeren particulieren vaak nog onbeperkt regenwater af via de riolering.
+Dit leidt eerder tot overstroming van de riolering tijdens piekbuien (type 3, Tabel 1).
+Een gemeente kan dit voorkomen door gebouweigenaren te verbieden om regenwater te lozen op gemengde riolering, of door specifieke lozingsroutes voor te schrijven.
+Ook andere regels voor particulieren kunnen bijdragen aan preventie van wateroverlast en overstroming, zoals gebruiksbeperkingen op terreinen die nodig zijn voor het onderhoud van keringen.
+Rekenkameronderzoek Extreme regenval
+Pagina 15 van 59
+4.3 Preventie door waterschap
+Taak waterschap
+Waterschappen hebben een algemene zorgtaak voor afwatering en het voorkomen en beperken van wateroverlast en overstromingen [Waterschapswet art.
+1.1].
+Hierbij ligt de focus vooral op mogelijke overlast vanuit het regionaal watersysteem (type 4 en 5, Tabel 1).
+Waterschappen zijn namelijk verantwoordelijk voor het op orde brengen en onderhouden van het regionaal watersysteem binnen hun beheergebied [Omgevingswet art.
+2.17 & Waterschapswet art.
+1.1].
+Zij kunnen hiertoe regels opleggen aan gemeenten en particulieren.
+Verhouding tot gemeente Gemeenten en waterschappen moeten daarom afstemmen over de waterhuishoudkundige inrichting [Omgevingswet art.
+2.2].
+Wat gemeenten aan overtollig regen- en grondwater afvoeren komt immers terecht in het regionaal watersysteem, waarvan de waterschappen de peilen beheren.
+Ook moeten zij afstemmen over regels die zij opleggen aan bedrijven en burgers en aan elkaar.
+Plicht waterschap Voor de bouw van secundaire keringen2 zijn zij gebonden aan de ontwerpnormen die de provincie hen oplegt, en voor primaire keringen aan normen vanuit het Rijk.
+4.4 Preventie door provincie
+Taak provincie
+De provincies zijn betrokken bij preventie van wateroverlast en regionale overstromingen
+(type 2 t/m 5, Tabel 1) door vast te leggen tot welk niveau een gebied hiertegen beschermd
+moet worden.
+Dit zijn de zogeheten inundatienormen en veiligheidsnormen die steunen op
+kansberekeningen.
+De norm kan stellen dat een gebied beschermd moet zijn tegen
+overstromingen met een kans van bijvoorbeeld 1 in de 100 jaar.
+Hoe streng de provincie de
+norm stelt voor een bepaald gebied, is een kosten-batenafweging: wegen de kosten van
+maatregelen voor extra bescherming op tegen de baten (de schade die eventueel voorkomen
+wordt)?
+Zo kunnen de normen voor weilanden minder streng zijn dan voor een woonkern.
+Verhouding tot waterschap
+De norm die de provincie vastlegt, geeft een verplichting richting het waterschap.
+Het
+waterschap moet zorgen dat het regionaal systeem aan die norm voldoet (zie hiervoor).
+4.5 Preventie door het Rijk
+De verantwoordelijkheid voor preventie van overstromingen uit het hoofdwatersysteem (buitenwater2 en Rijkskanalen) ligt bij het Rijk: ministerie van Infrastructuur en Waterstaat, en uitvoerdingdienst Rijkswaterstaat.
+De overstromingsnormen hiervan zijn wettelijk vastgelegd.
+Samen met waterschappen is Rijkswaterstaat verantwoordelijk voor aanleg en onderhoud van primaire keringen en het peilbeheer van peilgestuurde Rijkskanalen.
+2 Primaire keringen: kering die direct beschermt tegen buitenwater.
+Dit is de zee, het IJsselmeer,
+Markermeer, de grote rivieren (Rijn, Maas en IJssel).
+Secundaire keringen: alle overige keringen,
+binnen een gebied omgeven door primaire keringen (o.a. keringen van het boezemwater rondom
+polders).
+Rekenkameronderzoek Extreme regenval
+Pagina 16 van 59
+5 Wie doet wat: de overige vier lagen van meerlaagsveiligheid
+Dit hoofdstuk gaat in op de verdeling van de verantwoordelijkheden voor de meerlaagsveiligheid-lagen waterbewustzijn, gevolgbeperking, crisisbeheersing en herstel.
+5.1 Waterbewustzijn
+Voorbereiding op extreme regenval begint ermee dat iedereen bekend is met de risico’s van extreme regenval en de mogelijkheden om die te verkleinen.
+In het Beleidsadvies uit 2022 (§3.1) wordt dit ‘Waterbewustzijn’ genoemd.
+Het is belangrijk dat naast overheden, ook burgers en bedrijven waterbewust worden.
+Zij moeten inzien dat van hen een zekere zelfredzaamheid wordt verwacht, en dat ze ook een eigen bijdrage te leveren hebben aan het voorkomen van wateroverlast.
+Middels publiekscommunicatie en educatie kunnen overheden dit bewustzijn bevorderen.
+Hierin is geen formele aanwijzing van verantwoordelijkheden.
+In de praktijk zullen vooral het Rijk, waterschappen en gemeenten zich hiervoor inzetten.
+Dit omdat zij zelf met name aan de lat staan voor preventie (zie §3.3), en dus ook hun eigen beperkingen daarin willen communiceren.
+Zo loopt vanuit het Rijk momenteel de campagne “Leven met Water” (levenmetwater.nl), waaraan regionale overheden een eigen invulling kunnen geven.
+5.2 Gevolgbeperking
+Deze laag richt zich op het beperken van de gevolgen van wateroverlast of overstroming, middels structurele maatregelen in de fysieke ruimte.
+Partijen die gaan over ruimtelijke ordening en bouwvormen zijn in deze laag aan zet: gemeenten, particulieren en provincies.
+Gevolgbeperking door de gemeente
+Gemeenten hebben twee voorname instrumenten voor de fysieke ruimte (Tabel 3): eigen inrichting van de openbare ruimte, en regels en contracten om privaat terrein te beïnvloeden.
+Vaak zijn deze instrumenten primair gericht op preventie (zie §4.1).
+Toch kunnen deze ook inzetten op gevolgbeperking, zoals: gebruik van planten en materialen die waterbestand zijn, verhoogd vloerpeil in nieuwbouw, vluchtroutes en verhoogde schuillocaties inbouwen.
+Of simpelweg: het niet toestaan te bouwen in zones waar een bepaald risico op overstroming of wateroverlast geldt.
+Gevolgbeperking door particulieren
+Dit is vergelijkbaar met wat is opgenomen bij preventie (§4.1): een particulier is zelf verantwoordelijk voor het beperken van schade aan eigen woning, terrein of andere bezittingen.
+Wel is het zo dat de particulier ervan uit kan gaan dat de kans op bepaalde vormen van wateroverlast klein is, doordat er al sprake is van een collectieve bescherming.
+Met name voor het resterend risico is de particulier zelf aan zet.
+Mogelijke maatregelen zijn bijvoorbeeld het verhogen van vloerpeil, stopcontacten en ventilatiegaten, of het plaatsen van waterkerende schotten in deurposten.
+Gevolgbeperking door provincie
+De provincie kan bijdragen aan gevolgbeperking, door in de provinciale verordening gebieden aan te wijzen waar geen verstedelijking of vitale functies mogen plaatsvinden.
+Dit kan zij middels instructieregels laten doorwerken in de omgevingsplannen van gemeenten.
+Rekenkameronderzoek Extreme regenval
+Pagina 17 van 59
+5.3 Crisisbeheersing
+Crisisbeheersing gaat over de actie tijdens of vlak voor het plaatsvinden van extreme vormen van wateroverlast om schade, ontwrichting en slachtoffers te beperken.
+De volgende instrumenten zijn hierbij denkbaar:  Waarschuwingen en adviezen afgeven richting publiek, zodat het publiek zich tijdig kan voorbereiden en beschermen.  Noodinfrastructuur optuigen, zoals pompen of waterwering met zandzakken, schotten en opblaaskeringen.  Ontruiming en evacuatie van personen en goederen.
+Naast de gemeenten hebben hierin een voorname rol: Watermanagementcentrum Nederland (WMCN) en de Veiligheidsregio’s.
+Crisisbeheersing door WMCN
+WMCN is een samenwerking van Rijkswaterstaat, KNMI, de waterschappen en Defensie.
+Het WMCN verzorgt de berichtgeving over hoogwaterdreiging richting belanghebbenden van het (hoofd)watersysteem.
+Crisisbeheersing op landelijk niveau loopt via het WMCN.
+Crisisbeheersing door de gemeente
+Als een crisis zich beperkt tot één gemeente, is de burgemeester formeel verantwoordelijk voor de aanpak.
+In het geval van extreme regenval zal dit gaan om een lokale stortbui, of mogelijk een lokaal falen van de waterinfrastructuur.
+De burgemeester neemt dan de besluiten over inzet van instrumenten en hulpdiensten (van de Veiligheidsregio), en over eventuele evacuatie van het gemeentelijk gebied [Gemeentewet art.
+175&176].
+Crisisbeheersing door de veiligheidsregio
+Voor het voorbereiden op, coördineren en beheersen van crises in het algemeen – waaronder hoogwater – werken gemeenten samen in Veiligheidsregio’s.
+Diensten zoals de meldkamer en brandweer zijn onderdeel van de Veiligheidsregio.
+Vanuit de Veiligheidsregio zijn impactanalyses en draaiboeken voor diverse crises opgesteld.
+Betreft een crisis (zoals hoogwater) meerdere gemeenten binnen de regio, dan is de voorzitter van de veiligheidsregio tevens formeel verantwoordelijk voor de aanpak.
+Betreft de crisis slechts één gemeente, dan is de burgemeester verantwoordelijk, maar kunnen diensten van de Veiligheidsregio in hun uitvoerende rol betrokken worden.
+5.4 Herstel
+Klimaatrobuust herstel gaat om het treffen van maatregelen gebaseerd op lessen uit de crisis (“build back better”).
+Bijvoorbeeld, na schade een parketvloer vervangen door een tegelvloer, zodat de kans op nieuwe schade kleiner wordt.
+Zulke maatregelen gericht op het voorkomen van herhaling kunnen vormen aannemen die in elk van de andere meerlaags-veiligheidslagen passen: waterbewustzijn, preventie, gevolgbeperking en crisisbeheersing met de betreffende partijen.
+Wel is bij herstel een bijzondere rol weggelegd voor verzekeraars en herstelbedrijven.
+Hier liggen nog vragen open, zoals: in hoeverre zijn verzekeraars bereid particuliere schade te vergoeden?
+Wat stellen zij als eisen voor “klimaatrobuust” herstel?
+Zijn herstelbedrijven zich bewust van deze eisen?
+Hierin ontbreken duidelijke landelijke kaders en afspraken.
+Daarnaast heeft het Rijk een bijzondere rol in het kader van de Wet tegemoetkoming schade bij rampen (Wts).
+Middels een kabinetsbesluit kan een gebied als rampengebied worden aangewezen.
+De gedupeerden in het gebied krijgen dan op basis van deze wet een deel van de schade vergoed.
+De tegemoetkoming is toegepast op de crisis in Limburg in 2021.
+Rekenkameronderzoek Extreme regenval
+Pagina 18 van 59
+DEEL II
+Deel II van deze rapportage betreft de kern van het rekenkameronderzoek.
+Dit deel onderzoekt hoe de gemeente Dijk en Waard zich voorbereidt op extreme regenval.
+Hierbij de volgende vragen:  In hoeverre heeft de gemeente inzicht in de kwetsbaarheden voor extreme regenval?
+(H6)  In hoeverre heeft de gemeente beleid gemaakt om zich voor te bereiden op extreme regenval?
+(H7)  Hoe geeft de gemeente uitvoering aan dat beleid?
+(H8) Ieder hoofdstuk eindigt met de toetsing van normen.
+Inhoudsopgave Deel II
+6 Inzicht in kwetsbaarheden .................................................................................
+19
+6.1 Hydrologische analyses ............................................................................
+19
+6.2 Analyses van de maatschappelijke gevolgen ...............................................
+19
+6.3 Informering van de gemeenteraad .............................................................
+24
+6.5 Toetsing aan normen ...............................................................................
+25
+7 Ambities en beleid ............................................................................................
+26
+7.1 Gestelde doelen, strategieën en maatregelen ..............................................
+26
+7.2 Afstemming van beleid binnen de regio ......................................................
+29
+7.3 Budget ...................................................................................................
+30
+7.4 Rol van de gemeenteraad .........................................................................
+31
+7.5 Toetsing aan normen ...............................................................................
+31
+8 Uitvoering en praktijk .......................................................................................
+33
+8.1 Organisatie van de uitvoering ...................................................................
+33
+8.2 Voortgang, successen en belemmeringen in de uitvoering ............................
+34
+8.3 Samenwerking met partners in de uitvoering ..............................................
+38
+8.4 Monitoring van doelbereik.........................................................................
+39
+8.5 Betrokkenheid van de gemeenteraad .........................................................
+39
+8.6 Toetsing aan normen ...............................................................................
+40
+Rekenkameronderzoek Extreme regenval
+Pagina 19 van 59
+6 Inzicht in kwetsbaarheden
+Dit hoofdstuk richt zich op de vraag in hoeverre de gemeente inzicht heeft in de kwetsbaarheden voor extreme regenval.
+Hierbij komt aan bod in hoeverre: - de gemeente in beeld heeft wat de verwachte waterhoogtes en knelpunten in het watersysteem zijn (§6.1) bij extreme regenval; - de gemeente deze hydrologische inzichten heeft vertaald naar een analyse van de mogelijke maatschappelijke gevolgen (§6.2); - de gemeenteraad geïnformeerd is over deze (maatschappelijke) kwetsbaarheden (§6.3).
+Paragraaf 6.4 beschrijft de normen waaraan we het gemeentelijk inzicht toetsen (§6.4).
+Voor zowel de hydrologische analyse als de analyse van de maatschappelijke gevolgen zijn verschillende schaalniveaus relevant (Figuur 3).
+Figuur 3: Schaalniveaus watersysteem
+Bron figuur: Stowa 2024
+Riolering en inrichting maaiveld Systeem stedelijk oppervlaktewater Regionaal watersysteem Bovenregionaal watersysteem
+1.
+2.
+3.
+4.
+Betreft hier het gebied: Dijk en Waard Dijk en Waard en
+buurtgemeenten
+Werkgebied
+HHNK
+Stroomgebied
+ARK-NZK
+Analyse waterhoogten
+en knelpunten
+watersysteem
+Watermodel
+gemeente
+Watermodel
+gemeente en
+waterschap
+Watermodel
+waterschap
+Watermodellen
+waterschappen en
+Rijkswaterstaat
+Analyse
+maatschappelijke
+kwetsbaarheden
+Stresstest
+gemeente
+Stresstest
+werkregio
+gemeenten
+Stresstest
+beheergebied
+waterschap
+Bovenregionale
+stresstest
+6.1 Hydrologische analyses
+Het watersysteem kan op meerdere schaalniveaus bekeken worden (Figuur 3).
+Knelpunten op een hogere schaal vertalen zich door naar de lagere schaal: bijvoorbeeld, als hoofdwateren overstromen kunnen regionale en lokale watergangen hier niet langer naar afvoeren.
+Naar aanleiding van de extreme regen in Limburg in 2021, is landelijk de lijn ingezet dat aanvullend op de lokale en regionale analyse van de kwetsbaarheid bij hevige regenval, ook bovenregionale analyse worden gemaakt (“waterbeelden”)3: voor het geval extreme regenval een groot gebied beslaat.
+Deelvraag: In hoeverre heeft de gemeente in beeld wat de mogelijke waterhoogtes en knelpunten in het watersysteem zijn (op de verschillende schaalniveaus van het watersysteem)?
+3 Zoals genoemd in de Kamerbrief over wateroverlast door grootschalige extreme regenval (Tieman,
+30-10-2025)
+Rekenkameronderzoek Extreme regenval
+Pagina 20 van 59
+Verkort antwoord deelvraag
+De gemeente heeft hydrologische modellen, die de verdeling van water tijdens extreme
+regenval voorspellen tot aan adresniveau.
+Voor de impact vanuit het regionale
+watersysteem heeft de gemeente toegang tot informatie uit de hydrologische modellen van
+het waterschap HHNK.
+De bovenregionale analyse is in 2025 voor het eerst uitgevoerd en
+die uitkomsten zijn ook met de gemeente gedeeld.
+Hydrologische analyse op lokaal niveau
+(Schaalniveau 1 uit Figuur 3)
+De gemeente beschikt over eigen (grond)watermodellen.
+Deze modellen simuleren o.a. de waterhoogtes op straat en tegen de gevel van gebouwen, bij hevige regen.
+Momenteel zijn er nog aparte modellen voor Langedijk en voor Heerhugowaard, beide met verschillende rekenmodellen/software.
+Eén van de acties uit het water- en rioleringsprogramma voor de komende periode 2022-2027 is: deze twee modellen samenvoegen tot één gezamenlijk model voor Dijk en Waard, en deze verder verfijnen.
+Uit de interviews blijkt dat dit nog niet is gebeurd, maar wel op stapel staat voor komende jaren.
+De gemeentelijke hydrologische modellen zijn niet altijd even actueel en precies, blijkt uit de interviews.
+Nieuwe herinrichtingen van straten worden niet direct opgenomen in het hydrologische model.
+Pas bij een actualisatie worden wijzigingen in de inrichting van de boven- en ondergrond in het model verwerkt.
+Hydrologische analyse op regionaal niveau
+(Schaalniveau 2 en 3 uit Figuur 3)
+Het waterschap HHNK heeft hydrologische modellen voor het eigen beheergebied, en rekent hierbij diverse klimaatscenario’s door.
+Bij de klimaatscenario’s kijkt het waterschap onder meer hoe het water zich verdeelt indien bepaalde gemalen of keringen niet meer zouden functioneren.
+De modelresultaten zijn publiek toegankelijk (klimaatmonitor.hhnk.net).
+Hydrologische analyse op bovenregionaal niveau
+(Schaalniveau 4 uit Figuur 3)
+Op bovenregionaal niveau gaat het hier om het stroomgebied Amsterdam-Rijnkanaal en
+Noordzeekanaal.
+De vier waterschappen HHNK, Amstel Gooi en Vecht, Stichtse Rijnlanden en
+Rijnlanden hebben in 2025 samen met Rijkswaterstaat gewerkt aan het waterbeeld voor dit
+stroomgebied.
+De vier waterschappen bekijken de belasting van extreme bovenregionale
+regenval op bijvoorbeeld het Noordzeekanaal en hoofdkanalen.
+Vervolgens kijken zij wat die
+belasting betekent voor de (on)mogelijkheid vanuit de wetenschapsgebieden om water te
+kunnen afvoeren.
+6.2 Analyses van de maatschappelijke gevolgen
+Vanuit het Deltaprogramma Ruimtelijke Adaptatie (DPRA) worden gemeenten gestimuleerd
+om elke zes jaar lokale stresstesten uit te voeren.
+Een stresstest brengt in beeld wat de
+maatschappelijke kwetsbaarheden zijn voor diverse aspecten van klimaatverandering,
+waaronder de toenemende kans op extreme regenval.
+Dit vraagt om het combineren van de
+hydrologische informatie met andere ruimtelijke informatie, zodat een beeld wordt gevormd
+van de mogelijke gevolgen van extreme regenval in termen van schade en maatschappelijke
+ontwrichting.
+Ook hiervoor zijn de verschillende schaalniveaus relevant (afhankelijk van de
+omvang van de wateroverlast), en dan niet alleen van het watersysteem maar ook van
+andere zaken zoals het wegennet en energienet.
+Rekenkameronderzoek Extreme regenval
+Pagina 21 van 59
+Deelvraag: In hoeverre heeft de gemeente in beeld wat de kwetsbaarheden zijn (op basis van analyses van verschillende schaalniveaus)?
+Verkort antwoord deelvraag
+In lokale stresstesten heeft de gemeente in kaart gebracht wat de kwetsbaarheden zijn:
+welke buurten, wegen en voorzieningen worden geraakt door overstroming of extreme
+regenval.
+De eventuele (crisis)gevolgen heeft de gemeente uitgewerkt in rampscenario’s.
+De gevolgen heeft de gemeente niet gekwantificeerd in termen van financiële schade of
+aantal slachtoffers.
+Op regionaal niveau bestaat een analyse van het waterschap: welke elementen uit het
+watersysteem zijn het meest cruciaal in termen van maatschappelijke risico’s.
+En er is een
+analyse van de mogelijke maatschappelijke ontwrichting van wateroverlast en overstroming
+door de Veiligheidsregio.
+Ook bij de bovenregionale waterbeelden zijn de Veiligheidsregio’s
+betrokken voor de duiding van mogelijke maatschappelijke ontwrichting.
+De gemeente heeft
+hiervan kennisgenomen.
+Kwetsbaarheden op gemeentelijk niveau
+(Schaalniveau 1 en 2 uit Figuur 3)
+Stresstest gemeente
+De gemeente Dijk en Waard heeft een stresstest uitgevoerd in 2019, gerapporteerd als
+“Basisinventarisatie Klimaatkwetsbaarheden Langedijk & Heerhugowaard”.
+Volgens de
+interviews werkt de gemeente in 2025 aan de actualisatie van deze stresstest - conform de
+zesjarige DPRA-cyclus.4 Deze is uitgevoerd door een extern bureau en georganiseerd vanuit
+het samenwerkingsverband regio Noord-Kennemerland (destijds geheten: regio Alkmaar, zie
+Kader 4).
+De stresstest is gebaseerd op eigen hydrologische modellen en input van analyses
+van het regionaal watersysteem (van waterschap HHNK).
+Op de bijbehorende kaarten uit het rapport van de stresstest is op buurt- en straatniveau te zien welke locaties kwetsbaar zijn.
+Hierbij worden zaken uitgelicht als: welke wegen worden onbegaanbaar, welke panden krijgen opstaand water, welke van deze wegen en panden zijn vanwege hun functie essentieel en verdienen extra bescherming.
+De analyse is samengevat in Tabel 3 (zie hieronder).
+De stresstest hanteert voor de analyse van kwetsbare panden (Tabel 3) categorieën van gebruiksfuncties uit de landelijke Risicokaart (risicokaart.nl): gebouwen met bijeenkomst-, gezondheid-, onderwijsfunctie, enz.
+Dit is in algemene termen geformuleerd en het rapport van de stresstest geeft geen uitputtende opsomming van alle locaties die als essentieel worden beschouwd.
+Rampscenario’s Voor de eigen gemeente-specifieke kwetsbare locaties, heeft de gemeente wel aandacht in de rampscenario’s die gemeente uitwerkt in het kader van crisisbeheersing.
+Hiervoor brengt de gemeente kwetsbare plekken in beeld – zoals zorginstellingen en de penitentiaire inrichting.
+Alle mogelijke (cascade-)effecten van een scenario (zoals extreme regenval, mogelijk in combinatie met andere calamiteiten) worden geïnventariseerd.
+Zo is bij extreme
+4 Na afloop van het onderzoek (in februari 2026) hebben wij vernomen dat de gemeente in het
+samenwerkingsverband regio Noord-Kennemerland de nieuwe stresstesten in oktober 2025 heeft
+afgerond.
+Het rapport (“Actualisatie stresstest Noord-Kennemerland”, Sweco, oktober 2025) hebben wij
+ingezien.
+Rekenkameronderzoek Extreme regenval
+Pagina 22 van 59
+regenval en grote waterdiepten de kans op stroomuitval reëel – wat weer uitdagingen geeft voor hulpdiensten, enz.
+Tabel 3: Samenvatting van de onderdelen overstromingsrisico en risico op wateroverlast uit “Basisinventarisatie Klimaatkwetsbaarheden Langedijk & Heerhugowaard – 1 augustus 2019” Factor of risico Score schaal 0 tot 100 Toelichting L* H* Overstromings kans 2050 30 25 Langedijk en Heerhugowaard vallen beide geheel in de klassen “zeer kleine kans (1 op 3.000 tot 1 op 30.000 jaar) en “kleine kans” (1 op 300 tot 1 op 3.000 jaar) op overstroming met een bepaalde impact.
+Overstromings Diepte 60 80 Bij een bepaald overstromingsscenario (dijkdoorbraak) is de waterdiepte in Langedijk maximaal 0,5 m of max.
+1 m.
+In Heerhugowaard is dit veelal 1,5 tot 2 m en plaatselijk nog meer.
+Overstromings risico (totaal) 55 70 Voor de eindscore in kwetsbaarheid voor overstroming weegt de overstromingsdiepte zwaarder (80%) dan de overstromingskans (20%).
+Water op straat 50 70 De omvang van gebieden met meer dan 10 cm water op straat bij extreme regenbuien (van 70 mm in 1 uur, of 100 mm in 2 uur) betreft in Heerhugowaard het centrum en het industrieterrein.
+In Langedijk gaat het om enkele straten in een viertal buurten.
+Water in kwetsbare panden 50 60 In beide woonplaatsen bevinden zich een vijftal gebouwen met een hoge kwetsbaarheid: combinatie van belangrijke functie (onderwijs, zorg, e.d.) met kans op water in het pand bij extreme regenval.
+En daarnaast nog meerdere gebouwen met een matige kwetsbaarheid.
+Begaanbaar heid wegen 60 70 In het noorden van Langedijk worden meerdere wegen bij extreme regenval (100 mm in 2 uur) slecht (15 cm water) of niet (30 cm water) begaanbaar.
+In Heerhugowaard gaat het om meerdere wegen verspreid over de gemeente, waaronder tevens een paar hoofdwegen.
+Grondwater-overlast 40 50 De zijstraten van de Dorpstraat in Langedijk zijn gevoelig voor grondwateroverlast.
+In Heerhugowaard zijn met name de buitenste wijken gevoelig voor grondwateroverlast.
+Risico water overlast (totaal) 50 65 Voor de eindscore in kwetsbaarheid voor wateroverlast wegen water in panden en begaanbaarheid wegen iets zwaarder (beide 30%) dan water op straat en grondwateroverlast (beide 20%). *L: Langedijk;
+H: Heerhugowaard.
+Kwetsbaarheden op regionaal niveau
+(Schaalniveau 3 uit Figuur 3) Risicoanalyse door het waterschap Vanuit de interviews is bekend dat het waterschap HHNK verleden jaar samen met het bureau Sweco een analyse heeft uitgevoerd van de knelpunten in het beheergebied in bepaalde klimaatscenario’s.
+Dit is dus een soort “regionale stresstest”.
+Het gebied van HHNK valt samen met het gebied van DPRA-werkregio Noorderkwartier (zie Kader 4 hieronder).
+Het waterschap heeft de risicoanalyse zelfstandig uitgevoerd met weinig inbreng van de gemeenten.
+Wel zijn er gesprekken geweest tussen het waterschap, gemeenten en netwerkbeheerders over de kwetsbaarheden en het belang van specifieke voorzieningen (assets) in het watersysteem: welke gemalen zijn het meest kwetsbaar voor uitval en welke gemalen zijn in maatschappelijk opzicht het meest cruciaal?
+Hierbij is met gemeenten besproken welke vitale functies (toegangswegen, ziekenhuis, e.d.) er zijn.
+Tevens is met netwerkbeheerders (zoals Liander) besproken welke objecten (transformatorhuisjes) kunnen uitvallen als er bijvoorbeeld 20 cm water tegenaan staat.
+Rekenkameronderzoek Extreme regenval
+Pagina 23 van 59
+Deze gesprekken zijn niet uitgewerkt in een rapport, maar wel meegenomen in de analyse van het waterschap van de eigen assets.
+Zo kan het waterschap prioriteren welke gemalen als eerste in aanmerking komen voor vervanging of uitbreiding, en welke gemalen in het geval van stroomuitval draaiende gehouden worden op noodstroom.
+Het aantal noodaggregaten is te klein om alle elektrische gemalen draaiende te houden.
+Risicoanalyse Veiligheidsregio Noord-Holland Noord Dijk en Waard valt in de Veiligheidsregio Noord-Holland Noord.
+Dit gebied komt geografisch grotendeels overeen met de werkregio Noorderkwartier (Kader 4 hieronder), maar is iets kleiner (zo vallen Zaanstreek-Waterland en een deel van Kennemerland in het zuiden erbuiten).
+De Veiligheidsregio heeft analyses voor de mogelijke gevolgen van allerlei rampscenario’s.
+De overstromingsrisico’s zijn voor het gebied geschaard onder categorie B (onwaarschijnlijk, maar met een zeer ernstige tot catastrofale impact).
+De risico’s voor extreem weer (waaronder extreme regenval) zijn ingedeeld in categorie C (waarschijnlijk, met aanzienlijke tot ernstige impact).
+De risicoanalyses zijn gericht op de fase van crisisbeheersing en gaan in op effecten, zoals stroomuitval en onbereikbaarheid van voorzieningen.
+Risicoanalyse door DPRA-regio Noord-Kennemerland
+Vanuit de DPRA-regio Noord-Kennemerland (Kader 4 hieronder), zijn de lokale stresstesten
+in 2019uitgevoerd (zoals op vorige pagina benoemd).
+Verder heeft de regio een strategie
+voor klimaatadaptatie (zie hoofdstuk 7) en benoemt daarin vijf gebiedstypologieën in de
+regio, die iets zeggen over de mate van kwetsbaarheid.
+Dijk en Waard valt onder deze twee:
+ Stedelijk Hart (Alkmaar en Heerhugowaard).
+Gebiedstype: dichtbebouwd.
+Risico op
+wateroverlast en overstroming in bebouwde omgeving; risico op onbegaanbare wegen.
+ Waterrijk (Langedijk en noorden Heerhugowaard).
+Gebiedstype: agrarisch en waterrijk.
+Turfteeklandschap met vele kleine waterwegen en eilandjes.
+Risico op wateroverlast in
+bebouwde omgeving.
+Deze strategie beschrijft dus de kwetsbaarheden op (zeer) algemeen niveau.5
+Kader 4: Toelichting werkregio Noorderkwartier en deelregio Noord-Kennemerland
+5 In de geactualiseerde stresstest uit 2025 zijn de kwetsbaarheden wel in detail benoemd.
+Hier houden
+we rekening mee in onze conclusies en aanbevelingen.
+Voor het Deltaprogramma Ruimtelijke Adaptatie
+(DPRA) zijn in Nederland 45 werkregio’s gevormd.
+De gemeente Dijk en Waard behoort tot de
+werkregio Noorderkwartier.
+Dit is een
+samenwerking van 26 gemeenten, waterschap
+HHNK en drinkwaterbedrijf PWN.
+Deze werkregio Noorderkwartier is verder
+onderverdeeld in vier deelregio’s.
+De gemeente Dijk en Waard ligt in de deelregio
+Noord-Kennemerland.
+Dit is een samenwerking
+tussen HHNK, PWN, en acht gemeenten: Dijk en
+Waard, Alkmaar, Bergen, Uitgeest, Castricum,
+Heilo, Beverwijk en Heemskerk.
+Vóór de
+toevoeging van Beverwijk en Heemskerk heette de
+deelregio Noord-Kennemerland-Noord en dáárvoor
+(ten tijde van stresstesten in 2019) regio Alkmaar.
+Rekenkameronderzoek Extreme regenval
+Pagina 24 van 59
+Kwetsbaarheden op bovenregionaal niveau
+(Schaalniveau 4 uit Figuur 3) In de bovenregionale waterbeelden (§6.1) is ook gekeken naar de kwetsbaarheden en zijn de veiligheidsregio’s betrokken om de maatschappelijke ontwrichting van zo’n grootschalige extreme bui mede te duiden.
+Gemeenten zijn over het algemeen niet betrokken bij het uitwerken van de bovenregionale stresstest.
+Zij krijgen wel toegang tot de resultaten, en kunnen deze verwerken in hun lokale stresstesten en risicodialogen.6
+6.3 Informeren van de gemeenteraad
+Deelvraag: In hoeverre is de gemeenteraad geïnformeerd over de risico’s van extreme regenval?
+Verkort antwoord deelvraag
+De gemeenteraad is geïnformeerd over de uitkomst van de stresstesten uit 2019.
+Hier
+maken de risico’s van extreme regen deel van uit.
+Het college van B&W is voornemens de
+gemeenteraad eveneens te informeren over de uitkomst van de geactualiseerde
+stresstesten.
+Na afronding van de stresstesten in 2019 (zie §6.2) zijn de gemeenteraden van de
+toenmalige gemeenten Langedijk en Heerhugowaard geïnformeerd over de uitkomsten.
+Het
+betreffende rapport “Basisinventarisatie Klimaatkwetsbaarheden Langedijk &
+Heerhugowaard” (Arcadis, 2019) is in Heerhugowaard besproken tijdens de
+raadsvergadering van 25 februari 2020 en in Langedijk tijdens de raadsvergadering van
+11 februari 2020.
+Zo blijkt uit de gearchiveerde vergaderstukken.
+Voorafgaand aan de agendering in beide gemeenteraden heeft een informatiebijeenkomst
+plaats gevonden.
+Hierbij waren een aantal raadsleden aanwezig.
+Sommige raadsleden waren
+ook al aanwezig bij de voorafgaande bijeenkomst van de Klimaatadaptatieregio Noord-
+Kennemerland (destijds: regio Alkmaar) op 8 januari 2020, waar Arcadis de uitkomst zelf
+gepresenteerd heeft.
+Sinds 2020 hebben klimaatrisico’s niet als losstaand thema op de raadsagenda gestaan.
+De
+risico’s komen soms wel aan bod bij agendapunten over specifieke projecten en
+plangebieden.
+De geïnterviewden zijn er voorstander van de geactualiseerde stresstesten (2025) met de
+gemeenteraad – alsook met inwoners – te delen7 en om raadsleden bij de risicodialogen te
+betrekken.
+6 Na afloop van dit onderzoek is de bovenregionale stresstest gepubliceerd (juni 2025): “Waterbeelden
+AZK-RZK Regio”, Sweco & Hydrologic, juni 2025.
+Bij ambtelijke reactie op de conceptversie van het
+rapport hebben wij vernomen dat de ambtenaren hiervan kennis genomen hebben en dat deze benut is
+bij de geactualiseerde stresstest en de risicodialogen van 2025.
+7 Uit navraag bij de ambtelijke organisatie in februari 2026 blijkt dat de gemeenteraad niet betrokken
+was bij de risicodialogen van 2025 en nog niet geïnformeerd is over de nieuwe stresstesten van 2025.
+Het toelichten van de nieuwe stresstest is wel aangevraagd voor de agenda van een raadvergadering in
+het voorjaar.
+Rekenkameronderzoek Extreme regenval
+Pagina 25 van 59
+6.4 Toetsing aan normen
+De bevindingen uit voorgaande paragrafen leiden tot de volgende scores op normen die passen bij dit hoofdstuk (Inzicht van de gemeente in kwetsbaarheden).
+Norm Score Toelichting 1.
+De gemeente heeft in beeld wat de mogelijke gevolgen zijn van de kwetsbaarheden voor extreme regenval.
+Sterk De gemeente heeft op basis van de diverse bronnen (modellen waterschap, eigen hydraulische modellen en analyses) en samenwerking met andere overheden (Veiligheidsregio, waterschap) voldoende inzicht in de eigen kwetsbaarheden en mogelijke gevolgen van extreme regenval.
+Gesproken medewerkers zijn goed op de hoogte van de diverse kwetsbaarheden.
+1A.
+De gemeente heeft een stresstest uitgevoerd voor extreme regenval, waaruit blijkt welke locaties, wijken en adressen kwetsbaar zijn voor extreme regenval.
+Sterk Sterk: De laatste stresstest is in 2019 uitgevoerd en wordt conform de DPRA-cyclus dit jaar (2025) geactualiseerd.
+Verder heeft de gemeente en hydraulische modellen op adresniveau en rampscenario’s uitgewerkt.
+Tekortkoming: De hydraulische modellen zijn nog afzonderlijk voor voormalige gemeenten Heerhugowaard en Langedijk.
+1B.
+De gemeente is actief betrokken bij de uitwerking van de (boven)regionale stresstesten.
+Matig Niet van toepassing: Gemeenten spelen geen rol in de uitwerking van bovenregionale stresstests.
+Sterk: De gemeente voert gesprekken met het waterschap die relevant zijn voor de analyse van (kwetsbaarheden in) het regionaal watersysteem.
+Tekortkoming: Er zijn risicoanalyses op regionaal niveau gemaakt, maar deze zijn niet vastgelegd in rapportages.
+1C.
+De gemeente heeft in beeld wat de mogelijke gevolgen zijn van de kwetsbaarheden voor extreme regenval.
+Sterk Sterk: De gesproken medewerkers crisisbeheersing als medewerkers RO (ambtelijk en bestuurlijk) zijn bekend met kwetsbaarheden en de mogelijke gevolgen en passen dit toe in hun werk.
+Tekortkoming: Er is geen volledige documentatie van vitale objecten en infrastructuur bekend.
+1D.
+Het college van B&W
+heeft de gemeenteraad
+geïnformeerd over de
+kwetsbaarheid en risico’s
+van extreme regenval.
+Matig Sterk: Het college van B&W heeft de raad geïnformeerd over uitkomsten van de stresstesten uit 2019 en is dit ook van plan voor de geactualiseerde stresstesten uit 2025.
+Tekortkoming: Informeren over klimaatrisico’s gebeurt relatief weinig als losstaand thema.
+Rekenkameronderzoek Extreme regenval
+Pagina 26 van 59
+7 Ambities en beleid
+Dit hoofdstuk bekijkt de doelen en maatregelen die de gemeente heeft geformuleerd om zich voor te bereiden op extreme regenval.
+De belangrijkste beleidsdocumenten hierbij zijn:  Beleidsplan Klimaatadaptatie van Dijk en Waard, uit 2023 (hierna: BK 2023).  Programma Stedelijk Water en Riolering Dijk en Waard 2022-2027 (hierna: PSWR 2022).
+Daarnaast heeft Dijk en Waard in 2024 een omgevingsvisie (hierna: OV 2024) uitgebracht.
+Hierin staan ambities, maar deze zijn volgens geïnterviewden nog niet vertaald naar concreet beleid.
+Andere relevante documenten zijn het beleidsplan 2024-2027 van de Veiligheidsregio Noord-Holland Noord (hierna: VNHN 2024) en de Klimaatadaptatiestrategie Regio Alkmaar uit 2021 (hierna: KS 2021).
+Doelen die hierin staan zijn niet specifiek voor de gemeente Dijk en Waard.
+7.1 Gestelde doelen, strategieën en maatregelen
+Deelvraag: In hoeverre heeft de gemeente beleidsdoelen en maatregelen geformuleerd, die passen in de vijf lagen van meerlaagsveiligheid?
+Verkort antwoord deelvraag De gemeente heeft ambitieuze beleidsdoelen vastgesteld die passen onder preventie, gevolgbeperking en waterbewustzijn.
+Hier zijn tevens passende maatregelen aan gekoppeld, met bijpassend budget.
+Ook op crisisbeheersing zet de gemeente actief in, hoewel niet bekend is of de doelen en strategieën hiervoor formeel gedocumenteerd zijn.
+Voor herstel heeft de gemeente geen doelen (of maatregelen).
+In het Beleidsplan Klimaatadaptatie 2023 zijn de volgende algemene doelen relevant voor dit onderzoek:  Het beperken van de overlast die wordt veroorzaakt door hevige regen;  Het waar mogelijk beperken van de schade die wordt veroorzaakt bij een eventuele overstroming.
+Verder is er ook een algemene strategie terug te vinden, namelijk:  Verschuiving van preventief naar risicogestuurd handelen (uit PSWR 2022);  Altijd koppelkansen zoeken en werk met werk combineren (PSWR 2022 en BK 2023).
+Dit betekent dat er altijd wordt gezocht naar oplossingen die diverse doelen tegelijk dienen, en dat bij een herinrichting diverse opgaven tegelijkertijd worden aangepakt.
+Extreme regenval is immers slechts één van de aspecten van klimaatverandering, naast droogte en hittestress.
+En ook in het economisch en sociale domein zijn er opgaven te realiseren.
+De doelen zijn vertaald naar werkdoelen en concrete acties.
+Deze zijn onder te brengen over de vijf lagen van meerlaagsveiligheid, zoals hieronder uitgewerkt.
+Waterbewustzijn
+Hieronder de geformuleerde werkdoelen, strategieën en acties uit de beleidsdocumenten samengevat.
+Voor de bronnen en meer detail, zie Bijlage 4.
+Rekenkameronderzoek Extreme regenval
+Pagina 27 van 59
+Werkdoel Strategie en acties Medewerkers gemeente zijn zich bewust laten maken van klimaatadaptief handelen Uitdragen van beleid binnen de organisatie; kennisontwikkeling; beheer- en monitoringssystematiek implementeren.
+Inwoners en ondernemers zijn zich bewust van klimaatadaptief handelen Het publiek informeren over klimaatverandering en klimaatadaptief te handelen; delen van inspirerende voorbeelden; subsidies en stimuleringsacties.
+Bewustwording bij particuliere terreineigenaren van het belang om zich te beschermen Gesprek aangaan met particulieren voor maatregelen op hun terrein als deze volgens de modellen kwetsbaar is.
+Woningbouw niet meer eerste prioriteit geven maar integraal kijken naar diverse opgaven Nog niet vertaald naar concrete maatregelen of projecten, maar wel naar strategieën in de omgevingsvisie 2024.
+Kennis en capaciteit van de organisatie en regio Noord-Kennemerland op orde?  Hydrologische modellen samenvoegen en verbeteren.  Onderzoek naar risico’s van bodemdaling en naar kostenscenario’s van veiligheidsniveaus wateroverlast  Bijeenkomsten en kennisuitwisseling binnen de regio.  Met kennisscan van Stichting RIONED in beeld krijgen waar de capaciteits- en/of kennisbehoefte ligt, en dit vertalen naar een opleidingsplan voor de regio.
+Preventie
+Hieronder de geformuleerde werkdoelen, strategieën en acties uit de beleidsdocumenten samengevat.
+Voor de bronnen en meer detail, zie Bijlage 4.
+Werkdoel Strategie en acties Klimaatadaptatie geborgd in regelgeving en plantoetsing  Klimaatbestendigheid vast onderdeel in gebiedsvisies en ruimtelijke plannen.  Klimaatmaatlat opnemen in het Handboek Inrichting Openbare Ruimte (HIOR).  Regels over verplicht afkoppelen bij nieuwbouw in … Eisen t.b.v. klimaatadaptatie stellen aan projectontwikkelaars en zo mogelijk aan bewoners
+ Klimaatmaatlat* uitbreiden (waar mogelijk) met juridische regels voor publiek- en privaatrechtelijke contracten.  Eisen voor klimaatadaptatie opnemen in format van privaatrechtelijke overeenkomsten.  Handhavingsstrategie voor de eisen aan private partijen.  Onderzoeken van optie om bij kleine herontwikkeling binnen bebouwde kom 10-15 mm bergingscapaciteit binnen plangebied te eisen; bij grotere herontwikkeling hogere eisen.
+Klimaatadaptieve inrichting van de openbare ruimte  Strategie: tot aan 2050 alle openbare ruimte klimaatadaptief herinrichten (inrichting conform maatlat klimaatadaptatie).
+Locaties aanpakken op natuurlijke momenten (geplande herontwikkeling of onderhoud) en aanvullend bij extra kwetsbare locaties.
+Acties: herinrichtingen die voor komende jaren op de planning staan, zoals te vinden in de Uitvoeringsagenda van PSWR 2022 en KS 2021.
+Plannen volgens water-bodem-sturend  Weging van waterbelang voor nieuwbouwplannen.  Minder verharding realiseren.
+Onder andere door meer in te zetten op ov dan op nieuwe wegen, en door gebouwen op te toppen in plaats van uit te breiden.
+Rekenkameronderzoek Extreme regenval
+Pagina 28 van 59
+Maatlat Klimaatadaptieve Bouw*.
+De Maatlat Klimaatadaptatie is in de regio Noord-Kennemerland (zie Kader 4, in §6.2), gezamenlijk opgesteld.
+Hierin is geformuleerd onder welke voorwaarden een ruimte als klimaatadaptief ingericht geldt.
+De onderdelen die voor dit rekenkameronderzoek relevant zijn, zijn opgenomen in Bijlage 1 van dit rapport.
+Gevolgbeperking
+De strategieën en acties die geformuleerd zijn voor “preventie” betreffen voor het merendeel de ruimtelijke inrichting (van zowel openbaar als privéterrein).
+Ruimtelijke inrichting raakt meestal zowel aan de laag preventie als aan gevolgbeperking: de ruimte wordt zodanig ingericht dat wateroverlast zo veel mogelijk wordt voorkomen, en tegelijkertijd zodanig dat schade wordt beperkt als er dan toch wateroverlast ontstaat.
+Voor uitleg van deze begrippen zie Deel I van dit rapport.
+Zo komen in de gemeentelijke beleidsdocumenten doelen en maatregelen terug die raken aan gevolgbeperking, hoewel ze niet specifiek zijn hiervoor.
+De laag gevolgbeperking is wel duidelijk te herkennen in de Maatlat Klimaatadaptieve Bouw die gemeente heeft opgesteld:  De maatlat “Wateroverlast” richt zich expliciet op het voorkomen van schade (zie Bijlage 1).
+Geïnterviewden geven aan dat dit betekent dat water op straat wordt geaccepteerd, zolang er geen schade ontstaat.
+Dit is een bewuste beleidskeuze, geheel passend bij het concept van gevolgbeperking.  De maatlat “Wateroverlast” hanteert strengere normen voor vitale en kwetsbare infrastructuur dan andere locaties (zie Bijlage 1).
+Dat is omdat de eventuele gevolgen van wateroverlast hier groter zijn.  De maatlat “Overstroming” stelt voor welke situaties (kans x impact), preventie geldt en voor welke gevolgbeperking van toepassing is (zie Bijlage 1).
+Verder heeft de regio Noord-Kennemerland (§6.2, Kader 4) een aantal werkdoelen die specifiek horen bij gevolgbeperking: Werkdoel Strategie en acties Klimaatbewustzijn en -adaptatie verhogen onder stakeholders die vitale functies bedienen Risico- en crisiscommunicatie richting netbeheerders en vitale gebruiksfuncties, zoals ziekenhuizen.
+Bijvoorbeeld informeren over het belang om vitale stroomkastjes op waterveilige hoogte te plaatsen.
+Opstellen eisen “overstroming”, zoals inbouwen vluchtroutes, richting projectontwikkelaars Verkennen hoe deze eisen kunnen worden opgenomen in regelgeving of contracten naar het voorbeeld van de maatlat van de gemeente Amsterdam.
+Het is ons niet bekend of de gemeente bijdraagt aan dit eerste doel, of dat dit door een andere partner uit de regio wordt opgepakt.
+Aan het tweede doel geeft de gemeente opvolging door de Maatlat Klimaatadaptieve Bouw toe te passen en door adviseurs “risicobeheersing” te betrekken bij grote projecten (zie H3).
+Crisisbeheersing
+Het PSWR 2022 van de gemeente benoemt het belang van calamiteitenplannen, en zo is het opstellen hiervan als werkdoel te beschouwen.
+In de beleidsstukken zijn de doelen en plannen van de gemeente op dit vlak echter niet expliciet uitgeschreven.
+Uit de interviews volgt dat de gemeente hier wel doorlopend actief aan werkt (zoals besproken in H8).
+De gemeente draagt zodoende bij aan werkdoelen die gelden vanuit de regio Noord-Kennemerland en vanuit de Veiligheidsregio:
+Rekenkameronderzoek Extreme regenval
+Pagina 29 van 59
+Doel vanuit Werkdoel Gemeente Dijk en Waard Calamiteitenplannen opstellen.
+Noord-Kennemerland Gegevens van diverse instanties combineren om het inzicht in de totale effecten op vitale functies te vergroten.
+Noord-Kennemerland Calamiteitenplannen uit de regio onderling en bovenregionaal afstemmen.
+Zoals bijvoorbeeld gezamenlijk afstemmen welke ziekenhuizen of routes extra bescherming verdienen.
+Veiligheidsregio De Veiligheidsregio is zo ingericht dat we bij crisis snel kunnen schakelen en opschalen.
+Veiligheidsregio Informatiegestuurd werken binnen crisisbeheersing.
+Voor bronnen en meer detail, zie Bijlage 4.
+Herstel
+De gemeente heeft geen doelen specifiek gericht op herstel van eventuele schade bij wateroverlast en overstromingen.
+Evenmin zijn hier maatregelen of acties van bekend.
+In de interviews is bevestigd dat de gemeente hier inderdaad (nog) niet op inzet.
+Volgens geïnterviewden komt dit doordat de gemeente nog niet te maken heeft gehad met aanzienlijke schade door wateroverlast – enkel beperkte overlast op kleine schaal.
+Daarom is er nog geen ervaring met herstel, en wordt de urgentie om hierop voor te bereiden nog niet gevoeld.
+Geïnterviewden staan er voor open hier meer aandacht aan te geven, maar zouden het ook logisch vinden als dit landelijk wordt aangestuurd, zoals gesprekken met Verzekeringsmaatschappijen over het afhandelen van schadeclaims.
+7.2 Afstemming van beleid binnen de regio
+Deelvraag: In hoeverre heeft de gemeente het beleid afgestemd met andere relevante partners in de regio?
+Verkort antwoord deelvraag
+De gemeente heeft het beleid voor klimaatadaptatie afgestemd binnen de DPRA-werkregio,
+waaronder met het waterschap HHNK.
+De gemeente draagt bij aan het gemeenschappelijke
+beleid van de Veiligheidsregio, en past hier het eigen beleid op aan.
+Regio Noord-Kennemerland
+Vrijwel alle acties voor ruimtelijke ordening en het stedelijk watersysteem – gericht op preventie en gevolgbeperking – zijn afgestemd binnen de deel-werkregio Noord-Kennemerland (voorheen: regio Alkmaar, zie Kader 4).
+Hierbij zijn twee voorname instrumenten te onderscheiden (zie Deel I, Tabel 3):  Regels, juridische contracten en vergunningsprocedures, om privaat terrein te beïnvloeden.
+De verkenning hiervan is en wordt door de ambtenaren van de regio-partners gezamenlijk uitgevoerd.  Uitvoeringsprogramma’s in de publieke ruimte.
+Gemeenten uit de regio hebben eigen programma’s en voeren die zelfstandig uit.
+Ze zijn wel afgestemd en gedeeld in de regio, aangezien ze terugkomen in de Klimaatadaptatiestrategie Regio Alkmaar 2021.
+Tevens zijn de normen van klimaatadaptatie die voor de publieke ruimte moeten gelden, binnen de regio uitgewerkt middels de gezamenlijk opgestelde Maatlat Klimaatadaptieve Bouw (zie Bijlage 1).
+Rekenkameronderzoek Extreme regenval
+Pagina 30 van 59
+Ook doelen en acties voor crisisbeheersing en waterbewustzijn komen terug in de gezamenlijke strategie van de regio.
+De invulling van de acties van waterbewustzijn doet de gemeente zelfstandig (H8).
+Voor crisisbeheersing loopt de samenwerking vooral via de Veiligheidsregio.
+Het Beleidsplan Klimaatadaptatie van Dijk en Waard is in lijn met de regionale strategie.
+Hoogheemraadschap Holland Noorderkwartier
+Het waterschap heeft als partner van de Regio Noord-Kennemerland meegewerkt aan en ingestemd met de regionale strategie.
+Met name in de informatievoorziening (watermodellen) speelt het waterschap een belangrijke rol in deze samenwerking (zie H6).
+Ook in de uitvoering (zie H8) wordt het waterschap nauw betrokken, aanvullend op de “Weging waterbelang” (voormalige watertoets) die het waterschap standaard uitvoert bij projectontwikkelingen.
+Veiligheidsregio Noord-Holland Noord
+De beleidsstukken voor crisisbeheersing zijn van de Veiligheidsregio Noord-Holland Noord.
+Uit de interviews blijkt dat de gemeente een eigen verantwoordelijkheid neemt voor crisisbeheersing (zie H8, uitvoering), maar hierin altijd nauw samenwerkt met de Veiligheidsregio.
+Provincie Noord-Holland
+De samenwerking met de provincie Noord-Holland is weinig ter sprake gekomen tijdens de interviews.
+Wel is genoemd dat de provincie overweegt een ondergrens te stellen met normen voor wateroverlast bij nieuwbouwlocaties waaraan gemeenten moeten voldoen.
+Dit om ook gemeenten die nog weinig doen aan het waterbestendig bouwen te dwingen wel iets te gaan doen.
+7.3 Budget
+Deelvraag: In hoeverre heeft de gemeente uitvoeringsbudget beschikbaar voor de maatregelen die passen in de vijf lagen van meerlaagsveiligheid?
+Verkort antwoord deelvraag
+De gemeente heeft budget en middelen toegekend aan de in §7.1 genoemde maatregelen.
+Deze zijn vastgelegd in het Programma Stedelijk Water en Riolering 2022-2027.
+Het Programma Stedelijk Water en Riolering 2022-2027 noemt de budgetten die de
+gemeente reserveert voor:
+ De beleidsmatige procesacties die gezamenlijk in de klimaatadaptatie-regio Noord-
+Kennemerland worden uitgewerkt zoals het verkennen van regels in het omgevingsplan,
+het opstellen van het Handboek Inrichting Openbare Ruimte.
+Hier zijn uren van eigen
+personeel voor gereserveerd, en daarnaast een bijdrage van de gemeente aan de regio
+voor externe kosten (inhuur van bureaus e.d.).
+De gemeente reserveert hiervoor elk jaar
+2022 t/m 2027 € 60.000.
+ Het Uitvoeringsprogramma van de gemeente.
+Dit betreft herinrichtingsprojecten van de
+openbare ruimte en het voorafgaand onderzoek en planvorming.
+Voor de aansturing
+hiervan zijn personeelsuren gereserveerd en daarnaast budgetten voor inkoop van de
+uitvoering.
+Het gaat om ca. € 400.000 per jaar voor planvorming, en meerdere
+miljoenen euro’s per jaar voor de uitvoering.
+Per geplande herinrichting (onderhoud,
+vervanging of uitbreiding/verbetering) is een raming van de kosten gemaakt.
+Rekenkameronderzoek Extreme regenval
+Pagina 31 van 59
+Deze begroting is (uiteraard) niet specifiek voor voorbereiding op extreme regenval.
+De
+beleidsmatige acties in regioverband betreffen ook andere aspecten van klimaatverandering.
+Het uitvoeringsprogramma betreft ook regulier onderhoud of andere doelen voor het publiek
+domein.
+Wel is van alle maatregelen, zoals genoemd onder §7.1, duidelijk hoe deze in de
+begroting van het PSWR passen.
+Daarmee is duidelijk dat de gemeente aan de maatregelen
+budget heeft toegekend.
+7.4 Rol van de gemeenteraad
+Deelvraag: In hoeverre geeft de gemeenteraad invulling aan haar kaderstellende rol ten aanzien van de voorbereiding op extreme regenval?
+Verkort antwoord deelvraag
+De gemeente heeft het beleid (zoals genoemd in §7.1) vastgesteld.
+De gemeenteraad heeft
+hierbij geen tot weinig kaders meegegeven in de vorm van schriftelijke verzoeken of
+vragen.
+De gemeenteraad van Dijk en Waard heeft het beleid (zoals genoemd in §7.1) formeel
+vastgesteld: het Beleidsplan Klimaatadaptatie 2023, het Programma Stedelijk Water en
+Riolering 2022-2027, de Omgevingsvisie 2024 en de Regionale adaptatiestrategie Regio
+Alkmaar 20218.
+Ook van voorlopers van deze programma’s is bekend dat de toenmalige
+gemeenteraden Langedijk en Heerhugowaard deze hebben vastgesteld.
+Volgens geïnterviewden is wateroverlast – en klimaatadaptatie in het algemeen – geen
+onderwerp dat sterk leeft in de gemeenteraad.
+De archieven van raadsdocumenten
+(ingezien met behulp van de griffie) bevestigen dit beeld.
+Hieruit komt naar voren dat
+raadsleden vrijwel geen schriftelijke vragen of moties indienen op dit onderwerp (gezocht in
+de archieven op de termen “klimaat”, “water”, “overstroming” en “regen”).
+Van de afgelopen
+vijf jaar zijn ons slechts enkele moties bekend over dit onderwerp.9
+7.5 Toetsing aan normen
+De bevindingen uit voorgaande paragrafen leiden tot de volgende scores op normen die passen bij dit hoofdstuk (Ambities en beleid van de gemeente).
+Zie tabel op de volgende pagina.
+8 Deze was ook al door de voormalige gemeenten Langedijk en Heerhugowaard vastgesteld, en is na de
+fusie opnieuw vastgesteld door de nieuwe gemeenteraad van Dijk en Waard.
+9 In een motie van 28 januari 2020 werd het college verzocht meerdere mogelijke klimaatmaatregelen te
+onderzoeken, waaronder één expliciet gericht op het beperken van wateroverlast: het stimuleren van
+ontharden van verharde tuinen.
+Op 7 november 2023 is een motie aangenomen voor de herinvoering
+van een subsidieregeling voor sedum daken.
+Rekenkameronderzoek Extreme regenval
+Pagina 32 van 59
+Norm Score Toelichting 2.
+De gemeente heeft voor de vijf aspecten van meerlaagsveiligheid beleid geformuleerd en vastgesteld.
+Matig
+tot
+sterk
+De gemeente heeft ambitieus beleid voor het voorkomen van wateroverlast, met name gericht op preventie en waterbewustzijn.
+Ook op crisisbeheersing zet de gemeente actief in, zij het dat de doelen en maatregelen hiervoor niet in het beleidsplan terugkomen.
+Gevolgbeperking en herstel komen niet of weinig (expliciet) aan bod.
+2A.
+De gemeente heeft beleidsdoelen vastgesteld voor elk van de vijf lagen van meerlaagsveiligheid.
+Sterk Waterbewustzijn: meerdere uitgeschreven doelen (§7.1).
+Sterk Preventie: meerdere uitgeschreven doelen (§7.1)
+Matig Gevolgbeperking: weinig doelen expliciet voor deze laag (§7.1).
+Matig Crisisbeheersing: geen eigen doelen voor crisisbeheersing van wateroverlast bekend.
+Crisisbeheersing is regionaal georganiseerd (Veiligheidsregio), en richt zich op diverse rampen tegelijk.
+Zwak Herstel: geen doelen.
+2B.
+Het beleid is afgestemd met het beleid van relevante partners.
+Sterk Het beleid is afgestemd met relevante partners, zoals buurtgemeenten, HHNK en de Veiligheidsregio (§7.2).
+2C.
+De gemeente heeft een uitvoerings-strategie met concrete maatregelen en budget vastgesteld, voor elk van de vijf lagen.
+Sterk Waterbewustzijn: maatregelen en budget passend bij doelen (H7).
+Sterk Preventie: maatregelen en budget passend bij doelen (H7).
+Matig Gevolgbeperking: maatregelen en budget zijn passend bij doelen, maar deze zijn niet specifiek voor gevolgbeperking (zie norm 2A).
+Matig Crisisbeheersing: de gemeente zet actief in op crisisbeheersing (H8), hoewel er geen overzicht van uitgeschreven maatregelen bekend is.
+Zwak Herstel: geen maatregelen.
+2D.
+Met relevante gebiedspartners
+zijn afspraken gemaakt over
+gezamenlijke maatregelen
+Sterk Over gezamenlijke maatregelen (HHNK, Veiligheidsregio en samenwerkingsregio Noord-Kennemerland) is afgestemd.
+2E.
+De gemeenteraad geeft actief
+invulling aan haar
+kaderstellende en controlerende
+rol
+Matig Sterk: De gemeenteraad heeft het beleid formeel vastgesteld.
+Tekortkoming: De gemeenteraad dient weinig vragen of formele verzoeken in op dit onderwerp.
+Rekenkameronderzoek Extreme regenval
+Pagina 33 van 59
+8 Uitvoering en praktijk
+Dit hoofdstuk gaat in op de uitvoering van de strategie en maatregelen: hoe heeft de gemeente dit georganiseerd (§8.1), wat is de voortgang en wat zijn successen en belemmeringen in de praktijk (§8.2), hoe verloopt de samenwerking met partners (§8.3), in hoeverre is het doelbereik bekend (§8.4) en hoe is de gemeenteraad betrokken (§8.5).
+Met aan het eind een toetsing van het normenkader (§8.6).
+8.1 Organisatie van de uitvoering
+Deelvraag: Welke gemeentelijke afdelingen en teams zijn betrokken bij de uitvoering van de maatregelen, gekoppeld aan de diverse lagen van meerlaagsveiligheid?
+Verkort antwoord deelvraag
+De diverse teams van het domein “Ruimte” zijn betrokken bij klimaatadaptatie in de
+ruimtelijke inrichtingen, wat met name raakt aan preventie van wateroverlast.
+Veiligheidsadviseurs van een andere afdeling houden zich bezig met crisisbeheersing.
+Waterbewustzijn en gevolgbeperking heeft met beide teams raakvlakken; de afdeling
+Ruimte heeft hier de meeste aandacht voor.
+Op herstel wordt niet geanticipeerd.
+Verdeling van taken meerlaagsveiligheid over de organisatie
+Hieronder een gedeeltelijk organogram van de gemeente, gespiegeld met de lagen van meerlaagsveiligheid (Figuur 4).
+Figuur 4: Twee van de drie kolommen van de gemeente met de verschillende afdelingen daarbinnen, gekoppeld aan de lagen van meerlaagsveiligheid.
+Preventie Crisisbeheersing
+Gevolgbeperking
+Waterbewustzijn
+Rekenkameronderzoek Extreme regenval
+Pagina 34 van 59
+Bekeken vanuit de bril van meerlaagsveiligheid, valt vrijwel al het beleid voor preventie van extreme regenval onder de kolom “Ruimte” van de gemeente.
+De afdelingen in deze kolom vormen een keten: van opstellen van beleid, naar ontwerp, naar uitvoering en handhaving: Beleid Ruimte, Beheer Ruimte, het Ingenieursbureau, VTH en het Stadsbedrijf.
+De inzet is dat het beleid voor klimaatadaptatie in de hele keten doorwerkt.
+Crisisbeheersing is ondergebracht onder de afdeling “Bestuurlijke en juridische zaken, veiligheid en ondersteuning” en valt daarmee onder een andere kolom.
+Het betreft de voorbereiding op de warme fase van crises (coördinatie hulpdiensten, oproepen tot evacuatie e.d.).
+Waterbewustzijn kent verantwoordelijkheden voor beide kolommen, zeker wat betreft het bewustzijn van de eigen medewerkers.
+Bewustzijn van het publiek kan gericht zijn op preventie en gevolgbeperking, vanuit de kolom Ruimte.
+Het publiek kan ook worden gestimuleerd zich voor te bereiden op crises.
+Hier staan de Veiligheidsmedewerkers voor aan de lat.
+In publiekscommunicatie spelen ook medewerkers van het sociaal domein en van de afdeling communicatie een rol.
+Gevolgbeperking heeft inhoudelijk ook met beide kolommen raakvlakken.
+Gevolgbeperking betreft net als preventie vooral maatregelen in de fysieke omgeving, en valt daarmee voornamelijk onder de kolom Ruimte.
+Echter, voor deze ingrepen is inzicht in crisisbeheersing (evacuatieroutes e.d.) van belang – wat inhoudelijk past onder de afdeling Veiligheid.
+Herstel heeft nog geen plek binnen het beleid, en daarmee ook niet binnen de organisatie.
+Splitsing gevolgbeperking en crisisbeheersing
+Vanuit meerlaagsveiligheid hangen gevolgbeperking en crisisbeheersing nauw samen: ze zijn beide gericht op het beperken van schade en slachtoffers ten tijde van een situatie van wateroverlast of overstroming.
+Uit de interviews bleek dat de schakel tussen beide – advies vanuit crisisbeheersing richting ruimtelijke ordening – bekend staat als “risicobeheersing” en dat dit met name wordt verzorgd door een adviseur van de brandweer (Veiligheidsregio).
+8.2 Voortgang, successen en belemmeringen in de uitvoering
+Deelvragen: Hoe geeft de gemeente uitvoering aan de maatregelen die voorbereiden op extreme regenval?
+Waar loopt de gemeente in de uitvoering tegenaan?
+Verkort antwoord deelvraag
+De gemeente is gevorderd in de uitvoering van geplande maatregelen, en heeft inzicht in de
+mate van vordering.
+Een belangrijk instrument in de uitvoering is de Maatlat
+Klimaatadaptieve Bouw (Bijlage 1).
+De toepassing hiervan is in de praktijk echter niet altijd
+eenduidig.
+Verder staat de gemeente voor de opgave het belang van klimaatadaptatie tot
+álle medewerkers te laten doordringen.
+Waterbewustzijn van eigen medewerkers
+Voortgang uitvoering Aan de acties (zie ‘waterbewustzijn’ §7.1) wordt uitvoering gegeven.
+Dusver uitgevoerd:  Het klimaatadaptatiebeleid wordt op verschillende manieren — zowel formeel als informeel — continu onder de aandacht van de diverse afdelingen gebracht.
+Rekenkameronderzoek Extreme regenval
+Pagina 35 van 59
+ Voorbeeldprojecten delen.
+Het ingenieursbureau heeft een inspiratieboek opgesteld met voorbeeldprojecten en heeft dit gedeeld binnen de organisatie.  Een opleidingsplan voor de eigen medewerkers is in de maak.
+Binnenkort wordt het voorgelegd aan het management.
+Het plan is om medewerkers in het domein Ruimte een opleiding klimaatadaptatie aan te bieden vanuit de samenwerking Samen BlauwGroen in het Noorderkwartier.
+Nog niet of zeer beperkt uitgevoerd:  Het opzetten van een beheer- en monitoringssystematiek (zie verder hieronder, in §8.4).  De geplande samenvoeging en verbetering van de hydrologische modellen is nog niet uitgevoerd.
+Successen en belemmeringen uit de praktijk Geïnterviewde gemeentemedewerkers geven aan dat zij merken dat het bewustzijn binnen de organisatie langzaam groeit.
+Maar tevens geven zij aan dat klimaatadaptatie nog zeker niet bij iedereen top of mind is.
+Op elke afdeling van de organisatie (beleid, ontwerp en project, toezicht en handhaving en bestuurlijke lagen) zijn medewerkers die veel aandacht hebben voor klimaatadaptatie, maar zij vormen daar een minderheid.
+Zo komt het er nu nog vaak op aan welke medewerker betrokken is bij een project: dat is bepalend voor de mate waarin klimaatadaptatie wordt doorgevoerd in dat project.
+Geïnterviewde medewerkers hebben hier aandacht voor, en ambiëren dat uiteindelijk het bewustzijn in elke projectschakel aanwezig is.
+Daartoe moeten ook externen (zoals bureaus en aannemers) dit bewustzijn krijgen.
+Hier werkt de gemeente al aan, door contacten te zoeken met geschikte bureaus en samen te werken met onderwijsinstellingen die bijvoorbeeld groenbeheer doceren.
+Verder suggereert een geïnterviewde om de over de afdelingen verspreide medewerkers met veel expertise en aandacht voor klimaatadaptatie, beter zichtbaar te maken binnen de organisatie in de vorm van een soort “team” voor het ambassadeurschap van klimaatadaptatie.
+Waterbewustzijn van burgers en ondernemers
+Voortgang uitvoering Aan alle acties (zie ‘waterbewustzijn’ §7.1) wordt uitvoering gegeven:  Via gemeentelijke website en pers bewoners informeren over mogelijkheden van klimaatadaptatie bij eigen woning/gebouw.  In mei en juni 2025 heeft de gemeente het reizend festival/de campagne “WieWatWaaromWater?” gehouden.
+Met voor het publiek activiteiten, tentoonstellingen en waterproefjes over het belang van water.
+Ook is er op de gemeentelijke website de mogelijkheid om als publiek inspiratie te delen (de wadi-safari).  In juli 2025 is een nieuwe subsidieregeling geopend voor bewoners voor het nemen van klimaatadaptieve maatregelen op eigen terrein.
+Deze regeling is vastgesteld door het college van B&W en is uitgebreider in vergelijking met die van buurgemeenten.  Dijk en Waard doet al meerdere jaren mee aan de landelijke stimuleringsactie NK-tegelwippen.
+Suggestie voor publiekscampagnes De opkomst bij “WieWatWaaromWater?” viel volgens sommige geïnterviewden tegen, mede te wijten aan de korte voorbereidingstijd.
+Daarom is de intentie een eventueel volgende editie meer en ruimer van te voren aan te kondigen in de pers.
+Geïnterviewden zijn voorstanders van een publiekscampagne “weerbaarheid’ voor voorbereiding op crises, maar niet specifiek voor overstroming en wateroverlast.
+Burgers
+Rekenkameronderzoek Extreme regenval
+Pagina 36 van 59
+moeten volgens hen in het algemeen weerbaar worden tegen rampen en effecten zoals uitval van stroom en onbereikbare voorzieningen, ongeacht de precieze oorzaak.
+Dit is de insteek vanuit het Rijk, die een landelijke campagne voorbereidt.
+Het is volgens geïnterviewden logischer om daarin als gemeente mee te gaan, dan eigen campagnes op te tuigen.
+Preventie: herinrichtingen publieke ruimte en watersysteem
+Voortgang uitvoering Aan de acties (zie ‘preventie’ §7.1) wordt uitvoering gegeven.
+Dusver uitgevoerd:  Klimaatadaptatie is vast onderdeel in gebiedsvisies en ruimtelijke plannen.  De Maatlat Klimaatadaptieve Bouw is geborgd in het Handboek Inrichting Openbare Ruimte (HIOR).
+Medewerkers van de afdeling Ontwerp en Project hebben de Maatlat als checklist-sjabloon ter beschikking en gebruiken het ook standaard.  De uitvoeringsagenda (geplande herinrichtingen) wordt zover bekend volgens plannen uitgevoerd.
+Een groot en belangrijk project is beschreven in Kader 5.
+Nog beperkt uitgevoerd:  Duidelijk maken welke onderbouwing nodig is gedurende verschillende fasen van herinrichtingsprojecten om aan te tonen dat voldaan wordt aan de Maatlat.  Monitoringsystematiek van maatregelen implementeren.
+Belemmeringen en suggesties uit de praktijk Wat volgens geïnterviewden beter kan, is het beter afstemmen van beleid en projecten met (keten)partners in de regio.
+Het elkaar vinden gaat wel steeds beter.
+Verder geven geïnterviewden aan dat het toepassen van de normen van de Klimaatmaatlat (geborgd in het HIOR) in de praktijk niet altijd goed gaat.
+Sommige projectleiders hebben simpelweg nog te weinig oog voor of begrip van de Maatlat (zie waterbewustzijn).
+Klimaatadaptatie krijgt dan minder prioriteit dan andere belangen of aspecten van projectuitvoering.
+En ook voor medewerkers die deze aandacht wel hebben (zoals de geïnterviewden) geeft het toepassen van de Maatlat dilemma’s in de praktijk.
+Het strikt toepassen van de normen lijkt niet altijd doelmatig genoeg, en onduidelijk is of en hoe zij hiervan mogen afwijken.
+Eveneens zijn er vragen over het borging van het functioneren van voorzieningen op termijn.
+Worden de klimaatadaptieve eigenschappen van een herinrichting bij regulier onderhoud of vernieuwing nog steeds voldoende gehandhaafd?
+Kader 5: Herinrichting stationsgebied met bouw van nieuw gemaal De gemeente heeft het stationsgebied heringericht, gecombineerd met de aanleg van een nieuw gemaal.
+Deze herinrichting werd in meerdere interviews benoemd als belangrijk en succesvol project.
+Het gemaal is bijzonder, omdat de gemeente hiervoor opdrachtgever was richting het waterschap en ook de projectleider leverde.
+Ook bijzonder: samen hebben zij het gemaal ontworpen en in een recordtijd gepland en gebouwd.
+Het gemaal is op het vlak van klimaatadaptatie goed doordacht, met de uiteindelijke keuze voor splitsing in een groter en een kleine gemaal, met mogelijkheid tot waterverdeling over twee gemalen.
+De nieuwe spoorwegonderdoorgang is eveneens klimaatadaptief gebouwd, conform de strengste eisen van de Maatlat Klimaatadaptieve Bouw, omdat het een belangrijk deel van het wegennet is.
+Het kan een bui van 90/mm uur opvangen met een tunnelbak en heeft twee pompen (die het van elkaar kunnen overnemen als er een uitvalt).
+Rekenkameronderzoek Extreme regenval
+Pagina 37 van 59
+Preventie: beïnvloeding private ruimte
+Voortgang uitvoering Aan de acties (zie ‘preventie’ §7.1) wordt uitvoering gegeven.
+Dusver uitgevoerd:  Het nieuwe format voor privaatrechtelijke overeenkomsten is afgestemd op de Maatlat Klimaatadaptieve Bouw.  Verkennen van het opnemen van regels in het omgevingsplan.  Een sinds juli 2025 geopende subsidieregeling voor bewoners voor het nemen van klimaatadaptieve maatregelen op eigen terrein (ook al genoemd op p.
+30, onder “waterbewustzijn van burgers en ondernemers”).
+Nog niet of beperkt uitgevoerd:  Regels voor bouwen en inrichten in het omgevingsplan afstemmen op de Maatlat Klimaatadaptieve Bouw.  Toezicht- en handhavingsstrategie in kaart brengen.
+Belemmeringen en suggesties uit de praktijk Toezicht- en handhaving is volgens geïnterviewden nog onvoldoende geborgd.
+Een belemmering hierin is de beperkte personele capaciteit bij de VTH-afdeling van de gemeente.
+Verder is het momenteel nog niet altijd mogelijk om gewenste eisen van klimaatadaptatie te staven richting projectontwikkelaars, want:  je mag juridisch maar tot een bepaald niveau eisen voorschrijven;  bij lang lopende gebiedsontwikkelingen zijn in reeds bestaande privaatrechtelijke overeenkomsten nog geen eisen voor klimaatadaptatie opgenomen, en deze zijn moeilijk te wijzigen.
+De Klimaatlaatlat geldt daarmee alleen voor nieuw af te sluiten overeenkomsten.
+Zonder juridische basis komt het aan op gesprekken en afspraken met projectontwikkelaars, maar dat werpt vaak onvoldoende vruchten af.
+Gevolgbeperking in publieke en private ruimte
+Voortgang uitvoering Zoals benoemd in §7.1, raken veel acties voor preventie ook aan gevolgbeperking omdat in de Maatlat Klimaatadaptieve Bouw het aspect van gevolgbeperking ook terugkomt.
+De gemeente heeft als volgt bijgedragen aan de doelen specifiek voor gevolgbeperking vanuit de regio Noord-Kennemerland (zie ‘gevolgbeperking’ in §2.1):  De risicocommunicatie richting netbeheerders en vitale gebruikers loopt via de Veiligheidsregio en het waterschap.
+Zo heeft het waterschap gesprekken gevoerd met de netbeheerder over de kwetsbaarheid van stroomobjecten voor uitval bij hevige regenval of overstroming.
+Gemeenten hebben hier via het waterschap inbreng in gehad.  De vertaling van de Maatlat Klimaatadaptieve Bouw (waaronder een deel raakt aan gevolgbeperking) naar het HIOR, en naar voorstellen voor regels omgevingsplan en formats van privaatrechtelijke contracten, loopt via het samenwerkingsverband Regio Alkmaar, waaraan de gemeente deelneemt.
+Naast eigen toepassing van de Maatlat Klimaatadaptieve Bouw, betrekt de gemeente bij grote, complexe herinrichtingsprojecten ook altijd het waterschap en de Veiligheidsregio.
+Een adviseur vanuit de Brandweer (Veiligheidsregio) kijkt mee, om erop toe te zien dat de doorgang voor hulpdiensten voldoende gewaarborgd blijft.
+Rekenkameronderzoek Extreme regenval
+Pagina 38 van 59
+Crisisbeheersing
+Voortgang uitvoering
+Meerdere adviseurs veiligheid werken aan de voorbereiding op crises.
+Zij werken samen met
+de Veiligheidsregio rampscenario’s uit en maken calamiteitenplannen.
+Er liggen op
+verschillende niveaus draaiboeken en protocollen klaar voor diverse crisissituaties.
+De
+draaiboeken voor de brandweer zijn opgesteld vanuit de Veiligheidsregio.
+Gemeentelijke
+protocollen betreffen vooral beslisbomen en communicatie met andere instanties tijdens een
+crisis.
+De gemeente heeft recent een opleidingstraject opgezet en afgerond: hiermee zijn alle
+adviseurs uit het team Veiligheid opgeleid tot adviseur crisisbeheersing.
+Naast voorbereiding middels afspraken en protocollen, vinden ook oefeningen plaats.
+De Veiligheidsregio organiseert oefeningen waar de gemeente aan deelneemt wanneer het haar beurt is.
+Aanvullend organiseert de gemeente sinds een paar jaar eigen oefeningen.
+De reden voor eigen oefeningen is om als gemeente voor te bereiden op de eigen verantwoordelijkheden, in onderscheid van de Veiligheidsregio.
+Een oefening gericht op het scenario overstroming (dijkdoorbraak bij Broekhorn) heeft de gemeente afgelopen voorjaar zelf opgezet.
+Hier hebben de eigen veiligheidsadviseurs en de burgemeester aan meegedaan.
+Het waterschap was uitgenodigd, maar kon wegens personeelsuitval niet deelnemen.
+Lessen uit de oefening Geïnterviewden gaven als belangrijkste les uit de oefening mee dat het voor de gemeente essentieel is om over voldoende eigen expertise en inzichten te beschikken om beslissingen op gemeentelijk niveau te nemen; in dit scenario de beslissing over evacuatie.
+Zonder die expertise vaart men al snel volledig op de expertise van het waterschap of de veiligheidsregio, terwijl deze beslissing bij de gemeente ligt.
+Een andere geleerde les is nagaan of de middelen en materialen op orde zijn.
+Het is volgens enkele geïnterviewden wenselijk om als gemeente over eigen zandzakken te beschikken – net als gemeenten die direct aan het IJsselmeer liggen.
+En daarbij na te denken over de opslag: centraal of juist verspreid, om ze snel op de juiste plek te kunnen krijgen.
+Ook is het wenselijk het aantal boten (momenteel één) bij de lokale brandweer uit te breiden.
+8.3 Samenwerking met partners in de uitvoering
+Deelvraag: Hoe verloopt de samenwerking met partners in de uitvoering?
+Verkort antwoord deelvraag
+De samenwerking met partners in de regio verloopt goed.
+Dit is door geïnterviewden van
+zowel de gemeente als de partners bevestigd.
+Hoogheemraadschap Holland Noorderkwartier
+Volgens de geïnterviewden van zowel de gemeenten zelf als van het waterschap verloopt de onderlinge samenwerking goed, zowel op bestuurlijk als op ambtelijk niveau.
+De gemeente (afdeling Beheer Ruimte) en het waterschap hebben op regelmatige basis overleg en werken gezamenlijk aan projecten.
+Bijzonder goed verliep de samenwerking bij de herinrichting van het stationsgebied (§8.2).
+Rekenkameronderzoek Extreme regenval
+Pagina 39 van 59
+Veiligheidsregio Noord-Holland Noord
+Hetzelfde geldt voor de Veiligheidsregio: zowel ambtelijk als bestuurlijk verloopt de samenwerking goed, zoals bevestigd door geïnterviewden van zowel de gemeente als de Veiligheidsregio.
+Regio Noord-Kennemerland
+Eveneens de samenwerking met andere gemeenten in de DPRA-regio Noord Kennemerland (zie Kader 4, §6.2) vinden geïnterviewden zowel op bestuurlijk als ambtelijk (erg) goed verlopen.
+Overleggen worden goed voorbereid, en de diverse betrokken volgen gemaakte afspraken goed op.
+8.4 Monitoring van doelbereik
+Deelvraag: In hoeverre heeft de gemeente inzicht in het doelbereik?
+Verkort antwoord deelvraag
+De gemeente heeft nog geen monitoringssystematiek geïmplementeerd.
+Dit staat wel op de
+planning (actie uit de Klimaatadaptatiestrategie).
+Hierdoor heeft de gemeente nog beperkt
+inzicht in de mate van doelbereik.
+Herinrichtingen publieke en private ruimte
+Er wordt bekendheid gegeven aan mooie voorbeelden van uitgevoerde klimaatadaptieve herinrichtingen, maar ze worden niet consequent geregistreerd.
+In de huidige systemen is het gedeeltelijk mogelijk om uitgevoerde klimaatmaatregelen te registreren.
+Volgens geïnterviewden worden enkel aangelegde wadi’s consequent geregistreerd; andere maatregelen niet.
+De effecten van die maatregelen worden niet bijgehouden of doorberekend in de watermodellen.
+Aangezien er sinds 2009 geen (grootschalige) wateroverlast heeft plaatsgevonden in de gemeente Dijk en Waard, zijn er ook geen actuele gegevens om de watermodellen aan te toetsen.
+Waterbewustzijn
+Evenmin is er een manier waarop het doelbereik van waterbewustzijn gemonitord wordt.
+De gemeente beschikt wel over een aantal gegevens die hiervoor relevant zijn, zoals de deelname aan de subsidieregeling voor klimaatadaptieve maatregelen of het bereik van communicatie hierover op de website.
+8.5 Betrokkenheid van de gemeenteraad
+Deelvraag: In hoeverre is de gemeenteraad geïnformeerd over en betrokken bij de uitvoering?
+Verkort antwoord deelvraag
+De gemeenteraad wordt met name op projectbasis geïnformeerd over klimaatadaptatie.
+Als
+losstaand onderwerp staan maatregelen voor de omgang met risico’s op wateroverlast en
+overstroming niet (vaak) op de agenda.
+Raadsleden dienen zelf slechts beperkt schriftelijke
+vragen in over dit onderwerp.
+Aangezien het doelbereik nog niet wordt gemonitord, is de
+Raad hierover niet geïnformeerd.
+Rekenkameronderzoek Extreme regenval
+Pagina 40 van 59
+Het college van B&W informeert de gemeenteraad over de klimaatadaptieve aspecten van uitgevoerde projecten, en deelt hierbij de successen en belemmeringen.
+Een algemeen beeld van de voortgang van maatregelen is nog niet gerapporteerd aan de gemeenteraad.
+Een evaluatie van het beleid en de rapportage hierover staan wel op de planning.
+Risico’s op wateroverlast en overstroming lijken als onderwerp niet sterk te leven in de gemeenteraad.
+Raadsleden hebben hierover geen schriftelijke vragen gesteld.
+In de regionale klimaatadaptatiestrategie staan voorbereidingsacties opgenomen om de politiek een besluit te laten nemen over het veiligheidsniveau.
+Hierin ligt volgens geïnterviewden een rol voor de gemeenteraad.
+Dit besluit heeft de raad nog niet genomen.
+8.6 Toetsing aan normen
+De bevindingen uit voorgaande paragrafen leiden tot de volgende scores op normen die passen bij dit hoofdstuk (Uitvoering en praktijk van het beleid door de gemeente).
+Norm Score Toelichting
+3A.
+De maatregelen en acties uit de uitvoeringsstrategie zijn uitgevoerd.
+Matig tot sterk Het laten landen van klimaatadaptatie in de processen van de organisatie is gevorderd, maar er zijn evengoed veel acties die nog moeten gebeuren (zie §8.2).
+Ook worden er belemmeringen in de uitvoering ervaren (zie §8.2).
+3B.
+Als maatregelen uit de uitvoeringsstrategie niet zijn uitgevoerd, is dit duidelijk en navolgbaar gemotiveerd.
+Matig tot sterk Voor dit onderzoek hebben we een overzicht van de voortgang laten opstellen, waarin een verklaring staat van maatregelen die nog niet zijn uitgevoerd.
+Maar dit is niet iets dat vanuit de organisatie al bestond.
+Maatregelen die nog niet zijn uitgevoerd, staan over het algemeen nog op de planning.
+3C.
+De gemeente heeft het effect van maatregelen en de mate van doelbereik in beeld.
+Zwak Het doelbereik wordt nog niet expliciet gemonitord.
+Het staat wel op de planning een monitoringssystematiek te implementeren.
+3D.
+Het college van B&W heeft de
+gemeenteraad geïnformeerd
+over de voortgang en het
+resultaat van beleid en
+maatregelen.
+Zwak De gemeenteraad wordt op projectbasis geïnformeerd.
+Aangezien er geen overzicht is van de voortgang en het doelbereik, kan dit niet gedeeld worden met de gemeenteraad.
+Rekenkameronderzoek Extreme regenval
+Pagina 41 van 59
+Hier volgen de conclusies en aanbevelingen naar aanleiding van de bevindingen.
+De conclusies en aanbevelingen zijn gericht aan de gemeenteraad en aan het college van B&W.
+Conclusies en aanbevelingen
+Inhoudsopgave Conclusies en aanbevelingen
+Conclusies ………………………………………………………………………………………………………………………………42
+Aanbevelingen ..........................................................................................................
+45
+Rekenkameronderzoek Extreme regenval
+Pagina 42 van 59
+Conclusies
+Uit de bevindingen die uit het onderzoek naar voren komen, volgen de volgende conclusies: A.
+De gemeente heeft duidelijke ambities en beleid vastgesteld gericht op de voorbereiding op extreme regenval.
+In het water- en rioleringsprogramma is aandacht voor extreme regenval en een klimaatadaptieve inrichting.
+Daarnaast heeft de gemeente een eigen Beleidsplan Klimaatadaptatie en een gezamenlijke strategie klimaatadaptatie in de regio, waarin de het voorbereiden op en het aanpassen aan de gevolgen van extreme regenval aan bod komt.
+B.
+De gemeente werkt aan vier van de vijf aspecten van meerlaagsveiligheid, met wisselende mate van inzet.  De gemeente werkt structureel aan het vergroten van het waterbewustzijn (en bewustzijn van het belang van klimaatadaptatie in het algemeen) in de organisatie.
+De medewerkers die al veel aandacht hebben voor klimaatadaptatie vormen nu nog een minderheid.
+Ook aan het waterbewustzijn van inwoners werkt de gemeente, via online voorlichting, een subsidieregeling en een publiekscampagne).
+Het bereik en de effectiviteit van inspanningen is niet bekend.  De meeste ambities en inzet toont de gemeente in preventie: het voorkómen van wateroverlast.
+De meeste programma’s en maatregelen zijn hierop gericht.  Op gevolgbeperking (aangepast bouwen en inrichten om de eventuele gevolgen van wateroverlast te beperken) is de inzet geringer.
+Hier zijn geen specifieke doelen op geformuleerd.  Op crisisbeheersing toont de gemeente een grote inzet, hoewel dit over het algemeen niet specifiek gericht is op crises door wateroverlast.
+Veelal maakt het scenario van extreme regenval onderdeel uit van een brede crisisvoorbereiding (o.a. crisis met langdurige stroomuitval)  Aan duurzaam en waterrobuust herstel (na schade door extreme regenval) werkt de gemeente nog niet.
+C.
+De gemeente is goed op weg om de ambities te borgen in programma’s, regelgeving en werkinstructies.
+Het is een uitdaging om ambities (met name op preventie, zie conclusie B) volledig te laten doorwerken in de uitvoering van concrete projecten.
+De gemeente is hierin goed op weg, maar nog niet klaar.
+Voor de openbare ruimte:  Klimaatadaptieve herinrichting van de openbare ruimte wordt gekoppeld aan reeds geplande ontwikkel- en onderhoudswerkzaamheden in het water- en rioleringsprogramma.
+Het voornemen is dat op basis van de reguliere onderhoudscyclus van wegen en riolering tot aan 2050 een aanzienlijk deel van de openbare ruimte in de gemeente aan te passen.
+Speciaal kwetsbare gebieden kunnen hierbij in de onderhoudscyclus naar voren gehaald worden (versnelde aanpak).
+Deze strategie is realistisch en haalbaar.
+Wel is onduidelijk hoe behoud van de klimaatadaptieve inrichting op lange termijn is geborgd, bijvoorbeeld als zich andere (herstel)werkzaamheden aandienen.  De normen voor inrichting van de openbare ruimte zijn opgenomen in het HIOR, die medewerkers van de afdeling Ruimte als werkinstructies gebruiken.
+In de praktijk ontstaan soms dilemma’s rondom deze normen.
+De normen worden niet in elk project volledig toegepast.
+Rekenkameronderzoek Extreme regenval
+Pagina 43 van 59
+Voor de private ruimte: Ambities voor beïnvloeding van de private ruimte zijn vertaald naar voorlichtingscampagnes, subsidieregelingen en voorwaarden in contracten met projectontwikkelaars bij nieuwbouw en herinrichting.
+Aan regelgeving in het omgevingsplan wordt momenteel gewerkt.
+D.
+De gemeente heeft (vooralsnog) beperkte sturing op de private ruimte.
+Het grootste deel van het gemeentelijk grondgebied is in privaat bezit.
+Gesproken medewerkers en bestuurders realiseren zich dat het belangrijk is om ook particuliere perceels- en woningeigenaren mee te krijgen in de voorbereiding op extreme regenval.
+Alleen de openbare ruimte aanpassen is niet voldoende.
+Om particulieren en hun privaat terrein te bereiken, kan de gemeente inzetten op stimuleren en/ of verplichten (zowel in bestaande wijken als nieuwbouwprojecten).
+Hoewel de gemeente zich op beide wijzen inzet (zie conclusie C), is de sturing hierop vooralsnog beperkt.
+Verplichtende maatregelen:  Niet alle projectleiders sturen in de praktijk sterk op klimaatadaptatie in de voorwaarden van nieuwe contracten met projectontwikkelaars.  Voor bestaande (soms nog langlopende) contracten kunnen de voorwaarden niet altijd worden herzien.
+Dan komt het aan op de goede wil en bereidheid van de uitvoerende partij.  Hoe normen en eisen in het omgevingsplan worden opgenomen, is nog niet te beoordelen.
+Daarnaast is toezicht en handhaving op die regels een aandachtspunt, omdat de personele capaciteit voor toezicht en handhaving bij de gemeente beperkt is.
+Het opstellen van een VTH-strategie is gepland , maar is nog niet uitgevoerd.
+Stimulerende maatregelen:  Het is onduidelijk hoe groot het bereik en effect is van de publiekscampagnes (expositie, online voorlichting en subsidieregeling).
+Hier is onvoldoende zicht op (zie ook conclusie F).
+E.
+De gemeente heeft een goede samenwerking met het waterschap, de Veiligheidsregio en de werkregio van het Deltaprogramma Ruimtelijke adaptatie.
+Uit het onderzoek komt naar voren dat de samenwerking volgens de betrokken medewerkers goed verloopt:  De gemeente en het waterschap hebben regelmatig contact op projectniveau en bijvoorbeeld recent gezamenlijke een nieuw gemaal gerealiseerd.  Het team Veiligheid van de gemeente werkt nauw samen met de Veiligheidsregio.  Binnen de werkregio van het Deltaprogramma Ruimtelijke Adaptatie wordt veel kennis uitgewisseld over klimaatadaptieve maatregelen in de gebouwde omgeving en er is een gezamenlijke strategie en programma.
+F.
+De gemeente monitort de voortgang van de plannen, maar brengt de mate van doelbereik niet in beeld.
+De gemeente monitort niet hoever de vorderingen zijn in relatie tot de doelstellingen.
+Dat maakt dat het doelbereik van de volgende doelstellingen niet duidelijk is:  Alle openbare ruimte in de gemeente is klimaatadaptief ingericht in 2050.
+Het is niet duidelijk welk deel van de openbare ruimte inmiddels is aangepast en welke opgave resteert.
+Klimaatadaptieve inrichtingen worden niet bijgehouden en geregistreerd, en
+Rekenkameronderzoek Extreme regenval
+Pagina 44 van 59
+daarmee ook niet doorvertaald naar hydrologische modellen (om wijzigingen in de kans op wateroverlast te kunnen inschatten).  Bewoners waterbewust maken.
+Het is niet duidelijk welk deel van de bewoners bereikt is en in hoeverre zij maatregelen op eigen terrein hebben genomen .
+De doelstelling hierin is ook niet concreet genoeg, om dit te kunnen monitoren.
+G.
+De gemeente heeft de mogelijke maatschappelijke gevolgen van extreme regenval geanalyseerd.
+De gemeente heeft in 2019 conform het Deltaprogramma Ruimtelijke Adaptatie de eigen kwetsbaarheden voor diverse klimaataspecten (waaronder extreme regenval) in beeld gebracht.
+Hierbij is destijds vooral gekeken naar waar de kans van water op straat het hoogst is, en welke panden of wegen vanwege hun functie (scholen, ziekenhuizen, hoofdwegen) extra kwetsbaar zijn.
+De mate van kwetsbaarheid hierin is niet gedifferentieerd naar mogelijke schade of aantal getroffenen (zaken zoals bevolkingsdichtheid, staat van de gebouwen of stroomnet zijn niet meegenomen).
+Deze worden wel door een ander team (team Veiligheid, gericht op crisisbeheersing) geanalyseerd.
+Maar één integrale analyse in relatie tot het schaalniveau waarop de extreme regenval plaatsvindt (lokaal, regionaal of bovenregionaal) is niet gemaakt.
+Een nieuwe analyse uit 2025 door de werkregio (“Actualisatie Klimaatstresstest Noord-Kennemerland”) geeft wel een integrale analyse van de mogelijke gevolgen van wateroverlast en overstroming voor de regio, met aandacht voor verschillende schaalniveaus.
+Niettemin is het mogelijk deze van meer detail te voorzien specifiek de gemeente Dijk en Waard en de kennis van de medewerkers van de gemeentelijke afdeling Veiligheid hierin te integreren.
+H.
+De gemeenteraad wordt vooral op projectniveau geïnformeerd over klimaatadaptatie, en geeft geen kaders mee die individuele projecten en gebiedsplannen overstijgen.
+De gemeenteraad wordt niet vaak op algemeen niveau geïnformeerd over klimaatkwetsbaarheden en klimaatadaptatie.
+De laatste keren waren gericht op informeren over de kwetsbaarheden (rapport Basisinventarisatie Kwetsbaarheden) in 2019 en over de algehele strategie voor klimaatadaptatie (Beleidsplan klimaatadaptatie Dijk en Waard) in 2023.
+De recente kwetsbaarheidsanalyse uit 2025 is nog niet gedeeld met de gemeenteraad.
+Ook neemt de raad zelf weinig initiatieven (agendering, schriftelijke vragen en moties).
+Op de strategie klimaatadaptatie heeft de raad geen input geleverd, maar deze heeft ze wel formeel vastgesteld.
+Bij specifieke projectplannen wordt de gemeenteraad wel regelmatig geïnformeerd over aspecten van klimaatadaptatie en stelt ze hier tevens vragen over.
+Rekenkameronderzoek Extreme regenval
+Pagina 45 van 59
+Aanbevelingen
+Op basis van de conclusies volgt een reeks aanbevelingen: 1.
+Betrek de gemeenteraad meer bij de voorbereiding op extreme regenval.
+De gemeenteraad is momenteel vooral op projectniveau betrokken bij klimaatadaptatie (zie conclusie H).
+Gezien de mogelijke consequenties van extreme regenval op inwoners en bedrijven in de gemeente is een actievere kaderstellende en controlerende rol voor de gemeenteraad wenselijk.
+Met name het inzicht en de zorgen van raadleden op de kwetsbaarheden van de gemeente zijn belangrijk: bij welke bevolkingsgroepen of locaties zijn de gevolgen voor extreme regen mogelijk hoog, en waar verdient het voorkomen van schade of gedupeerden extra aandacht.
+Dit is namelijk niet enkel te bepalen aan de hand van hydrologische modellen, maar vraagt ook om “maatschappelijke voelsprieten”.
+Daarom adviseren wij om raadsleden in het vervolg van de DPRA-cyclus te betrekken bij de risicodialoog.
+En om een informatie avond te organiseren en expliciet input op te halen bij raadsleden.
+Ook kunnen raadsleden zelf dit onderwerp vaker agenderen of verdiepen met schriftelijke vragen.
+2.
+Breng het doelbereik in beeld.
+Het doelbereik is momenteel onvoldoende in beeld (zie conclusie F).
+Om het doelbereik in beeld te brengen moeten:  bepaalde doelen concreter worden geformuleerd (meetbaar).
+Dit geldt bijvoorbeeld voor het doel “waterbewustzijn onder burgers”.
+Welke doelgroepen wil je bereiken?
+En welk doelgedrag of handelen wil je bereiken?
+Als dat duidelijker is, kan pas gemonitord worden wat op dit vlak is bereikt.  de resultaten en effecten na uitvoering consequent geregistreerd worden.
+Bijvoorbeeld de resultaten van klimaatadaptieve herinrichting van de openbare ruimte.
+Er zijn al plannen om deze te gaan registreren in een dashboard.
+Wij bevelen aan deze plannen op te volgen, en uiteindelijk ook de vertaling naar het hydrologisch model te maken.
+Belangrijk is wel dat de bestaande modellen van voormalige gemeenten Heerhugowaard en Langedijk worden geïntegreerd tot één model.
+Dit is gepland, maar nog niet uitgevoerd.
+Wij raden de gemeente aan hier uitvoering aan te geven.
+3.
+Zet in op alle vijf lagen van meerlaagsveiligheid.
+De gemeente heeft wisselende inzet op de diverse onderdelen van meerlaagsveiligheid (zie conclusie B).
+Wij raden aan op alle onderdelen te (blijven) inzetten, met de volgende aandachtspunten per onderdeel.
+Water bewustzijn Maak de doelen voor waterbewustzijn explicieter, en ga na of deze worden gehaald.
+Dit sluit aan bij de voorgaande aanbeveling (2).
+Voor het bewustzijn van medewerkers hebben we een aparte aanbeveling (4).
+Preventie Blijf uitvoering geven aan de ambities en maatregelen.
+Houd oog voor het private domein, en hoe je die als gemeenten kunt beïnvloeden.
+Overweeg voor bestaande (al langlopende) contracten met projectontwikkelaars per geval of het mogelijk is deze opnieuw vast te stellen, met meer klimaatadaptieve voorwaarden.
+Rekenkameronderzoek Extreme regenval
+Pagina 46 van 59
+Gevolg beperking Onderscheid gevolgbeperking duidelijker van preventie en formuleer hier maatregelen op.
+In het beleid van Dijk en Waard is gevolgbeperking vaak impliciet inbegrepen bij maatregelen gericht op preventie.
+Dit komt omdat beide lagen met dezelfde instrumenten werken (aanpassingen in watersysteem en in de ruimtelijke inrichting).
+Toch kan het zinvol zijn beide scherper te onderscheiden.
+Zo kan beter gezien worden wat gevolgbeperking nog bovenóp preventie kan toevoegen.
+Gevolgbeperking is belangrijk op het moment dat wateroverlast bij extreme regen moeilijk te voorkómen/ beperken is, maar waar je met een aangepaste inrichting (verhoogd aanleggen of aangepast bouwen) wel de schade en gevolgen kan beperken.
+Er liggen kansen om hier concrete doelen en maatregelen op te formuleren.
+Crisis beheersing Maak het beleid op crisisbeheersing beter navolgbaar en verhoog de samenhang hiervan met gevolgbeperking De gemeente Dijk en Waard werkt aan crisisbeheersing.
+De inzet is echter niet specifiek voor extreme neerslag uitgewerkt in een aanpak of programma met doelen en maatregelen.
+Wij raden aan dit wel te doen.
+Ook raden we aan de samenhang met de andere onderdelen van meerlaagsveiligheid te vergroten.
+Crisisbeheersing komt niet terug in het Beleidsplan Klimaatadaptatie van de gemeente.
+Binnen de gemeente is het team Beleid, afdeling Ruimte verantwoordelijk voor dit beleidsplan.
+Het team Veiligheid, afdeling Bedrijfsvoering houdt zich bezig met crisisbeheersing.
+Ook binnen het college van B&W zijn het verschillende portefeuilles.
+Kennis van crisisbeheersing is echter relevant voor de maatregelen in de fysieke ruimte: hoe is de toegang voor hulpdiensten, hoe werkt de distributie van noodmiddelen e.d.
+Meer kennisuitwisseling en nauwere samenwerking tussen beide teams kan beide strategieën (gevolgbeperking en crisisbeheersing) verbeteren.
+Duurzaam herstel Verken de opties om te anticiperen op duurzaam en waterrobuust herstel.
+Uit het onderzoek blijkt dat Dijk en Waard nog niet anticipeert op duurzaam en waterrobuust herstel van eventuele schade na hevige regenval.
+Dit komt omdat de gemeente nog geen grote wateroverlast en schade heeft meegemaakt.
+Toch is het waardevol om te verkennen wat hierin mogelijk is.
+Verken dit vanuit het samenwerkingsverband werkregio Noord-Kennemerland, en zoek hierbij ook ervaringen van gemeenten buiten de werkregio.
+4.
+Blijf het bewustzijn en de handvatten van medewerkers in de voorbereiding van projecten voor nieuwbouw en herinrichten vergroten.
+De gemeente is goed op weg om de ambities voor klimaatadaptatie te vertalen naar de uitvoering in projecten (zie conclusie C).
+Wat naar voren komt als knelpunt is “het landen” van het beleid in de hele organisatie.
+Alle schakels (van ontwerp, tot onderhoud, tot VTH) zijn hierin cruciaal.
+Om dit te bevorderen/versnellen bevelen wij aan:  Koplopers in de organisatie actiever in te zetten.
+In elke schakel zijn medewerkers die een scherp oog hebben voor klimaatadaptatie (de koplopers) en medewerkers die dat minder hebben.
+Koploper kunnen hun collega’s sneller naar hun niveau krijgen door zich te profileren als “expert klimaatadaptatie" en daarmee te fungeren als vraagbaak en voorlichter (delen van successen en geven van trainingen).  De aandacht voor VTH te vergroten.
+Rekenkameronderzoek Extreme regenval
+Pagina 47 van 59
+VTH is een cruciale schakel, zeker waar het gaat om verplichtingen gericht op privaat terrein en plangebieden voor nieuwbouw.
+Wij bevelen aan de geplande actie van het opstellen van een VTH-strategie uit te voeren, en de personele capaciteit voor VTH (indien nodig) te vergroten.
+Rekenkameronderzoek Extreme regenval
+Pagina 48 van 59
+Bijlage 1 – Maatlat Klimaatadaptieve Bouw
+Gemeente Dijk en Waard hanteert een Maatlat Klimaatadaptieve Bouw.
+Deze is vastgesteld als werkkader voor nieuwbouw en (her)inrichtingen, en als zodanig opgenomen in het HIOR (Handboek Inrichtingen Openbare Ruimte).
+De huidige versie van de Maatlat is gebaseerd op de landelijke maatlat die is uitgekomen in 2023, en de Maatlat van de Metropoolregio Amsterdam.
+Vorige versies hanteert de gemeente (of eigenlijk haar voorgangers van voor de fusie) al sinds 2021.
+Relevant voor dit onderzoek zijn de onderdelen “overstroming” en “wateroverlast” uit de maatlat.
+Wateroverlast Bron: Checklist HIOR, gemeente Dijk en Waard
+Wateroverlast
+Doel
+Hevige regen leidt niet tot waterschade aan gebouwen, boven- en ondergrondse infrastructuur
+en voorzieningen.
+Kwetsbare en vitale functies en voorzieningen blijven beschikbaar.
+Norm
+WO-N1 Hevige regen (1/100 jaar, 70 mm in een uur) zorgt niet voor schade in en aan gebouwen,
+infrastructuur en voorzieningen.
+Bij hevige regen (1/250 jaar, 90 mm in een uur) blijven vitale
+en kwetsbare infrastructuur en voorzieningen functioneren en beschikbaar.
+WO-N2 Regen van een hevige bui (70 mm) op het verharde deel van privaat terrein en openbaar
+terrein wordt verwerkt (geïnfiltreerd, opgevangen en/of vertraagd afgevoerd) op het terrein
+zelf of in extra (water)voorzieningen in of toegerekend aan het plangebied.
+De voorzieningen
+voeren de eerste 24 uur vertraagd af en zijn in maximaal 60 uur weer beschikbaar.
+WO-N3 Bij een waterdiepte van 20 cm op (het laagste punt van) de rijbaan door extreme regenval
+en/of overstroming mag geen schade optreden aan gebouwen en elektrische installaties in de
+openbare ruimte.
+Hoofdwegen blijven begaanbaar.
+WO-N4 De ontwikkeling gebeurt waterneutraal en leidt niet tot extra aanvoer/afvoer op
+watersystemen of gebieden buiten de plangrens.
+Hemelwater wordt zoveel mogelijk
+vastgehouden, in de bodem gebracht en hergebruikt in het plangebied.
+Richtlijn
+WO-R1 In het gebied is natuurlijke en oppervlakkige afwatering zoveel mogelijk aanwezig.
+Voorkeursvolgorde
+- Benutten en besparen
+- Vasthouden en infiltreren
+- Bergen
+- Afvoeren
+Overstroming Bron: Checklist HIOR, gemeente Dijk en Waard
+Overstroming
+Doel
+De gebouwde omgeving is via gevolgbeperking voorbereid op overstromingen in
+buitendijks gebied, vanuit het regionale watersysteem en door dijkdoorbraken.
+Norm
+OS-N1 De verwachte grondwaterstanden en de zoetwaterbeschikbaarheid tijdens droogte zijn sturend
+voor de inrichting van het plangebied
+Richtlijn
+Rekenkameronderzoek Extreme regenval
+Pagina 49 van 59
+OS-R1 Afhankelijk van de plaatselijke overstromingskans en optredende waterdiepte wordt ingezet op
+het voorkomen van schade, het beperken van schade of het voorkomen van slachtoffers.
+Voor
+vitale en kwetsbare functies gelden aanvullende eisen.
+Welke eisen van toepassing zijn op het
+plangebied is dus afhankelijk van de overstromingskans en diepte.
+Wat de overstromingskans
+per waterdiepte is, is te vinden in de klimaateffect-atlas.
+OS-R2 Schade voorkomen
+Bij overstroming mag er geen schade optreden aan gebouwen en elektrische
+installaties in de openbare ruimte.
+Hoofdwegen blijven begaanbaar.
+OS-R3 Schadebeperking
+Er dienen maatregelen genomen te worden om schade te beperken in het geval
+van een overstroming, mits deze doelmatig zijn.
+OS-R4 Schuilen en evacueren
+Er moeten maatregelen getroffen worden om veilig te kunnen schuilen of te
+evacueren in het geval van een overstroming.
+In het Beleidsplan Klimaatadaptatie Dijk en Waard 2023 is bij de toelichting op deze normen ook de volgende figuur opgenomen, afkomstig uit de Klimaateffect-atlas.
+Rekenkameronderzoek Extreme regenval
+Pagina 50 van 59
+Rekenkameronderzoek Extreme regenval
+Pagina 51 van 59
+Bijlage 2 – Verantwoording Rekenkameronderzoek
+Proces
+Actie Uitkomst 1 Opstellen van de onderzoeksvragen en van het normenkader Onderzoeksvragen en normenkader 2 Bureaustudie van openbare en opgevraagde documenten Eerste bevindingen, als onderlegger voor de interviewvragen 3 Interviews met de meest betrokken ambtenaren en bestuurders Conceptrapport op basis van bevindingen uit bureaustudie en interviews 4 Ambtelijk hoor en wederhoor: toets op feitelijke onjuistheden Definitief rapport na verwerking van de ambtelijke reacties 5 Toevoegen conclusies en aanbevelingen door de rekenkamer Definitief rapport met conclusies en aanbevelingen 6 Bestuurlijk hoor en wederhoor: het dagelijks bestuur kan reageren op het rapport, de conclusies en aanbevelingen Definitief rapport met conclusies en aanbevelingen, én bestuurlijke reactie 7 Aanbieden en presenteren van het rapport met aanbevelingen en bestuurlijke reactie aan de Gemeenteraad  Geïnterviewden Conform de procedure van rekenkameronderzoek worden geïnterviewden niet bij naam genoemd, en zijn uitspraken niet tot specifieke interviews te herleiden.
+Interview 1, Dinsdag 24 juni Water, riolering en klimaatadaptatie (preventie) - Senior beleidsadviseur ruimte/klimaatadaptatie gem.
+Dijk en Waard - Beleidsmedewerker water en riolering gem.
+Dijk en Waard - Hoofd beleid Ruimte gem.
+Dijk en Waard Interview 2, Dinsdag 24 juni, Crisisbeheersing (ambtelijk) - Strategisch adviseur Veiligheid gem.
+Dijk en Waard - Senior adviseur openbare orde en veiligheid gem.
+Dijk en Waard - Hoofd BJVO gem.
+Dijk en Waard Interview 3, Dinsdag 24 juni, Crisisbeheersing (bestuurlijk) - Burgemeester gem.
+Dijk en Waard - Strategisch adviseur Veiligheid gem.
+Dijk en Waard - Senior adviseur openbare orde en veiligheid gem.
+Dijk en Waard Interview 4, Dinsdag 24 juni, Ontwerp en beheer (preventie) - Projectleider Civiele techniek gem.
+Dijk en Waard - Adviseur Beheer ruimte gem.
+Dijk en Waard - Projectmanager gebiedsontwikkeling & infrastructuur gem.
+Dijk en Waard Interview 5, Woensdag 25 juni, Samenwerking met Waterschap - Programmamanager wateropgave bij afdeling watersystemen HHNK Interview 6, Woensdag 25 juni, Klimaatadaptatie (bestuurlijk) - Wethouder met portefeuille klimaatadaptatie gem.
+Dijk en Waard - Projectmanager gebiedsontwikkeling & infrastructuur gem.
+Dijk en Waard Interview7, Donderdag 26 juni, Samenwerking met Veiligheidsregio - Programmaregisseur crisisbeheersing Veiligheidsregio Noord Holland Noord - Expert crisisbeheersing Veiligheidsregio Noord Holland Noord
+Rekenkameronderzoek Extreme regenval
+Pagina 52 van 59
+Literatuurlijst
+Deel I Beleidstafel Wateroverlast en hoogwater (2022).
+Eindadvies “Voorkomen kan niet, voorbereiden wel”.
+Dekker G., B.
+Wullems en P.M.
+Chan (2020).
+Verantwoordelijkheden bij risico’s in een veranderend klimaat.
+Ambient.
+Informatiepunt Leefomgeving.
+Gemeentelijke ruimtelijke regels en waterveiligheid.
+25 april 2025.
+Informatiepunt Leefomgeving.
+Bescherming van waterbelangen.
+25 april 2025.
+Klopstra D. en M.
+Kok (2009).
+Van neerslag tot schade.
+HKV Lijn in water, KNMI en Universiteit Twente.
+In opdracht van ‘Leven met Water’, STOWA, provincie Zuid-Holland, Waterschap Zuiderzeeland en het Verbond van Verzekeraars Most van der H., L.
+Brouwer, N.
+Asselman et al.
+Deltafact (2017) “Meerlaagsveiligheid in de praktijk”.
+Deltares.
+In opdracht van STOWA.
+Ministerie van Infrastructuur en Waterstaat.
+Infobrochure “Waterveiligheid in Nederland in een notendop”.
+2024 Nieuwenhuis E. en G.
+Dekker (2023).
+Pilots integrale risico-analyse wateroverlast.
+Ambient.
+In opdracht van STOWA.
+RIONED (2024).
+Monitor gemeentelijke watertaken 2024.
+Werk aan de winkel.
+Deel II Documenten van de gemeente Programma Stedelijk water en Riolering gemeente Dijk en Waard 2022-2027.
+Strategische Omgevingsvisie Dijk en Waard 2024.
+Beleidsplan Klimaatadaptatie Dijk en Waard 2023.
+Basisinventarisatie Klimaatkwetsbaarheden Langedijk & Heerhugowaard.
+Arcadis.
+In opdracht van de gemeente Langedijk en de gemeente Heerhugowaard.
+2019.
+Handboek Inrichting Openbare Ruimte gemeente Dijk en Waard 2025, met bijbehorende checklist voor planontwerp.
+Opzet opleidingstraject tot veiligheidsadviseurs (Opleiden, trainen en oefenen).
+Collegevoorstel subsidieregeling klimaatadaptatie op privéterrein.
+22 april 2025.
+Met bijlage inhoud subsidieregeling.
+Rekenkameronderzoek Extreme regenval
+Pagina 53 van 59
+Collegebericht Herinvoering subsidieregeling sedum op daken.
+22 april 2025.
+Besluitenlijst collegevergadering 22 april 2025.
+Noordhollands Dagblad.
+Aankondiging van subsidieregeling klimaatadaptatie privéterrein Dijk en Waard.
+4 mei 2025.
+Vergaderdocumenten gemeenteraad Dijk en Waard, en voorgangers Heerhugowaard en Langedijk.
+Diverse documenten ingezien uit de periode 2020 tot heden.
+Documenten van de sub-regio Ruimtelijk Adaptatie Klimaatadaptatiestrategie en uitvoeringsagenda Regio Alkmaar 2021.
+Plan van aanpak Ruimtelijke adaptatie Samenwerkingsverband waterketen Noord- Kennemerland Noord 2018.
+Documenten van het waterschap Leeuwen, van E., M.
+Poort en D.J.
+Marsman (2022).
+Breed kijken, gericht investeren.
+Handelingskader wateroverlast beperken.
+Hoogheemraadschap Hollands Noorderkwartier & TU Delft.
+Documenten van de Veiligheidsregio Beleidsplan Veiligheidsregio Noord Holland Noord 2024-2027.
+Regionaal risicoprofiel Veiligheidsregio Noord Holland Noord 2022-2023.
+Handboek lokale bevolkingszorg Veiligheidsregio Noord Holland Noord 2019, geactualiseerd in 2025.
+Landelijk Crisisplan Hoogwater en Overstromingen.
+Landelijk Draaiboek Hoogwater en Overstromingen.
+Handreiking Samenredzaamheid.
+Handreiking Impactanalyse overstromingen.
+Rekenkameronderzoek Extreme regenval
+Pagina 54 van 59
+Bijlage 3 – Deelvragen en normenkader rapportdeel II
+Inzicht in kwetsbaarheden (H6)
+Deelvragen
+In hoeverre heeft de gemeente in beeld wat de mogelijke waterhoogtes en knelpunten in het watersysteem zijn (op de verschillende schaalniveaus van het watersysteem)? §6.1 Hydrologische analyses In hoeverre heeft de gemeente in beeld wat de kwetsbaarheden zijn (op basis van analyses van verschillende schaalniveaus)? §6.2 Analyse van de maatschappelijke gevolgen In hoeverre is de gemeenteraad geïnformeerd over de risico’s van extreme neerslag? §6.3 Informeren van de gemeenteraad
+Normen
+Norm 1.
+De gemeente heeft in beeld wat de mogelijke gevolgen zijn van de kwetsbaarheden voor extreme neerslag.
+1A.
+De gemeente heeft een stresstest uitgevoerd voor extreme neerslag, waaruit blijkt welke locaties, wijken en adressen kwetsbaar zijn voor extreme neerslag.
+1B.
+De gemeente is actief betrokken bij de uitwerking van de (boven)regionale stresstesten.
+1C.
+De gemeente heeft in beeld wat de mogelijke gevolgen zijn van de kwetsbaarheden voor extreme neerslag.
+1D.
+Het college van B&W heeft de gemeenteraad geïnformeerd over de kwetsbaarheid en risico’s van extreme neerslag.
+Voor toetsing van deze normen, zie §6.5.
+Ambities en beleid (H7)
+Deelvragen
+In hoeverre heeft de gemeente beleidsdoelen en maatregelen geformuleerd, die passen in de vijf lagen van meerlaagsveiligheid? §7.1.
+Gestelde doelen, strategieën en maatregelen In hoeverre heeft de gemeente het beleid afgestemd met andere relevante partners in de regio? §7.2 Afstemming van het beleid binnen de regio In hoeverre heeft de gemeente uitvoeringsbudget beschikbaar voor de maatregelen die passen in de vijf lagen van meerlaagsveiligheid? §7.3 Budget In hoeverre is de gemeenteraad geïnformeerd over de risico’s van extreme neerslag? §7.4 Rol van de gemeenteraad
+Normen
+Norm 2.
+De gemeente heeft voor de vijf aspecten van meerlaagsveiligheid beleid geformuleerd en vastgesteld.
+Rekenkameronderzoek Extreme regenval
+Pagina 55 van 59
+2A.
+De gemeente heeft beleidsdoelen vastgesteld, voor elk van de vijf lagen van meerlaagsveiligheid.
+2B.
+Het beleid is afgestemd met het beleid van relevante partners.
+2C.
+De gemeente heeft een uitvoeringsstrategie met concrete maatregelen en budget vastgesteld voor elk van de vijf lagen.
+2D.
+Met relevante gebiedspartners zijn afspraken gemaakt over gezamenlijke maatregelen.
+2E.
+De gemeenteraad geeft actief invulling aan haar kaderstellende en controlerende rol.
+Voor toetsing van de normen, zie §7.5.
+Uitvoering en praktijk (H8)
+Deelvragen
+Welke gemeentelijke afdelingen en teams zijn betrokken bij de uitvoering van de maatregelen, gekoppeld aan de diverse lagen van meerlaagsveiligheid? §8.1.
+Organisatie van de uitvoering Hoe geeft de gemeente uitvoering aan de maatregelen die voorbereiden op extreme neerslag?
+Waar loopt de gemeente in de uitvoering tegenaan? §8.2 Voortgang, successen en belemmeringen in de praktijk Hoe verloopt de samenwerking met partners in de uitvoering? §8.3 Samenwerking met partners in de uitvoering In hoeverre heeft de gemeente inzicht in het doelbereik? §8.4 Monitoring van het doelbereik In hoeverre is de gemeenteraad geïnformeerd over en betrokken bij de uitvoering? §8.5 Betrokkenheid van de gemeenteraad
+Deelvragen
+Norm
+3A.
+De maatregelen en acties uit de uitvoeringsstrategie zijn uitgevoerd.
+3B.
+Als maatregelen uit de uitvoeringsstrategie niet zijn uitgevoerd, is dit duidelijk en navolgbaar gemotiveerd.
+3C.
+De gemeente heeft het effect van maatregelen en de mate van doelbereik in beeld.
+3D.
+Het college van B&W heeft de gemeenteraad geïnformeerd over de voortgang en het resultaat van beleid en maatregelen.
+Voor toetsing van de normen, zie §8.6.
+Rekenkameronderzoek Extreme regenval
+Pagina 56 van 59
+Bijlage 4 – Doelen en maatregelen gemeente Dijk en Waard
+(zelfstandig of aansluitend bij partners) op thema’s extreme
+neerslag en overstroming
+Doelen Hoger output-doel / ambitie Dijk en Waard Bron-document* Past bij laag Het beperken van de overlast die wordt veroorzaakt door hevige neerslag BK 2023 Alle lagen Het waar mogelijk beperken van de schade die wordt veroorzaakt bij een eventuele overstroming BK 2023 Alle lagen Verschuiving van preventief naar risicogestuurd handelen PSWR 2022 Alle lagen Werkdoel Dijk en Waard 1 Alle medewerkers bewust van klimaatadaptief handelen BK 2023 Waterbewustzijn 2 Inwoners en ondernemers bewust van klimaatadaptief handelen / Inzetten op bewustwording bij eigenaren of gebruikers van particuliere terreinen BK 2023 / PSWR 2022 3 Woningbouw niet meer eerste prioriteit geven, maar integraal kijken naar diverse opgaven OV 2024 4 Kennis en capaciteit van de organisatie binnen de organisatie en samenwerkingsverband regio Alkmaar op orde.
+PSWR 2022 BK 2023 5 Klimaatadaptatie geborgd in beleid, regelgeving en plantoetsing BK 2023 Preventie (en ten dele: gevolgbeperking) 6 Eisen t.b.v. klimaatadaptatie stellen aan projectontwikkelaars BK 2023 7 Inzetten op klimaatadaptieve inrichting van de openbare ruimte, aanvullend aan rioleringssysteem /Meer groen aanbrengen bij herontwikkelingen PSWR 2022 / OV 2024 8 Plannen volgens water-bodem-sturend OV 2024 9 Calamiteitenplannen paraat hebben PSWR 2022 Crisisbeheersing Werkdoel vanuit regio Alkmaar (Noord-Kennemerland Noord) Document* Past bij laag 10 Klimaatbewustzijn en -adaptatie verhogen onder stakeholders vitale functies bedienen (zoals netbeheerders en ziekenhuizen) KS regio 2021 Gevolgbeperking (en ten dele: crisisbeheersing) 11 Samenwerken met andere overheden om op juiste niveau keuzes te maken voor bescherming kwetsbare functies KS regio 2021 12 Opstellen eisen “overstroming”, zoals inbouwen vluchtroutes, richting projectontwikkelaars KS regio 2021 13 Inzicht in totale (regionale en bovenregionale) effecten op vitale functies te vergroten KS regio 2021 Crisisbeheersing 14 Calamiteitenplannen uit de regio onderling en bovenregionaal afstemmen KS regio 2021 Crisisbeheersing Werkdoel vanuit Veiligheidsregio Document* Past bij laag 15 De Veiligheidsregio is zo ingericht dat we bij een crisis snel kunnen schakelen en opschalen VR 2024 Crisisbeheersing 16 Informatiegestuurd werken binnen crisisbeheersing VR 2024 Crisisbeheersing *Document BK 2023: Beleidsplan Klimaatadaptatie Dijk en Waard 2023 PSWR 2022: Water en Rioleringsprogramma Dijk en Waard 2022-2027 KS regio 2021: Klimaatadaptatiestrategie Regio Alkmaar 2021 VR 2024: Beleidsplan Veiligheidsregio Noord Holland Noord 2024-2027
+Rekenkameronderzoek Extreme regenval
+Pagina 57 van 59
+Strategieën en acties passend bij bovenstaande doelen Werkdoel Bijbehorende strategie en acties Bron document* strategie en acties Dijk en Waard Waterbewustzijn 1 Bewustzijn medewerkers Uitdragen van beleid binnen organisatie; kennisontwikkeling; beheer- en monitoringssystematiek implementeren.
+BK 2023 : de acties onder “Speerpunt 1” 2 Bewustzijn inwoners en ondernemers Het publiek informeren over gevolgen van klimaatverandering en mogelijkheden om klimaatadaptief te handelen; delen van inspirerende voorbeelden; subsidies en stimuleringsacties (NK-tegelwippen).
+BK 2023: de acties onder “Speerpunt 3” Gesprek aangaan met particulieren voor maatregelen op hun terrein, als het terrein volgens de modellen kwetsbaar is.
+PSWR 2022 3 Woningbouw niet meer eerste prioriteit Strategie en nieuwe manier van denken, zoals benoemd in Omgevingsvisie.
+OV 2024 4 Kennis en capaciteit van de organisaties Hydraulische modellen samenvoegen en verbeteren, aanvullen met modelsimulaties van de effecten van maatregelen.
+Acties PSWR 2022 & BK 2023 Onderzoek naar risico’s van bodemdaling, doorrekenen kostenscenario’s van veiligheidsniveaus wateroverlast om politiek veiligheidsniveau te laten kiezen, bijeenkomsten kennisuitwisseling.
+KS 2021: Procesactie 12, 13 en 24 Branchestandaard/kennisscan van Stichting RIONED toepassen om in beeld te krijgen waar de capaciteits- en/of kennisbehoefte ligt, en dit vertalen naar een opleidingsplan binnen de regio Alkmaar.
+Binnen de regio elkaar aanvullen op kennis.
+PSWR 2024 Preventie en gevolgbeperking 5 Klimaatadaptatie geborgd in beleid, regelgeving en plantoetsing Waterrobuustheid en klimaatbestendigheid vast onderdeel in gebiedsvisies en ruimtelijke plannen;
+Klimaatmaatlat* vertalen naar het Handboek Inrichting Openbare Ruimte dat de gemeente hanteert; regels over verplicht afkoppelen bij nieuwbouw; en meer.
+BK 2023: de acties onder “Speerpunt 2” 6 Eisen t.b.v. klimaatadaptatie stellen aan projectontwikkelaars Klimaatmaatlat* uitbreiden (waar mogelijk) met juridische regels voor publiek- en privaatrechtelijk.
+Eisen voor klimaatadaptatie opnemen in format van privaatrechtelijke overeenkomsten; duidelijk maken welke onderbouwing nodig is in diverse bouwfases, om aan te tonen dat men voldoet aan eisen Klimaatmaatlat; handhavingsstrategie.
+BK 2023: enkele acties onder “Speerpunt 2” Onderzoeken van optie om bij kleine herontwikkeling binnen bebouwde kom 10-15 mm bergingscapaciteit binnen plangebied te eisen; bij grotere herontwikkeling hogere eisen.
+PSWR 2024: Acties onder “Zorgplicht Hemelwater” 7 Klimaatadaptieve inrichting van de openbare ruimte Strategie: tot aan 2050 openbare ruimte klimaatadaptief herinrichten (inrichting conform klimaatmaatlat) op “natuurlijke momenten”, namelijk BK 2023 & PSWR 2024
+Rekenkameronderzoek Extreme regenval
+Pagina 58 van 59
+bij geplande herontwikkeling of onderhoud, zoals rioolvervanging.
+Daarnaast onderzoeken welke locaties op basis van kwetsbaarheid hogere nood hebben, om deze locaties daarmee naar voren te kunnen halen in de onderhoudscyclus.
+Locaties gelden als kwetsbaar als die als zodanig naar voren komen uit de stresstest, of als er in een jaar meerdere meldingen van overlast zijn gedaan.
+Acties: herinrichtingen die voor komende jaren op de planning staan, zoals te vinden in de Uitvoeringsagenda van PSWR 2022 en KS 2021.
+PSWR 2022 en KS 2021 8 Plannen volgens water-bodem-sturend Weging van waterbelang voor nieuwbouwplannen, zoals: a) niet bouwen op plaatsen die gevoelig zijn voor grondwateroverlast, b) waar wel gebouwd kan worden, ontwateringsnormen opstellen aangepast op de situatie.
+PWRS 2022 Strategie OV 2024: minder verharding realiseren, onder meer door meer inzetten op ov dan op nieuwe wegen, gebouwen optoppen in plaats van uitbreiden, verbinden van watergangen, parkeervakken delen in plaats van elk bedrijf een eigen parkeerterrein.
+Nog niet vertaald naar concrete acties/maatregelen.
+OV 2024 Crisisbeheersing 9 Calamiteitenplannen paraat hebben Geen gedocumenteerde actielijst beschikbaar. n.v.t.
+Werkdoel vanuit regio Noord Kennemerland Noord (Alkmaar) Gevolgbeperking 10 Klimaatbewustzijn en -adaptatie verhogen onder stakeholders die vitale functies bedienen (zoals netbeheerders en ziekenhuizen) Risico- en crisiscommunicatie richting netbeheerders en vitale gebruiksfuncties, zoals ziekenhuizen.
+Bijvoorbeeld informeren over belang om vitale stroomkastjes op waterveilige hoogte te plaatsen.
+KS 2021: Procesactie 21 11 Op juiste niveau keuzes te maken voor bescherming kwetsbare functies Samenwerken met andere overheden om op juiste niveau keuzes te maken voor bescherming kwetsbare functies.
+KS 2021: Procesactie 20 12 Opstellen eisen “overstroming”, zoals inbouwen vluchtroutes, richting projectontwikkelaars Verkennen hoe deze eisen kunnen worden opgenomen in regelgeving of contracten.
+Naar het voorbeeld van de maatlat van de gemeente Amsterdam.
+KS 2021: Procesactie 22 Crisisbeheersing 13 Inzicht in totale effecten op vitale functies te vergroten Gegevens van diverse instanties combineren om inzicht in totale effecten op vitale functies te vergroten.
+KS 2021 14 Calamiteitenplannen uit de regio onderling afgestemd.
+Calamiteitenplannen uit de regio onderling en bovenregionaal afstemmen.
+Zo bijvoorbeeld gezamenlijk afstemmen welke ziekenhuizen of routes extra bescherming verdienen.
+KS 2021 Werkdoel vanuit Veiligheidsregio Crisisbeheersing
+Rekenkameronderzoek Extreme regenval
+Pagina 59 van 59
+15 De Veiligheidsregio is zo ingericht dat we bij crisis snel kunnen schakelen en opschalen Geen actielijst bekend. n.v.t.
+16 Informatiegestuurd werken binnen crisisbeheersing Geen actielijst bekend. n.v.t. *Document BK 2023: Beleidsplan Klimaatadaptatie Dijk en Waard 2023 PSWR 2022: Water en Rioleringsprogramma Dijk en Waard 2022-2027 KS regio 2021: Klimaatadaptatiestrategie Regio Alkmaar 2021 VR 2024: Beleidsplan Veiligheidsregio Noord Holland Noord 2024-2027
+[Bijlage: Bestuurlijk reactie op het conceptrapport ‘Voorbereiden op extreme regenval’ van de Rekenkamer Dijk en Waard]
+DIJK E
+~
+WAARD
+Contactpersoon: M.
+Verschure Datum: 7 mei 2026
+Telefoon: 072 575 55 55 Verzenddatum: 7 mei 2026
+E-mail: post@dijkenwaard.nl Zaaknummer: 00001243184
+Onderwerp: bestuurlijke reactie op het conceptrapport 'Voorbereiden op extreme regenval'
+van de Rekenkamer Dijk en Waard
+Rekenkamer Dijk en Waard
+T.a.v.
+Jander van Ettekoven, secretaris/onderzoeker
+jander.yanettekoyen@rekenkamerdijkenwaard_nl
+Geachte leden van de Rekenkamer Dijk en Waard,
+Met belangstelling heeft het college kennisgenomen van het onderzoeksrapport, d.d.
+16 maart
+2026 "Voorbereiden op extreme regenval".
+In uw schrijven van 10 april 2026 vraagt u het college
+om een bestuurlijke reactie op de aanbevelingen uit dit onderzoeksrapport.
+Het college neemt de
+zorgen rondom klimaatadaptatie uiterst serieus en heeft het onderzoeksrapport en de
+aanbevelingen grondig bestudeert.
+Het college onderschrijft de ambitie en doelen van het onderzoeksrapport, maar is van mening
+dat het onderzoek nog te algemeen en weinig concreet is om daadwerkelijk sturing te geven.
+De
+aanbevelingen in het rapport bieden voldoende onderwerpen voor doorontwikkeling en
+verbetering, maar geven op dit ogenblik nog te weinig houvast voor de uitvoering.
+Ook ontbreekt
+het aan een voorstel voor prioritering bij het oppakken van de aanbevelingen.
+In de huidige vorm dreigt het daarmee vooral een papieren exercitie te blijven.
+Het college acht
+het van belang om het rapport eerst te verdiepen en te concretiseren door de aanbevelingen per
+onderwerp naar beleid, organisatie, capaciteit en middelen inzichtelijk te krijgen.
+Het is in dit
+stadium niet wenselijk om op voorhand toezeggingen te doen over het aanpakken van alle
+onderdelen in de aanbevelingen, zonder eerst een helder en integraal beeld van de impact,
+opbrengst en benodigde inzet te verkrijgen.
+Met bovenstaande in gedachten vinden wij het van belang om nog enige context te schetsen
+over het onderwerp en de stappen die het college heeft ondernomen.
+In de collegevergadering van 29 augustus 2023 is het Beleidsplan Klimaatadaptatie Dijk en
+Waard vastgesteld, waarin de regionale afspraken zijn vertaald naar een gemeentelijke koers
+richting een klimaatbestendige en waterrobuuste leefomgeving in 2050.
+2
+In dit beleidsplan wordt ook becijferd dat de financiële schade tot 2050 voor onze gemeente op
+drie klimaatadaptatiethema's (wateroverlast, hitte en droogte) minimaal 190 en maximaal 570
+miljoen euro kan bedragen bij onvoldoende handelen.
+Voor het thema wateroverlast,waar
+extreme regenval een belangrijk onderdeel van is, is de minimale variant 91 miljoen en de
+maximale variant 144 miljoen euro.
+De gemeenteraad van Dijk en Waard heeft vervolgens op 10 oktober 2023 de
+Klimaatadaptatiestrategie en Uitvoeringsagenda Regio Alkmaar, onderdeel van de DPRA­
+werkregio's, vastgesteld als regionaal kader voor de gezamenlijke aanpak van klimaatadaptatie.
+Sindsdien werkt het college aan het beter borgen van klimaatadaptatie binnen de gemeentelijke
+organisatie, overigens in aanvulling op alle inspanningen om onze bijdrage te leveren aan de
+energietransitie in Nederland (klimaatmitigatie).
+De afgelopen periode is zichtbaar ingezet op het
+kenbaar maken van het bestaande klimaatadaptatiebeleid door een maatwerk leertraject voor
+ambtenaren.
+Er wordt ook verkend hoe de klimaattoets als toetsingsinstrument beter ingezet kan
+worden in projecten en hoe het structureel verankeren van het klimaatadaptatiebeleid in het
+omgevingsplan en het HIOR vorm kan krijgen.
+Op dit moment wordt klimaatadaptatie al
+meegenomen in lopende gebiedsontwikkelingen en gemeentelijke herinrichtingsopgaven, waarbij
+steeds nadrukkelijker wordt gestuurd op een eerdere betrokkenheid in het planproces.
+Daarnaast
+investeert de gemeente in kennisopbouw, data-gedreven werken en interne samenwerking
+tussen beleid, projecten, ingenieursbureau, beheer en vergunningverlening.
+Deze stappen laten
+zien dat klimaatadaptatie niet als los thema wordt benaderd, maar steeds meer onderdeel wordt
+van integrale afwegingen, besluitvorming en uitvoering, met oog voor verdere doorontwikkeling
+en verbetering.
+Met bovenstaande achtergrondinformatie gaan wij hieronder in op de door de Rekenkamer
+voorgestelde aanbevelingen.
+3
+Aanbevelingen
+Aanbeveling 1:
+Betrek de gemeenteraad meer bij de voorbereiding op extreme regenval.
+De gemeenteraad is momenteel vooral op projectniveau betrokken bij klimaatadaptatie.
+Gezien
+de mogelijke consequenties van extreme regenval op inwoners en bedrijven in de gemeente is
+een actievere kaderstellende en controlerende rol voor de gemeenteraad wenselijk.
+Met name
+het inzicht en de zorgen van raadsleden op de kwetsbaarheden van de gemeente zijn belangrijk:
+bij welke bevolkingsgroepen of locaties zijn de gevolgen voor extreme regen mogelijk hoog, en
+waar verdient het voorkomen van schade of gedupeerden extra aandacht.
+Dit is namelijk niet
+enkel te bepalen aan de hand van hydrologische modellen, maar vraagt ook om
+"maatschappelijke voelsprieten".
+Daarom adviseren wij om raadsleden in het vervolg van de
+DPRA-cyclus te betrekken bij de risicodialoog.
+En om een informatieavond te organiseren en
+expliciet input op te halen bij raadsleden.
+Ook kunnen raadsleden zelf dit onderwerp vaker agenderen of verdiepen met schriftelijke vragen.
+Reactie college:
+Het college erkent dat de gemeenteraad tot nu toe vooral op projectniveau is geïnformeerd en
+ziet ruimte om de raad structureler te betrekken bij de bredere afwegingen rond risico's,
+kwetsbaarheden en prioriteiten, opdat de raad zijn kaderstellende en controlerende rol kan
+vervullen.
+In het najaar van 2026 wordt de Regionale Klimaatadaptatiestrategie en
+Uitvoeringsagenda Noord-Kennemerland 2026-2031 aan de raad voorgelegd.
+Hierin worden
+onder andere te nemen maatregelen genoemd ter voorkoming van calamiteiten en schade voor
+inwoners en bedrijven door hevige neerslag en grondwaterproblemen.
+Dit moment biedt een
+goede aanleiding en doorkijk om de gemeenteraad beter te betrekken.
+Een risicodialoog met stakeholders uit (welzijns)organisaties heeft najaar 2025 plaatsgevonden in
+regionaal verband; het college neemt de aanbeveling over om de gemeenteraad actiever te
+betrekken bij de vervolgstappen die uit de DPRA-cyclus kunnen voortvloeien.
+Het college onderschrijft het belang van de raad als vertegenwoordiger van de bevolking met de
+benodigde "maatschappelijke voelsprieten".
+Het is aan de gemeenteraad om klimaatrisico's en
+het onderwerp klimaatadaptatie in bredere zin te agenderen.
+4
+Aanbeveling 2:
+Breng het doelbereik in beeld.
+Het doe/bereik is momenteel onvoldoende in beeld.
+Om het doe/bereik in beeld te brengen
+moeten:
+• Bepaalde doelen concreter worden geformuleerd (meetbaar).
+Ditgeldt bijvoorbeeld voor
+het doel "waterbewustzijn onder burgers".
+Welke doelgroepen wilje bereiken?
+En welk doe/gedrag of handelen wilje bereiken?
+Als dat
+duidelijker is, kan pas gemonitord worden wat op dit vlak is bereikt.
+• De resultaten en effecten na uitvoering consequent geregistreerd worden.
+Bijvoorbeeld
+de resultaten van klimaatadaptieve herinrichting van de openbare ruimte.
+Er zijn al
+plannen om deze te gaan registreren in een dashboard.
+Wij bevelen aan deze plannen op
+te volgen, en uiteindelijk ook de vertaling naar het hydrologisch model te maken.
+Belangrijk is wel dat de bestaande modellen van voormalige gemeenten Heerhugowaard
+en Langedijk worden geïntegreerd tot één model.
+Dit is gepland, maar nog niet
+uitgevoerd.
+Wij raden de gemeente aan hier uitvoering aan te geven.
+Reactie college:
+Het college onderkent de constatering dat het doelbereik op onderdelen nog onvoldoende
+inzichtelijk is.
+Het college hecht groot belang aan het formuleren van duidelijke en meetbare
+doelen en het duidelijk afbakenen van doelgroepen, evenals aan een structurele vastlegging van
+resultaten en effecten.
+Dit is noodzakelijk om de voortgang en effectiviteit van het beleid beter te
+kunnen volgen en tijdig bij te sturen.
+5
+Aanbeveling 3.
+Zet in op alle vijf lagen van meerlaagsveiligheid.
+De gemeente heeft wisselende inzet op de diverse onderdelen van meerlaagsveiligheid.
+Wij
+raden aan op alle onderdelen te (blijven) inzetten, met de volgende aandachtspunten per
+onderdeel.
+• Waterbewustzijn
+Maak de doelen voor waterbewustzijn explicieter, en ga na of deze worden gehaald.
+Dit sluit aan bij de voorgaande aanbeveling (2).
+Voor het bewustzijn van medewerkers
+hebben we een aparte aanbeveling (4).
+• Preventie
+Blijf uitvoering geven aan de ambities en maatregelen.
+Houd oog voor het private
+domein, en hoeje die als gemeenten kunt beïnvloeden.
+Overweeg voor bestaande (al
+langlopende) contracten met projectontwikkelaars per geval of het mogelijk is deze
+opnieuw vast te stellen, met meer klimaatadaptieve voorwaarden.
+• Gevolgbeperking
+Onderscheid gevolgbeperking duidelijker van preventie en formuleer hier
+maatregelen op.
+In het beleid van Dijk en Waard is gevolgbeperking vaak impliciet
+inbegrepen bij maatregelen gericht op preventie.
+Dit komt omdat beide lagen met
+dezelfde instrumenten werken (aanpassingen in watersysteem en in de ruimtelijke
+inrichting).
+Toch kan het zinvol zijn beide scherper te onderscheiden.
+Zo kan beter gezien
+worden wat gevolgbeperking nog bovenóp preventie kan toevoegen.
+Gevolgbeperking is
+belangrijk op het moment dat wateroverlast bij extreme regen moeilijk te voorkómen/
+beperken is, maar waarje met een aangepaste inrichting (verhoogd aanleggen of
+aangepast bouwen) wel de schade en gevolgen kan beperken.
+Er liggen kansen om hier
+concrete doelen en maatregelen op te formuleren.
+• Crisisbeheersing
+Maak het beleid op crisisbeheersing beter navolgbaar en verhoog de samenhang
+hiervan met gevolgbeperking.
+De gemeente Dijk en Waard werkt aan crisisbeheersing.
+De inzet is echter niet specifiek voor extreme neerslag uitgewerkt in een aanpak of
+programma met doelen en maatregelen.
+Wij raden aan dit wel te doen.
+Ook raden we aan de samenhang met de andere onderdelen van meerlaagsveiligheid te
+vergroten.
+Crisisbeheersing komt niet terug in het Beleidsplan Klimaatadaptatie van de
+gemeente.
+Binnen de gemeente is het team Beleid, afdeling Ruimte verantwoordelijk voor
+dit beleidsplan.
+Het team Veiligheid, afdeling Bedrijfsvoering houdt zich bezig met
+crisisbeheersing.
+Ook binnen het college van B&W zijn het verschil/ende portefeuilles.
+Kennis van crisisbeheersing is echter relevant voor de maatregelen in de fysieke ruimte:
+hoe is de toegang voor hulpdiensten, hoe werkt de distributie van noodmiddelen e.d.
+Meer kennisuitwisseling en nauwere samenwerking tussen beide teams kan beide
+strategieën (gevolgbeperking en crisisbeheersing) verbeteren.
+• Duurzaam herstel
+Verken de opties om te anticiperen op duurzaam en waterrobuust herstel.
+Uit het
+onderzoek blijkt dat Dijk en Waard nog niet anticipeert op duurzaam en waterrobuust
+herstel van eventuele schade na hevige regenval.
+Dit komt omdat de gemeente nog geen
+grote wateroverlast en schade heeft meegemaakt.
+Toch is het waardevol om te
+verkennen wat hierin mogelijk is.
+Verken dit vanuit het samenwerkingsverband werkregio
+Noord-Kennemerland, en zoek hierbij ook ervaringen van gemeenten buiten de
+werkregio.
+6
+Reactie college:
+Het college onderkent het belang van een integrale benadering van waterveiligheid langs de vijf
+lagen van meerlaagsveiligheid.
+De aanbeveling heeft volgens het college raakvlak met de drie
+speerpunten uit het eerdergenoemde Beleidsplan Klimaatadaptatie Dijk en Waard.
+Die
+speerpunten draaien primair om bewustwording, borging in beleid en werkprocessen en een
+integrale benadering van het onderwerp.
+Het college onderschrijft dat een evenwichtige inzet op alle lagen bijdraagt aan de weerbaarheid
+van de gemeente tegen extreme neerslag en wateroverlast.
+Tegelijkertijd is het college van
+mening dat de aanbeveling zeer divers en breed omschreven is.
+Op dit moment zien we onvoldoende uitleg van de onderdelen uit de aanbeveling om
+weloverwogen keuzes mogelijk te maken met betrekking tot prioritering, fasering en wijze van
+uitvoeren.
+7
+Aanbeveling 4.
+Blijf het bewustzijn en de handvatten van medewerkers in de voorbereiding van
+projecten voor nieuwbouw en herinrichten vergroten.
+De gemeente is goed op weg om de ambities voor klimaatadaptatie te vertalen naar de uitvoering
+in projecten.
+Wat naar voren komt als knelpunt is "het landen" van het beleid in de hele
+organisatie.
+AIie schakels (van ontwerp, tot onderhoud, tot VTH) zijn hierin cruciaal.
+Om dit te
+bevorderen/versnellen bevelen wij aan:
+• Koplopers in de organisatie actiever in te zetten.
+In elke schakel zijn medewerkers die een scherp oog hebben voor klimaatadaptatie
+(de koplopers) en medewerkers die dat minder hebben.
+Koploper kunnen hun collega's
+sneller naar hun niveau krijgen door zich te profileren als "expert
+klimaatadaptatie" en daarmee te fungeren als vraagbaak en voorlichter (delen van
+successen en geven van trainingen).
+• De aandacht voor VTH te vergroten.
+VTH is een cruciale schakel, zeker waar het gaat om verplichtingen gericht op privaat
+terrein en plangebieden voor nieuwbouw.
+Wij bevelen aan de geplande actie van het
+opstellen van een VTH-strategie uit te voeren, en de personele capaciteit voor VTH
+(indien nodig) te vergroten.
+Reactie college:
+Het college onderschrijft het belang van voldoende bewustzijn, kennis en handelings-perspectief
+bij medewerkers aangaande de voorbereiding en uitvoering van projecten voor nieuwbouw en
+herinrichting.
+Het college deelt de constatering dat klimaatadaptatie steeds beter zijn weg vindt
+naar de uitvoering in projecten.
+Het "landen" van het beleid in de gehele organisatie vraagt echter
+blijvende aandacht.
+Daarbij zijn alle schakels in het proces - van ontwerp en uitvoering tot beheer
+en VTH (Vergunningverlening, Toezicht en Handhaving) - van groot belang.
+Vanuit dit gegeven
+zijn er al stappen gezet.
+Zo is in de periode november 2025 tot april 2026 binnen het domein Ruimte een leertraject
+Klimaatadaptatie uitgevoerd.
+Doel was het verdiepen van kennis en bewustwording bij betrokken
+ambtenaren en het gezamenlijk verkennen van praktijkuitdagingen en oplossingsrichtingen.
+De
+opbrengsten van het leertraject worden benut om vervolgstappen te bepalen voor een betere
+inbedding van klimaatadaptatie binnen de organisatie.
+Daarnaast deelt het college de constatering dat VTH een cruciale schakel vormt bij de borging
+van klimaatadaptatie, met name richting private initiatiefnemers en bij nieuwbouwontwikkelingen.
+In de lopende uitwerking van de VTH-strategie krijgt klimaatadaptatie daarom een herkenbare en
+structurele plaats.
+Daarbij wordt tevens bezien of de beschikbare personele capaciteit en
+aanwezige expertise toereikend zijn om deze rol effectief en zorgvuldig te kunnen vervullen.
+Tot slot wijst het college er op dat recent initiatieven opgezet zijn, zoals de
+WieWatWaaromWater?!-campagne die erop gericht is bewoners en schoolkinderen meer bewust
+te maken van klimaatadaptatie en duurzaam gebruik van water.
+Het college acht het van belang dat versterking van bewustzijn en handelingsperspectief
+zorgvuldig wordt ingepast in de bestaande organisatie en werkprocessen.
+8
+Tot slot.
+Het onderzoeksrapport biedt inzicht in het huidige functioneren van de gemeente in relatie tot het
+onderwerp en geeft richting aan thema's waar we als organisatie in kunnen verbeteren.
+Wij
+waarderen de aandacht hiervoor vanuit de gemeenteraad en de Rekenkamer ten zeerste.
+Het college nodigt de gemeenteraad uit om de aanbevelingen met een opbouwende blik te
+aanschouwen en met een kritisch oog te agenderen.
+Hoogachtend,
+Burgemeester en wethouders van de gemeente Dijk en Waard,
+de secretaris,
+Bezoekadressen
+Parelhof 1, Heerhugowaard
+Bosgroet 2, Zuid-Scharwoude
+Postadres
+Postbus 390
+1700 AJ Heerhugowaard
+www.dijkenwaard.nl
+072 575 55 55
+post@dijkenwaard.nl
+[Bijlage: Nawoord Rekenkamerrapport Extreme regenval]
+Nawoord van de rekenkamer
+Op 7 mei 2026 heeft de rekenkamer de bestuurlijke reactie van het
+college ontvangen.
+Wij zijn verheugd om te lezen dat het college onze constatering deelt
+dat het doelbereik onvoldoende inzichtelijk is en dat de raad structureler
+betrokken moet worden bij afwegingen rondom risico’s.
+Gezien de actualiteit van het onderwerp waren wij als rekenkamer content met
+de uitkomst van ons onderzoek.
+Het verraste ons daarom ook te lezen dat het
+college stelt dat het onderzoek “te algemeen en weinig te vinden om
+daadwerkelijk sturing te geven”, dat er een prioritering in de aanbevelingen
+ontbreekt en dat men vreest voor “een papieren exercitie”.
+De rekenkamer hecht eraan hierop constructief, doch helder te reageren.
+Zoals gesteld is de rekenkamer tevreden met de uitkomst van het onderzoek.
+Daarbij is het de onafhankelijke taak van de rekenkamer om beleid te toetsen, te
+evalueren en om strategische tekortkomingen bloot te leggen.
+Rekenkamerrapporten zijn bedoeld om onderwerpen op de agenda te zetten en
+het gesprek tussen het college en de raad hierover op gang te brengen.
+In onze
+aanbevelingen doen wij suggesties om beter aan de slag te gaan, maar het is
+vervolgens de rol van het college om in het gesprek met de raad de
+aanbevelingen te vertalen naar een concrete, geprioriteerde uitvoeringsagenda,
+inclusief de bijbehorende afwegingen rondom capaciteit en middelen.
+Het
+rekenkamerrapport is bedoeld om blinde vlekken op de bestuurlijke agenda te
+zetten en het debat hierover in uw raad te voeden.
+Het rapport fungeert niet als
+operationeel projectplan, iets wat met de uitkomst van ons onderzoek ook niet
+nodig is.
+Wij nodigen de raad dan ook van harte uit om de bevindingen uit ons rapport,
+in samenhang met de reactie van het college, te gebruiken om het debat over
+waterveiligheid in Dijk en Waard structureel en strategisch te voeren.
+De rekenkamer wil daarnaast het college van B&W, de ambtelijke organisatie en
+de betrokken partners bedanken voor medewerking aan het onderzoek.
+Met vriendelijke groet,
+Remko in ’t Veld, Dylan Donia en Arash Lahyi
