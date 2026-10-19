@@ -1,0 +1,607 @@
+Quickscan Eco Park De Hoef
+2
+Inhoud
+Inleiding 3
+Aanleiding en context 3
+Voorstel Eco Park De Hoef 3
+Afbakening van deze quickscan 4
+Quickscan 5
+1.
+Economie 5
+Kader 5
+Beoordeling voorstel extra parkeerterrein 5
+Deelconclusie economie 6
+2.
+Verkeer, Parkeren en Verblijfskwaliteit 6
+Kader 6
+Huidige situatie parkeren 6
+Huidige situatie verkeersveiligheid 7
+Beoordeling voorstel extra parkeerterrein 7
+Deelconclusie verkeer, parkeren en verblijfskwaliteit 8
+3.
+Ruimtelijk-juridisch kader en waterkering 8
+Kader 8
+Omgevingsplan 8
+Waterkering 9
+Natuurvriendelijke oevers 9
+Deelconclusie ruimtelijk-juridisch kader en waterkering 9
+4.
+Groen, bomen en klimaatadaptatie 10
+Kader 10
+Status van de groenzone 10
+Beoordeling extra parkeerterrein 11
+Klimaatadaptatie 11
+Deelconclusie groen, bomen en klimaatadaptatie 11
+5.
+Ecologie en soortenbescherming 11
+Kader 11
+Ecologische functie van de groenzone 11
+Relatie met BOPA en uitvoerbaarheid 12
+Soortenmanagementplan en Europese Natuurherstelverordening 12
+Deelconclusie ecologie en soortenbescherming 12
+6.
+Conclusie 13
+Bijlage I.
+Motie 11-12-2025 14
+Bijlage II.
+Reactie Buurtoverleg De Hoef ‘Geestmolen’ 16
+Bijlage III.
+Motie 15-12-2025 18
+Bijlage IV.
+Parkeermetingen 20
+3
+Inleiding
+Aanleiding en context
+Op 11 december 2025 heeft de gemeenteraad de motie Quickscan haalbaarheid Eco Park De Hoef
+aangenomen, zie ook Bijlage I.
+De motie roept het college op om:
+1.
+Een integrale quickscan uit te voeren naar de haalbaarheid van het voorstel Eco Park De
+Hoef, inclusief de effecten op verkeer, parkeerdruk, verkeersveiligheid, ecologie,
+verblijfskwaliteit en de stedelijke groenstructuur.
+2.
+De resultaten van deze quickscan binnen drie maanden aan de gemeenteraad te rapporteren.
+3.
+De dekking te zoeken binnen de budgetten economisch beleid.
+De aanleiding voor de motie is het voorstel van de winkeliersvereniging van winkelcentrum De Hoef.
+De winkeliersvereniging signaleert knelpunten rondom het winkelcentrum, onder meer op het gebied
+van parkeren, verkeersveiligheid, fietsvoorzieningen, laadvoorzieningen en verblijfskwaliteit.
+Ook wordt
+aandacht gevraagd voor de inrichting van de openbare ruimte rondom het winkelcentrum.
+Voorstel Eco Park De Hoef
+Het voorstel Eco Park De Hoef (zie Figuur 1) bestaat uit meerdere onderdelen.
+Onderdeel hiervan is de
+aanleg van een extra parkeerterrein in de groenzone langs de Hoevervaart, met circa 80 extra
+parkeerplaatsen.
+Daarnaast bevat het voorstel onder meer:
+• het invoeren van een kort-parkeerregime, bijvoorbeeld via een blauwe zone;
+• het realiseren van extra laadpunten voor elektrische auto’s;
+• het aanpassen van de verkeerssituatie op en rond de Van Ostadelaan;
+• het realiseren van een nieuwe oversteek tussen het bestaande winkelcentrum en het
+voorgestelde parkeerterrein;
+• het verbeteren van verlichting, markering en entrees;
+• het verbeteren van voorzieningen voor fietsers en voetgangers;
+• het verhogen van de verblijfskwaliteit rondom het winkelcentrum.
+Figuur 1 Voorstel Eco Park De Hoef
+4
+De door de ondernemers genoemde knelpunten ten aanzien van parkeren gaan niet alleen over het
+aantal parkeerplaatsen.
+Het gaat ook om de manier waarop het bestaande parkeerterrein functioneert.
+Daarbij worden onder meer genoemd:
+• ervaren parkeerdruk op drukke momenten;
+• zoekverkeer op het parkeerterrein;
+• conflicten of onduidelijkheid bij de bestaande gecombineerde in- en uitrit;
+• de inrichting van looproutes tussen parkeerplaatsen en winkels;
+• de oversteekbaarheid van de Van Ostadelaan;
+• de beschikbare fietsparkeervoorzieningen;
+• de behoefte aan laadvoorzieningen;
+• de verblijfskwaliteit van de openbare ruimte rond het winkelcentrum.
+Naar aanleiding van het voorstel Eco Park De Hoef en de aangenomen motie zijn ook reacties uit de
+omgeving ontvangen.
+Buurtoverleg De Hoef ‘Geestmolen’ heeft een schrijven aan de gemeente
+gestuurd en daarbij eigen parkeertellingen gedeeld.
+Op basis van deze tellingen stelt het buurtoverleg
+dat er, ook op momenten met bedrijvigheid, nog parkeerplaatsen beschikbaar zijn op en rond het
+winkelcentrum, zie ook Bijlage II.
+Daarnaast hebben VVE Hoefplan V, Buurtoverleg De Hoef ‘Geestmolen’ en Natuur in De Hoef een
+motie vreemd aan de orde van de agenda opgesteld.
+Daarin spreken zij zorgen uit over de aanleg van
+extra parkeerplaatsen in de groenzone langs de Hoevervaart.
+De zorgen hebben onder meer
+betrekking op de aantasting van de ecologische verbindingszone, de bestaande groenstructuur,
+mogelijke gevolgen voor bewoners en de vraag of uitbreiding van het aantal parkeerplaatsen
+noodzakelijk is, zie ook Bijlage III.
+Deze reacties zijn betrokken als signaal uit de omgeving en als
+aanvullende context bij deze quickscan.
+Afbakening van deze quickscan
+Deze quickscan is bedoeld als eerste beoordeling van de haalbaarheid van het voorstel.
+De quickscan
+kijkt naar de ruimtelijke, verkeerskundige, ecologische, juridische en beleidsmatige randvoorwaarden.
+Het is geen ontwerpstudie, geen volledige ruimtelijke onderbouwing en geen participatie- of
+draagvlakonderzoek.
+De gemeenteraad heeft bij de behandeling van de motie aandacht gevraagd voor het betrekken van
+belanghebbenden.
+In deze fase is er echter voor gekozen om eerst te beoordelen of de voorgestelde
+ontwikkeling beleidsmatig, juridisch en ruimtelijk kansrijk is.
+Een breed gesprek met belanghebbenden
+is vooral zinvol wanneer duidelijk is welke onderdelen van het voorstel haalbaar en wenselijk zijn en
+welke varianten realistisch kunnen worden uitgewerkt.
+Draagvlak in de buurt valt daarom buiten de scope van deze quickscan.
+Dit betekent niet dat draagvlak
+niet relevant is.
+Als het college besluit om één of meer onderdelen van het voorstel verder te
+onderzoeken of uit te werken, worden belanghebbenden, waaronder ondernemers, bewoners,
+buurtoverleg De Hoef ‘Geestmolen’, Natuur in De Hoef en andere betrokkenen, daarbij betrokken.
+5
+Quickscan
+1.
+Economie
+Kader
+Bij de economische beoordeling is gekeken naar de positie van winkelcentrum De Hoef binnen de
+Alkmaarse detailhandelsstructuur, de kwaliteit van het voorzieningenaanbod, eventuele leegstand en
+de vraag of er vanuit economisch perspectief aanleiding bestaat voor uitbreiding van het
+parkeerareaal.
+Daarbij is gebruikgemaakt van het Koopstromenonderzoek 2025, het DTNP-advies over
+de gewenste dagelijkse winkelstructuur in Alkmaar en informatie over het actuele winkelaanbod in
+winkelcentrum De Hoef.
+Winkelcentrum De Hoef is een compact en compleet buurtwinkelcentrum gelegen aan de Van
+Ostadelaan in Alkmaar.
+Het staat bekend om zijn brede aanbod voor de dagelijkse boodschappen
+door de aanwezigheid van twee supermarkten en uitstekende verswinkels.
+Er is een grote
+specialiseerde landelijke ondernemer, Cameraland en verschillende ketens.
+Daarmee vervult De Hoef
+een belangrijke functie voor de dagelijkse voorzieningen in Alkmaar-West.
+Volgens het DTNP-advies over de dagelijkse winkelstructuur levert De Hoef een belangrijke bijdrage
+aan de spreiding van boodschappenvoorzieningen in het westelijke deel van de stad.
+Daarbij wordt het
+winkelcentrum gekenmerkt door een samenhangende opzet met supermarkten als trekkers aan
+weerszijden van het centrum en aanvullende winkels daartussen.
+Uit het Koopstromenonderzoek 2025 blijkt dat bezoekers het winkelcentrum positief waarderen.
+Voor
+het aspect autoparkeren krijgt De Hoef een waardering van 8,3.
+De aanwezigheid en kwaliteit van
+groen wordt beoordeeld met een 6,9.
+Daarnaast laat het onderzoek zien dat er geen sprake is van
+leegstand binnen het winkelcentrum.
+Per 2025 wordt één leegstaand verkooppunt geregistreerd, maar
+geen leegstaand winkelvloeroppervlak.
+Dit duidt op een goed functionerend winkelgebied met een
+stabiel voorzieningenaanbod.
+Ook een controle van het actuele aanbod aan winkelruimten laat zien dat binnen winkelcentrum De
+Hoef geen winkelpanden beschikbaar zijn voor verhuur of verkoop.
+Dit bevestigt het beeld van een
+vrijwel volledig bezet winkelcentrum.
+Beoordeling voorstel extra parkeerterrein
+De winkeliersvereniging geeft aan dat uitbreiding van het parkeerareaal gewenst is om de
+aantrekkelijkheid en bereikbaarheid van het winkelcentrum te versterken.
+Vanuit economisch
+perspectief kan extra parkeergelegenheid wenselijk zijn wanneer sprake is van structurele
+parkeerproblemen, leegstand, teruglopende bezoekersaantallen of een aantoonbare beperking van de
+economische ontwikkeling van een winkelgebied.
+Op basis van de beschikbare gegevens zijn hiervoor echter geen duidelijke aanwijzingen gevonden.
+Het winkelcentrum functioneert goed, kent vrijwel geen leegstand en heeft een sterke positie binnen
+de dagelijkse winkelstructuur van Alkmaar.
+Daarnaast waarderen bezoekers de parkeermogelijkheden
+bovengemiddeld.
+Daarmee is vanuit economisch oogpunt niet aangetoond dat uitbreiding van het parkeerareaal
+noodzakelijk is om het functioneren van het winkelcentrum in stand te houden of te versterken.
+Eventuele investeringen in extra parkeerplaatsen moeten bovendien worden afgewogen tegen de
+ruimtelijke, ecologische en financiële consequenties van het voorstel.
+6
+Deelconclusie economie
+Winkelcentrum De Hoef functioneert economisch goed.
+Het winkelcentrum vervult een belangrijke rol
+binnen de Alkmaarse dagelijkse winkelstructuur, kent vrijwel geen leegstand en wordt door bezoekers
+positief gewaardeerd, waaronder specifiek voor de parkeervoorzieningen.
+Op basis van de beschikbare gegevens is er geen economische noodzaak aangetoond voor de aanleg
+van circa 80 extra parkeerplaatsen in de groenzone langs de Hoevervaart.
+Vanuit economisch
+perspectief lijkt daarom geen zwaarwegend argument te bestaan om de aanzienlijke ruimtelijke en
+ecologische impact van deze ontwikkeling te rechtvaardigen.
+2.
+Verkeer, Parkeren en Verblijfskwaliteit
+Kader
+Bij de beoordeling van verkeer en parkeren is gekeken naar de beschikbare parkeergegevens, de
+huidige inrichting van het parkeerterrein, de verkeersveiligheid op en rond de Van Ostadelaan en de
+relatie met bestaand gemeentelijk verkeers(veiligheids)beleid.
+Voor parkeren is in deze quickscan gekeken naar feitelijke parkeerbezetting en beschikbare capaciteit
+en de vraag of de beschikbare gegevens een structureel tekort aan parkeerplaatsen laten zien.
+Daarbij
+is onderscheid gemaakt tussen gemiddelde bezetting, piekmomenten en ervaren parkeerdruk op
+specifieke locaties, zoals dicht bij de entrees van het winkelcentrum.
+Voor verkeersveiligheid is van belang dat de Van Ostadelaan en de Nicolaas Beetskade ook breder in
+beeld zijn in het kader van verkeersveiligheid en mogelijke snelheidsverlaging naar 30 km/uur.
+Huidige situatie parkeren
+Het bestaande parkeerterrein bij winkelcentrum De Hoef heeft 156 parkeerplaatsen.
+Op deze
+parkeerplaatsen geldt geen parkeerregime (betaald of vergunninghoudersparkeren of blauwe zone)
+Uit de beschikbare parkeergegevens uit februari 2024 (zie Bijlage IV) blijkt dat op meerdere
+meetmomenten nog vrije parkeerplaatsen aanwezig zijn.
+Op de drukste momenten, op vrijdag
+zaterdag 9 en 10 februari, waren er weliswaar delen van het parkeerterrein die een parkeerdruk van
+100% benaderden, maar op geen moment was de gemiddelde parkeerdruk op het hele parkeerterrein
+hoger dan 90%.
+Daarnaast waren op de drukste momenten voldoende parkeerplaatsen beschikbaar in
+de wijk ernaast.
+De parkeerdruk bedroeg daar op de drukste momenten minder dan 80%.
+Daarmee is
+op basis van de beschikbare gegevens geen aantoonbaar structureel tekort aan parkeerplaatsen
+vastgesteld.
+Wel kan op piekmomenten sprake zijn van ervaren parkeerdruk.
+Dat geldt vooral wanneer bezoekers
+dicht bij de entrees willen parkeren of wanneer zoekverkeer ontstaat doordat vrije plaatsen niet
+gelijkmatig over het terrein worden gevonden.
+Een parkeerterrein kan dus feitelijk nog vrije capaciteit
+hebben, terwijl gebruikers op drukke momenten toch parkeerdruk ervaren.
+Bij de beoordeling is daarom van belang om onderscheid te maken tussen:
+• een absoluut capaciteitstekort: er zijn structureel te weinig parkeerplaatsen;
+• lokale of tijdelijke parkeerdruk: er zijn nog vrije plaatsen, maar niet altijd op de gewenste plek;
+• inrichtingsknelpunten: de routing, entrees, looproutes of in- en uitrit functioneren niet
+optimaal.
+Op basis van de beschikbare gegevens lijkt de problematiek vooral te zitten in de inrichting en het
+gebruik van de bestaande ruimte, en minder in een structureel tekort aan parkeerplaatsen.
+7
+Huidige situatie verkeersveiligheid
+De Van Ostadelaan is verkeersveiligheidskundig een aandachtspunt.
+Zo is de weg opgenomen in het
+Actieplan Verkeersveiligheid als weg waarvan met hoge prioriteit geadviseerd wordt de
+maximumsnelheid te verlagen naar 30 km/uur.
+De weg wordt gebruikt door auto’s, ov, vrachtwagens,
+fietsers en voetgangers en ligt direct langs het winkelcentrum.
+Op deze weg hebben zich in de
+afgelopen jaren meerdere ongevallen voorgedaan, veelal tussen personenauto’s en
+(brom)fietsers/voetgangers.
+Vanuit verkeerveiligheidsoptiek is het dan ook wenselijk de
+maximumsnelheid op deze weg te verlagen naar 30 km/uur.
+Ook de aansluiting van het parkeerterrein
+op de Van Ostadelaan vraagt aandacht, omdat de bestaande gecombineerde in- en uitrit tot
+onduidelijkheid of conflicten kan leiden.
+Tegelijkertijd moet onderscheid worden gemaakt tussen twee soorten verkeersveiligheidsvragen:
+1. de bredere verkeersveiligheid op de Van Ostadelaan en de Nicolaas Beetskade, waaronder de
+mogelijke invoering van 30 km/uur;
+2. de specifieke verkeersafwikkeling van het bestaande parkeerterrein, waaronder de
+gecombineerde in- en uitrit, de routing op het terrein en de looproutes voor voetgangers.
+De mogelijke snelheidsverlaging naar 30 km/uur op de Van Ostadelaan en de Nicolaas Beetskade
+wordt breder opgepakt in het kader van verkeersveiligheid.
+Dit is niet afhankelijk van het project Eco
+Park De Hoef.
+Beoordeling voorstel extra parkeerterrein
+Het voorstel voor een extra parkeerterrein in de groenzone langs de Hoevervaart zou extra
+parkeercapaciteit toevoegen.
+Daar staat tegenover dat bezoekers die op dit nieuwe terrein parkeren de
+Van Ostadelaan moeten oversteken om het winkelcentrum te bereiken.
+Dat leidt tot nieuwe
+oversteekbewegingen tussen parkeerterrein en winkels.
+Een extra parkeerterrein aan de overzijde van de straat lost daardoor niet automatisch
+verkeersveiligheidsknelpunten op.
+Het roept ook nieuwe aandachtspunten op, zoals:
+• extra voetgangersbewegingen over de Van Ostadelaan;
+• mogelijke effecten op doorstroming en verkeersbeeld;
+• gevolgen voor de inrichting van de Van Ostadelaan met onder andere een nieuwe oversteek;
+• snelheidsverlaging naar 30 km/uur is noodzakelijk voor de verkeersveiligheid.
+Ook het voorstel voor een rotonde of minirotonde op de Van Ostadelaan vraagt nader verkeerskundig
+en ruimtelijk onderzoek.
+Een dergelijke maatregel is geen quick win.
+Hiervoor is onder meer inzicht
+nodig in ruimtebeslag, verkeersafwikkeling, fiets- en voetgangersveiligheid, effecten op bestaande
+parkeerplaatsen en de relatie met de verdere inrichting van de Van Ostadelaan.
+Dit valt niet onder de
+scope van deze quickscan.
+Wel kan op voorhand worden verwacht dat op de door de
+winkeliersvereniging aangedragen locatie geen reguliere rotonde past.
+Een dergelijke rotonde vereist
+naar verwachting een buitendiameter van circa 30 meter of meer, waarvoor op deze locatie
+onvoldoende ruimte beschikbaar lijkt te zijn (zie figuur 2).
+Ook een mini- of microrotonde is niet
+zonder meer een passende oplossing.
+Door de beperkte afmetingen zullen bussen en vrachtverkeer
+waarschijnlijk gebruik moeten maken van een overrijdbare middenzone.
+Ook is een dergelijke rotonde
+waarschijnlijk beperkt herkenbaar voor weggebruikers, daar deze niet vaak (meer) wordt toegepast,
+wat kan ervoor kan zorgen dat vaak recht over het middeneiland heen gereden wordt.
+Dit kan zorgen
+voor onoverzichtelijke en onveilige situaties.
+Gezien deze aandachtspunten en het ontbreken van
+nader ontwerp- en verkeersonderzoek wordt de aanleg van een rotonde op dit moment niet als een
+kansrijke maatregel beschouwd.
+8
+Figuur 2 Diameter reguliere rotonde
+Deelconclusie verkeer, parkeren en verblijfskwaliteit
+Op basis van de beschikbare gegevens is niet aangetoond dat een uitbreiding van het parkeerareaal
+met circa 80 extra parkeerplaatsen noodzakelijk is.
+De gesignaleerde knelpunten lijken vooral samen te
+hangen met piekbelasting, routing en de gecombineerde in- en uitrit.
+De Van Ostadelaan blijft verkeersveiligheidskundig een aandachtspunt.
+De mogelijke invoering van 30
+km/uur en andere verkeersveiligheidsmaatregelen kunnen echter los van het extra parkeerterrein
+worden onderzocht en uitgewerkt.
+Een extra parkeerterrein aan de overzijde van de Van Ostadelaan
+veroorzaakt bovendien nieuwe oversteekbewegingen, wat de verkeersveiligheid niet ten goede komt.
+3.
+Ruimtelijk-juridisch kader en waterkering
+Kader
+Voor de ruimtelijk-juridische beoordeling is gekeken naar het geldende Omgevingsplan Alkmaar en
+naar de waterstaatkundige randvoorwaarden rondom de Hoevervaart.
+Het voorgestelde extra
+parkeerterrein ligt in een gebied dat in het Omgevingsplan is aangewezen voor groen.
+Daarnaast ligt
+een groot deel van het plangebied binnen de zone van een waterkering.
+Omgevingsplan
+De gronden waar het extra parkeerterrein is voorgesteld, zijn in het Omgevingsplan aangewezen voor
+groen.
+Een parkeerterrein past daar niet rechtstreeks binnen.
+Om een parkeerterrein mogelijk te
+maken, is daarom een planologische procedure nodig.
+Dat kan bijvoorbeeld via een Buitenplanse
+Omgevingsplanactiviteit (BOPA) of, afhankelijk van de verdere uitwerking, via een wijziging van het
+Omgevingsplan.
+Dat het Omgevingsplan kan worden gewijzigd of dat daarvan kan worden afgeweken, betekent niet
+dat dit zonder meer wenselijk of haalbaar is.
+Voor een afwijking moet worden aangetoond dat sprake
+is van een evenwichtige toedeling van functies aan locaties.
+Daarbij moeten alle relevante belangen
+9
+worden betrokken, waaronder parkeren, verkeer, groen, ecologie, waterveiligheid, verblijfskwaliteit en
+klimaatadaptatie.
+Als het voorstel verder zou worden uitgewerkt, zijn in ieder geval de volgende onderdelen nodig:
+• een ruimtelijke onderbouwing waaruit blijkt dat een parkeerterrein op deze locatie ruimtelijk
+aanvaardbaar is;
+• een parkeeronderbouwing waaruit blijkt dat uitbreiding van het parkeerareaal noodzakelijk is;
+• een verkeerskundige onderbouwing, inclusief oversteekbaarheid, verkeersveiligheid en
+effecten op de Van Ostadelaan;
+• afstemming met het Hoogheemraadschap Hollands Noorderkwartier over de waterkering;
+• een waterveiligheidstoets of vergelijkbare beoordeling van de gevolgen voor de waterkering;
+• ecologisch onderzoek naar beschermde soorten en leefgebied;
+• beoordeling van de gevolgen voor de hoofdgroenstructuur, ecologische verbindingszone en
+hoofdboomstructuur;
+• beoordeling van mogelijke compensatie van groen, bomen en ecologische waarden;
+• een bestuurlijke afweging of het omzetten van groen naar verkeer op deze plek wenselijk is.
+Waterkering
+Een groot deel van het plangebied ligt in of nabij de beschermingszone van een waterkering.
+Een deel
+bevindt zich bovendien dicht bij de oever van de Hoevervaart.
+Voor ingrepen in of nabij een
+waterkering gelden strikte randvoorwaarden.
+De stabiliteit, hoogte, onderhoudbaarheid en veiligheid
+van de waterkering mogen niet worden aangetast.
+Dit betekent dat ingrepen zoals afgraven, egaliseren, ophogen, verlagen of het aanbrengen van
+verharding niet zonder meer mogelijk zijn.
+Ook moet rekening worden gehouden met beheer en
+onderhoud van de waterkering.
+Afstemming met het Hoogheemraadschap Hollands Noorderkwartier
+is noodzakelijk voordat kan worden vastgesteld of en onder welke voorwaarden een ontwikkeling hier
+mogelijk is.
+De aanwezigheid van de waterkering maakt het voorstel juridisch en technisch complexer.
+Dit is een
+zelfstandige belemmering naast de gevolgen voor groen en ecologie.
+Natuurvriendelijke oevers
+Langs de Hoevervaart zijn natuurvriendelijke oevers aanwezig.
+Deze oevers bestaan uit een nat en een
+droog deel en hebben een ecologische functie.
+De beoordeling van deze oevers hoort primair thuis bij
+groen en ecologie, niet bij de waterkering.
+Wel is er ruimtelijke samenhang tussen de waterkering, de oeverzone en de groenzone.
+Een
+parkeerterrein dat dicht op de oeverzone wordt aangelegd, kan gevolgen hebben voor de ecologische
+functie, de inrichting en het beheer van deze zone.
+Dit wordt verder beoordeeld in de hoofdstukken
+over groen, klimaatadaptatie en ecologie.
+Deelconclusie ruimtelijk-juridisch kader en waterkering
+Het extra parkeerterrein past niet rechtstreeks binnen het geldende Omgevingsplan.
+Afwijking of
+wijziging is juridisch mogelijk, maar vraagt een stevige onderbouwing en een brede
+belangenafweging.
+Gezien de huidige parkeerdata, de ligging in de hoofdgroenstructuur, de
+ecologische waarden en de aanwezigheid van een waterkering is het onzeker of een evenwichtige
+toedeling van functies aan locaties kan worden onderbouwd.
+Daarnaast vormt de waterkering een
+belangrijke randvoorwaarde.
+Zonder nadere toetsing en afstemming met het Hoogheemraadschap
+kan niet worden vastgesteld of de voorgestelde ontwikkeling technisch en juridisch uitvoerbaar is.
+10
+4.
+Groen, bomen en klimaatadaptatie
+Kader
+De groenzone langs de Hoevervaart is onderdeel van de gemeentelijke hoofdgroenstructuur.
+De zone
+heeft niet alleen een landschappelijke functie, maar is ook van belang voor biodiversiteit, recreatie,
+klimaatadaptatie en de groene verbindingen in de stad.
+Het relevante beleid bestaat onder meer uit:
+• het Groenbeleidsplan Alkmaar 2017-2027;
+• het Boomstructuurplan 2017;
+• de nota’s Kansen voor vergroenen en Kansen voor biodiversiteit uit 2019;
+• het Beleidsplan Klimaatadaptatie Alkmaar 2024-2028;
+• de Omgevingsvisie Alkmaar 2040.
+Het uitgangspunt in deze beleidsstukken is dat bestaande waardevolle groenstructuren behouden en
+waar mogelijk versterkt worden.
+Waar groen verdwijnt, moet worden beoordeeld of dit aanvaardbaar
+is en welke compensatie of mitigerende maatregelen nodig zijn.
+Status van de groenzone
+De groenzone langs de Hoevervaart heeft meerdere beleidsmatige kwaliteiten:
+• de zone is onderdeel van de gemeentelijke hoofdgroenstructuur;
+• de zone is aangewezen als ecologische verbindingszone;
+• de bomenrij langs de Van Ostadelaan maakt onderdeel uit van de hoofdboomstructuur;
+• de zone functioneert als groene ader in de stad.
+Een groene ader is een groene verbinding door de stad.
+Zulke verbindingen zijn belangrijk voor
+natuur, verkoeling, waterberging, recreatief gebruik, langzaam verkeer en de ruimtelijke kwaliteit van
+de leefomgeving.
+Het gaat dus niet om losstaand restgroen, maar om een schakel in een grotere
+stedelijke groenstructuur.
+De status van de groenzone volgt uit vastgesteld gemeentelijk beleid en de
+bijbehorende kaarten.
+Deze quickscan onderbouwt niet waarom de zone destijds deze status heeft
+gekregen, maar beoordeelt wat de gevolgen zijn van het ondernemersvoorstel binnen deze bestaande
+beleidskaders.
+Figuur 3 Kaart Hoofdgroenstructuur (bron: Groenbeleidsplan)
+11
+Beoordeling extra parkeerterrein
+De aanleg van een extra parkeerterrein in de groenzone leidt tot aantasting van de gemeentelijke
+hoofdgroenstructuur, de ecologische verbindingszone en mogelijk de hoofdboomstructuur.
+Het gaat
+daarbij niet alleen om verlies aan oppervlakte groen, maar ook om versnippering, verharding en
+vermindering van de kwaliteit van de groene verbinding langs de Hoevervaart.
+Daarnaast lijkt het voorstel gevolgen te kunnen hebben voor bestaande bomen en voor de bomenrij
+langs de Van Ostadelaan.
+Nader ontwerp moet uitwijzen hoeveel bomen daadwerkelijk geraakt
+worden.
+Omdat deze bomenrij onderdeel is van de hoofdboomstructuur, is kap of aantasting
+beleidsmatig ongewenst en vraagt dit om een afzonderlijke beoordeling en mogelijke compensatie.
+De aanleg van extra verharding staat daarnaast op gespannen voet met de gemeentelijke inzet op
+klimaatadaptatie.
+Groen draagt bij aan waterberging, verkoeling, biodiversiteit en een prettige
+leefomgeving.
+Verharding kan juist leiden tot meer hittestress en minder infiltratie van regenwater.
+In
+het coalitieakkoord is de ambitie opgenomen om de gemeente meer te vergroenen.
+Klimaatadaptatie
+Het klimaatadaptatiebeleid sluit een ontwikkeling als een parkeerterrein niet in absolute zin uit.
+Wel
+pleit het beleid zwaar tegen het verminderen van waardevol stedelijk groen, zeker wanneer dit groen
+onderdeel is van een hoofdgroenstructuur of ecologische verbinding.
+Als toch voor een parkeerterrein op deze locatie zou worden gekozen, moet worden onderbouwd hoe
+negatieve effecten op klimaatadaptatie worden voorkomen, beperkt of gecompenseerd.
+Daarbij kan
+worden gedacht aan waterdoorlatende verharding, extra bomen, extra groen, waterberging en
+compensatie elders.
+De vraag blijft echter of zulke maatregelen voldoende zijn om het verlies aan
+bestaande groenstructuur en ecologische kwaliteit te rechtvaardigen.
+Deelconclusie groen, bomen en klimaatadaptatie
+Het extra parkeerterrein tast een beleidsmatig waardevolle groenzone aan.
+De ontwikkeling raakt aan
+de hoofdgroenstructuur, de ecologische verbindingszone, de groene ader langs de Hoevervaart en
+mogelijk de hoofdboomstructuur.
+Ook vanuit klimaatadaptatie is omzetting van groen naar verharding
+ongunstig.
+5.
+Ecologie en soortenbescherming
+Kader
+Bij ruimtelijke ingrepen moet rekening worden gehouden met beschermde plant- en diersoorten en
+met de zorgplicht onder de Omgevingswet.
+Daarnaast werkt de gemeente Alkmaar met een
+soortenmanagementplan, zoals vastgesteld door het college op 5 maart 2024.
+Dit plan ondersteunt
+onder meer isolatie-, renovatie-, verduurzamings- en woningbouwopgaven binnen de kaders van
+soortenbescherming.
+De groenzone langs de Hoevervaart is ecologisch relevant omdat deze functioneert als groenblauwe
+verbinding tussen stad en landelijk gebied.
+De combinatie van water, oevers, bomen, struiken en gras
+maakt het gebied geschikt als leefgebied, foerageergebied en verbindingsroute voor verschillende
+soorten.
+Ecologische functie van de groenzone
+In de directe omgeving van het winkelcentrum zijn verblijfplaatsen van vleermuizen bekend.
+De
+groenzone langs de Hoevervaart kan door vleermuizen worden gebruikt als foerageergebied en als
+12
+vliegroute.
+Ook andere soorten, zoals egels, marterachtigen, vogels, vissen, insecten en amfibieën,
+kunnen gebruikmaken van de oeverzone en de aangrenzende groenzone.
+De exacte aanwezigheid en het gebruik door beschermde soorten moet, als het voorstel verder wordt
+uitgewerkt, met soortgericht onderzoek worden vastgesteld.
+Zonder dat onderzoek kan niet worden
+beoordeeld of de ontwikkeling ecologisch uitvoerbaar is.
+Relatie met BOPA en uitvoerbaarheid
+Ecologische uitvoerbaarheid is onderdeel van de ruimtelijke aanvaardbaarheid van een ontwikkeling.
+Als voor het extra parkeerterrein een Buitenplanse Omgevingsplanactiviteit (BOPA) of wijziging van het
+Omgevingsplan nodig is, moet dus ook worden onderbouwd dat de ontwikkeling uitvoerbaar is
+binnen de regels voor soortenbescherming.
+Daarvoor is in ieder geval nodig:
+• inzicht in de aanwezige beschermde soorten;
+• beoordeling van het gebruik van de groenzone als leefgebied, foerageergebied of vliegroute;
+• beoordeling van effecten van verharding, verlichting, geluid en extra gebruik;
+• beoordeling van mogelijke mitigerende maatregelen;
+• beoordeling van eventuele compensatie;
+• afstemming met de kaders van het soortenmanagementplan.
+Zonder deze informatie kan niet worden geconcludeerd dat het extra parkeerterrein ecologisch
+uitvoerbaar is.
+Soortenmanagementplan en Europese Natuurherstelverordening
+Het soortenmanagementplan biedt de gemeente juridische ruimte om bepaalde opgaven, zoals
+verduurzaming, renovatie en woningbouw, uit te voeren binnen de regels voor soortenbescherming.
+Een belangrijk uitgangspunt daarbij is dat leefgebied van diersoorten behouden blijft en waar nodig
+wordt versterkt.
+Aantasting van leefgebied dat relevant is binnen het soortenmanagementplan
+betekent niet automatisch dat andere gemeentelijke opgaven onmogelijk worden.
+Wel kan het de
+juridische ruimte binnen het soortenmanagementplan verkleinen of extra mitigatie en compensatie
+vragen.
+Daarom moet terughoudend worden omgegaan met het omzetten van ecologisch waardevol
+gebied naar verharding.
+Ook de Europese Natuurherstelverordening is relevant.
+De exacte gemeentelijke doorwerking daarvan
+wordt nog verder uitgewerkt.
+Wel sluit de verordening aan bij de beleidslijn dat nettoverlies aan
+stedelijk groen en boomkroonbedekking moet worden voorkomen en dat stedelijke ecosystemen
+moeten worden hersteld en versterkt.
+De verordening betekent niet dat elke ruimtelijke ingreep in
+groen op voorhand onmogelijk is.
+Wel versterkt zij de noodzaak om zorgvuldig om te gaan met
+bestaand stedelijk groen, zeker wanneer sprake is van waardevolle groenstructuren en ecologische
+verbindingen.
+Deelconclusie ecologie en soortenbescherming
+Het voorstel van de winkeliersvereniging kan gevolgen hebben voor ecologisch waardevol gebied
+langs de Hoevervaart.
+De groenzone heeft betekenis als groenblauwe verbinding en mogelijk als
+leefgebied, foerageergebied en vliegroute voor beschermde soorten.
+Als het voorstel verder wordt uitgewerkt, is soortgericht onderzoek noodzakelijk.
+Ook moet worden
+beoordeeld of de ontwikkeling past binnen het soortenmanagementplan en welke mitigatie of
+compensatie nodig zou zijn.
+Op basis van de quickscan kan ecologische uitvoerbaarheid niet worden
+aangetoond.
+Gezien de ligging in een ecologisch waardevolle zone ligt verdere uitwerking van een
+parkeerterrein op deze locatie niet voor de hand.
+13
+6.
+Conclusie
+In deze quickscan is de haalbaarheid van het voorstel Eco Park De Hoef integraal beoordeeld op de
+aspecten verkeer, parkeren, verkeersveiligheid, ecologie, verblijfskwaliteit, ruimtelijk-juridische
+uitvoerbaarheid, waterkering, groen en klimaatadaptatie.
+Op basis van de beschikbare gegevens is een
+gebrek aan parkeercapaciteit niet onomstotelijk te bewijzen.
+Er zijn op meerdere momenten nog vrije
+parkeerplaatsen aanwezig.
+De parkeerdruk op het parkeerterrein en/of de direct aangelegen straten is
+op het maatgevende moment onder de 90% en daarmee voldoet het aan het gemeentelijk beleid.
+Ook vanuit economisch perspectief bestaat hiervoor geen zwaarwegende aanleiding.
+Winkelcentrum
+De Hoef functioneert goed, kent vrijwel geen leegstand, vervult een belangrijke functie binnen de
+dagelijkse winkelstructuur van Alkmaar en wordt door bezoekers positief gewaardeerd.
+Er zijn geen
+aanwijzingen dat het ontbreken van parkeerplaatsen de economische ontwikkeling van het
+winkelcentrum belemmert.
+Hier tegenover staan aanzienlijke ruimtelijke, ecologische en juridische aandachtspunten.
+Het extra
+parkeerterrein past niet rechtstreeks binnen het geldende Omgevingsplan en vraagt om een
+afzonderlijke procedure en onderbouwing.
+Daarbij moet worden aangetoond dat sprake is van een
+evenwichtige toedeling van functies aan locaties.
+Gezien de ligging in de hoofdgroenstructuur, de
+ecologische verbindingszone, de nabijheid van natuurvriendelijke oevers, de mogelijke gevolgen voor
+bomen en beschermde soorten en de ligging bij een waterkering is het onzeker of een dergelijke
+onderbouwing gedaan kan worden.
+De ontwikkeling is daarmee niet goed passend binnen het geldende gemeentelijke beleid voor groen,
+ecologie en klimaatadaptatie.
+Ook vanuit verkeersveiligheid is het extra parkeerterrein geen
+vanzelfsprekende oplossing, omdat een parkeerterrein aan de overzijde van de Van Ostadelaan nieuwe
+oversteekbewegingen veroorzaakt.
+Alles overwegende laat de quickscan zien dat:
+• de parkeerbehoefte op basis van de beschikbare gegevens niet onomstotelijk is aangetoond;
+• er beleidsmatige, ecologische, juridische en verkeerskundige aandachtspunten bestaan;
+• voor een zorgvuldige besluitvorming nader onderzoek nodig kan zijn naar parkeerbehoefte,
+verkeerskundige effecten, ecologische effecten en ruimtelijke inpassing.
+14
+Bijlage I.
+Motie 11-12-2025
+15
+16
+Bijlage II.
+Reactie Buurtoverleg De Hoef ‘Geestmolen’
+17
+18
+Bijlage III.
+Motie 15-12-2025
+19
+20
+Bijlage IV.
+Parkeermetingen
