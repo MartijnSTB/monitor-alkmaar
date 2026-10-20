@@ -3,6 +3,168 @@
     "dijkenwaard"
   ],
   "items": {
+    "0c380ce09fe90cdee45137e609c759dde4c41db0b44f4fd6508f4d15866ec0db": {
+      "title": "Monitor ontwikkelmaatregelen jeugd 2026",
+      "url": "https://dijkenwaard.bestuurlijkeinformatie.nl/Reports/Item/3cfa04ab-df61-40e4-a7e1-089e5257d716",
+      "source": "Raadsportaal",
+      "gemeente": "dijkenwaard",
+      "first_seen": "2026-10-19T14:34:23+00:00",
+      "updated": "2026-10-20T01:01:59+00:00",
+      "last_change": "2026-10-20T01:01:59+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Collegeberichten",
+      "kind": "overzichtsitem",
+      "rapport": "Collegeberichten",
+      "last_seen": "2026-10-20",
+      "report_pass": "2026-10-20T00:01:23+00:00",
+      "doc_date": "2026-10-06",
+      "doc_date_label": "registratiedatum",
+      "portefeuillehouder": "Jasper John",
+      "report_seen": true,
+      "kw_sig": "4f53cda18c2b|eda81bf201af1fb7caf8ab572d2e9bcfdf49405d546d62f2e89cb7aa514f97e3|Monitor ontwikkelmaatregelen jeugd 2026|Collegeberichten",
+      "missing_count": 0,
+      "text_hash": "eda81bf201af1fb7caf8ab572d2e9bcfdf49405d546d62f2e89cb7aa514f97e3",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Collegebericht Monitor ontwikkelmaatregelen jeugd 2026",
+        "Monitor Ontwikkelmaatregelen Jeugd 2026"
+      ],
+      "bijlagen": [
+        {
+          "t": "Collegebericht Monitor ontwikkelmaatregelen jeugd 2026",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/4639366f-8d6f-40aa-8d22-09555de6efa4"
+        },
+        {
+          "t": "Monitor Ontwikkelmaatregelen Jeugd 2026",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/69d3285a-e5ba-42e5-a041-926f82b2150e"
+        }
+      ],
+      "content_checked": "2026-10-20T01:01:59+00:00",
+      "changes": [
+        {
+          "at": "2026-10-20T01:01:59+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "890 zin(nen) toegevoegd of aangepast, 1 verwijderd of vervangen",
+          "added": [
+            "Monitor Ontwikkelmaatregelen Jeugd",
+            "september 2026",
+            "Voor u ligt de eerste Monitor ontwikkelmaatregelen jeugd."
+          ],
+          "removed": [
+            "[Bijlage niet te lezen: 500 Server Error: Internal Server Error for url: https://dij]"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "f3a134cf5d2cb2a18b661fec03c7377ec4361156c6a03b8cb7d9b2f2631cb714": {
+      "title": "Zienswijze Geestmerambacht bijlage C",
+      "url": "https://dijkenwaard.bestuurlijkeinformatie.nl/Reports/Item/a49721ad-6bd0-44e6-ad7c-0d292795e876",
+      "source": "Raadsportaal",
+      "gemeente": "dijkenwaard",
+      "first_seen": "2026-10-19T14:34:34+00:00",
+      "updated": "2026-10-20T01:01:39+00:00",
+      "last_change": "2026-10-20T01:01:39+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Amendementen",
+      "kind": "overzichtsitem",
+      "rapport": "Amendementen",
+      "last_seen": "2026-10-20",
+      "report_pass": "2026-10-20T00:01:23+00:00",
+      "doc_date": "2026-10-06",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "Gemeenteraad 06-10-2026 7.1. Zienswijze ontwerp Algemene Verordening Geestmerambacht 2027",
+      "portefeuillehouder": "Soledad van Eijk",
+      "report_seen": true,
+      "kw_sig": "4f53cda18c2b|501d63abbcc6a99e2fd5ee92a7f5b8e70bc0b665553ff2034fa78a1d4ba0eaa8|Zienswijze Geestmerambacht bijlage C|Amendementen",
+      "missing_count": 0,
+      "text_hash": "501d63abbcc6a99e2fd5ee92a7f5b8e70bc0b665553ff2034fa78a1d4ba0eaa8",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Amendement DOP SDW - Zienswijze Geestmerambacht bijlage C"
+      ],
+      "bijlagen": [
+        {
+          "t": "Amendement DOP SDW - Zienswijze Geestmerambacht bijlage C",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/098ed448-f957-4bf9-b9f2-4f09a3322411"
+        }
+      ],
+      "content_checked": "2026-10-20T01:01:39+00:00",
+      "changes": [
+        {
+          "at": "2026-10-20T01:01:39+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "40 zin(nen) toegevoegd of aangepast, 1 verwijderd of vervangen",
+          "added": [
+            "4",
+            "À S eniorendf.0 Dijk enwaard",
+            "We stellen vast dat:"
+          ],
+          "removed": [
+            "[Bijlage niet te lezen: 500 Server Error: Internal Server Error for url: https://dij]"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "af724cbaec9794d3080dada194e54e5e899e8b8e6a90800b8505e421189f582e": {
+      "title": "Reactie rekenkamer raad september 2026",
+      "url": "https://dijkenwaard.bestuurlijkeinformatie.nl/Reports/Item/244b139c-f14a-421c-a46d-c5a0dfc14f8f",
+      "source": "Raadsportaal",
+      "gemeente": "dijkenwaard",
+      "first_seen": "2026-10-19T14:34:23+00:00",
+      "updated": "2026-10-20T01:01:27+00:00",
+      "last_change": "2026-10-20T01:01:27+00:00",
+      "hash": "",
+      "revisions": 2,
+      "excerpt": "Collegeberichten",
+      "kind": "overzichtsitem",
+      "rapport": "Collegeberichten",
+      "last_seen": "2026-10-20",
+      "report_pass": "2026-10-20T00:01:23+00:00",
+      "doc_date": "2026-10-07",
+      "doc_date_label": "registratiedatum",
+      "portefeuillehouder": "Ben Hoejenbos",
+      "report_seen": true,
+      "missing_count": 0,
+      "text_hash": "11f778a07f3fa340be4fab6929e54abb3ded6888d925c88e525d2b24d6cda28e",
+      "text_v": 2,
+      "bijlagen_titels": [
+        "Reactie rekenkamer raad september 2026",
+        "Infographic Dienstverlening - We gaan samen verder"
+      ],
+      "bijlagen": [
+        {
+          "t": "Reactie rekenkamer raad september 2026",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/b312a298-4d53-49dd-bd62-3a2110ac5572"
+        },
+        {
+          "t": "Infographic Dienstverlening - We gaan samen verder",
+          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/069a1f06-35a0-4936-960a-b4a10044abe6"
+        }
+      ],
+      "content_checked": "2026-10-20T01:01:27+00:00",
+      "kw_sig": "4f53cda18c2b|11f778a07f3fa340be4fab6929e54abb3ded6888d925c88e525d2b24d6cda28e|Reactie rekenkamer raad september 2026|Collegeberichten",
+      "changes": [
+        {
+          "at": "2026-10-20T01:01:27+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 371 verwijderd of vervangen",
+          "added": [
+            "[Bijlage niet te lezen: ('Connection broken: IncompleteRead(8452 bytes read, 1788 mo]",
+            "[Bijlage niet te lezen: ('Connection broken: IncompleteRead(4223 bytes read, 3961 mo]"
+          ],
+          "removed": [
+            "1",
+            "Aan: De gemeenteraad",
+            "Van: Het college van burgemeester en wethouders"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "d56527e79e18ced848964e55a148c24715e5a22d7cecdea48e927f05c8d52e3d": {
       "title": "Heerhugowaard op 20 Oktober 2026 UITagenda Activiteiten (22 x)",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfazRLOEZyRktVOHRqcEl0LUxONHg4RkVIeFctZWVBY09vdnB3TWZ4WmtRUEFVWXpsemNGT1p1cUhIQUJfUGczUlV3QnF6Q1ZfZ0FLdzVjbDJ2a0F3ZWtGUDdPQk9HWk9zVlVWTkNHYWxqcG1xZTNhNw?oc=5",
@@ -38196,7 +38358,7 @@
       "excerpt": "Presidium maandag 19 oktober 2026 · agendapunt 1 Opening en mededelingen",
       "missing_count": 0,
       "text_hash": "991d9461889b3220d6eaa0114eeb03b346ba0f86310b867067e7f05e746f01e7",
-      "content_checked": "2026-10-19T15:31:19+00:00",
+      "content_checked": "2026-10-20T01:02:31+00:00",
       "kw_sig": "4f53cda18c2b|991d9461889b3220d6eaa0114eeb03b346ba0f86310b867067e7f05e746f01e7|Collegebericht Subsidieregeling pol. part DW 2026|Presidium maandag 19 oktober 2026 · agendapunt 1 Opening en mededelingen"
     },
     "41a55374449494486aba1857b6527d6574baaeae21db453274106289638563a3": {
@@ -45677,7 +45839,7 @@
       "kind": "vergadering",
       "doc_date": "2026-09-01",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "kw_sig": "4f53cda18c2b||Commissie Raadzaal dinsdag 1 september 2026 Beeldvorming|"
     },
     "3bd70ba813182646c61afac1bbd5f5c9765d60442e77c91b1d074dbbec9665b9": {
@@ -45703,7 +45865,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Raadzaal dinsdag 1 september 2026 Beeldvorming",
       "agendapunt": "4 Preventieve ondersteuning in het onderwijs",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "excerpt": "Commissie Raadzaal dinsdag 1 september 2026 Beeldvorming · agendapunt 4 Preventieve ondersteuning in het onderwijs",
       "kw_sig": "4f53cda18c2b|7528d80b352dd9cda4571271d1945da0c677f3c1bee2c4d9149731b526140c07|Agendaverzoek beeldvormende avond onderwijs|Commissie Raadzaal dinsdag 1 september 2026 Beeldvorming · agendapunt 4 Preventieve ondersteuning in het onderwijs",
       "missing_count": 0,
@@ -45733,7 +45895,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Raadzaal dinsdag 1 september 2026 Beeldvorming",
       "agendapunt": "4 Preventieve ondersteuning in het onderwijs",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "excerpt": "Commissie Raadzaal dinsdag 1 september 2026 Beeldvorming · agendapunt 4 Preventieve ondersteuning in het onderwijs",
       "kw_sig": "4f53cda18c2b|628b1be86351fdd93b385b3ff3fde83e9a0d16f0595facc8617ca16b8854f3c7|Presentatie beeldvormende sessie - preventieve ondersteuning in en rondom het onderwijs|Commissie Raadzaal dinsdag 1 september 2026 Beeldvorming · agendapunt 4 Preventieve ondersteuning in het onderwijs",
       "missing_count": 0,
@@ -45754,7 +45916,7 @@
       "kind": "vergadering",
       "doc_date": "2026-09-22",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "kw_sig": "4f53cda18c2b||Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie|"
     },
     "14724af025bb0b047042126988628f089f19f529e5977d035864f55b14a9fe28": {
@@ -45850,7 +46012,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie",
       "agendapunt": "4.2 Raadskaders uitwerking Participatieverordening - Portefeuillehouder gemeenteraad",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "excerpt": "Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie · agendapunt 4.2 Raadskaders uitwerking Participatieverordening - Portefeuillehouder gemeenteraad",
       "kw_sig": "4f53cda18c2b|bdb574e651c48f183db1612d12a3b6c051382f8634f324adfc311c4efafa4a2c|Raadsvoorstel kaders Participatie|Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie · agendapunt 4.2 Raadskaders uitwerking Participatieverordening - Portefeuillehouder gemeenteraad",
       "missing_count": 0,
@@ -45880,7 +46042,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie",
       "agendapunt": "4.2 Raadskaders uitwerking Participatieverordening - Portefeuillehouder gemeenteraad",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "excerpt": "Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie · agendapunt 4.2 Raadskaders uitwerking Participatieverordening - Portefeuillehouder gemeenteraad",
       "kw_sig": "4f53cda18c2b|e8dcb93e92670d1a698e9ed3c66647a916a3840184c6f09e564acaa8d1ab82d8|Raadsbesluit kaders Participatie|Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie · agendapunt 4.2 Raadskaders uitwerking Participatieverordening - Portefeuillehouder gemeenteraad",
       "missing_count": 0,
@@ -45910,7 +46072,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie",
       "agendapunt": "4.2 Raadskaders uitwerking Participatieverordening - Portefeuillehouder gemeenteraad",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "excerpt": "Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie · agendapunt 4.2 Raadskaders uitwerking Participatieverordening - Portefeuillehouder gemeenteraad",
       "kw_sig": "4f53cda18c2b|b43383a993fc7a54ce647bf532057d33736c4593ea901470299e9a80cce165e1|Commissieadvies Raadskaders Uitwerking Participatieverordening|Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie · agendapunt 4.2 Raadskaders uitwerking Participatieverordening - Portefeuillehouder gemeenteraad",
       "missing_count": 0,
@@ -45940,7 +46102,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie",
       "agendapunt": "5.1 Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio's (KCR2) - Portefeuillehouder Poorter",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "excerpt": "Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie · agendapunt 5.1 Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio's (KCR2) - Portefeuillehouder Poorter",
       "kw_sig": "4f53cda18c2b|1606f00d6f63a463b35267956912b1e84117b17fd0565e737f195d7425522698|Raadsvoorstel wensen en bedenkingen op ontwerpbesluit oprichting stichting KCR2|Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie · agendapunt 5.1 Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio's (KCR2) - Portefeuillehouder Poorter",
       "missing_count": 0,
@@ -45970,7 +46132,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie",
       "agendapunt": "5.1 Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio's (KCR2) - Portefeuillehouder Poorter",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "excerpt": "Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie · agendapunt 5.1 Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio's (KCR2) - Portefeuillehouder Poorter",
       "kw_sig": "4f53cda18c2b|149ee807682b7a45de1da0032ff55435becfd15871d666e8c24f399b2e3d05fc|Raadsbesluit wensen en bedenkingen op ontwerpbesluit oprichting stichting KCR2|Commissie Raadzaal dinsdag 22 september 2026 Oordeelsvormende commissie · agendapunt 5.1 Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio's (KCR2) - Portefeuillehouder Poorter",
       "missing_count": 0,
@@ -46131,7 +46293,7 @@
       "kind": "vergadering",
       "doc_date": "2026-10-27",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "kw_sig": "4f53cda18c2b||Commissie Raadzaal dinsdag 27 oktober 2026 Oordeelsvormende commissie|"
     },
     "9f1afd5c884d2683e3dcb63007a2315b54bf8283f898b1b26ac10d75c44e0312": {
@@ -53109,7 +53271,7 @@
       "last_seen": "2026-10-20",
       "missing_count": 0,
       "text_hash": "7c3582a71dee11978866c0e14c6509fe9aba326cd1fd6e98dc98df6b3f201295",
-      "content_checked": "2026-10-19T14:36:31+00:00",
+      "content_checked": "2026-10-20T01:01:20+00:00",
       "kw_sig": "4f53cda18c2b|7c3582a71dee11978866c0e14c6509fe9aba326cd1fd6e98dc98df6b3f201295|Ondergrondse restafvalcontainers straks alleen te openen met een afvalpas|"
     },
     "b1688c7c2ef5c5455befd89dd5fa108d4b3cf6062a55e998164274979798df55": {
@@ -53129,7 +53291,7 @@
       "last_seen": "2026-10-20",
       "missing_count": 0,
       "text_hash": "66e99b1b540c74e0e680950a671fec30ee59fc57d1ed159f0b1c69d4efc0c616",
-      "content_checked": "2026-10-19T14:36:32+00:00",
+      "content_checked": "2026-10-20T01:01:22+00:00",
       "kw_sig": "4f53cda18c2b|66e99b1b540c74e0e680950a671fec30ee59fc57d1ed159f0b1c69d4efc0c616|Gebiedsverbinder Hendrik-Jan Twijnstra: “Je moet soms een lange adem hebben”|"
     },
     "642b3e778986c78869092cdd99449666f53c1ee08f4252d030fd6a4e75cebf02": {
@@ -53149,7 +53311,7 @@
       "last_seen": "2026-10-20",
       "missing_count": 0,
       "text_hash": "42c9e4101e4764386c21275b877c950edc76cee726a1d63623fe3c1d19e3e537",
-      "content_checked": "2026-10-19T14:36:32+00:00",
+      "content_checked": "2026-10-20T01:01:23+00:00",
       "kw_sig": "4f53cda18c2b|42c9e4101e4764386c21275b877c950edc76cee726a1d63623fe3c1d19e3e537|Nieuw Repair Café in het Transferium|"
     },
     "f3973b30ad21fd3e6df2566c26d7736f77f56184de0ca1afc3932b6893e151a0": {
@@ -53991,7 +54153,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/e12d45a0-0e69-4fa9-9fc0-cea19697608f"
         }
       ],
-      "content_checked": "2026-10-19T15:01:39+00:00"
+      "content_checked": "2026-10-20T01:01:34+00:00"
     },
     "f5de396bfaaf53637316bafb3bff806af5cde918f3911c96144e366875050b26": {
       "title": "Besluitenlijst van 28 september 2026",
@@ -60438,7 +60600,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/2fb249d2-da76-410e-b5fb-6dced2cfd33e"
         }
       ],
-      "content_checked": "2026-10-19T15:01:41+00:00"
+      "content_checked": "2026-10-20T01:01:36+00:00"
     },
     "4eb87b713dadeac59d37b7ffb0c5ebbd9883a09e0a424da1b6b3fe641fb98ece": {
       "title": "Brede en aanvullende vormen van burgerparticipatie",
@@ -60473,42 +60635,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/e4f55e71-f755-4215-81f7-d58ee4362bc6"
         }
       ],
-      "content_checked": "2026-10-19T15:01:43+00:00"
-    },
-    "f3a134cf5d2cb2a18b661fec03c7377ec4361156c6a03b8cb7d9b2f2631cb714": {
-      "title": "Zienswijze Geestmerambacht bijlage C",
-      "url": "https://dijkenwaard.bestuurlijkeinformatie.nl/Reports/Item/a49721ad-6bd0-44e6-ad7c-0d292795e876",
-      "source": "Raadsportaal",
-      "gemeente": "dijkenwaard",
-      "first_seen": "2026-10-19T14:34:34+00:00",
-      "updated": "2026-10-19T14:34:34+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Amendementen",
-      "kind": "overzichtsitem",
-      "rapport": "Amendementen",
-      "last_seen": "2026-10-20",
-      "report_pass": "2026-10-20T00:01:23+00:00",
-      "doc_date": "2026-10-06",
-      "doc_date_label": "vergaderdatum",
-      "meeting_title": "Gemeenteraad 06-10-2026 7.1. Zienswijze ontwerp Algemene Verordening Geestmerambacht 2027",
-      "portefeuillehouder": "Soledad van Eijk",
-      "report_seen": true,
-      "kw_sig": "4f53cda18c2b|4c12c1e84c7ec7738408034558ea0a3129e551097a0a57b289043b133d916e59|Zienswijze Geestmerambacht bijlage C|Amendementen",
-      "missing_count": 0,
-      "text_hash": "4c12c1e84c7ec7738408034558ea0a3129e551097a0a57b289043b133d916e59",
-      "text_v": 2,
-      "bijlagen_titels": [
-        "Amendement DOP SDW - Zienswijze Geestmerambacht bijlage C"
-      ],
-      "bijlagen": [
-        {
-          "t": "Amendement DOP SDW - Zienswijze Geestmerambacht bijlage C",
-          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/098ed448-f957-4bf9-b9f2-4f09a3322411"
-        }
-      ],
-      "content_checked": "2026-10-19T15:02:15+00:00"
+      "content_checked": "2026-10-20T01:01:38+00:00"
     },
     "fa1e4cad4a04d2507c46682003b43e99ce4b75e140c8d524fa8c1e1f6f04f80a": {
       "title": "Geestmerambacht, Regels waar nodig ruimte waar het kan",
@@ -60543,7 +60670,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/659df0a0-6196-4eef-969e-7890d6fb7207"
         }
       ],
-      "content_checked": "2026-10-19T15:02:18+00:00"
+      "content_checked": "2026-10-20T01:01:41+00:00"
     },
     "d5ab63eeb868d17321f8cf5aa1ceb0f32a12fd1ff2f23e62f04059886f9955d3": {
       "title": "Zienswijze met oog voor Geestmerambacht",
@@ -60578,7 +60705,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/bcf3f55b-fc6e-437c-ae6b-dab002cf7400"
         }
       ],
-      "content_checked": "2026-10-19T15:02:21+00:00"
+      "content_checked": "2026-10-20T01:01:43+00:00"
     },
     "ffd489ae638ed65ab06ea305121a570719c6e10bd661a4aa600c6469bfb99b1b": {
       "title": "Zienswijze met oog voor Geestmerambacht",
@@ -61831,7 +61958,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/7e8ee902-717f-49da-84ef-71b7f8d2f051"
         }
       ],
-      "content_checked": "2026-10-19T14:36:31+00:00",
+      "content_checked": "2026-10-20T01:01:21+00:00",
       "kw_sig": "4f53cda18c2b|f89c7c04039de26a108186227a9f51f9fffb59f3b48abaa187ccf5f9f6c79b5a|Voorkeursbeslissing 380 kV-verbinding Noord-Holland Noord|Raadsvragen · nog niet beantwoord"
     },
     "6c871310b0dc007d94325fc7662d06eaf610a46bfcbd3c7efb3e053ca614fec8": {
@@ -61865,7 +61992,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/6608268e-9517-49b5-ad71-d714c6c14207"
         }
       ],
-      "content_checked": "2026-10-19T15:02:23+00:00"
+      "content_checked": "2026-10-20T01:01:45+00:00"
     },
     "17d6e66dd1e66acc8e2fe69b4bbda5ecaacd349da6ca77639511f8b611095f35": {
       "title": "Vervallen opstapplaats",
@@ -75431,7 +75558,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/92f0f2cc-05f2-4a23-8ecf-0fd987f8329b"
         }
       ],
-      "content_checked": "2026-10-19T14:36:26+00:00",
+      "content_checked": "2026-10-20T01:01:17+00:00",
       "kw_sig": "4f53cda18c2b|1f797c887fae090ff108e1ce185ed17e143a9bb8d0154daa64ace57a8761443e|Regionale samenwerking Mobiliteit|Informatie van derden"
     },
     "1599c95ee51e5581cb57c0b0c7f775d42ea65959405584d6785276cfec2d738e": {
@@ -75464,7 +75591,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/f2e27e9b-deb8-46bf-a0d1-bd95a696289c"
         }
       ],
-      "content_checked": "2026-10-19T14:36:28+00:00",
+      "content_checked": "2026-10-20T01:01:18+00:00",
       "kw_sig": "4f53cda18c2b|df28be2dfb95f107be199d125cc3713aedb9e86286b1041b614f3216f19721d4|Uitnodiging Herfstborrel | Wijnfestival 12 november|Informatie van derden"
     },
     "550ea2869a13124c41d75665465dda0e599b4f84461224f8029735752f6b63d6": {
@@ -75497,7 +75624,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/983abc85-b0db-45c9-a60c-276118fcd871"
         }
       ],
-      "content_checked": "2026-10-19T14:36:29+00:00",
+      "content_checked": "2026-10-20T01:01:20+00:00",
       "kw_sig": "4f53cda18c2b|c939f5d2d5f273fa3cc4ffe99e468e12a07e661a185b2c9d34487ac9f47d48ad|Beleidsvoorstel thermische opslag binnen lokaal energiebeleid|Informatie van derden"
     },
     "34b7975aaed16472bf36c3f34ab4bf19785faaad8d59f46705303fd1c5364f3f": {
@@ -75530,7 +75657,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/ff23ca85-c134-4b0b-805d-d4852c805c01"
         }
       ],
-      "content_checked": "2026-10-19T14:36:38+00:00",
+      "content_checked": "2026-10-20T01:01:29+00:00",
       "kw_sig": "4f53cda18c2b|eaeda079a55f67396539434465bc741354291b7dc13508582794848bd1ae0794|Conferentie VTH en Milieucriminaliteit|Informatie van derden"
     },
     "89d180d55a35d7b5cf154c5ee2391c6a0f52e193095872d59dfd69199dc21825": {
@@ -75568,7 +75695,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/9d764804-18e3-40e4-b5fe-279a1b26f730"
         }
       ],
-      "content_checked": "2026-10-19T14:36:41+00:00",
+      "content_checked": "2026-10-20T01:01:32+00:00",
       "kw_sig": "4f53cda18c2b|d64e30b4198bc5f5f9c83a52be8a5c0998ae1dd0dd05fbeab8f48c5aaf96eed3|Brief EZK t.a.v. besluitvorming 380 kV netuitbreiding Noord-Holland Noord|Informatie van derden"
     },
     "ae66bb86b868f67d56815f6fb608625270cc2245e9d33b225dc5b8f16a0a4538": {
@@ -75607,7 +75734,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/b5c6cb06-84b5-47c1-8410-76098e628dd3"
         }
       ],
-      "content_checked": "2026-10-19T15:02:26+00:00"
+      "content_checked": "2026-10-20T01:01:47+00:00"
     },
     "081883d6f1ac123b4a649683b3659cc16bff7834f8e9edbc2550ce754aac7cc8": {
       "title": "Uitnodiging Algemene Ledenvergadering",
@@ -75640,7 +75767,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/5e495a57-710e-4fa8-8717-7fd9a68c5635"
         }
       ],
-      "content_checked": "2026-10-19T15:02:28+00:00"
+      "content_checked": "2026-10-20T01:01:49+00:00"
     },
     "08d793bb6b7cdd7e2ad28375dc9e80d19bb9963ee03f530b300dc5bd7b323727": {
       "title": "Kom naar 'Inspiratie op Locatie' bij Alkmaar Sport",
@@ -75673,7 +75800,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/b0a2ee28-c94b-4a27-a5f3-291a8cecfc4a"
         }
       ],
-      "content_checked": "2026-10-19T15:02:30+00:00"
+      "content_checked": "2026-10-20T01:01:50+00:00"
     },
     "7d87a62c1425b4c762b8bdd6a9e64744119e48c0d85d3dd0bf6d529e6d1493a4": {
       "title": "Herinnering Uitnodiging Erfgoedbustour voor raadsleden - 23 oktober",
@@ -75706,7 +75833,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/77200430-9156-4b01-b85e-6e073885e38d"
         }
       ],
-      "content_checked": "2026-10-19T15:02:32+00:00"
+      "content_checked": "2026-10-20T01:01:51+00:00"
     },
     "e725b9160bd8e390d2cfab0f8420f30dd2ca63d007f5b8ff9220148789ae5c01": {
       "title": "Special - Wat betekent de rijksbegroting voor gemeenten, corporaties en hun partners",
@@ -75739,7 +75866,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/5d67f021-a5b1-4eb1-8d56-8e7af11e1069"
         }
       ],
-      "content_checked": "2026-10-19T15:02:35+00:00"
+      "content_checked": "2026-10-20T01:01:53+00:00"
     },
     "ceec1720454528d340d4ab9807e5dee25b42b1ba201281126eb81e9782d84d2d": {
       "title": "Webinar 30 oktober 2026 - PGB in het sociaal domein",
@@ -78566,7 +78693,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/43431590-7e32-4ec2-b41e-31a793289da1"
         }
       ],
-      "content_checked": "2026-10-19T14:36:34+00:00",
+      "content_checked": "2026-10-20T01:01:24+00:00",
       "kw_sig": "4f53cda18c2b|c78b0b241fa4d6570dc53a33b59e93ba7542060c11a7a3f658d9f7750338ebda|proces 380kV en bezoek staatssecretaris de Bat|Collegeberichten"
     },
     "4609b2dfc4a62d6f5fb1952f970452be9757cb9472c7d182e993e14ab992e4cd": {
@@ -78600,86 +78727,8 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/afd00303-b994-4a0b-9bfb-8bb7af4449f4"
         }
       ],
-      "content_checked": "2026-10-19T14:36:35+00:00",
+      "content_checked": "2026-10-20T01:01:25+00:00",
       "kw_sig": "4f53cda18c2b|4fe20b9904b248553c12f3195b27a479b1544d227b5b28936e126701e27682cc|Gewijzigde subsidie Klimaat en Water|Collegeberichten"
-    },
-    "af724cbaec9794d3080dada194e54e5e899e8b8e6a90800b8505e421189f582e": {
-      "title": "Reactie rekenkamer raad september 2026",
-      "url": "https://dijkenwaard.bestuurlijkeinformatie.nl/Reports/Item/244b139c-f14a-421c-a46d-c5a0dfc14f8f",
-      "source": "Raadsportaal",
-      "gemeente": "dijkenwaard",
-      "first_seen": "2026-10-19T14:34:23+00:00",
-      "updated": "2026-10-19T14:34:23+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Collegeberichten",
-      "kind": "overzichtsitem",
-      "rapport": "Collegeberichten",
-      "last_seen": "2026-10-20",
-      "report_pass": "2026-10-20T00:01:23+00:00",
-      "doc_date": "2026-10-07",
-      "doc_date_label": "registratiedatum",
-      "portefeuillehouder": "Ben Hoejenbos",
-      "report_seen": true,
-      "missing_count": 0,
-      "text_hash": "26006968ec072e12f4befb77a9ad560c83ad3da0d4f42a0f2b5cc7bdc0cb02f1",
-      "text_v": 2,
-      "bijlagen_titels": [
-        "Reactie rekenkamer raad september 2026",
-        "Infographic Dienstverlening - We gaan samen verder"
-      ],
-      "bijlagen": [
-        {
-          "t": "Reactie rekenkamer raad september 2026",
-          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/b312a298-4d53-49dd-bd62-3a2110ac5572"
-        },
-        {
-          "t": "Infographic Dienstverlening - We gaan samen verder",
-          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/069a1f06-35a0-4936-960a-b4a10044abe6"
-        }
-      ],
-      "content_checked": "2026-10-19T14:36:37+00:00",
-      "kw_sig": "4f53cda18c2b|26006968ec072e12f4befb77a9ad560c83ad3da0d4f42a0f2b5cc7bdc0cb02f1|Reactie rekenkamer raad september 2026|Collegeberichten"
-    },
-    "0c380ce09fe90cdee45137e609c759dde4c41db0b44f4fd6508f4d15866ec0db": {
-      "title": "Monitor ontwikkelmaatregelen jeugd 2026",
-      "url": "https://dijkenwaard.bestuurlijkeinformatie.nl/Reports/Item/3cfa04ab-df61-40e4-a7e1-089e5257d716",
-      "source": "Raadsportaal",
-      "gemeente": "dijkenwaard",
-      "first_seen": "2026-10-19T14:34:23+00:00",
-      "updated": "2026-10-19T14:34:23+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "excerpt": "Collegeberichten",
-      "kind": "overzichtsitem",
-      "rapport": "Collegeberichten",
-      "last_seen": "2026-10-20",
-      "report_pass": "2026-10-20T00:01:23+00:00",
-      "doc_date": "2026-10-06",
-      "doc_date_label": "registratiedatum",
-      "portefeuillehouder": "Jasper John",
-      "report_seen": true,
-      "kw_sig": "4f53cda18c2b|2a91f40cff5c7fef776ce35f8f84d6975769a700a807a692162192314ab77a19|Monitor ontwikkelmaatregelen jeugd 2026|Collegeberichten",
-      "missing_count": 0,
-      "text_hash": "2a91f40cff5c7fef776ce35f8f84d6975769a700a807a692162192314ab77a19",
-      "text_v": 2,
-      "bijlagen_titels": [
-        "Collegebericht Monitor ontwikkelmaatregelen jeugd 2026",
-        "Monitor Ontwikkelmaatregelen Jeugd 2026"
-      ],
-      "bijlagen": [
-        {
-          "t": "Collegebericht Monitor ontwikkelmaatregelen jeugd 2026",
-          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/4639366f-8d6f-40aa-8d22-09555de6efa4"
-        },
-        {
-          "t": "Monitor Ontwikkelmaatregelen Jeugd 2026",
-          "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/69d3285a-e5ba-42e5-a041-926f82b2150e"
-        }
-      ],
-      "content_checked": "2026-10-19T15:03:06+00:00"
     },
     "6686b0846351bcb92d28a553714e1b9ac08b57f427f40a3a8ae25057e501e62b": {
       "title": "Voortzetting Uitvoeringsplan Welzijn 2023 - 2026 en ontwikkeling nieuw welzijnsprogramma 2029",
@@ -78713,7 +78762,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/6f051195-c2cb-4e9a-8cc5-2ce4b5eec331"
         }
       ],
-      "content_checked": "2026-10-19T15:03:08+00:00"
+      "content_checked": "2026-10-20T01:02:00+00:00"
     },
     "84c6ff92a040a3e976b1beb21804a843a4be3b4dbb817c781f3f4596de1fb6b8": {
       "title": "Stand van zaken Isolatieprogramma Dijk en Waard Q3 2026",
@@ -78747,7 +78796,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/a17d8f9d-585d-4ab9-bdc9-daf7998760dd"
         }
       ],
-      "content_checked": "2026-10-19T15:03:10+00:00"
+      "content_checked": "2026-10-20T01:02:01+00:00"
     },
     "74ae4862b28a76ed683ae113395e6fd5f4ae3806b0270fba67a95d28afa45ead": {
       "title": "Wet versterking regie volkshuisvesting en het volkshuisvestingsprogramma",
@@ -78781,7 +78830,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/7d33cb66-7d4a-4ff1-9b88-ae6be3e9dfe3"
         }
       ],
-      "content_checked": "2026-10-19T15:03:13+00:00"
+      "content_checked": "2026-10-20T01:02:03+00:00"
     },
     "3b9ba9b188f7a8ec95c0a8f0bab2bdf7469d1762258ce36b98c6bac5ce6ffde9": {
       "title": "Stand van zaken Land van Groen en ontwikkelingen Beveland",
@@ -78815,7 +78864,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/0df98de6-5770-4891-bd89-ad93d2611753"
         }
       ],
-      "content_checked": "2026-10-19T15:03:15+00:00"
+      "content_checked": "2026-10-20T01:02:06+00:00"
     },
     "33613e772068756328c1a9ad6ecb42b006d7e516fda9ef14fb94ed4373e02462": {
       "title": "Cliëntervaringsonderzoek Wmo en Jeugd 2025",
@@ -78879,7 +78928,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/2d536c32-20d9-49f3-8b77-92e5ae7b3553"
         }
       ],
-      "content_checked": "2026-10-19T15:03:24+00:00"
+      "content_checked": "2026-10-20T01:02:15+00:00"
     },
     "342ed1fed93f2df18cfd60ee922804d7d70a03347a6cc837067d9509a198e5f9": {
       "title": "Zienswijze ontwerpbesluit geluidproductieplafonds provinciale wegen",
@@ -82098,7 +82147,7 @@
       "kind": "vergadering",
       "doc_date": "2026-11-03",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "kw_sig": "4f53cda18c2b||Commissie Raadzaal dinsdag 3 november 2026 Beeldvorming|"
     },
     "b808f8de4b96ec8c2bf187a51a41c6596438d54fea9c905d96ecaab2386e1651": {
@@ -82124,7 +82173,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Raadzaal dinsdag 3 november 2026 Beeldvorming",
       "agendapunt": "3 Tussenevaluatie de Binding",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "excerpt": "Commissie Raadzaal dinsdag 3 november 2026 Beeldvorming · agendapunt 3 Tussenevaluatie de Binding",
       "missing_count": 0,
       "text_hash": "18c9f9a7d46ad91784f11f966af8423d12ad5022707dc194673f87bb4a56657b",
@@ -82154,7 +82203,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Raadzaal dinsdag 3 november 2026 Beeldvorming",
       "agendapunt": "3 Tussenevaluatie de Binding",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "excerpt": "Commissie Raadzaal dinsdag 3 november 2026 Beeldvorming · agendapunt 3 Tussenevaluatie de Binding",
       "missing_count": 0,
       "text_hash": "b41705b01d426959dcd2cbb7ee1a929abb1f102e6a6b0435e92f2ec035cebf9b",
@@ -82184,7 +82233,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Raadzaal dinsdag 3 november 2026 Beeldvorming",
       "agendapunt": "3 Tussenevaluatie de Binding",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "excerpt": "Commissie Raadzaal dinsdag 3 november 2026 Beeldvorming · agendapunt 3 Tussenevaluatie de Binding",
       "missing_count": 0,
       "text_hash": "ac1ee699e520790e6c9e5188c2c523a3156376880e79772ce5d88fa98cdecd1d",
@@ -82214,7 +82263,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Raadzaal dinsdag 3 november 2026 Beeldvorming",
       "agendapunt": "3 Tussenevaluatie de Binding",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "excerpt": "Commissie Raadzaal dinsdag 3 november 2026 Beeldvorming · agendapunt 3 Tussenevaluatie de Binding",
       "missing_count": 0,
       "text_hash": "cc072f8cd326bd44984660058b35687e4a1d4d56ed92bee7cf452e8b43e22bf6",
@@ -82244,7 +82293,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Raadzaal dinsdag 3 november 2026 Beeldvorming",
       "agendapunt": "3 Tussenevaluatie de Binding",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "excerpt": "Commissie Raadzaal dinsdag 3 november 2026 Beeldvorming · agendapunt 3 Tussenevaluatie de Binding",
       "missing_count": 0,
       "text_hash": "56e549641d953579bfcd9a9d3cd6c95b9921b191693ca3e60599f63b32e5acf0",
@@ -82274,7 +82323,7 @@
       "doc_date_label": "vergaderdatum",
       "meeting_title": "Commissie Raadzaal dinsdag 3 november 2026 Beeldvorming",
       "agendapunt": "3 Tussenevaluatie de Binding",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "excerpt": "Commissie Raadzaal dinsdag 3 november 2026 Beeldvorming · agendapunt 3 Tussenevaluatie de Binding",
       "missing_count": 0,
       "text_hash": "18a0131fc1079eabffe9ff882ce1febc05de3e39c47e2c842dc8d44b1cbdfc83",
@@ -82295,7 +82344,7 @@
       "kind": "vergadering",
       "doc_date": "2026-11-24",
       "doc_date_label": "vergaderdatum",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "kw_sig": "4f53cda18c2b||Commissie Raadzaal dinsdag 24 november 2026|"
     },
     "620ef7a43dc2179a3e87b89cd8412397cbf35d83703187da4602b3680e49acce": {
@@ -83294,7 +83343,7 @@
       "kw_sig": "4f53cda18c2b|582f4edcc4da9cfc5dec2deaf007341a7d34afbc08b7ea29cea948ec47cf893f|Besluitenlijst 8 september 2026|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 3 Vaststellen besluitenlijst raadsvergadering 8 september 2026",
       "missing_count": 0,
       "text_hash": "582f4edcc4da9cfc5dec2deaf007341a7d34afbc08b7ea29cea948ec47cf893f",
-      "content_checked": "2026-10-19T15:03:25+00:00"
+      "content_checked": "2026-10-20T01:02:16+00:00"
     },
     "a95e419243a828cbc571097ffc8d97f4d1129bcd68e4f4519eb8adece78be189": {
       "title": "Vragen vragenkwartiertje 50Plus",
@@ -83324,7 +83373,7 @@
       "kw_sig": "4f53cda18c2b|540fccf6cda7ec71fd0f4c47f97b0cd99714343f628de27c04d1bd047771a9d8|Vragen vragenkwartiertje 50Plus|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 4 Vragenkwartier Dijk en Waard",
       "missing_count": 0,
       "text_hash": "540fccf6cda7ec71fd0f4c47f97b0cd99714343f628de27c04d1bd047771a9d8",
-      "content_checked": "2026-10-19T15:03:26+00:00"
+      "content_checked": "2026-10-20T01:02:17+00:00"
     },
     "4d8cdb212d2e92763193d9f35fbba528c02401e49ca09b3152f4914d5655b06b": {
       "title": "Advies griffie vragen 50Plus over Streekstad Centraal",
@@ -83354,7 +83403,7 @@
       "kw_sig": "4f53cda18c2b|899464de3613e3496a66b5a5970b717fc91c1d7951fd09d4cda39494b4fac3e7|Advies griffie vragen 50Plus over Streekstad Centraal|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 4 Vragenkwartier Dijk en Waard",
       "missing_count": 0,
       "text_hash": "899464de3613e3496a66b5a5970b717fc91c1d7951fd09d4cda39494b4fac3e7",
-      "content_checked": "2026-10-19T15:03:26+00:00"
+      "content_checked": "2026-10-20T01:02:18+00:00"
     },
     "d0612eab627462b6deaaa0fb2188ab28afc76dade614c0eadc1cb179476a89b4": {
       "title": "LIS 6 oktober 2026",
@@ -83384,7 +83433,7 @@
       "kw_sig": "4f53cda18c2b|e20e2b1d13fe11b43c23608bf37873de770f44fffc0a9d6468f333bcb757d527|LIS 6 oktober 2026|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 5 Lijst ingekomen stukken",
       "missing_count": 0,
       "text_hash": "e20e2b1d13fe11b43c23608bf37873de770f44fffc0a9d6468f333bcb757d527",
-      "content_checked": "2026-10-19T15:03:27+00:00"
+      "content_checked": "2026-10-20T01:02:19+00:00"
     },
     "fcdb8bb8e5766e45cc8b4ade92312f4e83cebaaf5a1cd74c3efffe32cfc0e4c5": {
       "title": "Stand van zaken moties raad 6 oktober 2026",
@@ -83414,7 +83463,7 @@
       "kw_sig": "4f53cda18c2b|9804d3e42cf806835e21f78bcf01f26218da8434990f754abf96834ad2b5e7fb|Stand van zaken moties raad 6 oktober 2026|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 6 Stand van zaken moties en toezeggingen",
       "missing_count": 0,
       "text_hash": "9804d3e42cf806835e21f78bcf01f26218da8434990f754abf96834ad2b5e7fb",
-      "content_checked": "2026-10-19T15:03:28+00:00"
+      "content_checked": "2026-10-20T01:02:20+00:00"
     },
     "47f601088706c956bfcab1bae44e0e4943378cf216e7ac6c20ac8fa13e8a584d": {
       "title": "Stand van zaken toezeggingen raad 6 oktober 2026",
@@ -83444,7 +83493,7 @@
       "kw_sig": "4f53cda18c2b|237dfa8ece2b48347f113b6b00bb0ae11cbec83fbb0479754da3294c6bfb5fbe|Stand van zaken toezeggingen raad 6 oktober 2026|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 6 Stand van zaken moties en toezeggingen",
       "missing_count": 0,
       "text_hash": "237dfa8ece2b48347f113b6b00bb0ae11cbec83fbb0479754da3294c6bfb5fbe",
-      "content_checked": "2026-10-19T15:03:29+00:00"
+      "content_checked": "2026-10-20T01:02:21+00:00"
     },
     "b9a114fe205c3f703aad6f183c030eb66fc112678f350b713ec7c28b6356e58b": {
       "title": "Raadsbesluit zienswijze Ontwerp Algemene Verordening Geestmerambacht 2027 (getekend)",
@@ -83474,7 +83523,7 @@
       "kw_sig": "4f53cda18c2b|c2734090bab0baf3a5180601eea1b3a781fee9a8ab22cd0983454e259bc21b35|Raadsbesluit zienswijze Ontwerp Algemene Verordening Geestmerambacht 2027 (getekend)|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 7.1 Zienswijze ontwerp Algemene Verordening Geestmerambacht 2027",
       "missing_count": 0,
       "text_hash": "c2734090bab0baf3a5180601eea1b3a781fee9a8ab22cd0983454e259bc21b35",
-      "content_checked": "2026-10-19T15:03:29+00:00"
+      "content_checked": "2026-10-20T01:02:21+00:00"
     },
     "1b6aa8bf13eac6c95acefb9c665602a582755aa092e6840a2b4815b7995f8b90": {
       "title": "Raadsvoorstel zienswijze Ontwerp Algemene Verordening Geestmerambacht 2027",
@@ -83504,7 +83553,7 @@
       "kw_sig": "4f53cda18c2b|95f31478fc0c33aa53b5306cfe0fb7d0592a9d487597070c1995d7b37c74b1b7|Raadsvoorstel zienswijze Ontwerp Algemene Verordening Geestmerambacht 2027|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 7.1 Zienswijze ontwerp Algemene Verordening Geestmerambacht 2027",
       "missing_count": 0,
       "text_hash": "95f31478fc0c33aa53b5306cfe0fb7d0592a9d487597070c1995d7b37c74b1b7",
-      "content_checked": "2026-10-19T15:03:30+00:00"
+      "content_checked": "2026-10-20T01:02:22+00:00"
     },
     "70d009d93378e788ab15c831f96c16cc0ff49ff38f2e49f153254e18749c7a6c": {
       "title": "Commissieadvies Zienswijze Algemene Verordening Geestmerambacht 2027",
@@ -83904,7 +83953,7 @@
       "kw_sig": "4f53cda18c2b|21598b443bc68415deb437f75bdea7e59f7477b4d1c30370551d38754c20ca6e|Raadsbesluit Kaders Participatie (getekend)|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 7.2 Raadskaders uitwerking Participatieverordening - Portefeuillehouder gemeenteraad",
       "missing_count": 0,
       "text_hash": "21598b443bc68415deb437f75bdea7e59f7477b4d1c30370551d38754c20ca6e",
-      "content_checked": "2026-10-19T15:03:31+00:00"
+      "content_checked": "2026-10-20T01:02:23+00:00"
     },
     "d96ecbf07dbe8319cccba7483e2cb26ecec9b8abcfb66f30b525a8fc21f67552": {
       "title": "Raadsvoorstel kaders Participatie",
@@ -83934,7 +83983,7 @@
       "kw_sig": "4f53cda18c2b|bdb574e651c48f183db1612d12a3b6c051382f8634f324adfc311c4efafa4a2c|Raadsvoorstel kaders Participatie|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 7.2 Raadskaders uitwerking Participatieverordening - Portefeuillehouder gemeenteraad",
       "missing_count": 0,
       "text_hash": "bdb574e651c48f183db1612d12a3b6c051382f8634f324adfc311c4efafa4a2c",
-      "content_checked": "2026-10-19T15:03:31+00:00"
+      "content_checked": "2026-10-20T01:02:23+00:00"
     },
     "d1aa2bad7a99919042978061c73642ce088a7bea5da1d7c0889dafd60f41b633": {
       "title": "Commissieadvies raadskaders uitwerking participatieverordening",
@@ -83964,7 +84013,7 @@
       "kw_sig": "4f53cda18c2b|b43383a993fc7a54ce647bf532057d33736c4593ea901470299e9a80cce165e1|Commissieadvies raadskaders uitwerking participatieverordening|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 7.2 Raadskaders uitwerking Participatieverordening - Portefeuillehouder gemeenteraad",
       "missing_count": 0,
       "text_hash": "b43383a993fc7a54ce647bf532057d33736c4593ea901470299e9a80cce165e1",
-      "content_checked": "2026-10-19T15:03:32+00:00"
+      "content_checked": "2026-10-20T01:02:25+00:00"
     },
     "0dd615b557b425336c216b8bbbc397319302b0f563b0bddc182332e6fa139012": {
       "title": "Bijlage - Memo - overdracht uitgangspunten Participatie aan college",
@@ -84134,7 +84183,7 @@
       "kw_sig": "4f53cda18c2b|1a4498a8438a5f3e89812133e446b1a73ecccc5e24b9b3b7d081f4f916d4fd49|Beantwoording technische vragen 50PLUS - Uitdaagrecht|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 7.2 Raadskaders uitwerking Participatieverordening - Portefeuillehouder gemeenteraad",
       "missing_count": 0,
       "text_hash": "1a4498a8438a5f3e89812133e446b1a73ecccc5e24b9b3b7d081f4f916d4fd49",
-      "content_checked": "2026-10-19T15:03:32+00:00"
+      "content_checked": "2026-10-20T01:02:26+00:00"
     },
     "1032422b229f46ff2a0233f6d1db457b17468cf3079dadd02091053e9b0a52e2": {
       "title": "Raadsbesluit wensen en bedenkingen op ontwerpbesluit oprichting stichting KCR2 (getekend)",
@@ -84164,7 +84213,7 @@
       "kw_sig": "4f53cda18c2b|39f53d319af38e5fe022c5119d49baa62205f90d09ce655c5f99b2fe561a066b|Raadsbesluit wensen en bedenkingen op ontwerpbesluit oprichting stichting KCR2 (getekend)|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 7.3 Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio's (KCR2)",
       "missing_count": 0,
       "text_hash": "39f53d319af38e5fe022c5119d49baa62205f90d09ce655c5f99b2fe561a066b",
-      "content_checked": "2026-10-19T15:03:33+00:00"
+      "content_checked": "2026-10-20T01:02:27+00:00"
     },
     "fe16945ec341e9568203368691fc846be197a534d3ffcb894d4123372e688761": {
       "title": "Raadsvoorstel wensen en bedenkingen op ontwerpbesluit oprichting stichting KCR2",
@@ -84194,7 +84243,7 @@
       "kw_sig": "4f53cda18c2b|7476815364f47508010fc8fe6169fa1fbdfe6a5e5381f8b2465689a986277ae8|Raadsvoorstel wensen en bedenkingen op ontwerpbesluit oprichting stichting KCR2|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 7.3 Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio's (KCR2)",
       "missing_count": 0,
       "text_hash": "7476815364f47508010fc8fe6169fa1fbdfe6a5e5381f8b2465689a986277ae8",
-      "content_checked": "2026-10-19T15:03:34+00:00"
+      "content_checked": "2026-10-20T01:02:27+00:00"
     },
     "73cc400500f8b7427bc368f915ba9a87ae7d31cc0fd72eee98e24a8a8324189c": {
       "title": "Commissieadvies Raadsvoorstel wensen en bedenkingen op ontwerpbesluit oprichting stichting KCR2",
@@ -84434,7 +84483,7 @@
       "kw_sig": "4f53cda18c2b|09430faeecc63161a8f3d6717fe8187c28c0544e46cee8a9ca5cd0219746ad06|Amendement Gemeente Enkhuizen - Wijzigen besluit instellen KCR2|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 7.3 Wensen en bedenkingen op ontwerpbesluit oprichting stichting Knooppunt Coördinatie Rijk-Regio's (KCR2)",
       "missing_count": 0,
       "text_hash": "09430faeecc63161a8f3d6717fe8187c28c0544e46cee8a9ca5cd0219746ad06",
-      "content_checked": "2026-10-19T15:03:34+00:00"
+      "content_checked": "2026-10-20T01:02:28+00:00"
     },
     "171691aa35e769b154a4eeb0fe165b75ce268f50d39367b28f9a5f4d8a9a12ed": {
       "title": "Raadsbesluit Zienswijze Ontwerp Legesverordening Geestmerambacht 2027 (getekend)",
@@ -84464,7 +84513,7 @@
       "kw_sig": "4f53cda18c2b|975fef9a818c6045c1134c28cc9f27a17780a59b79afc9c7e5dae55ccc639679|Raadsbesluit Zienswijze Ontwerp Legesverordening Geestmerambacht 2027 (getekend)|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 8.1 Zienswijze Ontwerp Legesverordening Geestmerambacht 2027",
       "missing_count": 0,
       "text_hash": "975fef9a818c6045c1134c28cc9f27a17780a59b79afc9c7e5dae55ccc639679",
-      "content_checked": "2026-10-19T15:03:35+00:00"
+      "content_checked": "2026-10-20T01:02:28+00:00"
     },
     "040085a2270ac0962ea56660c2a1bc2c07f8035c97ba99e62f9614e49d12effc": {
       "title": "Raadsvoorstel Zienswijze Ontwerp Legesverordening Geestmerambacht 2027",
@@ -84494,7 +84543,7 @@
       "kw_sig": "4f53cda18c2b|4ab5a424cf2ee7d049f436a3afeba416e1f318536541730d800b1e9ce2cabf70|Raadsvoorstel Zienswijze Ontwerp Legesverordening Geestmerambacht 2027|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 8.1 Zienswijze Ontwerp Legesverordening Geestmerambacht 2027",
       "missing_count": 0,
       "text_hash": "4ab5a424cf2ee7d049f436a3afeba416e1f318536541730d800b1e9ce2cabf70",
-      "content_checked": "2026-10-19T15:03:35+00:00"
+      "content_checked": "2026-10-20T01:02:29+00:00"
     },
     "29ec10dfd8b3ca9e716987dae3b9779bfbd25cabd5af65bb9e8cf4e980fc84de": {
       "title": "Commissieadvies Zienswijze Ontwerp Legesverordening Geestmerambacht",
@@ -84714,7 +84763,7 @@
       "kw_sig": "4f53cda18c2b|0c3ab2edf9bcdcea9eabe924bfafbb383789bd3386d8784175b937877e74f6eb|Raadsbesluit Zienswijze wijzigingsbesluit organisatieverordening Geestmerambacht (getekend)|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 8.2 Zienswijze wijzigingsbesluit organisatieverordening Geestmerambacht",
       "missing_count": 0,
       "text_hash": "0c3ab2edf9bcdcea9eabe924bfafbb383789bd3386d8784175b937877e74f6eb",
-      "content_checked": "2026-10-19T15:03:36+00:00"
+      "content_checked": "2026-10-20T01:02:29+00:00"
     },
     "76ebeff038f9e558d2e93462e35af2ae8bc9db2a8daa4b158cb2ea42d23f3e51": {
       "title": "Raadsvoorstel Zienswijze wijzigingsbesluit organisatieverordening Geestmerambacht",
@@ -84744,7 +84793,7 @@
       "kw_sig": "4f53cda18c2b|1e80959f4e8fcd3b615cc92f2a690a3a848403487e7a901d15c9610ec2c88376|Raadsvoorstel Zienswijze wijzigingsbesluit organisatieverordening Geestmerambacht|Gemeenteraad dinsdag 6 oktober 2026 · agendapunt 8.2 Zienswijze wijzigingsbesluit organisatieverordening Geestmerambacht",
       "missing_count": 0,
       "text_hash": "1e80959f4e8fcd3b615cc92f2a690a3a848403487e7a901d15c9610ec2c88376",
-      "content_checked": "2026-10-19T15:03:37+00:00"
+      "content_checked": "2026-10-20T01:02:30+00:00"
     },
     "b2b4a907b9187c7b3705706eb4c129dc79254f382e8c28e2e1d6a7343470dc92": {
       "title": "Commissieadvies Zienswijze wijzigingsbesluit organisatieverordening Geestmerambacht",
@@ -94965,22 +95014,22 @@
   "status": {
     "dijkenwaard": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-20T00:30:42+00:00",
+        "checked": "2026-10-20T01:00:56+00:00",
         "ok": true,
         "count": 152,
         "new": 0,
         "note": "Laatste 30 dagen: 152 van 152 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-20T00:30:53+00:00",
-        "ok": true,
-        "count": 10,
+        "checked": "2026-10-20T01:01:07+00:00",
+        "ok": false,
+        "count": 9,
         "new": 0,
-        "error": null,
-        "note": "10 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-21 t/m 2026-12-04 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
+        "error": "Commissie Raadzaal 2026-10-28: 403 Client Error: Forbidden for url: https://dijkenwaard.bes",
+        "note": "9 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-21 t/m 2026-12-04 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-20T00:31:01+00:00",
+        "checked": "2026-10-20T01:01:15+00:00",
         "ok": true,
         "count": 434,
         "new": 0,
@@ -94988,33 +95037,33 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Collegeberichten 676, Informatie van derden 1169, Informatie van de Rekenkamer 12, Raadsvragen 649, Amendementen 142, Moties 249, Toezeggingen 147, Overige acties raad 3, Besluitenlijsten B&W 227, Gemeenschappelijke regelingen 114, Regels en afspraken 19). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-20T00:31:02+00:00",
+        "checked": "2026-10-20T01:01:16+00:00",
         "ok": true,
         "count": 12,
         "new": 0,
         "note": "Het nieuwsoverzicht van dijkenwaard.nl (de nieuwste berichten, met datum). De gemeente heeft geen nieuwsfeed."
       },
       "In de media": {
-        "checked": "2026-10-20T00:31:02+00:00",
+        "checked": "2026-10-20T01:01:16+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-20T00:32:01+00:00",
+        "checked": "2026-10-20T01:02:31+00:00",
         "ok": true,
         "count": 50,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (21 pdf), 1012 gevolgd (alle gemeenten), 64 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "50 documenten gecontroleerd (20 pdf), 1012 gevolgd (alle gemeenten), 14 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-20T00:32:01+00:00",
+        "checked": "2026-10-20T01:02:31+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-20T00:32:01+00:00",
+        "checked": "2026-10-20T01:02:31+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -95076,7 +95125,7 @@
         "documents": 0
       },
       "fa41b4e1-af84-4c54-8479-bb4b66fdccb6": {
-        "checked": "2026-10-20T00:00:58+00:00",
+        "checked": "2026-10-20T01:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-10-06",
@@ -95084,7 +95133,7 @@
         "documents": 49
       },
       "8a72abe0-5f8a-40df-a796-14140efc9264": {
-        "checked": "2026-10-20T00:00:58+00:00",
+        "checked": "2026-10-20T01:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-09-08",
@@ -95162,7 +95211,7 @@
         "label": "dinsdag 27 januari 2026"
       },
       "75b14870-869b-4275-a366-0d301b1f4cd9": {
-        "checked": "2026-10-20T00:00:58+00:00",
+        "checked": "2026-10-20T01:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-12-01",
@@ -95170,7 +95219,7 @@
         "documents": 0
       },
       "58855823-4a16-415e-ba3f-338fea1d104e": {
-        "checked": "2026-10-20T00:00:58+00:00",
+        "checked": "2026-10-20T01:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-25",
@@ -95178,7 +95227,7 @@
         "documents": 0
       },
       "0779ec56-65a7-4439-a468-37dbdce4cb47": {
-        "checked": "2026-10-19T23:30:44+00:00",
+        "checked": "2026-10-20T01:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-24",
@@ -95186,7 +95235,7 @@
         "documents": 0
       },
       "c2b96a6d-9b2f-47f2-af33-02e88f8dd97f": {
-        "checked": "2026-10-19T23:30:44+00:00",
+        "checked": "2026-10-20T01:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-03",
@@ -95194,7 +95243,7 @@
         "documents": 6
       },
       "f0eb8367-beed-4ac2-bca0-2c7084edce9b": {
-        "checked": "2026-10-19T23:30:44+00:00",
+        "checked": "2026-10-20T01:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-10-28",
@@ -95202,7 +95251,7 @@
         "documents": 0
       },
       "f78a8961-2113-4c1d-a986-80fe26f4e192": {
-        "checked": "2026-10-19T23:30:44+00:00",
+        "checked": "2026-10-20T01:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-10-27",
@@ -95210,7 +95259,7 @@
         "documents": 5
       },
       "cb81d999-2d60-47ee-b751-bc1ff41054d8": {
-        "checked": "2026-10-19T23:30:44+00:00",
+        "checked": "2026-10-20T01:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-09-22",
@@ -95218,7 +95267,7 @@
         "documents": 41
       },
       "7c8cb824-9061-46f8-8c74-ac73d6abf9e7": {
-        "checked": "2026-10-19T23:30:44+00:00",
+        "checked": "2026-10-20T01:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-09-01",
