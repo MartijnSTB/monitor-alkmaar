@@ -3,6 +3,26 @@
     "dijkenwaard"
   ],
   "items": {
+    "e46caa5f458abde11c84468a689cca817c25d0a22ed237cce656f552c5887248": {
+      "title": "Gamers strijden om Super Smash Bros. Ultimate-titel bij Kompleks",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRTJxWDQzV05JTkpMZHBPMHQzNmt4ZnIzbE1iSXN3NEswVldlcTE3NjJPNkdobmpNWjh1V18zX2F5blZaTl9ERVVrczF1N0hHcl80NmRWckxZOFQyUWl5RmhDVzBxQ2NxMDdmMEpUcS1LU2hXQ1FDaTY4aU1qQ0QtTWFKVERaemxhcVhWSE9CMUh1ZFpoTFVOM2JpTVhCSWdCNGNfWDdkNGxYNDBza3c?oc=5",
+      "source": "In de media",
+      "gemeente": "dijkenwaard",
+      "first_seen": "2026-10-20T05:01:09+00:00",
+      "updated": "2026-10-20T05:01:09+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Rodi.nl",
+      "media_match": "tekst",
+      "last_seen": "2026-10-20",
+      "doc_date": "2026-10-18",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-18T12:03+02:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Gamers strijden om Super Smash Bros. Ultimate-titel bij Kompleks|"
+    },
     "c20f6448972ad409437b7a8a25ec1c76d87f987743f30f5615c47c17b4b02044": {
       "title": "“Het is veel meer dan spelen met treintjes”: modelspoorliefhebbers komen samen in Heerhugowaard",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1hnY3V2SDlERU1BRFNhdHdHc3RVNnFTUmRYWEJtV2t6MDFoSEowbXJZRmhGVUF1N2tuVE1DU2xNdjd4WnpKTlFudVFGTGlzb2U3ZG0tQUIyQ0tEcUpQR3RwT01qVDkzWkwwbXRteVd1NUVxV3JCNko0bUhmb0hMaEtrVGxzQk5nN1pINXAwdkNsbkh5d2VibEkwd1VsT1N1bW0zN3N3RlFwT3J5cXI1VXBMN0pqeTNTZExISXJId0lWOVgyaHdENXpjakU?oc=5",
@@ -95034,22 +95054,22 @@
   "status": {
     "dijkenwaard": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-20T04:30:45+00:00",
+        "checked": "2026-10-20T05:00:52+00:00",
         "ok": true,
         "count": 152,
         "new": 0,
         "note": "Laatste 30 dagen: 152 van 152 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-20T04:30:56+00:00",
-        "ok": true,
-        "count": 10,
+        "checked": "2026-10-20T05:01:02+00:00",
+        "ok": false,
+        "count": 9,
         "new": 0,
-        "error": null,
-        "note": "10 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-21 t/m 2026-12-04 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
+        "error": "Commissie Raadzaal 2026-10-28: 403 Client Error: Forbidden for url: https://dijkenwaard.bes",
+        "note": "9 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-21 t/m 2026-12-04 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-20T04:31:03+00:00",
+        "checked": "2026-10-20T05:01:08+00:00",
         "ok": true,
         "count": 434,
         "new": 0,
@@ -95057,35 +95077,35 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Collegeberichten 676, Informatie van derden 1169, Informatie van de Rekenkamer 12, Raadsvragen 649, Amendementen 142, Moties 249, Toezeggingen 147, Overige acties raad 3, Besluitenlijsten B&W 227, Gemeenschappelijke regelingen 114, Regels en afspraken 19). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-20T04:31:04+00:00",
+        "checked": "2026-10-20T05:01:09+00:00",
         "ok": true,
         "count": 12,
         "new": 0,
         "note": "Het nieuwsoverzicht van dijkenwaard.nl (de nieuwste berichten, met datum). De gemeente heeft geen nieuwsfeed."
       },
       "In de media": {
-        "checked": "2026-10-20T04:31:07+00:00",
+        "checked": "2026-10-20T05:01:11+00:00",
         "ok": true,
-        "count": 22,
-        "new": 0,
+        "count": 23,
+        "new": 1,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Dijk en Waard, Heerhugowaard, Langedijk, Broek op Langedijk, Koedijk, Noord-Scharwoude, Oudkarspel, Sint Pancras, Zuid-Scharwoude. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-20T04:31:07+00:00",
+        "checked": "2026-10-20T05:01:11+00:00",
         "ok": true,
         "count": 0,
         "errors": 0,
         "note": "0 documenten gecontroleerd (0 pdf), 1012 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-20T04:31:07+00:00",
+        "checked": "2026-10-20T05:01:11+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-20T04:31:07+00:00",
+        "checked": "2026-10-20T05:01:11+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -95115,7 +95135,7 @@
         "label": "dinsdag 8 december 2026"
       },
       "86b9c17c-db3a-41a8-ad53-14af7b0e86ad": {
-        "checked": "2026-10-20T04:00:52+00:00",
+        "checked": "2026-10-20T05:00:52+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-11-12",
@@ -95123,7 +95143,7 @@
         "documents": 0
       },
       "69fe915e-439f-4907-91f2-4569cc84e335": {
-        "checked": "2026-10-20T04:00:52+00:00",
+        "checked": "2026-10-20T05:00:52+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -95131,7 +95151,7 @@
         "documents": 15
       },
       "196e4f3f-725c-4eab-9d43-790273c10379": {
-        "checked": "2026-10-20T04:00:52+00:00",
+        "checked": "2026-10-20T05:00:52+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-10-22",
@@ -95139,7 +95159,7 @@
         "documents": 0
       },
       "ff9d067a-fe48-4dcd-9ac4-87e2f196b690": {
-        "checked": "2026-10-20T04:00:52+00:00",
+        "checked": "2026-10-20T05:00:52+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-10-21",
@@ -95249,7 +95269,7 @@
         "documents": 0
       },
       "0779ec56-65a7-4439-a468-37dbdce4cb47": {
-        "checked": "2026-10-20T03:30:45+00:00",
+        "checked": "2026-10-20T05:00:52+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-24",
@@ -95257,7 +95277,7 @@
         "documents": 0
       },
       "c2b96a6d-9b2f-47f2-af33-02e88f8dd97f": {
-        "checked": "2026-10-20T03:30:45+00:00",
+        "checked": "2026-10-20T05:00:52+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-03",
@@ -95265,7 +95285,7 @@
         "documents": 6
       },
       "f0eb8367-beed-4ac2-bca0-2c7084edce9b": {
-        "checked": "2026-10-20T03:30:45+00:00",
+        "checked": "2026-10-20T05:00:52+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-10-28",
@@ -95273,7 +95293,7 @@
         "documents": 0
       },
       "f78a8961-2113-4c1d-a986-80fe26f4e192": {
-        "checked": "2026-10-20T03:30:45+00:00",
+        "checked": "2026-10-20T05:00:52+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-10-27",
@@ -95281,7 +95301,7 @@
         "documents": 5
       },
       "cb81d999-2d60-47ee-b751-bc1ff41054d8": {
-        "checked": "2026-10-20T03:30:45+00:00",
+        "checked": "2026-10-20T05:00:52+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-09-22",
@@ -95289,7 +95309,7 @@
         "documents": 41
       },
       "7c8cb824-9061-46f8-8c74-ac73d6abf9e7": {
-        "checked": "2026-10-20T03:30:45+00:00",
+        "checked": "2026-10-20T05:00:52+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-09-01",
