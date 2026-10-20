@@ -15698,7 +15698,7 @@
       "kind": "media",
       "media_bron": "Nieuws.nl",
       "media_match": "kop",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-20",
       "doc_date": "2026-10-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-10-19T16:27+02:00",
@@ -37886,8 +37886,9 @@
       "excerpt": "Werkvoorraad Gemeenteraad woensdag 7 oktober 2026 · agendapunt Prognose reserves 2026-2030",
       "missing_count": 0,
       "text_hash": "b6abeee13bb5ae1535b40fa4d5dbd138361fdcb4f6800bcf3ab287630d87a759",
-      "content_checked": "2026-10-20T01:31:27+00:00",
-      "kw_sig": "4f53cda18c2b|b6abeee13bb5ae1535b40fa4d5dbd138361fdcb4f6800bcf3ab287630d87a759|Dossier 3982 voorblad.pdf|Werkvoorraad Gemeenteraad woensdag 7 oktober 2026 · agendapunt Prognose reserves 2026-2030"
+      "content_checked": "2026-10-20T08:01:06+00:00",
+      "kw_sig": "4f53cda18c2b|b6abeee13bb5ae1535b40fa4d5dbd138361fdcb4f6800bcf3ab287630d87a759|Dossier 3982 voorblad.pdf|Werkvoorraad Gemeenteraad woensdag 7 oktober 2026 · agendapunt Prognose reserves 2026-2030",
+      "content_error": "403 Client Error: Forbidden for url: https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/fb4cc6d5-863d-47ec-9f16"
     },
     "6213dc3e07fcd886f262de8d05604d2f10baceb9618811773b05b6a9d2850a29": {
       "title": "Raadsvoorstel",
@@ -37916,8 +37917,9 @@
       "excerpt": "Werkvoorraad Gemeenteraad woensdag 7 oktober 2026 · agendapunt Prognose reserves 2026-2030",
       "missing_count": 0,
       "text_hash": "2ffd2c0019f040f8a394dc41b2af357ab82489192b8885788d2ce3d1384d736e",
-      "content_checked": "2026-10-20T01:31:28+00:00",
-      "kw_sig": "4f53cda18c2b|2ffd2c0019f040f8a394dc41b2af357ab82489192b8885788d2ce3d1384d736e|Raadsvoorstel|Werkvoorraad Gemeenteraad woensdag 7 oktober 2026 · agendapunt Prognose reserves 2026-2030"
+      "content_checked": "2026-10-20T08:01:06+00:00",
+      "kw_sig": "4f53cda18c2b|2ffd2c0019f040f8a394dc41b2af357ab82489192b8885788d2ce3d1384d736e|Raadsvoorstel|Werkvoorraad Gemeenteraad woensdag 7 oktober 2026 · agendapunt Prognose reserves 2026-2030",
+      "content_error": "403 Client Error: Forbidden for url: https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/3474d5ab-0467-4a67-a351"
     },
     "a40c550b2f535aa964de2dc456302b408dd0670aed12e3a649be880bd9b1bc9e": {
       "title": "Raadsbesluit (1)",
@@ -37946,8 +37948,9 @@
       "excerpt": "Werkvoorraad Gemeenteraad woensdag 7 oktober 2026 · agendapunt Prognose reserves 2026-2030",
       "missing_count": 0,
       "text_hash": "da58efc7bd6b659183aab49aefc36d241d9303cb0c8abc7b5977326bd49ec78c",
-      "content_checked": "2026-10-20T01:31:29+00:00",
-      "kw_sig": "4f53cda18c2b|da58efc7bd6b659183aab49aefc36d241d9303cb0c8abc7b5977326bd49ec78c|Raadsbesluit (1)|Werkvoorraad Gemeenteraad woensdag 7 oktober 2026 · agendapunt Prognose reserves 2026-2030"
+      "content_checked": "2026-10-20T08:01:06+00:00",
+      "kw_sig": "4f53cda18c2b|da58efc7bd6b659183aab49aefc36d241d9303cb0c8abc7b5977326bd49ec78c|Raadsbesluit (1)|Werkvoorraad Gemeenteraad woensdag 7 oktober 2026 · agendapunt Prognose reserves 2026-2030",
+      "content_error": "403 Client Error: Forbidden for url: https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/03bd147b-48fe-47bf-83c3"
     },
     "a9f104db768dfc4e584cb738554da0ee14c43f712e3b48852ddb9beab8a5fb56": {
       "title": "Prognose reserves 2026-2030",
@@ -37976,8 +37979,9 @@
       "excerpt": "Werkvoorraad Gemeenteraad woensdag 7 oktober 2026 · agendapunt Prognose reserves 2026-2030",
       "missing_count": 0,
       "text_hash": "2634241706be7bc6132d46d577316a3aa5f7cd9d0b651ad7467ea47c606719c3",
-      "content_checked": "2026-10-20T01:31:32+00:00",
-      "kw_sig": "4f53cda18c2b|2634241706be7bc6132d46d577316a3aa5f7cd9d0b651ad7467ea47c606719c3|Prognose reserves 2026-2030|Werkvoorraad Gemeenteraad woensdag 7 oktober 2026 · agendapunt Prognose reserves 2026-2030"
+      "content_checked": "2026-10-20T08:01:07+00:00",
+      "kw_sig": "4f53cda18c2b|2634241706be7bc6132d46d577316a3aa5f7cd9d0b651ad7467ea47c606719c3|Prognose reserves 2026-2030|Werkvoorraad Gemeenteraad woensdag 7 oktober 2026 · agendapunt Prognose reserves 2026-2030",
+      "content_error": "403 Client Error: Forbidden for url: https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/1b2adae7-d419-493f-8a56"
     },
     "bc4c27c482453568f6e93b81ff8bd25b749bf4dce703057344a8fc41a6a738aa": {
       "title": "Presidium maandag 31 augustus 2026",
@@ -38610,8 +38614,9 @@
       "excerpt": "Presidium maandag 19 oktober 2026 · agendapunt 1 Opening en mededelingen",
       "missing_count": 0,
       "text_hash": "41ff1050ccc13326e56df05c1d80a0ac235e43aa2ea64210e76ceb23e338441b",
-      "content_checked": "2026-10-20T01:31:15+00:00",
-      "kw_sig": "4f53cda18c2b|41ff1050ccc13326e56df05c1d80a0ac235e43aa2ea64210e76ceb23e338441b|Subsidieregeling decentrale politieke partijen|Presidium maandag 19 oktober 2026 · agendapunt 1 Opening en mededelingen"
+      "content_checked": "2026-10-20T08:01:03+00:00",
+      "kw_sig": "4f53cda18c2b|41ff1050ccc13326e56df05c1d80a0ac235e43aa2ea64210e76ceb23e338441b|Subsidieregeling decentrale politieke partijen|Presidium maandag 19 oktober 2026 · agendapunt 1 Opening en mededelingen",
+      "content_error": "403 Client Error: Forbidden for url: https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/2d0285ed-1edd-4d7c-8b05"
     },
     "4c0035bd00c7288ff70ec508f82853994efe7a42833f00da4a64ac79f8d613d9": {
       "title": "Verslag Presidium 31 augustus 2026",
@@ -38640,7 +38645,7 @@
       "excerpt": "Presidium maandag 19 oktober 2026 · agendapunt 2 Vaststellen verslag vorige presidium van 31 augustus",
       "missing_count": 0,
       "text_hash": "a35d121526b580c8b99ca058441add5bac76322d2c673acf9aa72b89c4337d4f",
-      "content_checked": "2026-10-20T01:31:16+00:00",
+      "content_checked": "2026-10-20T08:01:04+00:00",
       "kw_sig": "4f53cda18c2b|a35d121526b580c8b99ca058441add5bac76322d2c673acf9aa72b89c4337d4f|Verslag Presidium 31 augustus 2026|Presidium maandag 19 oktober 2026 · agendapunt 2 Vaststellen verslag vorige presidium van 31 augustus"
     },
     "362d34647e49d8d7737a17f964d243f575ef62f9842fb940f64c7e4005ef6a9d": {
@@ -38670,7 +38675,7 @@
       "excerpt": "Presidium maandag 19 oktober 2026 · agendapunt 3 Evaluatie raadsvergadering van 8 september en 6 oktober",
       "missing_count": 0,
       "text_hash": "8cc9b9b67b72e8e2bb2498ce6c01f07b0441db858c98cb4f7245d699254b46c1",
-      "content_checked": "2026-10-20T01:31:16+00:00",
+      "content_checked": "2026-10-20T08:01:04+00:00",
       "kw_sig": "4f53cda18c2b|8cc9b9b67b72e8e2bb2498ce6c01f07b0441db858c98cb4f7245d699254b46c1|Raadsagenda 8 september 2026|Presidium maandag 19 oktober 2026 · agendapunt 3 Evaluatie raadsvergadering van 8 september en 6 oktober"
     },
     "3aa645e284883ff57cf2f247cf18a64e6257b54f032d1a960923e513038428fd": {
@@ -38700,7 +38705,7 @@
       "excerpt": "Presidium maandag 19 oktober 2026 · agendapunt 3 Evaluatie raadsvergadering van 8 september en 6 oktober",
       "missing_count": 0,
       "text_hash": "a4f3f2b36f076b4acd3c092c5d9aab2bbf58dd15adfea105e0e9dd39d2fe037f",
-      "content_checked": "2026-10-20T01:31:17+00:00",
+      "content_checked": "2026-10-20T08:01:05+00:00",
       "kw_sig": "4f53cda18c2b|a4f3f2b36f076b4acd3c092c5d9aab2bbf58dd15adfea105e0e9dd39d2fe037f|Raadsagenda 6 oktober 2026|Presidium maandag 19 oktober 2026 · agendapunt 3 Evaluatie raadsvergadering van 8 september en 6 oktober"
     },
     "677229a2968839acbf19fafaaac282c00d2b4631779e5ab9405ca6fb697489ef": {
@@ -38730,8 +38735,9 @@
       "excerpt": "Presidium maandag 19 oktober 2026 · agendapunt 4 Werkplan griffie 2026 - 2027",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"14.09_Werkplan Griffie 2026 - 2027.pdf\"; filename*=UTF-8''14.09_Werkplan%20Griffie%202026%20-%202027.pdf|e9d4eb0bce50abbb959688f843903011d8aa19bab72bec1ccb8ab9a8907619a2",
-      "content_checked": "2026-10-20T01:31:20+00:00",
-      "kw_sig": "4f53cda18c2b||Werkplan Griffie 2026 - 2027|Presidium maandag 19 oktober 2026 · agendapunt 4 Werkplan griffie 2026 - 2027"
+      "content_checked": "2026-10-20T08:01:05+00:00",
+      "kw_sig": "4f53cda18c2b||Werkplan Griffie 2026 - 2027|Presidium maandag 19 oktober 2026 · agendapunt 4 Werkplan griffie 2026 - 2027",
+      "content_error": "403 Client Error: Forbidden for url: https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/a786e4a6-f945-47d9-8851"
     },
     "7d960eb25d71ef0912dc6705b93e5b7241e3d089eff515958d561eadea980846": {
       "title": "Memo presidium: Uitwerking ambitie raad - inrichten vakcommissies",
@@ -38760,8 +38766,9 @@
       "excerpt": "Presidium maandag 19 oktober 2026 · agendapunt 4.a Uitwerking van de ambitie van de gemeenteraad",
       "missing_count": 0,
       "text_hash": "e3519e74b78bd9d0031debe18c43122a58eb116092c2882e52bdc442bbb0dd1e",
-      "content_checked": "2026-10-20T01:31:21+00:00",
-      "kw_sig": "4f53cda18c2b|e3519e74b78bd9d0031debe18c43122a58eb116092c2882e52bdc442bbb0dd1e|Memo presidium: Uitwerking ambitie raad - inrichten vakcommissies|Presidium maandag 19 oktober 2026 · agendapunt 4.a Uitwerking van de ambitie van de gemeenteraad"
+      "content_checked": "2026-10-20T08:01:05+00:00",
+      "kw_sig": "4f53cda18c2b|e3519e74b78bd9d0031debe18c43122a58eb116092c2882e52bdc442bbb0dd1e|Memo presidium: Uitwerking ambitie raad - inrichten vakcommissies|Presidium maandag 19 oktober 2026 · agendapunt 4.a Uitwerking van de ambitie van de gemeenteraad",
+      "content_error": "403 Client Error: Forbidden for url: https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/a4ef5909-254b-454f-9a83"
     },
     "febcde8aa4053c966fde650ead6125f615f239035502fc5488dab53941712f6d": {
       "title": "Plaat samenhang Dijk en Waard",
@@ -38790,8 +38797,9 @@
       "excerpt": "Presidium maandag 19 oktober 2026 · agendapunt 4.a Uitwerking van de ambitie van de gemeenteraad",
       "missing_count": 0,
       "text_hash": "ec2cd76cae6184eb675366977d6ba919e0d9d350502691c4a1c19cd1e053d6b7",
-      "content_checked": "2026-10-20T01:31:22+00:00",
-      "kw_sig": "4f53cda18c2b|ec2cd76cae6184eb675366977d6ba919e0d9d350502691c4a1c19cd1e053d6b7|Plaat samenhang Dijk en Waard|Presidium maandag 19 oktober 2026 · agendapunt 4.a Uitwerking van de ambitie van de gemeenteraad"
+      "content_checked": "2026-10-20T08:01:05+00:00",
+      "kw_sig": "4f53cda18c2b|ec2cd76cae6184eb675366977d6ba919e0d9d350502691c4a1c19cd1e053d6b7|Plaat samenhang Dijk en Waard|Presidium maandag 19 oktober 2026 · agendapunt 4.a Uitwerking van de ambitie van de gemeenteraad",
+      "content_error": "403 Client Error: Forbidden for url: https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/313e12fc-e8c6-4eea-8131"
     },
     "122a6620a2c56acdeb4040ac0e59b77eabbf8422d8f0da5c611454f1185bdfaa": {
       "title": "Amendement Incidentele versterking ondersteuning raad door griffie",
@@ -38820,7 +38828,7 @@
       "excerpt": "Presidium maandag 19 oktober 2026 · agendapunt 4.a Uitwerking van de ambitie van de gemeenteraad",
       "missing_count": 0,
       "text_hash": "a9e2262d682d321e208ac1eaa8f801f1ecfc9ce05089aba88915bd06783f7e96",
-      "content_checked": "2026-10-20T01:31:22+00:00",
+      "content_checked": "2026-10-20T08:01:06+00:00",
       "kw_sig": "4f53cda18c2b|a9e2262d682d321e208ac1eaa8f801f1ecfc9ce05089aba88915bd06783f7e96|Amendement Incidentele versterking ondersteuning raad door griffie|Presidium maandag 19 oktober 2026 · agendapunt 4.a Uitwerking van de ambitie van de gemeenteraad"
     },
     "41ea199441c27ca7bce8f51bd7d9d2cff42767819910c831302c579e96a11024": {
@@ -38850,7 +38858,7 @@
       "excerpt": "Presidium maandag 19 oktober 2026 · agendapunt 5 Leerprogramma gemeenteraad",
       "missing_count": 0,
       "text_hash": "c17b377c4a3b6f92a91f066a3dc2f49b7fd644e208002ad0f4d3350c77b74a7a",
-      "content_checked": "2026-10-20T01:31:23+00:00",
+      "content_checked": "2026-10-20T08:01:06+00:00",
       "kw_sig": "4f53cda18c2b|c17b377c4a3b6f92a91f066a3dc2f49b7fd644e208002ad0f4d3350c77b74a7a|Memo leerprogramma 2026-2029|Presidium maandag 19 oktober 2026 · agendapunt 5 Leerprogramma gemeenteraad"
     },
     "a5290f37bd748b4b53290c5187f744c0f11d076191da3d83369be3f30d931dc8": {
@@ -38880,8 +38888,9 @@
       "excerpt": "Presidium maandag 19 oktober 2026 · agendapunt 6 Reglement van Orde - aanpassingen",
       "missing_count": 0,
       "text_hash": "298fac991cfb5d7371ab3b436e1ce44bbd8f8ce4cbafaa84321539b2ece37f3c",
-      "content_checked": "2026-10-20T01:31:26+00:00",
-      "kw_sig": "4f53cda18c2b|298fac991cfb5d7371ab3b436e1ce44bbd8f8ce4cbafaa84321539b2ece37f3c|Reglement van Orde Gemeenteraad Dijk en Waard 2026|Presidium maandag 19 oktober 2026 · agendapunt 6 Reglement van Orde - aanpassingen"
+      "content_checked": "2026-10-20T08:01:06+00:00",
+      "kw_sig": "4f53cda18c2b|298fac991cfb5d7371ab3b436e1ce44bbd8f8ce4cbafaa84321539b2ece37f3c|Reglement van Orde Gemeenteraad Dijk en Waard 2026|Presidium maandag 19 oktober 2026 · agendapunt 6 Reglement van Orde - aanpassingen",
+      "content_error": "403 Client Error: Forbidden for url: https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/45a75f9f-d25f-4db9-b583"
     },
     "e3dd372bebc2b8b2c5b1e25c51172a800c3a71b11f4c7bc797290a3bc43304af": {
       "title": "Commissie Sociaal Domein woensdag 16 september 2026",
@@ -95236,58 +95245,58 @@
   "status": {
     "dijkenwaard": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-20T07:30:45+00:00",
+        "checked": "2026-10-20T08:00:55+00:00",
         "ok": true,
         "count": 155,
         "new": 0,
         "note": "Laatste 30 dagen: 155 van 155 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-20T07:30:55+00:00",
+        "checked": "2026-10-20T08:00:58+00:00",
         "ok": false,
-        "count": 9,
+        "count": 2,
         "new": 0,
-        "error": "Commissie Raadzaal 2026-10-28: 403 Client Error: Forbidden for url: https://dijkenwaard.bes",
-        "note": "9 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-21 t/m 2026-12-04 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
+        "error": "Commissie Raadzaal 2026-08-25: 403 Client Error: Forbidden for url: https://dijkenwaard.bes; Commissie Trouwzaal 2026-12-01: 403 Client Error: Forbidden for url: https://dijkenwaard.bes; Commissie Trouwzaal 2026-11-25: 403 Client Error: Forbidden for",
+        "note": "2 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-21 t/m 2026-12-04 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-20T07:31:02+00:00",
-        "ok": true,
-        "count": 434,
+        "checked": "2026-10-20T08:00:59+00:00",
+        "ok": false,
+        "count": 50,
         "new": 0,
-        "error": null,
-        "note": "Overzichten van het raadsportaal (totaal in het portaal: Collegeberichten 676, Informatie van derden 1169, Informatie van de Rekenkamer 12, Raadsvragen 649, Amendementen 142, Moties 249, Toezeggingen 147, Overige acties raad 3, Besluitenlijsten B&W 227, Gemeenschappelijke regelingen 114, Regels en afspraken 19). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
+        "error": "Collegeberichten: 403 Client Error: Forbidden for url: https://dijkenwaard.bes; Informatie van derden: 403 Client Error: Forbidden for url: https://dijkenwaard.bes; Informatie van de Rekenkamer: 403 Client Error: Forbidden for url: https://dijkenwaar",
+        "note": "Overzichten van het raadsportaal (totaal in het portaal: Moties 249). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-20T07:31:03+00:00",
+        "checked": "2026-10-20T08:01:00+00:00",
         "ok": true,
         "count": 12,
         "new": 0,
         "note": "Het nieuwsoverzicht van dijkenwaard.nl (de nieuwste berichten, met datum). De gemeente heeft geen nieuwsfeed."
       },
       "In de media": {
-        "checked": "2026-10-20T07:31:05+00:00",
+        "checked": "2026-10-20T08:01:03+00:00",
         "ok": true,
-        "count": 21,
+        "count": 20,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Dijk en Waard, Heerhugowaard, Langedijk, Broek op Langedijk, Koedijk, Noord-Scharwoude, Oudkarspel, Sint Pancras, Zuid-Scharwoude. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-20T07:31:05+00:00",
-        "ok": true,
-        "count": 0,
-        "errors": 0,
-        "note": "0 documenten gecontroleerd (0 pdf), 1012 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "checked": "2026-10-20T08:01:07+00:00",
+        "ok": false,
+        "count": 5,
+        "errors": 9,
+        "note": "5 documenten gecontroleerd (5 pdf), 1012 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-20T07:31:05+00:00",
+        "checked": "2026-10-20T08:01:07+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-20T07:31:05+00:00",
+        "checked": "2026-10-20T08:01:07+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -95349,7 +95358,7 @@
         "documents": 0
       },
       "fa41b4e1-af84-4c54-8479-bb4b66fdccb6": {
-        "checked": "2026-10-20T07:26:22+00:00",
+        "checked": "2026-10-20T08:00:55+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-10-06",
@@ -95357,7 +95366,7 @@
         "documents": 49
       },
       "8a72abe0-5f8a-40df-a796-14140efc9264": {
-        "checked": "2026-10-20T07:26:22+00:00",
+        "checked": "2026-10-20T08:00:55+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-09-08",
@@ -95435,7 +95444,7 @@
         "label": "dinsdag 27 januari 2026"
       },
       "75b14870-869b-4275-a366-0d301b1f4cd9": {
-        "checked": "2026-10-20T07:26:22+00:00",
+        "checked": "2026-10-20T08:00:55+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-12-01",
@@ -95443,7 +95452,7 @@
         "documents": 0
       },
       "58855823-4a16-415e-ba3f-338fea1d104e": {
-        "checked": "2026-10-20T07:26:22+00:00",
+        "checked": "2026-10-20T08:00:55+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-25",
@@ -95499,7 +95508,7 @@
         "documents": 2
       },
       "20bdc7e2-7ff2-4ccd-a3b1-182fe437387e": {
-        "checked": "2026-10-20T07:00:54+00:00",
+        "checked": "2026-10-20T08:00:55+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-08-25",
@@ -95528,7 +95537,7 @@
         "label": "dinsdag 12 mei 2026 Oordeelsvorming"
       },
       "b3f6df03-a837-4e18-a159-ea60751f72ed": {
-        "checked": "2026-10-20T07:00:54+00:00",
+        "checked": "2026-10-20T08:00:55+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Trouwzaal",
         "date": "2026-12-01",
@@ -95536,7 +95545,7 @@
         "documents": 0
       },
       "bc609eda-aeb2-4f77-a522-0b0535596cc1": {
-        "checked": "2026-10-20T07:00:54+00:00",
+        "checked": "2026-10-20T08:00:55+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Trouwzaal",
         "date": "2026-11-25",
@@ -95544,7 +95553,7 @@
         "documents": 0
       },
       "a9db7d73-17ab-40c2-84a2-1337bdec2f73": {
-        "checked": "2026-10-20T07:00:54+00:00",
+        "checked": "2026-10-20T08:00:55+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Trouwzaal",
         "date": "2026-11-24",
@@ -95552,7 +95561,7 @@
         "documents": 0
       },
       "86e9767e-da60-41dd-b1ba-c9910b3d46a7": {
-        "checked": "2026-10-20T07:00:54+00:00",
+        "checked": "2026-10-20T08:00:55+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Trouwzaal",
         "date": "2026-10-22",
@@ -95560,7 +95569,7 @@
         "documents": 0
       },
       "09e57697-6ed6-4904-afed-90c92726a569": {
-        "checked": "2026-10-20T07:00:54+00:00",
+        "checked": "2026-10-20T08:00:55+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Trouwzaal",
         "date": "2026-10-21",
