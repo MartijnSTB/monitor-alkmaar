@@ -3,6 +3,46 @@
     "dijkenwaard"
   ],
   "items": {
+    "d1e51257ecf25c5a6c15405def0833c315e5d7be5c248343d0ea84ef2dee5e4c": {
+      "title": "Internationaal waterzuiveringsbedrijf uit Heerhugowaard haalde 100 miljoen op bij investeerders",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXJxbXZ5cVhrVTRScHBNYjVFclhjeGEtVzZwS2NuVzlyeDFfdkVUUEJ2ZzVveWxUWUdVdG55S0RRRFBqak5nbmNfLVY1M3NhZjJESzc1N2JHTjhJWWhjajlfLTRhM3dnZThJbzMzQTlwZ3Jad29qSkMwM0ctejJIaVE4NUVwZmRtaWc?oc=5",
+      "source": "In de media",
+      "gemeente": "dijkenwaard",
+      "first_seen": "2026-10-20T09:01:19+00:00",
+      "updated": "2026-10-20T09:01:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "MenA.nl",
+      "media_match": "kop",
+      "last_seen": "2026-10-20",
+      "doc_date": "2026-10-20",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-20T10:38+02:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Internationaal waterzuiveringsbedrijf uit Heerhugowaard haalde 100 miljoen op bij investeerders|"
+    },
+    "f7da183dbbbed623cf0d81eeb470efcdf92ee599e7432edfcd5c440ff390df67": {
+      "title": "Hans Bulte (1937-2026) stond na nieuwjaarsbrand in Volendam voor ’moeilijkste klus in leven’. Oud-burgemeester uit Sint Pancras hield enorm veel van de natuur",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPakJ5OEtXcHNIbkRJRDd4T3U3VDVFbzk5bVFSdWNrS1RtNTY1MzI3clN6Ri1EdG5wY1dENUVZSWtZUHY3SXo4NjdvY3RnVjVQVFktdnZQa253Yk50eTVYcGJnNzJJNTdPdWkzZzlNTHl2ODNaSlFKOVhHdldWV3ZXY01nNmZ2N0dUUHJsWGlsNjBRdUpnc1l1SU1lWkl5RTg2b0xwY2VTLW9TRHdlVnpoYi01QWlpamxhMUI2dVUwSmN4RzV0N3Vwak5zaWNMYXhiekJsTnZUbnowcnZldEkydXp1YTNhLWFnaTVsNDBvblVNWmh0VVNuRUFxZ2ZwSjlsc0hLUEtvNGJLOGNOWElhZ2t3dWVwaHhwV1ZTanM3TkhFWDAwemlsNmdrUnA4YVJWdjRVLS1TeUp3Sk93V0FQWQ?oc=5",
+      "source": "In de media",
+      "gemeente": "dijkenwaard",
+      "first_seen": "2026-10-20T09:01:19+00:00",
+      "updated": "2026-10-20T09:01:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Noordhollands Dagblad",
+      "media_match": "kop",
+      "last_seen": "2026-10-20",
+      "doc_date": "2026-10-20",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-20T10:50+02:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Hans Bulte (1937-2026) stond na nieuwjaarsbrand in Volendam voor ’moeilijkste klus in leven’. Oud-burgemeester uit Sint Pancras hield enorm veel van de natuur|"
+    },
     "c33069d0fb3cc207fd004e7ce9b95219566c5e9f000c3fe99e5fca84b4ae748f": {
       "title": "Max uit Heerhugowaard vertelt over zijn fietsavonturen in Noorwegen en IJsland",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanVJcXU1QzBYOEItMVZBNkpMV1A3dzZYeHVwa2k5M3lGWmZ6MUdCSnh4aU9Qci11RXktSHc4N01jSzVabjE0SHVFM3J0ZTc3SXlWTU9JWHRta0pIcmRHNkU3a0sySkhSbzZQb01LbHVqVXJIOGRUdzFhdjhOLWJuOGNaN2pzNGNnYml3MnFFM3lLd25DUWx3R1VwbVJENi1aNVVkOFcyTVJYWHN5M3RiZ01GU2FQREtYN1dpMFFQeU1mQQ?oc=5",
@@ -95265,22 +95305,22 @@
   "status": {
     "dijkenwaard": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-20T08:30:48+00:00",
+        "checked": "2026-10-20T09:00:56+00:00",
         "ok": true,
         "count": 155,
         "new": 0,
         "note": "Laatste 30 dagen: 155 van 155 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-20T08:31:02+00:00",
-        "ok": true,
-        "count": 10,
+        "checked": "2026-10-20T09:01:11+00:00",
+        "ok": false,
+        "count": 9,
         "new": 0,
-        "error": null,
-        "note": "10 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-21 t/m 2026-12-04 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
+        "error": "Commissie Raadzaal 2026-10-28: 403 Client Error: Forbidden for url: https://dijkenwaard.bes",
+        "note": "9 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-21 t/m 2026-12-04 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-20T08:31:10+00:00",
+        "checked": "2026-10-20T09:01:17+00:00",
         "ok": true,
         "count": 434,
         "new": 0,
@@ -95288,35 +95328,35 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Collegeberichten 676, Informatie van derden 1169, Informatie van de Rekenkamer 12, Raadsvragen 649, Amendementen 142, Moties 249, Toezeggingen 147, Overige acties raad 3, Besluitenlijsten B&W 227, Gemeenschappelijke regelingen 114, Regels en afspraken 19). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-20T08:31:11+00:00",
+        "checked": "2026-10-20T09:01:19+00:00",
         "ok": true,
         "count": 12,
         "new": 0,
         "note": "Het nieuwsoverzicht van dijkenwaard.nl (de nieuwste berichten, met datum). De gemeente heeft geen nieuwsfeed."
       },
       "In de media": {
-        "checked": "2026-10-20T08:31:14+00:00",
+        "checked": "2026-10-20T09:01:21+00:00",
         "ok": true,
-        "count": 21,
-        "new": 1,
+        "count": 24,
+        "new": 2,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Dijk en Waard, Heerhugowaard, Langedijk, Broek op Langedijk, Koedijk, Noord-Scharwoude, Oudkarspel, Sint Pancras, Zuid-Scharwoude. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-20T08:31:14+00:00",
+        "checked": "2026-10-20T09:01:21+00:00",
         "ok": true,
         "count": 0,
         "errors": 0,
         "note": "0 documenten gecontroleerd (0 pdf), 1012 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-20T08:31:14+00:00",
+        "checked": "2026-10-20T09:01:21+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-20T08:31:14+00:00",
+        "checked": "2026-10-20T09:01:21+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -95378,7 +95418,7 @@
         "documents": 0
       },
       "fa41b4e1-af84-4c54-8479-bb4b66fdccb6": {
-        "checked": "2026-10-20T08:00:55+00:00",
+        "checked": "2026-10-20T09:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-10-06",
@@ -95386,7 +95426,7 @@
         "documents": 49
       },
       "8a72abe0-5f8a-40df-a796-14140efc9264": {
-        "checked": "2026-10-20T08:00:55+00:00",
+        "checked": "2026-10-20T09:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-09-08",
@@ -95464,7 +95504,7 @@
         "label": "dinsdag 27 januari 2026"
       },
       "75b14870-869b-4275-a366-0d301b1f4cd9": {
-        "checked": "2026-10-20T08:00:55+00:00",
+        "checked": "2026-10-20T09:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-12-01",
@@ -95472,7 +95512,7 @@
         "documents": 0
       },
       "58855823-4a16-415e-ba3f-338fea1d104e": {
-        "checked": "2026-10-20T08:00:55+00:00",
+        "checked": "2026-10-20T09:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-25",
@@ -95480,7 +95520,7 @@
         "documents": 0
       },
       "0779ec56-65a7-4439-a468-37dbdce4cb47": {
-        "checked": "2026-10-20T07:30:45+00:00",
+        "checked": "2026-10-20T09:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-24",
@@ -95488,7 +95528,7 @@
         "documents": 0
       },
       "c2b96a6d-9b2f-47f2-af33-02e88f8dd97f": {
-        "checked": "2026-10-20T07:30:45+00:00",
+        "checked": "2026-10-20T09:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-03",
@@ -95496,7 +95536,7 @@
         "documents": 6
       },
       "f0eb8367-beed-4ac2-bca0-2c7084edce9b": {
-        "checked": "2026-10-20T07:30:45+00:00",
+        "checked": "2026-10-20T09:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-10-28",
@@ -95504,7 +95544,7 @@
         "documents": 0
       },
       "f78a8961-2113-4c1d-a986-80fe26f4e192": {
-        "checked": "2026-10-20T07:30:45+00:00",
+        "checked": "2026-10-20T09:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-10-27",
@@ -95512,7 +95552,7 @@
         "documents": 5
       },
       "cb81d999-2d60-47ee-b751-bc1ff41054d8": {
-        "checked": "2026-10-20T07:30:45+00:00",
+        "checked": "2026-10-20T09:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-09-22",
@@ -95520,7 +95560,7 @@
         "documents": 41
       },
       "7c8cb824-9061-46f8-8c74-ac73d6abf9e7": {
-        "checked": "2026-10-20T07:30:45+00:00",
+        "checked": "2026-10-20T09:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-09-01",
