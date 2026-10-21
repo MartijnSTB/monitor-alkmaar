@@ -3,6 +3,26 @@
     "dijkenwaard"
   ],
   "items": {
+    "4835b1baaef0976706d141848d59c0fc3c0d6dd520c22d388bab9f3f01203b74": {
+      "title": "Claudia Munter en Martin Zoet winnen eerste voorronde Open Kampioenschap Tokken Dijk en Waard",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSEdFWlh0Nmc3QWRpVFdLR1ByYjB0YUFHbWIwTHdNTmRRbFRqa1dpN2dZanB3U21IMzFpbGJZbFB2ckFQRWIyVEhBNVFaYVZpUUVuSUZSS2hhdnVFZi1PSFJncTVqUWJ4Uzl4MFJOeUd5SG0wbml1MkZCbWdPdEdtVGlwdExtdmsyLXpNSVltYnRQbmM0eDdtMDNrd1o3OUVtT29YU25oN2hZRkFZNHZFZG1HRUlYLTRrbkFQNk1rNjVSallIbHNEam1yYTBidjNB?oc=5",
+      "source": "In de media",
+      "gemeente": "dijkenwaard",
+      "first_seen": "2026-10-21T06:01:14+00:00",
+      "updated": "2026-10-21T06:01:14+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Dagbladdijkenwaard.nl",
+      "media_match": "kop",
+      "last_seen": "2026-10-21",
+      "doc_date": "2026-10-21",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-21T07:27+02:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Claudia Munter en Martin Zoet winnen eerste voorronde Open Kampioenschap Tokken Dijk en Waard|"
+    },
     "2eb17fd04fe44aa4817f61f347bf3bbb0c923a8776187489a193d3c00d677ea8": {
       "title": "Aantal kinderen in bijstandsgezin in Dijk en Waard blijft toenemen: sinds 2022 al tachtig 'bijstandskinderen' erbij",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMVVMOE9jMy1Uc2tCaHdCYjlSTkxKbjJkd0dydjJzeU05eEp0dFRSUVZxOThOSXRNVk9SalQ1OExFaVFfVTFVd29mZ3NUb2hSaGdOdWZ0X1B0cmk1T0lpZTlsOHZkWUpJWk9LbF9MSXFvQUl2aEh1U0lIbDFyR1dCSXFidXVUaktMbVluazJNQXdVbDVQdDBzSFoxVDI4SUhnSU1rd2JNV0ZzNlRnaXdlQVJNV1NxZUFjV1FDRU9NN1NQQjAwaEs3OHI1aUZZR1NHZlltZDFRbnhNZ0p6SjRiVHpXc2lFTkprRVE?oc=5",
@@ -94987,22 +95007,22 @@
   "status": {
     "dijkenwaard": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-21T05:30:45+00:00",
+        "checked": "2026-10-21T06:00:54+00:00",
         "ok": true,
         "count": 155,
         "new": 0,
         "note": "Laatste 30 dagen: 155 van 155 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-21T05:30:57+00:00",
-        "ok": true,
-        "count": 10,
+        "checked": "2026-10-21T06:01:04+00:00",
+        "ok": false,
+        "count": 9,
         "new": 0,
-        "error": null,
-        "note": "10 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-22 t/m 2026-12-05 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
+        "error": "Gemeenteraad 2026-11-12: 403 Client Error: Forbidden for url: https://dijkenwaard.bes",
+        "note": "9 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-22 t/m 2026-12-05 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-21T05:31:04+00:00",
+        "checked": "2026-10-21T06:01:13+00:00",
         "ok": true,
         "count": 384,
         "new": 0,
@@ -95010,35 +95030,35 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Collegeberichten 676, Informatie van derden 1169, Informatie van de Rekenkamer 12, Raadsvragen 649, Amendementen 142, Moties 249, Toezeggingen 147, Overige acties raad 3, Besluitenlijsten B&W 227, Regels en afspraken 19). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-21T05:31:05+00:00",
+        "checked": "2026-10-21T06:01:14+00:00",
         "ok": true,
         "count": 12,
         "new": 0,
         "note": "Het nieuwsoverzicht van dijkenwaard.nl (de nieuwste berichten, met datum). De gemeente heeft geen nieuwsfeed."
       },
       "In de media": {
-        "checked": "2026-10-21T05:31:08+00:00",
+        "checked": "2026-10-21T06:01:17+00:00",
         "ok": true,
-        "count": 29,
-        "new": 0,
+        "count": 30,
+        "new": 1,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Dijk en Waard, Heerhugowaard, Langedijk, Broek op Langedijk, Koedijk, Noord-Scharwoude, Oudkarspel, Sint Pancras, Zuid-Scharwoude. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-21T05:31:08+00:00",
+        "checked": "2026-10-21T06:01:17+00:00",
         "ok": true,
         "count": 0,
         "errors": 0,
         "note": "0 documenten gecontroleerd (0 pdf), 996 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-21T05:31:08+00:00",
+        "checked": "2026-10-21T06:01:17+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-21T05:31:08+00:00",
+        "checked": "2026-10-21T06:01:17+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -95068,7 +95088,7 @@
         "label": "dinsdag 8 december 2026"
       },
       "86b9c17c-db3a-41a8-ad53-14af7b0e86ad": {
-        "checked": "2026-10-21T05:00:57+00:00",
+        "checked": "2026-10-21T06:00:54+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-11-12",
@@ -95076,7 +95096,7 @@
         "documents": 0
       },
       "69fe915e-439f-4907-91f2-4569cc84e335": {
-        "checked": "2026-10-21T05:00:57+00:00",
+        "checked": "2026-10-21T06:00:54+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-11-10",
@@ -95084,7 +95104,7 @@
         "documents": 20
       },
       "196e4f3f-725c-4eab-9d43-790273c10379": {
-        "checked": "2026-10-21T05:00:57+00:00",
+        "checked": "2026-10-21T06:00:54+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-10-22",
@@ -95092,7 +95112,7 @@
         "documents": 0
       },
       "ff9d067a-fe48-4dcd-9ac4-87e2f196b690": {
-        "checked": "2026-10-21T05:00:57+00:00",
+        "checked": "2026-10-21T06:00:54+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-10-21",
@@ -95368,7 +95388,7 @@
         "label": "dinsdag 13 januari 2026 Locatie Werkcafé"
       },
       "c23afa4c-f78d-43de-8d43-dee669794000": {
-        "checked": "2026-10-21T04:40:20+00:00",
+        "checked": "2026-10-21T06:00:54+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Sociaal Domein",
         "date": "2026-09-16",
@@ -95383,7 +95403,7 @@
         "label": "woensdag 13 mei 2026"
       },
       "7f8bf71a-bc51-4ee9-b2f8-080f023834f6": {
-        "checked": "2026-10-21T04:40:20+00:00",
+        "checked": "2026-10-21T06:00:54+00:00",
         "gemeente": "dijkenwaard",
         "type": "Presidium",
         "date": "2026-10-19",
@@ -95391,7 +95411,7 @@
         "documents": 11
       },
       "6be97d38-09d1-4cc9-8faf-b7a3756a1204": {
-        "checked": "2026-10-21T04:40:20+00:00",
+        "checked": "2026-10-21T06:00:54+00:00",
         "gemeente": "dijkenwaard",
         "type": "Presidium",
         "date": "2026-08-31",
@@ -95420,7 +95440,7 @@
         "label": "maandag 9 februari 2026"
       },
       "7de40e52-b7ae-48c1-a202-8a8aca15bffa": {
-        "checked": "2026-10-21T04:40:20+00:00",
+        "checked": "2026-10-21T06:00:54+00:00",
         "gemeente": "dijkenwaard",
         "type": "Werkvoorraad Gemeenteraad",
         "date": "2026-10-07",
@@ -95428,7 +95448,7 @@
         "documents": 4
       },
       "55598103-71e5-4d69-a4ce-0169218ea0c4": {
-        "checked": "2026-10-21T04:40:20+00:00",
+        "checked": "2026-10-21T06:00:54+00:00",
         "gemeente": "dijkenwaard",
         "type": "Werkvoorraad Gemeenteraad",
         "date": "2026-09-23",
@@ -95436,7 +95456,7 @@
         "documents": 6
       },
       "dd957126-a1fd-474f-a891-a32902b976db": {
-        "checked": "2026-10-21T04:40:20+00:00",
+        "checked": "2026-10-21T06:00:54+00:00",
         "gemeente": "dijkenwaard",
         "type": "Werkvoorraad Gemeenteraad",
         "date": "2026-08-26",
