@@ -51,7 +51,7 @@ def build():
         for name, reason in cfg['not_followed'].items():
             status[name] = {'skip': True, 'note': reason}
         # Dorpen voor het dorpfilter: de BAG-woonplaatsen (zonder de gemeentenaam en oude namen).
-        dorpen = sorted(p for p in cfg.get('plaatsen', []) if p not in cfg.get('geen_dorp', []) and p != cfg['naam'])
+        dorpen = sorted(p for p in cfg.get('plaatsen', []) if p not in cfg.get('geen_dorp', []))
         payload = {'gemeente': gid, 'naam': cfg['naam'], 'generated': stamp, 'status': status, 'dorpen': dorpen,
                    'algemeen': db['status'].get('algemeen', {}), 'items': items}
         (DOCS / 'data' / f'{gid}.json').write_text(json.dumps(payload, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')

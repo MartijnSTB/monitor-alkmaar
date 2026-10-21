@@ -1,4 +1,4 @@
-"""Gemeentemonitor Dijk en Waard: openbare publicaties van de gemeente Dijk en Waard.
+"""Gemeentemonitor Alkmaar: openbare publicaties van de gemeente Alkmaar.
 
 Per gemeente staat in GEMEENTEN welke bronnen er zijn. Elke run:
   1. KOOP-bekendmakingen (laatste 30 dagen + archief maand voor maand)
@@ -22,35 +22,37 @@ ROOT = Path(__file__).parent
 DB = ROOT / 'data' / 'items.json'
 DOCS = ROOT / 'docs'
 TEXT_DIR = ROOT / 'data' / 'text'   # vorige tekstversie per document, nodig om te kunnen vergelijken
-HEADERS = {'User-Agent': 'DijkenWaardPublicatieMonitor/0.1 (public information monitoring)'}
+HEADERS = {'User-Agent': 'AlkmaarPublicatieMonitor/0.1 (public information monitoring)'}
 
 # ---------------------------------------------------------------------------
 # Configuratie per gemeente (bronnen gecontroleerd op 15 okt 2026)
 # ---------------------------------------------------------------------------
 GEMEENTEN = {
-    'dijkenwaard': {
-        'naam': 'Dijk en Waard',
-        'koop': 'Dijk en Waard',
-        # iBabs-portaal van de raad (gecontroleerd 19 okt 2026). 'Commissie Trouwzaal' bevat ook testvergaderingen.
-        'ibabs': 'https://dijkenwaard.bestuurlijkeinformatie.nl',
-        'ibabs_types': {100000126: 'Gemeenteraad', 100000777: 'Commissie Raadzaal', 100000778: 'Commissie Trouwzaal',
-                        100001943: 'Commissie de Binding', 100004173: 'Commissie Sociaal Domein',
-                        100000127: 'Presidium', 100000776: 'Werkvoorraad Gemeenteraad'},
+    'alkmaar': {
+        'naam': 'Alkmaar',
+        'koop': 'Alkmaar',
+        # In Alkmaar is het iBabs-portaal alleen van het college: B&W-agenda's en openbare besluitenlijsten
+        # (gecontroleerd 19 okt 2026). De gemeenteraad zit op alkmaar.raadsinformatie.nl (zie not_followed).
+        'ibabs': 'https://alkmaar.bestuurlijkeinformatie.nl',
+        'ibabs_types': {100148034: 'B&W Agenda', 100050619: 'B&W Openbare besluiten college'},
         'pages': {},
-        'domains': ('https://www.dijkenwaard.nl/', 'https://dijkenwaard.bestuurlijkeinformatie.nl/'),
-        'news_rss': None,  # dijkenwaard.nl heeft geen RSS-feed (gecontroleerd 19 okt 2026)
-        # Nieuwsoverzicht met kaartjes (titel + datum).
-        'news_cards': 'https://www.dijkenwaard.nl/actueel/nieuws',
+        'domains': ('https://www.alkmaar.nl/', 'https://alkmaar.bestuurlijkeinformatie.nl/'),
+        'news_rss': 'https://www.alkmaar.nl/nieuws/feed',  # RSS met publicatiedatum (gevonden 19 okt 2026)
         'college_pdf_page': None,
-        # Woonplaatsen volgens de BAG (PDOK), voor Google Nieuws en het dorpfilter. 'Dijk en Waard' en
-        # 'Langedijk' (de oude gemeentenaam) alleen voor Google Nieuws.
-        'plaatsen': ['Dijk en Waard', 'Heerhugowaard', 'Langedijk', 'Broek op Langedijk', 'Koedijk',
-                     'Noord-Scharwoude', 'Oudkarspel', 'Sint Pancras', 'Zuid-Scharwoude'],
-        'geen_dorp': ['Dijk en Waard', 'Langedijk'],
+        # Open Raadsinformatie (VNG / Open State): de raadsstukken van Alkmaar, voor zover bijgewerkt.
+        'ori': 'ori_alkmaar_*',
+        # Woonplaatsen volgens de BAG (PDOK), voor Google Nieuws en het dorpfilter.
+        'plaatsen': ['Alkmaar', 'De Rijp', 'Driehuizen', 'Graft', 'Grootschermer', 'Koedijk', 'Markenbinnen',
+                     'Noordeinde', 'Oost-Graftdijk', 'Oterleek', 'Oudorp', 'Schermerhorn', 'Starnmeer',
+                     'Stompetoren', 'Ursem', 'West-Graftdijk', 'Zuidschermer'],
         'notes': {
-            'Nieuws': 'Het nieuwsoverzicht van dijkenwaard.nl (de nieuwste berichten, met datum). De gemeente heeft geen nieuwsfeed.',
         },
-        'not_followed': {},
+        'not_followed': {
+            'Raadsinformatie (live)': 'alkmaar.raadsinformatie.nl (vergaderingen en raadsstukken van de gemeenteraad) '
+                                      'zit achter een beveiligingscontrole tegen geautomatiseerde bezoekers. De monitor '
+                                      'omzeilt die niet. Raadsstukken komen binnen via Open Raadsinformatie, maar die loopt '
+                                      'soms maanden achter. Raadsbesluiten in het Gemeenteblad komen wel binnen via KOOP.',
+        },
     },
 }
 
@@ -77,21 +79,21 @@ MAX_CHANGES = 10               # zoveel wijzigingen per document bewaren
 MAX_ITEMS = 10_000             # bovengrens voor items.json
 # Google Nieuws ('In de media'): artikelen over de gemeente en haar kernen.
 MEDIA_SOURCE = 'In de media'
-MEDIA_WINDOW = 'when:2d'       # elke run de artikelen van de laatste 2 dagen
+MEDIA_WINDOW = 'when:2d'       # elke run de artikelen van de laatste 2 dagen (Alkmaar levert veel op)
 MEDIA_KEEP_DAYS = 60           # oudere media-items worden opgeruimd
 MEDIA_CHUNK = 8                # plaatsnamen per zoekvraag (Google geeft max. 100 resultaten per vraag)
 # Regionale media: daar telt ook een artikel waarin de plaats alleen in de tekst staat.
 MEDIA_REGIONAAL = ('rodi', 'noordhollands dagblad', 'onswestfriesland', 'streekomroep', 'nh nieuws',
                    'nieuwsuitwestfriesland', '112westfriesland', 'westfriesland', 'west-friesland')
 # Verzamelsites (dubbel) en de gemeente zelf (staat al in de kolom Nieuws).
-MEDIA_OVERSLAAN = ('drimble', 'stadindex', 'gemeente dijk en waard')
-# Koppen die niet over de gemeente gaan (lege lijst: niets uitsluiten).
-MEDIA_UITSLUITEN = re.compile(r'(?!x)x')
+MEDIA_OVERSLAAN = ('drimble', 'stadindex', 'gemeente alkmaar')
+# Sport over AZ Alkmaar e.d. is geen gemeentenieuws.
+MEDIA_UITSLUITEN = re.compile(r'\bAZ\b|Eredivisie|Europa League|Conference League|KNVB|AFAS[- ][Ss]tadion')
 # Plaatsnamen die ook een achternaam zijn of elders voorkomen. 'Masha Berkhout' telt niet, 'in Berkhout' wel.
-MEDIA_DUBBELZINNIG = {'koedijk', 'langedijk'}
+MEDIA_DUBBELZINNIG = {'graft', 'noordeinde', 'ursem', 'koedijk'}
 # Deze namen komen ook elders veel voor (Noord-Scharwoude, Oudendijk bij Strijen, de achternaam Berkhout):
 # ze worden apart gezocht en tellen alleen als ze in de kop staan.
-MEDIA_ALLEEN_KOP = {'koedijk', 'langedijk'}
+MEDIA_ALLEEN_KOP = {'graft', 'noordeinde', 'ursem', 'driehuizen', 'koedijk'}
 MEDIA_VOORZETSELS = {'in', 'uit', 'bij', 'te', 'naar', 'van', 'rond', 'om', 'op', 'door', 'voor', 'nabij', 'en',
                      'gemeente', 'dorp', 'kern', 'centrum', 'buiten', 'tussen', 'richting', 'over'}
 
@@ -523,42 +525,6 @@ def collect_media(db, gid, places):
     for k in [k for k, v in db['items'].items() if v.get('gemeente') == gid and v.get('source') == MEDIA_SOURCE
               and (v.get('doc_date') or v['first_seen'][:10]) < grens]:
         del db['items'][k]
-
-# ---------------------------------------------------------------------------
-# Nieuwsoverzicht met kaartjes (dijkenwaard.nl): titel, link en datum per bericht
-# ---------------------------------------------------------------------------
-def collect_news_cards(db, gid, url):
-    source = 'Nieuws'
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=30)
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, 'html.parser')
-        cards, added = soup.select('li.card'), 0
-        for card in cards:
-            a = card.select_one('a[href]')
-            t = card.select_one('.card__title') or a
-            if not a or not t:
-                continue
-            title, link = clean(t.get_text(' ', strip=True)), urllib.parse.urljoin(url, a['href'])
-            if not title or not link.startswith(GEMEENTEN[gid]['domains']):
-                continue
-            key = make_key(source + '|' + link)
-            item = db['items'].get(key)
-            if item is None:
-                item = db['items'][key] = new_item(gid, title, link, source, excerpt='')
-                added += 1
-            tm = card.select_one('time[datetime]')
-            datum = (tm['datetime'] if tm else '')[:10]
-            if re.match(r'\d{4}-\d{2}-\d{2}$', datum):
-                item.update(doc_date=datum, doc_date_label='publicatiedatum', publication_date=datum)
-            intro = card.select_one('.card__text, .card__description, p')
-            if intro and clean(intro.get_text(' ', strip=True)):
-                item['excerpt'] = clean(intro.get_text(' ', strip=True))[:400]
-            item.update(title=title, last_seen=today())
-        set_status(db, gid, source, ok=bool(cards), count=len(cards), new=added,
-                   note=GEMEENTEN[gid]['notes'].get(source))
-    except Exception as exc:
-        set_status(db, gid, source, ok=False, error=str(exc)[:250])
 
 # ---------------------------------------------------------------------------
 # Open Raadsinformatie (ORI): raadsstukken en vergaderingen van de gemeenteraad
@@ -1415,8 +1381,6 @@ def main():
         if cfg['college_pdf_page']:
             collect_college_pdfs(db, gid, cfg['college_pdf_page'])
         collect_pages(db, gid)
-        if cfg.get('news_cards'):
-            collect_news_cards(db, gid, cfg['news_cards'])
         if cfg.get('ori'):
             collect_ori(db, gid, cfg['ori'])
         if cfg.get('plaatsen'):
