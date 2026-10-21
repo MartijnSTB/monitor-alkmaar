@@ -1,0 +1,25 @@
+Nr.
+Documentnummer Document
+1 006 Aanvraag quickscan vastgoed.msg
+2 005 afspraak aankomende vrijdag.msg
+3 007 Doorspreken reactie 00.msg
+4 008 FW_ Uitvoer bodemonderzoek.msg
+4a Bijlage 1: Boorplan Herculesstraat 2a e.o. te Alkmaar v1.pdf
+5 003 Mail 11 aug 2026.msg
+6 002 Mail 26 mei 2026.msg
+7 009 Overleg reactie.msg
+Beoordeling Woo Afzender Ontvanger Creatiedatum document
+Deels openbaar Art.
+5.1 lid 2 sub e 26-05-2026
+Deels openbaar Art.
+5.1 lid 2 sub e 20-04-2026
+Deels openbaar Art.
+5.1 lid 2 sub e 20-07-2026
+Deels openbaar Art.
+5.1 lid 2 sub e 02-06-2026
+Deels openbaar Art.
+5.1 lid 2 sub e 11-08-2026
+Deels openbaar Art.
+5.1 lid 2 sub e 26-05-2026
+Deels openbaar Art.
+5.1 lid 2 sub e 13-07-2026
