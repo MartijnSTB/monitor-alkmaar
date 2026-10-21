@@ -3,6 +3,46 @@
     "alkmaar"
   ],
   "items": {
+    "c2e39c69a4c9ea82ddaed17225e894815e7d35f84aa1ac10bb912609c422e61d": {
+      "title": "Man (28) uit Alkmaar aangehouden na steekincident in supermarkt Den Haag",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdkplS1ByUFRNTmxQMWR6M3FJMlJXZFpHcUpXd3VUVk41TjRnLThsdFpDZzAzOVFSamxKQVc2OGtLWUVBQ2pvdFBGdXpwRUh4UmdxZGxBNk0wLTFrQkx5cG8tWE9ndFBfQVpLWjlSRzdtc3pBQUZ2dVJPa1JKemFIWXk0TTFFT2lyTjVrTExkT2hpV3pqb0pGWno2MU5NRXZPNzREWmt6Y1kxUHRSclYtYVFnWEE0ZV9SZGxQc0FWczJzMjhZaGNtSWtGMFRxLURV?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-21T15:31:08+00:00",
+      "updated": "2026-10-21T15:31:08+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Noordhollands Dagblad",
+      "media_match": "kop",
+      "last_seen": "2026-10-21",
+      "doc_date": "2026-10-21",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-21T17:23+02:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Man (28) uit Alkmaar aangehouden na steekincident in supermarkt Den Haag|"
+    },
+    "eea1c7d53059e9948ab78c63e1f58725e008b43f93865f312185bb2ce6b6ec5d": {
+      "title": "Alkmaar Kinderfeestje op 21 Oktober 2026 UITagenda Activiteiten (8 x)",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTS2RxS19xTERjSHBlcU0zbVVCVFo2Y0R1b0lkbzV2YndHQlg4aDZGVEFfd0Q3OFhYbTNxVU1CaEduZXdJR1ZvdE1WdGE1bzBtcUpLbXM5SXI5UmVwWC1LcjJRbHg0bXlVRmhsNzg1cDVPRW1GY092T1N3?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-21T15:31:08+00:00",
+      "updated": "2026-10-21T15:31:08+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "DagjeWeg.NL",
+      "media_match": "kop",
+      "last_seen": "2026-10-21",
+      "doc_date": "2026-10-21",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-21T11:11+02:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Alkmaar Kinderfeestje op 21 Oktober 2026 UITagenda Activiteiten (8 x)|"
+    },
     "ec9651906d863698a0d9dd8d967120b7bc1d299fd0131461db3df680783c1afb": {
       "title": "Honderd jaar Witte in Ursem: van smederij tot totaalinstallateur",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZXplc2plNVZ4MndiY1U1anlPYzJmenUtOU11WEptanZOSVBPX0wzVUR5V0RWa3NlNmhSU2dwWHRkQzJ4OFB5RGJWSEFISExFLUZFZGRUa1p3eTY0c1pNektlSFJCd0tFM1EwdXFNTnhNR1gxdnZ1dXVabEJnSGk2b2U4NXRJQWNRTlhiU3IzemZwMUdRMkx0UUFTek1udnI3ZDFDQjZ3ajlsekth?oc=5",
@@ -14,7 +54,7 @@
       "hash": "",
       "revisions": 1,
       "kind": "media",
-      "media_bron": "www.rodi.nl",
+      "media_bron": "Rodi.nl",
       "media_match": "kop",
       "last_seen": "2026-10-21",
       "doc_date": "2026-10-21",
@@ -152456,14 +152496,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-21T15:09:25+00:00",
+        "checked": "2026-10-21T15:30:49+00:00",
         "ok": true,
         "count": 475,
         "new": 0,
         "note": "Laatste 30 dagen: 475 van 475 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-21T15:09:42+00:00",
+        "checked": "2026-10-21T15:31:06+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -152471,7 +152511,7 @@
         "note": "10 van 16 vergaderingen in venster bijgewerkt; 548 documenten bekend. Dekking: vergaderingen van 2026-08-22 t/m 2026-12-05 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-21T15:09:42+00:00",
+        "checked": "2026-10-21T15:31:07+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -152479,40 +152519,40 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-21T15:09:43+00:00",
+        "checked": "2026-10-21T15:31:07+00:00",
         "ok": false,
         "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.alkmaar.nl/nieuws/feed"
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-10-21T15:09:43+00:00",
+        "checked": "2026-10-21T15:31:08+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-10-21T15:09:47+00:00",
+        "checked": "2026-10-21T15:31:12+00:00",
         "ok": true,
-        "count": 65,
-        "new": 1,
+        "count": 67,
+        "new": 2,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-21T15:09:47+00:00",
+        "checked": "2026-10-21T15:31:12+00:00",
         "ok": true,
         "count": 0,
         "errors": 0,
         "note": "0 documenten gecontroleerd (0 pdf), 358 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-21T15:09:47+00:00",
+        "checked": "2026-10-21T15:31:12+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-21T15:09:47+00:00",
+        "checked": "2026-10-21T15:31:12+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -152528,7 +152568,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-10-21T15:09:25+00:00",
+        "checked": "2026-10-21T15:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -152536,7 +152576,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-10-21T15:09:25+00:00",
+        "checked": "2026-10-21T15:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -152544,7 +152584,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-10-21T15:09:25+00:00",
+        "checked": "2026-10-21T15:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -152552,7 +152592,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-10-21T15:09:25+00:00",
+        "checked": "2026-10-21T15:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -152811,7 +152851,7 @@
         "documents": 65
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-10-21T15:00:58+00:00",
+        "checked": "2026-10-21T15:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -152819,7 +152859,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-10-21T15:00:58+00:00",
+        "checked": "2026-10-21T15:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -152827,7 +152867,7 @@
         "documents": 69
       },
       "360c3bf1-368c-4263-ace7-2539daede35f": {
-        "checked": "2026-10-21T15:00:58+00:00",
+        "checked": "2026-10-21T15:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-15",
@@ -152835,7 +152875,7 @@
         "documents": 36
       },
       "1c8cbec7-871b-41cd-abe4-fc7b1f8e5a3e": {
-        "checked": "2026-10-21T15:00:58+00:00",
+        "checked": "2026-10-21T15:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-08",
@@ -152843,7 +152883,7 @@
         "documents": 37
       },
       "766b366e-bed9-497b-9f3a-f2108dc142c5": {
-        "checked": "2026-10-21T15:00:58+00:00",
+        "checked": "2026-10-21T15:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-01",
@@ -152851,7 +152891,7 @@
         "documents": 38
       },
       "82ed27d2-bbde-425c-8d7b-264686c99851": {
-        "checked": "2026-10-21T15:00:58+00:00",
+        "checked": "2026-10-21T15:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-08-25",
