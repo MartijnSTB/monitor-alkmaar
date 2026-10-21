@@ -310,7 +310,7 @@
       "kind": "media",
       "media_bron": "Rodi.nl",
       "media_match": "kop",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "doc_date": "2026-10-20",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-10-20T14:24+02:00",
@@ -553,7 +553,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/069a1f06-35a0-4936-960a-b4a10044abe6"
         }
       ],
-      "content_checked": "2026-10-20T20:31:18+00:00",
+      "content_checked": "2026-10-21T03:01:25+00:00",
       "kw_sig": "4f53cda18c2b|26006968ec072e12f4befb77a9ad560c83ad3da0d4f42a0f2b5cc7bdc0cb02f1|Reactie rekenkamer raad september 2026|Collegeberichten",
       "changes": [
         {
@@ -39094,7 +39094,7 @@
       "excerpt": "Presidium maandag 19 oktober 2026 · agendapunt 1 Opening en mededelingen",
       "missing_count": 0,
       "text_hash": "991d9461889b3220d6eaa0114eeb03b346ba0f86310b867067e7f05e746f01e7",
-      "content_checked": "2026-10-20T20:32:07+00:00",
+      "content_checked": "2026-10-21T03:01:30+00:00",
       "kw_sig": "4f53cda18c2b|991d9461889b3220d6eaa0114eeb03b346ba0f86310b867067e7f05e746f01e7|Collegebericht Subsidieregeling pol. part DW 2026|Presidium maandag 19 oktober 2026 · agendapunt 1 Opening en mededelingen"
     },
     "41a55374449494486aba1857b6527d6574baaeae21db453274106289638563a3": {
@@ -54073,7 +54073,7 @@
       "last_seen": "2026-10-21",
       "missing_count": 0,
       "text_hash": "42c9e4101e4764386c21275b877c950edc76cee726a1d63623fe3c1d19e3e537",
-      "content_checked": "2026-10-20T20:31:13+00:00",
+      "content_checked": "2026-10-21T03:01:21+00:00",
       "kw_sig": "4f53cda18c2b|42c9e4101e4764386c21275b877c950edc76cee726a1d63623fe3c1d19e3e537|Nieuw Repair Café in het Transferium|"
     },
     "f3973b30ad21fd3e6df2566c26d7736f77f56184de0ca1afc3932b6893e151a0": {
@@ -61939,7 +61939,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/7e8ee902-717f-49da-84ef-71b7f8d2f051"
         }
       ],
-      "content_checked": "2026-10-20T20:31:12+00:00",
+      "content_checked": "2026-10-21T03:01:20+00:00",
       "kw_sig": "4f53cda18c2b|f89c7c04039de26a108186227a9f51f9fffb59f3b48abaa187ccf5f9f6c79b5a|Voorkeursbeslissing 380 kV-verbinding Noord-Holland Noord|Raadsvragen · nog niet beantwoord"
     },
     "17d6e66dd1e66acc8e2fe69b4bbda5ecaacd349da6ca77639511f8b611095f35": {
@@ -75572,7 +75572,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/983abc85-b0db-45c9-a60c-276118fcd871"
         }
       ],
-      "content_checked": "2026-10-20T20:31:11+00:00",
+      "content_checked": "2026-10-21T03:01:19+00:00",
       "kw_sig": "4f53cda18c2b|c939f5d2d5f273fa3cc4ffe99e468e12a07e661a185b2c9d34487ac9f47d48ad|Beleidsvoorstel thermische opslag binnen lokaal energiebeleid|Informatie van derden"
     },
     "34b7975aaed16472bf36c3f34ab4bf19785faaad8d59f46705303fd1c5364f3f": {
@@ -75605,7 +75605,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/ff23ca85-c134-4b0b-805d-d4852c805c01"
         }
       ],
-      "content_checked": "2026-10-20T20:31:19+00:00",
+      "content_checked": "2026-10-21T03:01:27+00:00",
       "kw_sig": "4f53cda18c2b|eaeda079a55f67396539434465bc741354291b7dc13508582794848bd1ae0794|Conferentie VTH en Milieucriminaliteit|Informatie van derden"
     },
     "89d180d55a35d7b5cf154c5ee2391c6a0f52e193095872d59dfd69199dc21825": {
@@ -75643,7 +75643,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/9d764804-18e3-40e4-b5fe-279a1b26f730"
         }
       ],
-      "content_checked": "2026-10-20T20:31:21+00:00",
+      "content_checked": "2026-10-21T03:01:29+00:00",
       "kw_sig": "4f53cda18c2b|d64e30b4198bc5f5f9c83a52be8a5c0998ae1dd0dd05fbeab8f48c5aaf96eed3|Brief EZK t.a.v. besluitvorming 380 kV netuitbreiding Noord-Holland Noord|Informatie van derden"
     },
     "ae66bb86b868f67d56815f6fb608625270cc2245e9d33b225dc5b8f16a0a4538": {
@@ -78641,7 +78641,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/43431590-7e32-4ec2-b41e-31a793289da1"
         }
       ],
-      "content_checked": "2026-10-20T20:31:14+00:00",
+      "content_checked": "2026-10-21T03:01:22+00:00",
       "kw_sig": "4f53cda18c2b|c78b0b241fa4d6570dc53a33b59e93ba7542060c11a7a3f658d9f7750338ebda|proces 380kV en bezoek staatssecretaris de Bat|Collegeberichten"
     },
     "4609b2dfc4a62d6f5fb1952f970452be9757cb9472c7d182e993e14ab992e4cd": {
@@ -78675,7 +78675,7 @@
           "u": "https://dijkenwaard.bestuurlijkeinformatie.nl/Document/View/afd00303-b994-4a0b-9bfb-8bb7af4449f4"
         }
       ],
-      "content_checked": "2026-10-20T20:31:15+00:00",
+      "content_checked": "2026-10-21T03:01:23+00:00",
       "kw_sig": "4f53cda18c2b|4fe20b9904b248553c12f3195b27a479b1544d227b5b28936e126701e27682cc|Gewijzigde subsidie Klimaat en Water|Collegeberichten"
     },
     "6686b0846351bcb92d28a553714e1b9ac08b57f427f40a3a8ae25057e501e62b": {
@@ -94967,22 +94967,22 @@
   "status": {
     "dijkenwaard": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-21T02:30:51+00:00",
+        "checked": "2026-10-21T03:00:56+00:00",
         "ok": true,
         "count": 155,
         "new": 0,
         "note": "Laatste 30 dagen: 155 van 155 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-21T02:31:01+00:00",
-        "ok": false,
-        "count": 8,
+        "checked": "2026-10-21T03:01:07+00:00",
+        "ok": true,
+        "count": 10,
         "new": 0,
-        "error": "Commissie Raadzaal 2026-10-28: 403 Client Error: Forbidden for url: https://dijkenwaard.bes; Gemeenteraad 2026-11-12: 403 Client Error: Forbidden for url: https://dijkenwaard.bes",
-        "note": "8 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-22 t/m 2026-12-05 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
+        "error": null,
+        "note": "10 van 26 vergaderingen in venster bijgewerkt; 159 documenten bekend. Dekking: vergaderingen van 2026-08-22 t/m 2026-12-05 (Gemeenteraad, Commissie Raadzaal, Commissie Trouwzaal, Commissie de Binding, Commissie Sociaal Domein, Presidium, Werkvoorraad Gemeenteraad). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-21T02:31:07+00:00",
+        "checked": "2026-10-21T03:01:14+00:00",
         "ok": true,
         "count": 384,
         "new": 0,
@@ -94990,14 +94990,14 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Collegeberichten 676, Informatie van derden 1169, Informatie van de Rekenkamer 12, Raadsvragen 649, Amendementen 142, Moties 249, Toezeggingen 147, Overige acties raad 3, Besluitenlijsten B&W 227, Regels en afspraken 19). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-21T02:31:08+00:00",
+        "checked": "2026-10-21T03:01:15+00:00",
         "ok": true,
         "count": 12,
         "new": 0,
         "note": "Het nieuwsoverzicht van dijkenwaard.nl (de nieuwste berichten, met datum). De gemeente heeft geen nieuwsfeed."
       },
       "In de media": {
-        "checked": "2026-10-21T02:31:11+00:00",
+        "checked": "2026-10-21T03:01:17+00:00",
         "ok": true,
         "count": 29,
         "new": 0,
@@ -95006,19 +95006,19 @@
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-21T02:32:14+00:00",
+        "checked": "2026-10-21T03:01:30+00:00",
         "ok": true,
-        "count": 50,
+        "count": 9,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (21 pdf), 996 gevolgd (alle gemeenten), 1 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "9 documenten gecontroleerd (1 pdf), 996 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-21T02:32:14+00:00",
+        "checked": "2026-10-21T03:01:30+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-21T02:32:14+00:00",
+        "checked": "2026-10-21T03:01:30+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -95080,7 +95080,7 @@
         "documents": 0
       },
       "fa41b4e1-af84-4c54-8479-bb4b66fdccb6": {
-        "checked": "2026-10-21T02:00:53+00:00",
+        "checked": "2026-10-21T03:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-10-06",
@@ -95088,7 +95088,7 @@
         "documents": 49
       },
       "8a72abe0-5f8a-40df-a796-14140efc9264": {
-        "checked": "2026-10-21T02:00:53+00:00",
+        "checked": "2026-10-21T03:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Gemeenteraad",
         "date": "2026-09-08",
@@ -95166,7 +95166,7 @@
         "label": "dinsdag 27 januari 2026"
       },
       "75b14870-869b-4275-a366-0d301b1f4cd9": {
-        "checked": "2026-10-21T02:00:53+00:00",
+        "checked": "2026-10-21T03:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-12-01",
@@ -95174,7 +95174,7 @@
         "documents": 0
       },
       "58855823-4a16-415e-ba3f-338fea1d104e": {
-        "checked": "2026-10-21T02:00:53+00:00",
+        "checked": "2026-10-21T03:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-11-25",
@@ -95230,7 +95230,7 @@
         "documents": 2
       },
       "20bdc7e2-7ff2-4ccd-a3b1-182fe437387e": {
-        "checked": "2026-10-21T01:30:44+00:00",
+        "checked": "2026-10-21T03:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Raadzaal",
         "date": "2026-08-25",
@@ -95259,7 +95259,7 @@
         "label": "dinsdag 12 mei 2026 Oordeelsvorming"
       },
       "b3f6df03-a837-4e18-a159-ea60751f72ed": {
-        "checked": "2026-10-21T01:30:44+00:00",
+        "checked": "2026-10-21T03:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Trouwzaal",
         "date": "2026-12-01",
@@ -95267,7 +95267,7 @@
         "documents": 0
       },
       "bc609eda-aeb2-4f77-a522-0b0535596cc1": {
-        "checked": "2026-10-21T01:30:44+00:00",
+        "checked": "2026-10-21T03:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Trouwzaal",
         "date": "2026-11-25",
@@ -95275,7 +95275,7 @@
         "documents": 0
       },
       "a9db7d73-17ab-40c2-84a2-1337bdec2f73": {
-        "checked": "2026-10-21T01:30:44+00:00",
+        "checked": "2026-10-21T03:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Trouwzaal",
         "date": "2026-11-24",
@@ -95283,7 +95283,7 @@
         "documents": 0
       },
       "86e9767e-da60-41dd-b1ba-c9910b3d46a7": {
-        "checked": "2026-10-21T01:30:44+00:00",
+        "checked": "2026-10-21T03:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Trouwzaal",
         "date": "2026-10-22",
@@ -95291,7 +95291,7 @@
         "documents": 0
       },
       "09e57697-6ed6-4904-afed-90c92726a569": {
-        "checked": "2026-10-21T01:30:44+00:00",
+        "checked": "2026-10-21T03:00:56+00:00",
         "gemeente": "dijkenwaard",
         "type": "Commissie Trouwzaal",
         "date": "2026-10-21",
