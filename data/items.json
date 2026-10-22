@@ -3,6 +3,86 @@
     "alkmaar"
   ],
   "items": {
+    "004521f6d3429363f2c80fa406039c6b02105e3520fe2b5446d08978b775db5c": {
+      "title": "Containerbrand op Breedstraat in Alkmaar",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFBNY3JaaUE5cExXN3hudDJNODhLZTFRc1JtamR6WjNOelRDcmdTdWlHbUxvXzdUcXJoRzRIMlgzamNtRFRZdC1LZzUzcWtEanRkOEN0Mkw5dDQzLUVrckxMbjFzWHBIZ1poUnZPa0xEWTEwU2doZG9QM0xzZjRMZ3Z2WmF0OGZsYVlrOFJDb3M?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-22T16:01:13+00:00",
+      "updated": "2026-10-22T16:01:13+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "AD.nl",
+      "media_match": "kop",
+      "last_seen": "2026-10-22",
+      "doc_date": "2026-10-22",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-22T16:29+02:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Containerbrand op Breedstraat in Alkmaar|"
+    },
+    "3ba8b75f3e7f46b520ecb2b190a6e0d111de08280f23acdc217409e25baee80a": {
+      "title": "Museum In ’t Houten Huis toont ‘Bomen’ van Edith Bijkerk uit De Rijp 🗓",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYW1KRTNBQmR1czVncWlHNnpsUU9icDh6ZXZDeU5mT2loRWU0MmJ6UVJjUExSQnltNzJrcWFfOExZZlRjVFN1WWE3U0FYMnV6SjE0bzNHWGdkN2VZMEtaZGxxRi1xUzhnZDVnX2wtSTRxSE5CdTgtRWt0V05ZWmRUZXN1NVVFOFVoblpRT1NySlpfdTRGTmdlUDZOQ1ROWnpFMEdvaGVQSQ?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-22T16:01:13+00:00",
+      "updated": "2026-10-22T16:01:13+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Streekstad Centraal",
+      "media_match": "kop",
+      "last_seen": "2026-10-22",
+      "doc_date": "2026-10-22",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-22T15:35+02:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Museum In ’t Houten Huis toont ‘Bomen’ van Edith Bijkerk uit De Rijp 🗓|"
+    },
+    "5f1b2ea7f3d4ef69fcb5a1810ffddbdaca2dbec3461e81c81d6ba7d6d3a48fc4": {
+      "title": "Halfjaar gratis reizen met de trein: Alkmaar wil treinpas voor inwoners met laag inkomen",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMC1wczNrd1FhMEV6cGI3Z0hXN3RTc0NhY1VCMzh0cExPT0VKeEJBNWx1elhBdHZuTE8xR2d6c1phd3J4cmc4MUhyeERzYlBIR1BsWVhPR2lScGVFWTFlOW0wRFN5eHFVT1d4aGJxYldZMXY4eFA5UDNoUDh3VTJlM2REMW5xYXk0UGExc1FlaWhHeG93OUhpNVVFTk5RWXV4d0YxWkkzemtrcmExd3lLNW5MWFhSNEdBcEg1d3BaS1Q0RGUyOTlkag?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-22T16:01:13+00:00",
+      "updated": "2026-10-22T16:01:13+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Rodi.nl",
+      "media_match": "kop",
+      "last_seen": "2026-10-22",
+      "doc_date": "2026-10-22",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-22T13:14+02:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Halfjaar gratis reizen met de trein: Alkmaar wil treinpas voor inwoners met laag inkomen|"
+    },
+    "741a147c5b908e86defba44378b64c703d3755abb2bbe985f518ed000348f4de": {
+      "title": "Verdachten van steekincident Keizerstraat uit Den Haag en Alkmaar",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFhWZW9vRGxhMUtoV2hHQ3ZjbEt3a2Zyck1vVWs2d3ZTeThXRGdfalNfVDU0dUZxZkFKeXJZOG5Yem5Hc0hPVlBha2NVT2ZIZ3daZ0pvcHJEM0lOc0VXS1lRZ1pkOUZoekg5Q0FWb2FibEk4eFNWWjVLdVo1b0lZR3FoNmY1dTJ2RGNYc1FjWS1nSEluUG5DNHFLRUhxcGZvaldsODNnMFoxVXlNaWxoQl9kQm9BdXF6eWc?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-22T16:01:13+00:00",
+      "updated": "2026-10-22T16:01:13+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Zoetermeers Dagblad",
+      "media_match": "kop",
+      "last_seen": "2026-10-22",
+      "doc_date": "2026-10-22",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-22T01:05+02:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Verdachten van steekincident Keizerstraat uit Den Haag en Alkmaar|"
+    },
     "6795e53da51ace7860ec1ac833d352b08f541986dfaab99bc5a79b170288930c": {
       "title": "Voedselbank Alkmaar e.o. organiseert open dag 🗓",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ0hYWFJHZmxvU1VGUU1NMkEyb0w3Z2JiOE95U2RmRXIyeHZubU95UXVPd3I2dGxSeVJRZUt4bHR4ZUFnbDlSSEt6NkZ3MWhOMjJaVS1GRjJ5NmF2VEs0aU9OS29NOEp6MDNxQVJ1enZEcnVaZUkxZU5aZE1yMmFwQXN4c1lvWmhuZVNr?oc=5",
@@ -153958,14 +154038,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-22T15:30:48+00:00",
+        "checked": "2026-10-22T16:00:59+00:00",
         "ok": true,
         "count": 472,
         "new": 0,
         "note": "Laatste 30 dagen: 472 van 472 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-22T15:31:00+00:00",
+        "checked": "2026-10-22T16:01:10+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -153973,7 +154053,7 @@
         "note": "10 van 16 vergaderingen in venster bijgewerkt; 548 documenten bekend. Dekking: vergaderingen van 2026-08-23 t/m 2026-12-06 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-22T15:31:01+00:00",
+        "checked": "2026-10-22T16:01:11+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -153981,42 +154061,42 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-22T15:31:02+00:00",
+        "checked": "2026-10-22T16:01:12+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-10-22T15:31:03+00:00",
+        "checked": "2026-10-22T16:01:13+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-10-22T15:31:07+00:00",
+        "checked": "2026-10-22T16:01:17+00:00",
         "ok": true,
-        "count": 61,
-        "new": 0,
+        "count": 64,
+        "new": 4,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-22T15:31:07+00:00",
+        "checked": "2026-10-22T16:01:17+00:00",
         "ok": true,
         "count": 0,
         "errors": 0,
         "note": "0 documenten gecontroleerd (0 pdf), 359 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-22T15:31:07+00:00",
+        "checked": "2026-10-22T16:01:17+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-22T15:31:07+00:00",
+        "checked": "2026-10-22T16:01:17+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -154032,7 +154112,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-10-22T15:30:48+00:00",
+        "checked": "2026-10-22T16:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -154040,7 +154120,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-10-22T15:30:48+00:00",
+        "checked": "2026-10-22T16:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -154048,7 +154128,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-10-22T15:30:48+00:00",
+        "checked": "2026-10-22T16:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -154056,7 +154136,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-10-22T15:30:48+00:00",
+        "checked": "2026-10-22T16:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -154315,7 +154395,7 @@
         "documents": 65
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-10-22T15:01:00+00:00",
+        "checked": "2026-10-22T16:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -154323,7 +154403,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-10-22T15:01:00+00:00",
+        "checked": "2026-10-22T16:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -154331,7 +154411,7 @@
         "documents": 69
       },
       "360c3bf1-368c-4263-ace7-2539daede35f": {
-        "checked": "2026-10-22T15:01:00+00:00",
+        "checked": "2026-10-22T16:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-15",
@@ -154339,7 +154419,7 @@
         "documents": 36
       },
       "1c8cbec7-871b-41cd-abe4-fc7b1f8e5a3e": {
-        "checked": "2026-10-22T15:01:00+00:00",
+        "checked": "2026-10-22T16:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-08",
@@ -154347,7 +154427,7 @@
         "documents": 37
       },
       "766b366e-bed9-497b-9f3a-f2108dc142c5": {
-        "checked": "2026-10-22T15:01:00+00:00",
+        "checked": "2026-10-22T16:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-01",
@@ -154355,7 +154435,7 @@
         "documents": 38
       },
       "82ed27d2-bbde-425c-8d7b-264686c99851": {
-        "checked": "2026-10-22T15:01:00+00:00",
+        "checked": "2026-10-22T16:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-08-25",
