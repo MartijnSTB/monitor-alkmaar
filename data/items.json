@@ -3,6 +3,46 @@
     "alkmaar"
   ],
   "items": {
+    "460e3dc98171e6779ee8ff86feb0728e3d1fca064555d5703f0d9272e5ca25da": {
+      "title": "Meet-up Volt Alkmaar e.o. op 26 november",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXJseldjQ3JLczZrMUpoN1NsbFNIVzdEeWlxbGIxdGNVTC1oUWFMcFVab3V3ckRTU1l2ZVFRaGpPc21QSEZqMzN1MDdHazIyY1EtSVJfYVpocHp4bk1qLXlMRlVnZFdyVUhsVzZETERHNEhJSWI1bDNsY3JwRllkQ0RNdGtGUQ?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-26T20:01:13+00:00",
+      "updated": "2026-10-26T20:01:13+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Volt Nederland",
+      "media_match": "kop",
+      "last_seen": "2026-10-26",
+      "doc_date": "2026-10-26",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-26T19:07+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Meet-up Volt Alkmaar e.o. op 26 november|"
+    },
+    "6ab363926ced10e9a4b3d47a451cab374221e58d101185a64b296069e78c0f98": {
+      "title": "Forse verhogingen parkeertarieven in Alkmaar",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSi0zZ012cnNpYUNOdk8wUTJLNTJuVTJyWEJlbTBUNDJyU1p1N1puNXdZQ1hCRkFhT04za2h6LTBpcThWM2UwTnNxSHhrMXNyQ1V3c19xeF95ampmeEVzR3NmeE9vT0FaMWFQcDhQZEpNWjBXWF8zZ0xkRHlVRlE1QlpLOA?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-26T20:01:13+00:00",
+      "updated": "2026-10-26T20:01:13+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "BeatFM",
+      "media_match": "kop",
+      "last_seen": "2026-10-26",
+      "doc_date": "2026-10-26",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-26T08:42+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Forse verhogingen parkeertarieven in Alkmaar|"
+    },
     "4b093047e9e7a47d27a151034c0d4e0264e7614d8a4a0a9bcf14fe315738d8be": {
       "title": "Hoe veilig en prettig vindt u uw buurt?",
       "url": "https://www.alkmaar.nl/nieuws/hoe-veilig-en-prettig-vindt-u-uw-buurt/",
@@ -554,7 +594,7 @@
       "last_seen": "2026-10-26",
       "doc_date": "2026-10-26",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-26T14:55+01:00",
+      "published_at": "2026-10-26T15:48+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Inleveren van oude schoenen kan nu ook in winkelcentrum De Hoef in Alkmaar|"
     },
@@ -161249,14 +161289,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-26T19:30:50+00:00",
+        "checked": "2026-10-26T20:00:55+00:00",
         "ok": true,
         "count": 420,
         "new": 0,
         "note": "Laatste 30 dagen: 420 van 420 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-26T19:31:06+00:00",
+        "checked": "2026-10-26T20:01:10+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -161264,7 +161304,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 619 documenten bekend. Dekking: vergaderingen van 2026-08-27 t/m 2026-12-10 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-26T19:31:06+00:00",
+        "checked": "2026-10-26T20:01:11+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -161272,42 +161312,42 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-26T19:31:07+00:00",
+        "checked": "2026-10-26T20:01:12+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-10-26T19:31:08+00:00",
+        "checked": "2026-10-26T20:01:12+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-10-26T19:31:13+00:00",
+        "checked": "2026-10-26T20:01:17+00:00",
         "ok": true,
-        "count": 55,
-        "new": 0,
+        "count": 56,
+        "new": 2,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-26T19:31:17+00:00",
+        "checked": "2026-10-26T20:01:17+00:00",
         "ok": true,
-        "count": 4,
+        "count": 0,
         "errors": 0,
-        "note": "4 documenten gecontroleerd (0 pdf), 432 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "0 documenten gecontroleerd (0 pdf), 432 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-26T19:31:17+00:00",
+        "checked": "2026-10-26T20:01:17+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-26T19:31:17+00:00",
+        "checked": "2026-10-26T20:01:17+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -161323,7 +161363,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-10-26T19:30:50+00:00",
+        "checked": "2026-10-26T20:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -161331,7 +161371,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-10-26T19:30:50+00:00",
+        "checked": "2026-10-26T20:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -161339,7 +161379,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-10-26T19:30:50+00:00",
+        "checked": "2026-10-26T20:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -161347,7 +161387,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-10-26T19:30:50+00:00",
+        "checked": "2026-10-26T20:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -161355,7 +161395,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-10-26T19:30:50+00:00",
+        "checked": "2026-10-26T20:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -161363,7 +161403,7 @@
         "documents": 1
       },
       "de6bfeba-89a2-438c-9c25-e8e2f301ea66": {
-        "checked": "2026-10-26T19:01:56+00:00",
+        "checked": "2026-10-26T20:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-08",
@@ -161371,7 +161411,7 @@
         "documents": 1
       },
       "26ae9829-4f1b-45de-bdb1-efbd12507ad1": {
-        "checked": "2026-10-26T19:01:56+00:00",
+        "checked": "2026-10-26T20:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-01",
@@ -161590,7 +161630,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-10-26T19:01:56+00:00",
+        "checked": "2026-10-26T20:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -161598,7 +161638,7 @@
         "documents": 18
       },
       "dcc6411b-600b-4103-9480-0c96305035a4": {
-        "checked": "2026-10-26T19:01:56+00:00",
+        "checked": "2026-10-26T20:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-06",
@@ -161885,7 +161925,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-10-26T19:01:56+00:00",
+        "checked": "2026-10-26T20:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -161894,7 +161934,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-10-26T19:30:53+00:00"
+      "alkmaar": "2026-10-26T20:00:57+00:00"
     },
     "reports": {
       "alkmaar": {
