@@ -3,6 +3,159 @@
     "alkmaar"
   ],
   "items": {
+    "4b093047e9e7a47d27a151034c0d4e0264e7614d8a4a0a9bcf14fe315738d8be": {
+      "title": "Hoe veilig en prettig vindt u uw buurt?",
+      "url": "https://www.alkmaar.nl/nieuws/hoe-veilig-en-prettig-vindt-u-uw-buurt/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-21T09:55:29+00:00",
+      "updated": "2026-10-26T19:31:16+00:00",
+      "last_change": "2026-10-26T19:31:16+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-10-12",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-10-12",
+      "last_seen": "2026-10-26",
+      "published_at": "2026-10-12T16:33+02:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "Hoe veilig voelt u zich in uw buurt? En hoe prettig vindt u het om er te wonen? De gemeente...",
+      "missing_count": 0,
+      "text_hash": "2495365bfd20dfa44fb02bd4dd17abc65456df29741ee066ab99f9b4ba120af4",
+      "content_checked": "2026-10-26T19:31:16+00:00",
+      "kw_sig": "4f53cda18c2b|2495365bfd20dfa44fb02bd4dd17abc65456df29741ee066ab99f9b4ba120af4|Hoe veilig en prettig vindt u uw buurt?|Hoe veilig voelt u zich in uw buurt? En hoe prettig vindt u het om er te wonen? De gemeente...",
+      "changes": [
+        {
+          "at": "2026-10-22T18:31:41+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Bergerhoutrotonde vanaf 2 november afgesloten",
+            "21 oktober 2026"
+          ],
+          "removed": [
+            "Rijk investeert 100 miljoen in bereikbaarheid van nieuwe woningen",
+            "16 oktober 2026"
+          ]
+        },
+        {
+          "at": "2026-10-26T19:31:16+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Reageer op plannen voor nieuwe hoogspanningsverbinding",
+            "26 oktober 2026"
+          ],
+          "removed": [
+            "Wat vindt u van evenementen in Alkmaar?",
+            "19 oktober 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "39d82c64b2c925242b6e108a15c2877f62adb6c6ada0510b11115f59b1df2509": {
+      "title": "Open dag gemeentelijke begraafplaats Westerweg",
+      "url": "https://www.alkmaar.nl/nieuws/open-dag-gemeentelijke-begraafplaats-westerweg/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-21T09:55:29+00:00",
+      "updated": "2026-10-26T19:31:15+00:00",
+      "last_change": "2026-10-26T19:31:15+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-10-13",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-10-13",
+      "last_seen": "2026-10-26",
+      "published_at": "2026-10-13T11:58+02:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "Op zaterdag 24 oktober organiseren de gemeente Alkmaar en Stadswerk072 een open dag op de gemeentelijke begraafplaats aan de Westerweg....",
+      "missing_count": 0,
+      "text_hash": "2b8e349e3d5aafbe7bd3a4d40cce14e0a925bfa7724793b55f04e8a837b9e353",
+      "content_checked": "2026-10-26T19:31:15+00:00",
+      "kw_sig": "4f53cda18c2b|2b8e349e3d5aafbe7bd3a4d40cce14e0a925bfa7724793b55f04e8a837b9e353|Open dag gemeentelijke begraafplaats Westerweg|Op zaterdag 24 oktober organiseren de gemeente Alkmaar en Stadswerk072 een open dag op de gemeentelijke begraafplaats aan de Westerweg....",
+      "changes": [
+        {
+          "at": "2026-10-22T18:31:40+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Bergerhoutrotonde vanaf 2 november afgesloten",
+            "21 oktober 2026"
+          ],
+          "removed": [
+            "Rijk investeert 100 miljoen in bereikbaarheid van nieuwe woningen",
+            "16 oktober 2026"
+          ]
+        },
+        {
+          "at": "2026-10-26T19:31:15+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Reageer op plannen voor nieuwe hoogspanningsverbinding",
+            "26 oktober 2026"
+          ],
+          "removed": [
+            "Wat vindt u van evenementen in Alkmaar?",
+            "19 oktober 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "81624500f5f204290f6ed4da239e13f72e98c61a4c9f09f7ef3b135763e75f12": {
+      "title": "Rijk investeert 100 miljoen in bereikbaarheid van nieuwe woningen",
+      "url": "https://www.alkmaar.nl/nieuws/rijk-investeert-100-miljoen-in-woningen-en-bereikbaarheid-alkmaar/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-21T09:55:29+00:00",
+      "updated": "2026-10-26T19:31:14+00:00",
+      "last_change": "2026-10-26T19:31:14+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-10-16",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-10-16",
+      "last_seen": "2026-10-26",
+      "published_at": "2026-10-16T19:47+02:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "Goed nieuws voor Alkmaar: subsidie van het Rijk brengt ruim 10.000 nieuwe woningen en bereikbaarheid voor projecten Alkmaars Kanaal dichterbij.",
+      "missing_count": 0,
+      "text_hash": "089b30df997641dd047a57154bb57aafe54dabbad8866b372002c09329314b36",
+      "content_checked": "2026-10-26T19:31:14+00:00",
+      "kw_sig": "4f53cda18c2b|089b30df997641dd047a57154bb57aafe54dabbad8866b372002c09329314b36|Rijk investeert 100 miljoen in bereikbaarheid van nieuwe woningen|Goed nieuws voor Alkmaar: subsidie van het Rijk brengt ruim 10.000 nieuwe woningen en bereikbaarheid voor projecten Alkmaars Kanaal dichterbij.",
+      "changes": [
+        {
+          "at": "2026-10-22T18:31:39+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Bergerhoutrotonde vanaf 2 november afgesloten",
+            "21 oktober 2026"
+          ],
+          "removed": [
+            "Open dag gemeentelijke begraafplaats Westerweg",
+            "13 oktober 2026"
+          ]
+        },
+        {
+          "at": "2026-10-26T19:31:14+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Reageer op plannen voor nieuwe hoogspanningsverbinding",
+            "26 oktober 2026"
+          ],
+          "removed": [
+            "Wat vindt u van evenementen in Alkmaar?",
+            "19 oktober 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "2942846c22540499224c774e32c6b517ac06647499c5ecd21124022495487a13": {
       "title": "Wat vindt u van evenementen in Alkmaar?",
       "url": "https://www.alkmaar.nl/nieuws/wat-vindt-u-van-evenementen-in-alkmaar/",
@@ -553,7 +706,7 @@
       "excerpt": "Het Rijk heeft een voorkeursroute gekozen voor een nieuwe hoogspanningsverbinding in Noord-Holland Noord. Deze route loopt ook langs Oterleek, Stompetoren,...",
       "missing_count": 0,
       "text_hash": "5e0417fbab32e18aa205d7ce3fa52bd89fb9175efb68817fc9861b0af1660f3e",
-      "content_checked": "2026-10-26T13:31:12+00:00",
+      "content_checked": "2026-10-26T19:31:17+00:00",
       "kw_sig": "4f53cda18c2b|5e0417fbab32e18aa205d7ce3fa52bd89fb9175efb68817fc9861b0af1660f3e|Reageer op plannen voor nieuwe hoogspanningsverbinding|Het Rijk heeft een voorkeursroute gekozen voor een nieuwe hoogspanningsverbinding in Noord-Holland Noord. Deze route loopt ook langs Oterleek, Stompetoren,..."
     },
     "a9ef2f9a3c6e5c5761c7ed09cfd45048ada01c62a36b729b2b201f9a7c569f79": {
@@ -1438,7 +1591,7 @@
       "last_seen": "2026-10-26",
       "doc_date": "2026-10-26",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-26T14:25+01:00",
+      "published_at": "2026-10-26T08:01+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Drommel geniet na zege in Alkmaar: \"Het was een soort vloek\"|"
     },
@@ -7104,120 +7257,6 @@
       "published_at": "2026-10-22T18:23+02:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||@+*[[[livestream-tv]@@@]] FC Ararat-Armenia tegen Alkmaar op tv live kijken naar | 23 oktober 2026|"
-    },
-    "4b093047e9e7a47d27a151034c0d4e0264e7614d8a4a0a9bcf14fe315738d8be": {
-      "title": "Hoe veilig en prettig vindt u uw buurt?",
-      "url": "https://www.alkmaar.nl/nieuws/hoe-veilig-en-prettig-vindt-u-uw-buurt/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-10-21T09:55:29+00:00",
-      "updated": "2026-10-22T18:31:41+00:00",
-      "last_change": "2026-10-22T18:31:41+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-10-12",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-10-12",
-      "last_seen": "2026-10-26",
-      "published_at": "2026-10-12T16:33+02:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "Hoe veilig voelt u zich in uw buurt? En hoe prettig vindt u het om er te wonen? De gemeente...",
-      "missing_count": 0,
-      "text_hash": "a7ba270727471b4afae905ce85791998bfa93e402a66572e5078db9fd766f61d",
-      "content_checked": "2026-10-26T13:02:23+00:00",
-      "kw_sig": "4f53cda18c2b|a7ba270727471b4afae905ce85791998bfa93e402a66572e5078db9fd766f61d|Hoe veilig en prettig vindt u uw buurt?|Hoe veilig voelt u zich in uw buurt? En hoe prettig vindt u het om er te wonen? De gemeente...",
-      "changes": [
-        {
-          "at": "2026-10-22T18:31:41+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Bergerhoutrotonde vanaf 2 november afgesloten",
-            "21 oktober 2026"
-          ],
-          "removed": [
-            "Rijk investeert 100 miljoen in bereikbaarheid van nieuwe woningen",
-            "16 oktober 2026"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "39d82c64b2c925242b6e108a15c2877f62adb6c6ada0510b11115f59b1df2509": {
-      "title": "Open dag gemeentelijke begraafplaats Westerweg",
-      "url": "https://www.alkmaar.nl/nieuws/open-dag-gemeentelijke-begraafplaats-westerweg/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-10-21T09:55:29+00:00",
-      "updated": "2026-10-22T18:31:40+00:00",
-      "last_change": "2026-10-22T18:31:40+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-10-13",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-10-13",
-      "last_seen": "2026-10-26",
-      "published_at": "2026-10-13T11:58+02:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "Op zaterdag 24 oktober organiseren de gemeente Alkmaar en Stadswerk072 een open dag op de gemeentelijke begraafplaats aan de Westerweg....",
-      "missing_count": 0,
-      "text_hash": "0de23a064693a8a7ab89257e068dd058de42ed6dc748453297ca9fc74f7a53ce",
-      "content_checked": "2026-10-26T13:02:23+00:00",
-      "kw_sig": "4f53cda18c2b|0de23a064693a8a7ab89257e068dd058de42ed6dc748453297ca9fc74f7a53ce|Open dag gemeentelijke begraafplaats Westerweg|Op zaterdag 24 oktober organiseren de gemeente Alkmaar en Stadswerk072 een open dag op de gemeentelijke begraafplaats aan de Westerweg....",
-      "changes": [
-        {
-          "at": "2026-10-22T18:31:40+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Bergerhoutrotonde vanaf 2 november afgesloten",
-            "21 oktober 2026"
-          ],
-          "removed": [
-            "Rijk investeert 100 miljoen in bereikbaarheid van nieuwe woningen",
-            "16 oktober 2026"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "81624500f5f204290f6ed4da239e13f72e98c61a4c9f09f7ef3b135763e75f12": {
-      "title": "Rijk investeert 100 miljoen in bereikbaarheid van nieuwe woningen",
-      "url": "https://www.alkmaar.nl/nieuws/rijk-investeert-100-miljoen-in-woningen-en-bereikbaarheid-alkmaar/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-10-21T09:55:29+00:00",
-      "updated": "2026-10-22T18:31:39+00:00",
-      "last_change": "2026-10-22T18:31:39+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-10-16",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-10-16",
-      "last_seen": "2026-10-26",
-      "published_at": "2026-10-16T19:47+02:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "Goed nieuws voor Alkmaar: subsidie van het Rijk brengt ruim 10.000 nieuwe woningen en bereikbaarheid voor projecten Alkmaars Kanaal dichterbij.",
-      "missing_count": 0,
-      "text_hash": "25cd51393a33afc8b8c567ae6a9bde6a933ef81d2f3cf46e87f5654c356b379f",
-      "content_checked": "2026-10-26T13:02:22+00:00",
-      "kw_sig": "4f53cda18c2b|25cd51393a33afc8b8c567ae6a9bde6a933ef81d2f3cf46e87f5654c356b379f|Rijk investeert 100 miljoen in bereikbaarheid van nieuwe woningen|Goed nieuws voor Alkmaar: subsidie van het Rijk brengt ruim 10.000 nieuwe woningen en bereikbaarheid voor projecten Alkmaars Kanaal dichterbij.",
-      "changes": [
-        {
-          "at": "2026-10-22T18:31:39+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Bergerhoutrotonde vanaf 2 november afgesloten",
-            "21 oktober 2026"
-          ],
-          "removed": [
-            "Open dag gemeentelijke begraafplaats Westerweg",
-            "13 oktober 2026"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
     },
     "fba65b7cdc6c8000f1ddd3811ccbef22bba64fa5e3122cdd0afc928e424f1ba1": {
       "title": "Alkmaar wijst verzoek om asielzoekersschip en extra statushouderopvang af",
@@ -161210,12 +161249,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-26T19:01:56+00:00",
-        "ok": false,
-        "error": "504 Server Error: Gateway Time-out for url: https://repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.product-area%3D%3D%22officielepublicaties%22+AND+dt.creator%3D%3D%22Alkmaar%22+AND+dt.available%3E%3D2026-09-26&maximumRecords"
+        "checked": "2026-10-26T19:30:50+00:00",
+        "ok": true,
+        "count": 420,
+        "new": 0,
+        "note": "Laatste 30 dagen: 420 van 420 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-26T19:02:14+00:00",
+        "checked": "2026-10-26T19:31:06+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -161223,7 +161264,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 619 documenten bekend. Dekking: vergaderingen van 2026-08-27 t/m 2026-12-10 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-26T19:02:15+00:00",
+        "checked": "2026-10-26T19:31:06+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -161231,42 +161272,42 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-26T19:02:16+00:00",
+        "checked": "2026-10-26T19:31:07+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-10-26T19:02:17+00:00",
+        "checked": "2026-10-26T19:31:08+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-10-26T19:02:21+00:00",
+        "checked": "2026-10-26T19:31:13+00:00",
         "ok": true,
-        "count": 54,
+        "count": 55,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-26T19:02:29+00:00",
+        "checked": "2026-10-26T19:31:17+00:00",
         "ok": true,
-        "count": 6,
+        "count": 4,
         "errors": 0,
-        "note": "6 documenten gecontroleerd (3 pdf), 432 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "4 documenten gecontroleerd (0 pdf), 432 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-26T19:02:29+00:00",
+        "checked": "2026-10-26T19:31:17+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-26T19:02:29+00:00",
+        "checked": "2026-10-26T19:31:17+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -161282,7 +161323,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-10-26T19:01:56+00:00",
+        "checked": "2026-10-26T19:30:50+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -161290,7 +161331,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-10-26T19:01:56+00:00",
+        "checked": "2026-10-26T19:30:50+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -161298,7 +161339,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-10-26T19:01:56+00:00",
+        "checked": "2026-10-26T19:30:50+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -161306,7 +161347,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-10-26T19:01:56+00:00",
+        "checked": "2026-10-26T19:30:50+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -161314,7 +161355,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-10-26T19:01:56+00:00",
+        "checked": "2026-10-26T19:30:50+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -161565,7 +161606,7 @@
         "documents": 65
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-10-26T18:30:51+00:00",
+        "checked": "2026-10-26T19:30:50+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -161573,7 +161614,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-10-26T18:30:51+00:00",
+        "checked": "2026-10-26T19:30:50+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -161581,7 +161622,7 @@
         "documents": 69
       },
       "360c3bf1-368c-4263-ace7-2539daede35f": {
-        "checked": "2026-10-26T18:30:51+00:00",
+        "checked": "2026-10-26T19:30:50+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-15",
@@ -161589,7 +161630,7 @@
         "documents": 36
       },
       "1c8cbec7-871b-41cd-abe4-fc7b1f8e5a3e": {
-        "checked": "2026-10-26T18:30:51+00:00",
+        "checked": "2026-10-26T19:30:50+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-08",
@@ -161597,7 +161638,7 @@
         "documents": 37
       },
       "766b366e-bed9-497b-9f3a-f2108dc142c5": {
-        "checked": "2026-10-26T18:30:51+00:00",
+        "checked": "2026-10-26T19:30:50+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-01",
@@ -161853,7 +161894,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-10-26T19:01:59+00:00"
+      "alkmaar": "2026-10-26T19:30:53+00:00"
     },
     "reports": {
       "alkmaar": {
