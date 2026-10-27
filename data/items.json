@@ -3,6 +3,26 @@
     "alkmaar"
   ],
   "items": {
+    "bf5c2682b2db9b74b1d398b3d6c40aa9ec4f4b57f1bc3cbf99fb6809cdee1c05": {
+      "title": "Laat je verrassen op de Vrijwilligersmarkt Alkmaar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0J4Z2MzMFRnYXZFS2xFV0xka2VpTnduQTVHSEQtSktRVUZCVXVpbDdEcmszMUk4a2lIYmdlbFlHTXdGNW83U25VQ3laaWJibGkwUUROODJQX0xiejRkZHpWT0M5SVAyemcyVEZyRFVBMjBLM3dEMkw0VVdTNzVFdDd6enFLTGdlLTBzY0tDdklmeFVQcTNnU1V2WmlZOF9Oa0dZ?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-27T12:31:06+00:00",
+      "updated": "2026-10-27T12:31:06+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Rodi.nl",
+      "media_match": "kop",
+      "last_seen": "2026-10-27",
+      "doc_date": "2026-10-27",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-27T13:19+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Laat je verrassen op de Vrijwilligersmarkt Alkmaar|"
+    },
     "af0abf977372c9d949b6130f0378ffc5803749b950a869a5682bb90a9626e143": {
       "title": "Ongeval met letsel op Pettemerstraat in Alkmaar",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajNWWGMybFd3NERsN19ydzk0Z2k1VGlXOGlRanUwWnQtVm1DTEdWb2R2Uy1HNnkyZE1QUGhkeTNxckl6SU5VNk9NemxTd0lzb243aGNNY2xHUXdYemlGelRaVFlQOXVMM3FuSjBxdFFEZGZESXR4U25ObTMwM2Y4dTd0b3RFSXkwVTA2SV9CUnA2OGQ0UnliczFB?oc=5",
@@ -34,7 +54,7 @@
       "hash": "",
       "revisions": 1,
       "kind": "media",
-      "media_bron": "www.rodi.nl",
+      "media_bron": "Rodi.nl",
       "media_match": "tekst",
       "last_seen": "2026-10-27",
       "doc_date": "2026-10-27",
@@ -4637,7 +4657,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.2 Concept Ontwikkelperspectief Noord-Holland Noord (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"1. Concept Ontwikkelperspectief NHN.pdf\"; filename*=UTF-8''1.%20Concept%20Ontwikkelperspectief%20NHN.pdf|87adb631d6293ff0d294f62adfb1e48d9f198b2f0b392166a1b4def62eb1b56e",
-      "content_checked": "2026-10-27T06:31:10+00:00",
+      "content_checked": "2026-10-27T12:31:19+00:00",
       "kw_sig": "4f53cda18c2b||Bijlage 1. Concept Ontwikkelperspectief NHN|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.2 Concept Ontwikkelperspectief Noord-Holland Noord (Gijsbert van Iterson Scholten)"
     },
     "a85f02ac32771ac5c8f55bfc63493dc1973fb11411ec453d2ef9f0cf6e0af197": {
@@ -134023,7 +134043,7 @@
       "kw_sig": "4f53cda18c2b|ae87b7fb5065f124e166030947be04c905d68fe38d123cd57229f9078d6332f4|Alkmaar_Factsheet_Jeugdwet_Jongeren_2025_Definitief_2026.06.19|B&W Openbare besluiten college dinsdag 6 oktober 2026 · agendapunt 4.7 Raadsinformatiebrief Cliëntervaringsonderzoek Wmo en Jeugdhulp 2025",
       "missing_count": 0,
       "text_hash": "ae87b7fb5065f124e166030947be04c905d68fe38d123cd57229f9078d6332f4",
-      "content_checked": "2026-10-26T12:01:26+00:00"
+      "content_checked": "2026-10-27T12:31:10+00:00"
     },
     "0105ae2921730ee02a5f887a2d6b4a0502f3493a2f7f2a957e3f7ece3ebd46a0": {
       "title": "Alkmaar_Factsheet_Jeugdwet_Ouders_2025_Definitief_2026.06.19",
@@ -134053,7 +134073,7 @@
       "kw_sig": "4f53cda18c2b|eff91b7f6a193449c18392ae463874ce2950aeee52830771ed0bfe5ef36e6bbf|Alkmaar_Factsheet_Jeugdwet_Ouders_2025_Definitief_2026.06.19|B&W Openbare besluiten college dinsdag 6 oktober 2026 · agendapunt 4.7 Raadsinformatiebrief Cliëntervaringsonderzoek Wmo en Jeugdhulp 2025",
       "missing_count": 0,
       "text_hash": "eff91b7f6a193449c18392ae463874ce2950aeee52830771ed0bfe5ef36e6bbf",
-      "content_checked": "2026-10-26T12:01:27+00:00"
+      "content_checked": "2026-10-27T12:31:11+00:00"
     },
     "52404dcafc5a0cea428219ec3a41e86daa883d43c66e36896b61743aef064faf": {
       "title": "Alkmaar_Factsheet_Wmo_2025_Definitief_2026.06.19",
@@ -134083,7 +134103,7 @@
       "kw_sig": "4f53cda18c2b|7ff7b9bc28a2edd498a91071cef6a2d153bce7188745aa6067f97d75fff68335|Alkmaar_Factsheet_Wmo_2025_Definitief_2026.06.19|B&W Openbare besluiten college dinsdag 6 oktober 2026 · agendapunt 4.7 Raadsinformatiebrief Cliëntervaringsonderzoek Wmo en Jeugdhulp 2025",
       "missing_count": 0,
       "text_hash": "7ff7b9bc28a2edd498a91071cef6a2d153bce7188745aa6067f97d75fff68335",
-      "content_checked": "2026-10-26T12:01:30+00:00"
+      "content_checked": "2026-10-27T12:31:12+00:00"
     },
     "6d9056e4a366ad08ce3458c4ae9a4177bdc6ffbaa8ff08930a7e9950e4148d8f": {
       "title": "Raadsinformatiebrief Tijdlijn voorbereiding wedstrijd AZ – Hapoel Be’er Sheva",
@@ -134113,7 +134133,7 @@
       "kw_sig": "4f53cda18c2b|cc80512c0c1f5239b3aa0a9f05158bbb830d1bdb268c37cf7d22594bc47efa57|Raadsinformatiebrief Tijdlijn voorbereiding wedstrijd AZ – Hapoel Be’er Sheva|B&W Openbare besluiten college dinsdag 6 oktober 2026 · agendapunt 4.8 Raadsinformatiebrief Tijdlijn voorbereiding wedstrijd AZ – Hapoel Be’er Sheva",
       "missing_count": 0,
       "text_hash": "cc80512c0c1f5239b3aa0a9f05158bbb830d1bdb268c37cf7d22594bc47efa57",
-      "content_checked": "2026-10-26T12:01:30+00:00"
+      "content_checked": "2026-10-27T12:31:12+00:00"
     },
     "c9096f090e11152508e23ef9d07eeb006d9946f25cd6a908a9671f995848780f": {
       "title": "Bijlage 1. Tijdlijn voorbereidingen AZ-Hapeol Be'er Sheva",
@@ -134143,7 +134163,7 @@
       "kw_sig": "4f53cda18c2b|424597abe50a191c6a5217ad65bb9501645d9aad5d350dbe3637ca8f51a3bbdc|Bijlage 1. Tijdlijn voorbereidingen AZ-Hapeol Be'er Sheva|B&W Openbare besluiten college dinsdag 6 oktober 2026 · agendapunt 4.8 Raadsinformatiebrief Tijdlijn voorbereiding wedstrijd AZ – Hapoel Be’er Sheva",
       "missing_count": 0,
       "text_hash": "424597abe50a191c6a5217ad65bb9501645d9aad5d350dbe3637ca8f51a3bbdc",
-      "content_checked": "2026-10-26T12:01:31+00:00"
+      "content_checked": "2026-10-27T12:31:13+00:00"
     },
     "a5eb5eafbab35bf2e293090db286c2d49cb0e8c265c1b53eb0109192246be9cd": {
       "title": "Raadsinformatiebrief Regenboogpeiling 2026",
@@ -134173,7 +134193,7 @@
       "kw_sig": "4f53cda18c2b|eb189575d7c8d5b5c9e8d19f4a478e7961b3e27137727fa6e667d318e9989c78|Raadsinformatiebrief Regenboogpeiling 2026|B&W Openbare besluiten college dinsdag 6 oktober 2026 · agendapunt 4.9 Raadsinformatiebrief Regenboogpeiling 2026",
       "missing_count": 0,
       "text_hash": "eb189575d7c8d5b5c9e8d19f4a478e7961b3e27137727fa6e667d318e9989c78",
-      "content_checked": "2026-10-26T12:31:08+00:00"
+      "content_checked": "2026-10-27T12:31:14+00:00"
     },
     "840168ed57606fa2e0fb4a9c58247b81683c17bb0ccefebb12ec08869bd4d67b": {
       "title": "Bijlage 1. Rapport Regenboogpeiling NHN 2026",
@@ -134203,7 +134223,7 @@
       "kw_sig": "4f53cda18c2b|918e8bc53f981523b1ce69de21ad53d37e378caac9164cf42b60904c2d21a98d|Bijlage 1. Rapport Regenboogpeiling NHN 2026|B&W Openbare besluiten college dinsdag 6 oktober 2026 · agendapunt 4.9 Raadsinformatiebrief Regenboogpeiling 2026",
       "missing_count": 0,
       "text_hash": "918e8bc53f981523b1ce69de21ad53d37e378caac9164cf42b60904c2d21a98d",
-      "content_checked": "2026-10-26T12:31:10+00:00"
+      "content_checked": "2026-10-27T12:31:16+00:00"
     },
     "7c0e9e8cab4a024cc753670a0a16e0c118dd631afdda69fefce9b5848f83b043": {
       "title": "GS-besluitenlijst 29 september 2026",
@@ -162405,14 +162425,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-27T12:00:56+00:00",
+        "checked": "2026-10-27T12:30:45+00:00",
         "ok": true,
         "count": 434,
         "new": 0,
         "note": "Laatste 30 dagen: 434 van 434 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-27T12:01:18+00:00",
+        "checked": "2026-10-27T12:31:04+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -162420,7 +162440,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 619 documenten bekend. Dekking: vergaderingen van 2026-08-28 t/m 2026-12-11 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-27T12:01:18+00:00",
+        "checked": "2026-10-27T12:31:04+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -162428,42 +162448,42 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-27T12:01:20+00:00",
+        "checked": "2026-10-27T12:31:05+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-10-27T12:01:20+00:00",
+        "checked": "2026-10-27T12:31:06+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-10-27T12:01:24+00:00",
+        "checked": "2026-10-27T12:31:10+00:00",
         "ok": true,
-        "count": 73,
-        "new": 2,
+        "count": 62,
+        "new": 1,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-27T12:02:09+00:00",
+        "checked": "2026-10-27T12:31:19+00:00",
         "ok": true,
-        "count": 33,
+        "count": 8,
         "errors": 0,
-        "note": "33 documenten gecontroleerd (33 pdf), 432 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 3 pdf zonder tekst deze run."
+        "note": "8 documenten gecontroleerd (7 pdf), 432 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-27T12:02:09+00:00",
+        "checked": "2026-10-27T12:31:19+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-27T12:02:09+00:00",
+        "checked": "2026-10-27T12:31:19+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -162479,7 +162499,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-10-27T12:00:56+00:00",
+        "checked": "2026-10-27T12:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -162487,7 +162507,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-10-27T12:00:56+00:00",
+        "checked": "2026-10-27T12:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -162495,7 +162515,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-10-27T12:00:56+00:00",
+        "checked": "2026-10-27T12:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -162503,7 +162523,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-10-27T12:00:56+00:00",
+        "checked": "2026-10-27T12:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -162511,7 +162531,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-10-27T12:00:56+00:00",
+        "checked": "2026-10-27T12:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -162762,7 +162782,7 @@
         "documents": 65
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-10-27T11:30:46+00:00",
+        "checked": "2026-10-27T12:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -162770,7 +162790,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-10-27T11:30:46+00:00",
+        "checked": "2026-10-27T12:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -162778,7 +162798,7 @@
         "documents": 69
       },
       "360c3bf1-368c-4263-ace7-2539daede35f": {
-        "checked": "2026-10-27T11:30:46+00:00",
+        "checked": "2026-10-27T12:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-15",
@@ -162786,7 +162806,7 @@
         "documents": 36
       },
       "1c8cbec7-871b-41cd-abe4-fc7b1f8e5a3e": {
-        "checked": "2026-10-27T11:30:46+00:00",
+        "checked": "2026-10-27T12:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-08",
@@ -162794,7 +162814,7 @@
         "documents": 37
       },
       "766b366e-bed9-497b-9f3a-f2108dc142c5": {
-        "checked": "2026-10-27T11:30:46+00:00",
+        "checked": "2026-10-27T12:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-01",
@@ -163050,7 +163070,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-10-27T12:00:59+00:00"
+      "alkmaar": "2026-10-27T12:30:48+00:00"
     },
     "reports": {
       "alkmaar": {
