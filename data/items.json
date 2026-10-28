@@ -3,6 +3,57 @@
     "alkmaar"
   ],
   "items": {
+    "90384249034772738be8babc8031911363145b54d57913ec4d0892b4c1da030f": {
+      "title": "Inwoners gebied Graft-De Rijp: vul de BuurtWarmteWijzer in!",
+      "url": "https://www.alkmaar.nl/nieuws/inwoners-gebied-graft-de-rijp-vul-de-buurtwarmtewijzer-in/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-21T09:55:29+00:00",
+      "updated": "2026-10-28T22:01:23+00:00",
+      "last_change": "2026-10-28T22:01:23+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-10-09",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-10-09",
+      "last_seen": "2026-10-27",
+      "published_at": "2026-10-09T11:58+02:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "Tussen 6 en 9 oktober krijgen woningeigenaren uit Graft, De Rijp, West- en Oost-Graftdijk, Markenbinnen, Starnmeer en Noordeinde een brief. Daarin staat een persoonlijke code om de BuurtWarmteWijzer in te vullen. Invullen duurt een kwartier en kan tot en met 1 december 2026. U ontdekt wat er in uw woning kan, en wat u samen met de buren kunt doen.",
+      "missing_count": 0,
+      "text_hash": "9e0e7546ac0bd1f42596172fabfa2f2c90f728ec96dad9e98b0d180eaee7526e",
+      "content_checked": "2026-10-28T22:01:23+00:00",
+      "kw_sig": "4f53cda18c2b|9e0e7546ac0bd1f42596172fabfa2f2c90f728ec96dad9e98b0d180eaee7526e|Inwoners gebied Graft-De Rijp: vul de BuurtWarmteWijzer in!|Tussen 6 en 9 oktober krijgen woningeigenaren uit Graft, De Rijp, West- en Oost-Graftdijk, Markenbinnen, Starnmeer en Noordeinde een brief. Daarin staat een persoonlijke code om de BuurtWarmteWijzer in te vullen. Invullen duurt een kwartier en kan tot en met 1 december 2026. U ontdekt wat er in uw woning kan, en wat u samen met de buren kunt doen.",
+      "changes": [
+        {
+          "at": "2026-10-26T21:31:09+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Leerlingen en bewoners maken Sluiswaard groener",
+            "26 oktober 2026"
+          ],
+          "removed": [
+            "Nationale Kringloopdag: ontdek de Kringloopboulevard Alkmaar",
+            "23 september 2026"
+          ]
+        },
+        {
+          "at": "2026-10-28T22:01:23+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Alkmaar Aardgasvrij 2050: wat vindt u belangrijk?",
+            "28 oktober 2026"
+          ],
+          "removed": [
+            "Gratis informatieavonden, webinars en inloopspreekuren over energie besparen",
+            "1 oktober 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "5bb6b54ade25ff75bc1bf1f26dc47ebc3b59e26b6abfed79bef64bb94ff1de58": {
       "title": "Brand in een gebouw op Dijk in Alkmaar",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUtvREYzcEpLbUFGVjJhNGxoenQzS3JUX2pRXzZ4S3l6UmlfRVJ2dzduYjUxVFdGaFBqUi1Ib3g2aVNLTXBqY0NIbFBWdWNjbFU2RnNTMENycUNXNm9NUFhTMXZQTTVRRjN1bjMyMW1aOHA4ZHlYd0I1VWY0R0JZWENwUFhjOVpEX0ozUDR3?oc=5",
@@ -3565,44 +3616,6 @@
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Alkmaar op 26 Oktober 2026 UITagenda Activiteiten (41 x)|"
     },
-    "90384249034772738be8babc8031911363145b54d57913ec4d0892b4c1da030f": {
-      "title": "Inwoners gebied Graft-De Rijp: vul de BuurtWarmteWijzer in!",
-      "url": "https://www.alkmaar.nl/nieuws/inwoners-gebied-graft-de-rijp-vul-de-buurtwarmtewijzer-in/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-10-21T09:55:29+00:00",
-      "updated": "2026-10-26T21:31:09+00:00",
-      "last_change": "2026-10-26T21:31:09+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-10-09",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-10-09",
-      "last_seen": "2026-10-27",
-      "published_at": "2026-10-09T11:58+02:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "Tussen 6 en 9 oktober krijgen woningeigenaren uit Graft, De Rijp, West- en Oost-Graftdijk, Markenbinnen, Starnmeer en Noordeinde een brief. Daarin staat een persoonlijke code om de BuurtWarmteWijzer in te vullen. Invullen duurt een kwartier en kan tot en met 1 december 2026. U ontdekt wat er in uw woning kan, en wat u samen met de buren kunt doen.",
-      "missing_count": 0,
-      "text_hash": "6c5423b5cc988581988aee0b1db6f5b93dcae1d9318a2316b26bc2a3e68a4933",
-      "content_checked": "2026-10-27T21:31:20+00:00",
-      "kw_sig": "4f53cda18c2b|6c5423b5cc988581988aee0b1db6f5b93dcae1d9318a2316b26bc2a3e68a4933|Inwoners gebied Graft-De Rijp: vul de BuurtWarmteWijzer in!|Tussen 6 en 9 oktober krijgen woningeigenaren uit Graft, De Rijp, West- en Oost-Graftdijk, Markenbinnen, Starnmeer en Noordeinde een brief. Daarin staat een persoonlijke code om de BuurtWarmteWijzer in te vullen. Invullen duurt een kwartier en kan tot en met 1 december 2026. U ontdekt wat er in uw woning kan, en wat u samen met de buren kunt doen.",
-      "changes": [
-        {
-          "at": "2026-10-26T21:31:09+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Leerlingen en bewoners maken Sluiswaard groener",
-            "26 oktober 2026"
-          ],
-          "removed": [
-            "Nationale Kringloopdag: ontdek de Kringloopboulevard Alkmaar",
-            "23 september 2026"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
     "5cfdc59d7e34d3804add8db0d6b942d581119a181b36df0e304f1ced469649f1": {
       "title": "Achterstand Alkmaar van 4 statushouders op de huisvestingstaakstelling en niet de door provincie gemelde 25",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZGljOHluSzVuTTF1MVZTSWlUOHZOR1czd0F5SlozdDFrTW93VHNfSFVDWFVyclB0YTlCVmZBSmFBOXJzNUZDWFExajEyS2l1Sy1vUl9kb3JFWURULUZUa0R3eXU5d2VjdDd6ODNiYThuWUJ4ZlRpTHJmakR1LUpnaXR1ZUNrdUFvWlQyOTlYbkhzcE4tRnZyNWJjRXhxSE9hdE9VY1V4NEFRSnJOSS1pUnhMM0FQMlRkZzhvYXdDYWJjWmlxS2lhN0h1d19ZQVZjQUg0WWc0RQ?oc=5",
@@ -7127,7 +7140,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.2 Concept Ontwikkelperspectief Noord-Holland Noord (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "92241a6a819fd8c709ff8bd038ba91893ef8e439ddea6ffeb0b5110cfe0109e6",
-      "content_checked": "2026-10-28T15:33:02+00:00",
+      "content_checked": "2026-10-28T22:01:25+00:00",
       "kw_sig": "4f53cda18c2b|92241a6a819fd8c709ff8bd038ba91893ef8e439ddea6ffeb0b5110cfe0109e6|Bijlage 2. Nota van beantwoording bestuurlijke reacties op het overdrachtsdocument|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.2 Concept Ontwikkelperspectief Noord-Holland Noord (Gijsbert van Iterson Scholten)"
     },
     "e8df14f62eab63e75d8c62d7ee7a1edd03ed878d24c399685dfa4fbb407b222e": {
@@ -7157,7 +7170,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.2 Concept Ontwikkelperspectief Noord-Holland Noord (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "4f0e95d8570411d976e01ec5f625cb2819fd55af1c6dc42a031ffdb06f5c08d0",
-      "content_checked": "2026-10-28T15:33:03+00:00",
+      "content_checked": "2026-10-28T22:01:27+00:00",
       "kw_sig": "4f53cda18c2b|4f0e95d8570411d976e01ec5f625cb2819fd55af1c6dc42a031ffdb06f5c08d0|Bijlage 3. Concept reactiebrief concept Ontwikkelperspectief NHN|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.2 Concept Ontwikkelperspectief Noord-Holland Noord (Gijsbert van Iterson Scholten)"
     },
     "b738470e1cd0c2e6a7c14e941a2d2f1b984206d60d7c63eea357e4b7072f1717": {
@@ -7187,7 +7200,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "98431e2e69d1823d7bd32f9432961954ca890ca27d45620236bcb249848f300b",
-      "content_checked": "2026-10-28T15:33:04+00:00",
+      "content_checked": "2026-10-28T22:01:27+00:00",
       "kw_sig": "4f53cda18c2b|98431e2e69d1823d7bd32f9432961954ca890ca27d45620236bcb249848f300b|Collegevoorstel parkeerbeleid 2027|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)"
     },
     "1abc11c382627739bcf486eb487e1b79c0e5f404ea84e77bc1049d29f3a2ab7c": {
@@ -7217,7 +7230,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "565103abcebfecd3eb1b4cb03903c92bba03ae9842349425cd100f073c7be77a",
-      "content_checked": "2026-10-28T15:33:05+00:00",
+      "content_checked": "2026-10-28T22:01:30+00:00",
       "kw_sig": "4f53cda18c2b|565103abcebfecd3eb1b4cb03903c92bba03ae9842349425cd100f073c7be77a|GT Raadsvoorstel Parkeerbeleid 2027|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)"
     },
     "7090e790c89dae52365df1e58e29934cc2eb27cf3354e6024da7cfe59eab2ac8": {
@@ -7247,7 +7260,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "3b4e98d9f99b6f0cc810d86d53b869515c02d1dd2063551d9c9179af1cc770b7",
-      "content_checked": "2026-10-28T15:33:06+00:00",
+      "content_checked": "2026-10-28T22:01:31+00:00",
       "kw_sig": "4f53cda18c2b|3b4e98d9f99b6f0cc810d86d53b869515c02d1dd2063551d9c9179af1cc770b7|Bijlage 1. Parkeerverordening 2027|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)"
     },
     "bdb75086b38dc87ad5c79188cf97899d8f39599d5c8c7f64c605ea4445fa4a75": {
@@ -7277,7 +7290,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "d5a565c86d041fecdf3b950458dcbfd4670af3bb68622899bfbd643e172ead92",
-      "content_checked": "2026-10-28T15:33:07+00:00",
+      "content_checked": "2026-10-28T22:01:32+00:00",
       "kw_sig": "4f53cda18c2b|d5a565c86d041fecdf3b950458dcbfd4670af3bb68622899bfbd643e172ead92|Bijlage 2 Verordening Parkeerbelastingen 2027def|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)"
     },
     "d2485d2c49d6f6ee2b982499528cf08c9eb3f434778c90198c6c862cb7ab3b4b": {
@@ -7307,7 +7320,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "5b5e79d2b77d30fe13777ccd567ec4d528d14741e911e441a6b0ab59c5c96ac5",
-      "content_checked": "2026-10-28T15:33:12+00:00",
+      "content_checked": "2026-10-28T22:01:34+00:00",
       "kw_sig": "4f53cda18c2b|5b5e79d2b77d30fe13777ccd567ec4d528d14741e911e441a6b0ab59c5c96ac5|Bijlage 3. Aanwijzingsbesluit Parkeren 2027 def|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)"
     },
     "335d3bb073658929d989ac4dadc7d4b2e1b4ee8f28558e945bd6d81c31b7cb66": {
@@ -7337,7 +7350,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "b16d22175972f8c6333b0c767085aa4be247d2074c8c778ed9fcdf160d1cb95e",
-      "content_checked": "2026-10-28T15:33:16+00:00",
+      "content_checked": "2026-10-28T22:01:34+00:00",
       "kw_sig": "4f53cda18c2b|b16d22175972f8c6333b0c767085aa4be247d2074c8c778ed9fcdf160d1cb95e|Bijlage 4. Uitwerkingsbesluit Parkeren 2027def|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)"
     },
     "dd1d7cdce0b5a2b4213756661f55ecc21427ea81beab4fb69e694155ac4b0ae2": {
@@ -7367,7 +7380,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "69b2361ab1af15ddda4133ecf111db822c068441e0a617c7e14916303faf7350",
-      "content_checked": "2026-10-28T15:33:34+00:00",
+      "content_checked": "2026-10-28T22:01:35+00:00",
       "kw_sig": "4f53cda18c2b|69b2361ab1af15ddda4133ecf111db822c068441e0a617c7e14916303faf7350|Bijlage 5. Besluit Parkeergarages 2027def|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.3 Parkeerbeleid 2027 (Marius Wiegman)"
     },
     "79416dd4728ba364464af6bb3a148c9553000c2f81632246a9e44fc619c13d44": {
@@ -7397,7 +7410,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.4 Participatieplan en raadsinformatiebrief Bestevaerbrug (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "15440f0b48b3b2d711e4483482e6693b9da9772b080bb069d415f95e72bef2fe",
-      "content_checked": "2026-10-28T15:33:46+00:00",
+      "content_checked": "2026-10-28T22:01:36+00:00",
       "kw_sig": "4f53cda18c2b|15440f0b48b3b2d711e4483482e6693b9da9772b080bb069d415f95e72bef2fe|Collegevoorstel Participatieplan en Raadsinformatiebrief Bestevaerbrug|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.4 Participatieplan en raadsinformatiebrief Bestevaerbrug (Marius Wiegman)"
     },
     "e6f420c4a0581e61409ee96c1c01161ba1501d61bc9d41cd5df6df025290179e": {
@@ -7427,7 +7440,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.4 Participatieplan en raadsinformatiebrief Bestevaerbrug (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "46eace5fd78ff5d0e83bf4785b734b18a8f36b9b0dca62ecad59ebb614520ccb",
-      "content_checked": "2026-10-28T15:33:51+00:00",
+      "content_checked": "2026-10-28T22:01:37+00:00",
       "kw_sig": "4f53cda18c2b|46eace5fd78ff5d0e83bf4785b734b18a8f36b9b0dca62ecad59ebb614520ccb|Participatieplan Bestevaerbrug|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.4 Participatieplan en raadsinformatiebrief Bestevaerbrug (Marius Wiegman)"
     },
     "c17588f17c31b6e4425274fe937eb77d80cdcdc69174035c6230948113270431": {
@@ -7457,7 +7470,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.4 Participatieplan en raadsinformatiebrief Bestevaerbrug (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "acfd89b1cc5a9b8ae1ffe2bc1c94a77a5576c73faff60c9377a67afbc421df4a",
-      "content_checked": "2026-10-28T15:33:53+00:00",
+      "content_checked": "2026-10-28T22:01:37+00:00",
       "kw_sig": "4f53cda18c2b|acfd89b1cc5a9b8ae1ffe2bc1c94a77a5576c73faff60c9377a67afbc421df4a|Raadsinformatiebrief Voortgang Bestevaerbrug|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.4 Participatieplan en raadsinformatiebrief Bestevaerbrug (Marius Wiegman)"
     },
     "06393452fa22a7cfe1c53a8dbf0d984f22a834c326147f00a6855600d1082d68": {
@@ -164771,14 +164784,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-28T21:30:48+00:00",
+        "checked": "2026-10-28T22:00:57+00:00",
         "ok": true,
         "count": 458,
         "new": 0,
         "note": "Laatste 30 dagen: 458 van 458 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-28T21:31:09+00:00",
+        "checked": "2026-10-28T22:01:15+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -164786,7 +164799,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 621 documenten bekend. Dekking: vergaderingen van 2026-08-29 t/m 2026-12-12 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-28T21:31:10+00:00",
+        "checked": "2026-10-28T22:01:15+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -164794,42 +164807,42 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-28T21:31:11+00:00",
+        "checked": "2026-10-28T22:01:17+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-10-28T21:31:11+00:00",
+        "checked": "2026-10-28T22:01:17+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-10-28T21:31:16+00:00",
+        "checked": "2026-10-28T22:01:21+00:00",
         "ok": true,
-        "count": 60,
+        "count": 61,
         "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-28T21:31:16+00:00",
+        "checked": "2026-10-28T22:01:37+00:00",
         "ok": true,
-        "count": 0,
+        "count": 13,
         "errors": 0,
-        "note": "0 documenten gecontroleerd (0 pdf), 437 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "13 documenten gecontroleerd (12 pdf), 437 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-28T21:31:16+00:00",
+        "checked": "2026-10-28T22:01:37+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-28T21:31:16+00:00",
+        "checked": "2026-10-28T22:01:37+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -164845,7 +164858,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-10-28T21:30:48+00:00",
+        "checked": "2026-10-28T22:00:57+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -164853,7 +164866,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-10-28T21:30:48+00:00",
+        "checked": "2026-10-28T22:00:57+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -164861,7 +164874,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-10-28T21:30:48+00:00",
+        "checked": "2026-10-28T22:00:57+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -164869,7 +164882,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-10-28T21:30:48+00:00",
+        "checked": "2026-10-28T22:00:57+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -164877,7 +164890,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-10-28T21:30:48+00:00",
+        "checked": "2026-10-28T22:00:57+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -164885,7 +164898,7 @@
         "documents": 1
       },
       "de6bfeba-89a2-438c-9c25-e8e2f301ea66": {
-        "checked": "2026-10-28T21:01:01+00:00",
+        "checked": "2026-10-28T22:00:57+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-08",
@@ -164893,7 +164906,7 @@
         "documents": 1
       },
       "26ae9829-4f1b-45de-bdb1-efbd12507ad1": {
-        "checked": "2026-10-28T21:01:01+00:00",
+        "checked": "2026-10-28T22:00:57+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-01",
@@ -165112,7 +165125,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-10-28T21:01:01+00:00",
+        "checked": "2026-10-28T22:00:57+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -165120,7 +165133,7 @@
         "documents": 18
       },
       "dcc6411b-600b-4103-9480-0c96305035a4": {
-        "checked": "2026-10-28T21:01:01+00:00",
+        "checked": "2026-10-28T22:00:57+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-06",
@@ -165407,7 +165420,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-10-28T21:01:01+00:00",
+        "checked": "2026-10-28T22:00:57+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -165416,7 +165429,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-10-28T21:30:51+00:00"
+      "alkmaar": "2026-10-28T22:01:00+00:00"
     },
     "reports": {
       "alkmaar": {
