@@ -3,6 +3,115 @@
     "alkmaar"
   ],
   "items": {
+    "8efe0bcffc7fd0898b3683a2b3f4accbc780e7b8f9dd4e9a0af5a7288ed43a59": {
+      "title": "test",
+      "url": "https://www.alkmaar.nl/nieuws/test-6/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-27T15:01:13+00:00",
+      "updated": "2026-10-28T16:02:31+00:00",
+      "last_change": "2026-10-28T16:02:31+00:00",
+      "hash": "",
+      "revisions": 2,
+      "doc_date": "2026-10-27",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-10-27",
+      "last_seen": "2026-10-28",
+      "published_at": "2026-10-27T16:48+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "test",
+      "missing_count": 0,
+      "text_hash": "b738aa9c7875399e5f6cd301fc6c038dc979ea47bc4ca1e995f2653aa06211b8",
+      "content_checked": "2026-10-28T16:02:31+00:00",
+      "kw_sig": "4f53cda18c2b|b738aa9c7875399e5f6cd301fc6c038dc979ea47bc4ca1e995f2653aa06211b8|test|test",
+      "changes": [
+        {
+          "at": "2026-10-28T16:02:31+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Alkmaar Aardgasvrij 2050: wat vindt u belangrijk?",
+            "28 oktober 2026"
+          ],
+          "removed": [
+            "Leerlingen en bewoners maken Sluiswaard groener",
+            "26 oktober 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "6c51e23850fb98320acc5a59706465e50b9402932354ac8fb96f1d4a98573e7e": {
+      "title": "test",
+      "url": "https://www.alkmaar.nl/nieuws/test-5/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-27T14:31:08+00:00",
+      "updated": "2026-10-28T16:02:28+00:00",
+      "last_change": "2026-10-28T16:02:28+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-10-27",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-10-27",
+      "last_seen": "2026-10-28",
+      "published_at": "2026-10-27T16:11+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "test",
+      "missing_count": 0,
+      "text_hash": "b738aa9c7875399e5f6cd301fc6c038dc979ea47bc4ca1e995f2653aa06211b8",
+      "content_checked": "2026-10-28T16:02:28+00:00",
+      "kw_sig": "4f53cda18c2b|b738aa9c7875399e5f6cd301fc6c038dc979ea47bc4ca1e995f2653aa06211b8|test|test",
+      "changes": [
+        {
+          "at": "2026-10-27T20:31:56+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "test",
+            "27 oktober 2026"
+          ],
+          "removed": [
+            "Bergerhoutrotonde vanaf 2 november afgesloten",
+            "21 oktober 2026"
+          ]
+        },
+        {
+          "at": "2026-10-28T16:02:28+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Alkmaar Aardgasvrij 2050: wat vindt u belangrijk?",
+            "28 oktober 2026"
+          ],
+          "removed": [
+            "Leerlingen en bewoners maken Sluiswaard groener",
+            "26 oktober 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "05eb81bb7f59598dd0987f63016f541e72ec00b44341df1db1a77f64e84dd300": {
+      "title": "Kom naar de informatiesessie over elektrisch rijden bij Stokman Alkmaar",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcTdpT0ZwcDY3OG9WbmlURFV0NVZnbGdlU2RfbjJmR1h6enhuSGxEU1dLU29rejFyZ2FlNnJXNXFQRkFqanB3V3EzZGJ4eEZZbi0xLUQ2M3ZtY3JGUXJtV2RlY25Ub01FWEpMdXMzc2E2Sjc5R3NRQVFsanctTDZSU0dXX3JhZDVnTV81a2FMZk14MU43aVFjZzNtaEc5dGl1Q1RyVUtUZVFqa3Y3MlQwYWtqNA?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-28T16:01:50+00:00",
+      "updated": "2026-10-28T16:01:50+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "www.rodi.nl",
+      "media_match": "kop",
+      "last_seen": "2026-10-28",
+      "doc_date": "2026-10-28",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-28T16:56+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Kom naar de informatiesessie over elektrisch rijden bij Stokman Alkmaar|"
+    },
     "8538a2727bc4a42250a6c82cb2c27676c5252157102468ef840150c20b408139": {
       "title": "Actiekomedie A Fine Mess naar Theater De Vest",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHVsUWhyNzFZY2ZPcnA0alRWSER6S0hjSU5PSkRyZFhsdVRQUzA5ZHotWDNYUWlOU0lvQWYwWHMwRnpucU1JOExCc0NyMzVLSkdLTmpRRnBIenJYN1RMYU5DeXloUlBNRzMwekZ1WHdEVURhcld6ZmdLNG9nRVJOZGotWHhNRWc2R1hEbw?oc=5",
@@ -1596,44 +1705,6 @@
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Kettingbotsing met vijf voertuigen zorgt voor lange file op A9 richting Alkmaar|"
     },
-    "6c51e23850fb98320acc5a59706465e50b9402932354ac8fb96f1d4a98573e7e": {
-      "title": "test",
-      "url": "https://www.alkmaar.nl/nieuws/test-5/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-10-27T14:31:08+00:00",
-      "updated": "2026-10-27T20:31:56+00:00",
-      "last_change": "2026-10-27T20:31:56+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-10-27",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-10-27",
-      "last_seen": "2026-10-28",
-      "published_at": "2026-10-27T16:11+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "test",
-      "missing_count": 0,
-      "text_hash": "6ce32c242a0a865831b3da907bfbf392e7d614c2cee3a81e8edf7029f9cce931",
-      "content_checked": "2026-10-28T09:31:28+00:00",
-      "kw_sig": "4f53cda18c2b|6ce32c242a0a865831b3da907bfbf392e7d614c2cee3a81e8edf7029f9cce931|test|test",
-      "changes": [
-        {
-          "at": "2026-10-27T20:31:56+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "test",
-            "27 oktober 2026"
-          ],
-          "removed": [
-            "Bergerhoutrotonde vanaf 2 november afgesloten",
-            "21 oktober 2026"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
     "47de9fa38c07aa44325a22d98ebcfbfa4419cd2a4aa796e4dfc4f8b078a913d3": {
       "title": "Alkmaar Pinksteren op 31 Oktober 2026 UITagenda Activiteiten (16 x)",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFek1aajZvNjNiQWh0Y1dnZGh0Z1U0bUxYWlktQzAweDhtTms4clNiTzdiZmtiTWkyXzk1TWpDZHRBVi1UcUZXT3kwZWlqemx5aHlEdldIS1JweEF4c2ZDUUVRWHVoQ05WQUoybXdiTmlsREVHNmc?oc=5",
@@ -1853,28 +1924,6 @@
       "published_at": "2026-10-27T16:16+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Brandweer rukt uit voor pannetje op het vuur in Alkmaar|"
-    },
-    "8efe0bcffc7fd0898b3683a2b3f4accbc780e7b8f9dd4e9a0af5a7288ed43a59": {
-      "title": "test",
-      "url": "https://www.alkmaar.nl/nieuws/test-6/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-10-27T15:01:13+00:00",
-      "updated": "2026-10-27T15:01:13+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "doc_date": "2026-10-27",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-10-27",
-      "last_seen": "2026-10-28",
-      "published_at": "2026-10-27T16:48+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "test",
-      "missing_count": 0,
-      "text_hash": "6ce32c242a0a865831b3da907bfbf392e7d614c2cee3a81e8edf7029f9cce931",
-      "content_checked": "2026-10-28T09:31:31+00:00",
-      "kw_sig": "4f53cda18c2b|6ce32c242a0a865831b3da907bfbf392e7d614c2cee3a81e8edf7029f9cce931|test|test"
     },
     "dcb40b66ed2d4acd7a31bdd952963a8176f05121c69df03a14472040aff16dac": {
       "title": "K-otic viert 25-jarig bestaan bij Podium Victorie in Alkmaar",
@@ -7242,7 +7291,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.5 Aanpassingscoëfficiënt canonverhoging 2027 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "5e00618bac60ce4a40c294d2a1da48cf55d9463ecf371d0d6ac981a73aacf322",
-      "content_checked": "2026-10-28T09:31:29+00:00",
+      "content_checked": "2026-10-28T16:02:29+00:00",
       "kw_sig": "4f53cda18c2b|5e00618bac60ce4a40c294d2a1da48cf55d9463ecf371d0d6ac981a73aacf322|Collegevoorstel Aanpassingscoëfficiënt canonverhoging 2027|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.5 Aanpassingscoëfficiënt canonverhoging 2027 (Tineke Bouchier)"
     },
     "41593004e9a9374cc1df7d796508d1e1bf8ae011630d2847cb874f29674208b8": {
@@ -7272,7 +7321,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.6 Convenant Internationale Schakelklassen (ISK) 2026-2030 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "1ff0caee11a2024a39acde967aebde620d47acadfedfab3f14cc2cfa535ce111",
-      "content_checked": "2026-10-28T10:01:29+00:00",
+      "content_checked": "2026-10-28T16:02:31+00:00",
       "kw_sig": "4f53cda18c2b|1ff0caee11a2024a39acde967aebde620d47acadfedfab3f14cc2cfa535ce111|Collegevoorstel Convenant Internationale Schakelklassen (ISK) 2026-2030|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.6 Convenant Internationale Schakelklassen (ISK) 2026-2030 (Marco Wiesehahn-Vrijman)"
     },
     "a7e2d928ea34944c963e0dae88240fb771507f1784523447e14a77ff371269ba": {
@@ -7302,7 +7351,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.6 Convenant Internationale Schakelklassen (ISK) 2026-2030 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "b7a12d2b27ac9a96cea2058bf34e662673d681a393450285c9d66eb44429b7fa",
-      "content_checked": "2026-10-28T10:01:30+00:00",
+      "content_checked": "2026-10-28T16:02:32+00:00",
       "kw_sig": "4f53cda18c2b|b7a12d2b27ac9a96cea2058bf34e662673d681a393450285c9d66eb44429b7fa|Raadsinformatiebrief Convenant Internationale Schakelklassen (ISK) 2026-2030|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.6 Convenant Internationale Schakelklassen (ISK) 2026-2030 (Marco Wiesehahn-Vrijman)"
     },
     "7b322686f5ecfb70385775741ca726b4e1dc5c42fa1ff4cfb5155428441f2e78": {
@@ -7332,7 +7381,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.6 Convenant Internationale Schakelklassen (ISK) 2026-2030 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "5a99576e56c4015f3c84e908e12c0e49f8d8af1a80fabe7fcb57361654ea643c",
-      "content_checked": "2026-10-28T10:01:32+00:00",
+      "content_checked": "2026-10-28T16:02:40+00:00",
       "kw_sig": "4f53cda18c2b|5a99576e56c4015f3c84e908e12c0e49f8d8af1a80fabe7fcb57361654ea643c|Bijlage 1. Convenant Internationale Schakelklassen (ISK) 2026-2030|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.6 Convenant Internationale Schakelklassen (ISK) 2026-2030 (Marco Wiesehahn-Vrijman)"
     },
     "2f2eef3ec05879eade943714cceb630869e14c4eaab2cc3e4c9ba75fc6cf56f7": {
@@ -7362,7 +7411,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "dc52ac8408fe3e09938462659e32eca5f38aa6f87a81b1d2c2d84fde61ad748b",
-      "content_checked": "2026-10-28T10:01:32+00:00",
+      "content_checked": "2026-10-28T16:02:42+00:00",
       "kw_sig": "4f53cda18c2b|dc52ac8408fe3e09938462659e32eca5f38aa6f87a81b1d2c2d84fde61ad748b|Collegevoorstel Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)"
     },
     "6e33e1e4b77c38ea9f688c2073e08ba0e2e0129ed7d417654d5a01f2f70af527": {
@@ -7392,7 +7441,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "5b8beb2c95abf5c4594afdd035505e13717b51305bb231d866ba254440f2ed1c",
-      "content_checked": "2026-10-28T10:01:33+00:00",
+      "content_checked": "2026-10-28T16:02:44+00:00",
       "kw_sig": "4f53cda18c2b|5b8beb2c95abf5c4594afdd035505e13717b51305bb231d866ba254440f2ed1c|GT Raadsvoorstel Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)"
     },
     "a300cb1bdc77cdd1cdeb0ab6e3d56e657988856533a4f86b9c6d85397f8e550f": {
@@ -7422,8 +7471,9 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "477627b8d63b4d98865733701ea404a052b56b9a526f6574c815ebbe0fe3132f",
-      "content_checked": "2026-10-28T10:01:34+00:00",
-      "kw_sig": "4f53cda18c2b|477627b8d63b4d98865733701ea404a052b56b9a526f6574c815ebbe0fe3132f|Bijlage 1a. Brief SOVON aan college van B&W 1-10-2026 adviesvraag fusie|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)"
+      "content_checked": "2026-10-28T16:03:14+00:00",
+      "kw_sig": "4f53cda18c2b|477627b8d63b4d98865733701ea404a052b56b9a526f6574c815ebbe0fe3132f|Bijlage 1a. Brief SOVON aan college van B&W 1-10-2026 adviesvraag fusie|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)",
+      "content_error": "HTTPSConnectionPool(host='alkmaar.bestuurlijkeinformatie.nl', port=443): Read timed out. (read timeout=30)"
     },
     "b2de40de5eb7c5e464ada45c0b7b2510bd3b9f1aa0d533a3677beea091b25964": {
       "title": "Bijlage 1b. Brief SOVON aan gemeenteraad 1-10-2026 fusie",
@@ -7452,7 +7502,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "23c037ffea0c897a2237f6228e7a36686922fd81712134e48d711130dabb6b63",
-      "content_checked": "2026-10-28T10:01:35+00:00",
+      "content_checked": "2026-10-28T16:03:16+00:00",
       "kw_sig": "4f53cda18c2b|23c037ffea0c897a2237f6228e7a36686922fd81712134e48d711130dabb6b63|Bijlage 1b. Brief SOVON aan gemeenteraad 1-10-2026 fusie|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)"
     },
     "60aa8fe255726c992d995c372d2be731bc0d2a62a26c6c021988e27a15da8abb": {
@@ -112063,7 +112113,7 @@
       "kw_sig": "4f53cda18c2b||Bijlage 2. Marketingplan 2026 Alkmaar Marketing|B&W Openbare besluiten college dinsdag 1 september 2026 · agendapunt 3.5 Raadsinformatiebrief Actualiteiten Toerisme en Recreatie",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"Marketingplan 2026 Alkmaar Marketing.pdf\"; filename*=UTF-8''Marketingplan%202026%20Alkmaar%20Marketing.pdf|697e5d55601080b08ce448f1e75826e6757e0b4e51e020039644b21f4ac8a538",
-      "content_checked": "2026-10-27T15:31:28+00:00"
+      "content_checked": "2026-10-28T16:01:58+00:00"
     },
     "e16981b66028c8f458d2cfb23bf2b916bd16a3d805d608cd7d024c38efdc3309": {
       "title": "Raadsinformatiebrief World Green City Awards",
@@ -112093,7 +112143,7 @@
       "kw_sig": "4f53cda18c2b|aea5a77ec4081bac421572b91f056eeddea15eb251510104db83bed5de0684ac|Raadsinformatiebrief World Green City Awards|B&W Openbare besluiten college dinsdag 1 september 2026 · agendapunt 3.6 Raadsinformatiebrief World Green City Awards",
       "missing_count": 0,
       "text_hash": "aea5a77ec4081bac421572b91f056eeddea15eb251510104db83bed5de0684ac",
-      "content_checked": "2026-10-27T15:31:28+00:00"
+      "content_checked": "2026-10-28T16:02:06+00:00"
     },
     "56ddf96f2e0971bfe67f1d0b02cf2c3a43f2b6fa5888483dfaf42ce1e43432c8": {
       "title": "Tussenbericht Beantwoording raadsvragen GL PvdA over Intocht Koedijk",
@@ -112122,7 +112172,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 1 september 2026 · agendapunt 4.1 Tussenbericht Beantwoording raadsvragen van GL - PvdA over Intocht Koedijk",
       "kw_sig": "4f53cda18c2b|8e3d66ccc54387e49fb8fbe40669d6575148981f4a5cc36329ac23fcb5abe6cd|Tussenbericht Beantwoording raadsvragen GL PvdA over Intocht Koedijk|B&W Openbare besluiten college dinsdag 1 september 2026 · agendapunt 4.1 Tussenbericht Beantwoording raadsvragen van GL - PvdA over Intocht Koedijk",
       "missing_count": 0,
-      "content_checked": "2026-10-27T15:31:29+00:00",
+      "content_checked": "2026-10-28T16:02:07+00:00",
       "text_hash": "8e3d66ccc54387e49fb8fbe40669d6575148981f4a5cc36329ac23fcb5abe6cd"
     },
     "e28efe6727b1884067754bc4ac2ed2b6b4d4eaeca16776e67e80583c638c04bf": {
@@ -112153,7 +112203,7 @@
       "kw_sig": "4f53cda18c2b|1c109e3e42685a55070f8dea5a458acf66064e6081b659af2d5ae1a5129c9c06|Raadsinformatiebrief Veiligheidsrisicogebied kermis 29 augustus|B&W Openbare besluiten college dinsdag 1 september 2026 · agendapunt 4.2 Raadsinformatiebrief Veiligheidsrisicogebied kermis 29 augustus",
       "missing_count": 0,
       "text_hash": "1c109e3e42685a55070f8dea5a458acf66064e6081b659af2d5ae1a5129c9c06",
-      "content_checked": "2026-10-27T15:31:30+00:00"
+      "content_checked": "2026-10-28T16:02:08+00:00"
     },
     "776da9d57389fb093b6b65867d42b7156a42698572b96a2497528937d54ff2c4": {
       "title": "Raadsinformatiebrief Veiligheidsrisicogebied 29 augustus (vervolg)",
@@ -112183,7 +112233,7 @@
       "kw_sig": "4f53cda18c2b|fa4f35a1fe89bdf62ba8b099cbbb05e758a9e9291350140732fc0c300cce3a56|Raadsinformatiebrief Veiligheidsrisicogebied 29 augustus (vervolg)|B&W Openbare besluiten college dinsdag 1 september 2026 · agendapunt 4.3 Raadsinformatiebrief Veiligheidsrisicogebied kermis 29 augustus (vervolg)",
       "missing_count": 0,
       "text_hash": "fa4f35a1fe89bdf62ba8b099cbbb05e758a9e9291350140732fc0c300cce3a56",
-      "content_checked": "2026-10-27T15:31:30+00:00"
+      "content_checked": "2026-10-28T16:02:23+00:00"
     },
     "1359ef401b32c2b5c5691e05ca5befd5061bc6c39b05a1924cdd45be483cea69": {
       "title": "Raadsinformatiebrief Veiligheidsrisicogebied kermis 30 augustus (vervolg)",
@@ -112213,7 +112263,7 @@
       "kw_sig": "4f53cda18c2b|bb948cdda07574e56bfa3a5a236efbcefd9ad3735e87854af299921eafc79b19|Raadsinformatiebrief Veiligheidsrisicogebied kermis 30 augustus (vervolg)|B&W Openbare besluiten college dinsdag 1 september 2026 · agendapunt 4.4 Raadsinformatiebrief Veiligheidsrisicogebied kermis 30 augustus (vervolg)",
       "missing_count": 0,
       "text_hash": "bb948cdda07574e56bfa3a5a236efbcefd9ad3735e87854af299921eafc79b19",
-      "content_checked": "2026-10-27T15:31:31+00:00"
+      "content_checked": "2026-10-28T16:02:25+00:00"
     },
     "4b9bba524ee33278532d3e5f2f3ffc6f3e5767d750794fe3185d84f8a8c72a99": {
       "title": "GS besluitenlijst 25 augustus 2026",
@@ -112243,7 +112293,7 @@
       "kw_sig": "4f53cda18c2b|180f1751624af9c1bdd9ffbb03eefe4de6692604faf7182ffc4161c4fa995a67|GS besluitenlijst 25 augustus 2026|B&W Openbare besluiten college dinsdag 1 september 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland",
       "missing_count": 0,
       "text_hash": "180f1751624af9c1bdd9ffbb03eefe4de6692604faf7182ffc4161c4fa995a67",
-      "content_checked": "2026-10-27T15:31:32+00:00"
+      "content_checked": "2026-10-28T16:02:25+00:00"
     },
     "a17d37ddaec6f39a97ca822699912316391b696b9b7123778bf5b1091ce1c7e3": {
       "title": "B&W Openbare besluiten college dinsdag 8 september 2026",
@@ -137603,7 +137653,7 @@
       "kw_sig": "4f53cda18c2b|185edff25bcc00c3fd1f6f07121c829c9a4f1197866ecf273ba1c10f48e70424|Agenda Collegevergadering van 1 september 2026|B&W Agenda dinsdag 1 september 2026 · agendapunt Agenda Collegevergadering van 1 september 2026",
       "missing_count": 0,
       "text_hash": "185edff25bcc00c3fd1f6f07121c829c9a4f1197866ecf273ba1c10f48e70424",
-      "content_checked": "2026-10-27T15:31:32+00:00"
+      "content_checked": "2026-10-28T16:02:27+00:00"
     },
     "8a733b11ff82d4966bac0c2c147cfe3f6c6bb601e0a70c9c690e5c75cdc1df47": {
       "title": "B&W Agenda dinsdag 8 september 2026",
@@ -164524,14 +164574,12 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-28T15:30:47+00:00",
-        "ok": true,
-        "count": 458,
-        "new": 0,
-        "note": "Laatste 30 dagen: 458 van 458 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "checked": "2026-10-28T16:01:10+00:00",
+        "ok": false,
+        "error": "HTTPSConnectionPool(host='repository.overheid.nl', port=443): Max retries exceeded with url: /sru?operation=searchRetrieve&version=2.0&query=c.product-area%3D%3D%22officielepublicaties%22+AND+dt.creator%3D%3D%22Alkmaar%22+AND+dt.available%3E%3D2026-0"
       },
       "Raadsstukken": {
-        "checked": "2026-10-28T15:31:20+00:00",
+        "checked": "2026-10-28T16:01:44+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -164539,7 +164587,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 619 documenten bekend. Dekking: vergaderingen van 2026-08-29 t/m 2026-12-12 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-28T15:31:20+00:00",
+        "checked": "2026-10-28T16:01:47+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -164547,42 +164595,42 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-28T15:31:22+00:00",
+        "checked": "2026-10-28T16:01:48+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-10-28T15:31:22+00:00",
+        "checked": "2026-10-28T16:01:49+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-10-28T15:31:26+00:00",
+        "checked": "2026-10-28T16:01:53+00:00",
         "ok": true,
-        "count": 79,
-        "new": 2,
+        "count": 64,
+        "new": 1,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-28T15:33:53+00:00",
-        "ok": true,
-        "count": 40,
-        "errors": 0,
-        "note": "40 documenten gecontroleerd (38 pdf), 435 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "checked": "2026-10-28T16:03:16+00:00",
+        "ok": false,
+        "count": 17,
+        "errors": 1,
+        "note": "17 documenten gecontroleerd (14 pdf), 435 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-28T15:33:53+00:00",
+        "checked": "2026-10-28T16:03:16+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-28T15:33:53+00:00",
+        "checked": "2026-10-28T16:03:16+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -164598,7 +164646,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-10-28T15:30:47+00:00",
+        "checked": "2026-10-28T16:01:10+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -164606,7 +164654,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-10-28T15:30:47+00:00",
+        "checked": "2026-10-28T16:01:10+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -164614,7 +164662,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-10-28T15:30:47+00:00",
+        "checked": "2026-10-28T16:01:10+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -164622,7 +164670,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-10-28T15:30:47+00:00",
+        "checked": "2026-10-28T16:01:10+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -164630,7 +164678,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-10-28T15:30:47+00:00",
+        "checked": "2026-10-28T16:01:10+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -164881,7 +164929,7 @@
         "documents": 65
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-10-28T15:00:58+00:00",
+        "checked": "2026-10-28T16:01:10+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -164889,7 +164937,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-10-28T15:00:58+00:00",
+        "checked": "2026-10-28T16:01:10+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -164897,7 +164945,7 @@
         "documents": 69
       },
       "360c3bf1-368c-4263-ace7-2539daede35f": {
-        "checked": "2026-10-28T15:00:58+00:00",
+        "checked": "2026-10-28T16:01:10+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-15",
@@ -164905,7 +164953,7 @@
         "documents": 36
       },
       "1c8cbec7-871b-41cd-abe4-fc7b1f8e5a3e": {
-        "checked": "2026-10-28T15:00:58+00:00",
+        "checked": "2026-10-28T16:01:10+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-08",
@@ -164913,7 +164961,7 @@
         "documents": 37
       },
       "766b366e-bed9-497b-9f3a-f2108dc142c5": {
-        "checked": "2026-10-28T15:00:58+00:00",
+        "checked": "2026-10-28T16:01:10+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-01",
@@ -165169,7 +165217,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-10-28T15:30:51+00:00"
+      "alkmaar": "2026-10-28T16:01:14+00:00"
     },
     "reports": {
       "alkmaar": {
