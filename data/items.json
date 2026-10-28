@@ -3,6 +3,26 @@
     "alkmaar"
   ],
   "items": {
+    "86af5b7ec455207b90b760881232ae791f8d482a8b12db9bae5bc8cad28fd06b": {
+      "title": "Meer pleeggezinnen gestopt dan gestart: 14 kinderen wachten op een plek",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM3FGdzQyWnFhdm9jSWNrMDJWbEdEcVh3OVd0ZVNIcjJuSHU4RVRONWtPQ3ZCV0hOdkY4VlQ4VUdEb0plU09hWWtHc2p2cHcxWmZZTm0xQTAzMEZCRkwwblhDUGl5el9zVDRPUGd6UXB6UkptUGhFakRRTWFvcDNuYkZ3c2xnc3lWWVVkcWU5Z2JlWDVDcVhvZTNud0FFRkptWTNVX1dOcFdrMU9TVVJzLVRB?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-28T14:01:53+00:00",
+      "updated": "2026-10-28T14:01:53+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Rodi.nl",
+      "media_match": "tekst",
+      "last_seen": "2026-10-28",
+      "doc_date": "2026-10-28",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-28T14:35+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Meer pleeggezinnen gestopt dan gestart: 14 kinderen wachten op een plek|"
+    },
     "053e1943effafe698fe3e088858167419c6c5f17bd555ce7fb138746504bea78": {
       "title": "Alkmaar sluit zich aan bij Convenant Schoon en Emissieloos Bouwen",
       "url": "https://www.alkmaar.nl/nieuws/alkmaar-sluit-zich-aan-bij-convenant-schoon-en-emissieloos-bouwen/",
@@ -85,7 +105,7 @@
       "hash": "",
       "revisions": 1,
       "kind": "media",
-      "media_bron": "www.rodi.nl",
+      "media_bron": "Rodi.nl",
       "media_match": "tekst",
       "last_seen": "2026-10-28",
       "doc_date": "2026-10-28",
@@ -114486,7 +114506,7 @@
       "kw_sig": "4f53cda18c2b|9f241b5b0909c435079107edd148a9a9d70e080b2a3dd7aac2372548688812e7|Bijlage 4. Raadsinformatiebrief Participatie uitbreiding woonwagenstandplaatsen Bestevaerstraat|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.1 Participatie uitbreiding woonwagenstandplaatsen Bestevaerstraat (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "9f241b5b0909c435079107edd148a9a9d70e080b2a3dd7aac2372548688812e7",
-      "content_checked": "2026-10-27T13:31:38+00:00"
+      "content_checked": "2026-10-28T14:01:58+00:00"
     },
     "c8487ff8249ff8df73e2ac94d732470590a26a87409cc6b36664ec2b8e54e453": {
       "title": "Collegevoorstel Bezwaren nieuwbouw De Rederijker (Geanonimiseerd)",
@@ -114516,7 +114536,7 @@
       "kw_sig": "4f53cda18c2b|1a961fc24f649e9ff9a13ef2e6648f4e4c3b6ea0fdf9ed54ad079814961909d4|Collegevoorstel Bezwaren nieuwbouw De Rederijker (Geanonimiseerd)|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.2 Bezwaren nieuwbouw De Rederijker (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "1a961fc24f649e9ff9a13ef2e6648f4e4c3b6ea0fdf9ed54ad079814961909d4",
-      "content_checked": "2026-10-27T13:31:39+00:00"
+      "content_checked": "2026-10-28T14:01:59+00:00"
     },
     "1f9b10030e6547a05acc23e6d6be06300214f22f171b93af0b6b669bc0cf0b6b": {
       "title": "Bijlage 1. Advies commissie Bezwaarschriften (Geanonimiseerd)",
@@ -114546,7 +114566,7 @@
       "kw_sig": "4f53cda18c2b|325afdfbf675d99dd7b10fa7494b2ceb1993bf13cc6d732db567353adb5fc4d0|Bijlage 1. Advies commissie Bezwaarschriften (Geanonimiseerd)|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.2 Bezwaren nieuwbouw De Rederijker (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "325afdfbf675d99dd7b10fa7494b2ceb1993bf13cc6d732db567353adb5fc4d0",
-      "content_checked": "2026-10-27T13:31:42+00:00"
+      "content_checked": "2026-10-28T14:02:04+00:00"
     },
     "8d051116c20871ee45d3fd884042d1976ceb9ccd0d046bd837e19e1d0c88d79e": {
       "title": "Bijlage 2. Verslag hoorzitting commissie bezwaarschriften (Geanonimiseerd)",
@@ -114576,7 +114596,7 @@
       "kw_sig": "4f53cda18c2b|22af01772ca6dff32fbe074ce97f793f370b03b0f2bbf0feea91b8ea8cfec86b|Bijlage 2. Verslag hoorzitting commissie bezwaarschriften (Geanonimiseerd)|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.2 Bezwaren nieuwbouw De Rederijker (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "22af01772ca6dff32fbe074ce97f793f370b03b0f2bbf0feea91b8ea8cfec86b",
-      "content_checked": "2026-10-27T13:31:45+00:00"
+      "content_checked": "2026-10-28T14:02:08+00:00"
     },
     "b75ac431fb29cf3ab5ebdeffff8d181e7ff76e72ce6d489b6a538f8b5b47c094": {
       "title": "Bijlage 3. Beslissing op bezwaar (De Rederijker) (Geanonimiseerd)",
@@ -114606,7 +114626,7 @@
       "kw_sig": "4f53cda18c2b|6168e52f45e0294fc6240a713197b29349720e4d848f2c54c1091fb5eb86263e|Bijlage 3. Beslissing op bezwaar (De Rederijker) (Geanonimiseerd)|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.2 Bezwaren nieuwbouw De Rederijker (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "6168e52f45e0294fc6240a713197b29349720e4d848f2c54c1091fb5eb86263e",
-      "content_checked": "2026-10-27T13:31:46+00:00"
+      "content_checked": "2026-10-28T14:02:37+00:00"
     },
     "4e83cef5ab168a714fb5890037234f261826b1bc3be99cda14f63d25abd6d879": {
       "title": "Collegevoorstel Terinzagelegging ontwerp omgevingsvergunning Rogier van der Weydestr 4",
@@ -114636,7 +114656,7 @@
       "kw_sig": "4f53cda18c2b|37c1259b6aeb449cc36a7420a153f034a09b780415fbc9b4970a66e90a3d1489|Collegevoorstel Terinzagelegging ontwerp omgevingsvergunning Rogier van der Weydestr 4|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.3 Terinzagelegging ontwerp omgevingsvergunning Rogier van der Weydestraat 4 en ontwerpbesluit vaststelling hogere waarden geluid (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "37c1259b6aeb449cc36a7420a153f034a09b780415fbc9b4970a66e90a3d1489",
-      "content_checked": "2026-10-27T13:31:48+00:00"
+      "content_checked": "2026-10-28T14:02:38+00:00"
     },
     "20ba6a5e37d32db8c0c0eb43f81ca301e64acb72f664e2c41a3e47a91e97973e": {
       "title": "Aanvraag omgevingsvergunning 52 woningen op de locatie Rogier van der Weydestraat 4 te Alkmaar",
@@ -114666,7 +114686,7 @@
       "kw_sig": "4f53cda18c2b|4a1d1d80c39a92dfeebd35cf6d16f544e6810707dcf0516a9c081aeea890d500|Aanvraag omgevingsvergunning 52 woningen op de locatie Rogier van der Weydestraat 4 te Alkmaar|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.3 Terinzagelegging ontwerp omgevingsvergunning Rogier van der Weydestraat 4 en ontwerpbesluit vaststelling hogere waarden geluid (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "4a1d1d80c39a92dfeebd35cf6d16f544e6810707dcf0516a9c081aeea890d500",
-      "content_checked": "2026-10-27T13:31:49+00:00"
+      "content_checked": "2026-10-28T14:02:41+00:00"
     },
     "58843d5ebe7784e645e3c88c260d580604dbe21ba5162bd2d3171077be4859c8": {
       "title": "Ruimtelijke onderbouwing 52 woningen Rogier van der Weydestraat 4",
@@ -114696,7 +114716,7 @@
       "kw_sig": "4f53cda18c2b||Ruimtelijke onderbouwing 52 woningen Rogier van der Weydestraat 4|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.3 Terinzagelegging ontwerp omgevingsvergunning Rogier van der Weydestraat 4 en ontwerpbesluit vaststelling hogere waarden geluid (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"4. ruimtelijke onderbouwing 52 woningen Rogier van der Weydestraat 4.pdf\"; filename*=UTF-8''4.%20ruimtelijke%20onderbouwing%2052%20woningen%20Rogier%20van%20der%20Weydestraat%204.pdf|e0f6efc5673a3f60ef670957e2230a5ee8df1352a2033e82b00fae017d28c679",
-      "content_checked": "2026-10-27T13:31:52+00:00"
+      "content_checked": "2026-10-28T14:02:45+00:00"
     },
     "5e151b93de6c1342e61b3355ea41f18338c179dbd96f25d549890e11f3090f7e": {
       "title": "Raadsinformatiebrief Terinzagelegging Ontwerp omg vergunn g Rogier vd Weydestr",
@@ -114726,7 +114746,7 @@
       "kw_sig": "4f53cda18c2b|2e1d3fa6681c4021aba32eaf7d888b80adad2ad19ebf57661a59b8f727cf2e0b|Raadsinformatiebrief Terinzagelegging Ontwerp omg vergunn g Rogier vd Weydestr|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.3 Terinzagelegging ontwerp omgevingsvergunning Rogier van der Weydestraat 4 en ontwerpbesluit vaststelling hogere waarden geluid (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "2e1d3fa6681c4021aba32eaf7d888b80adad2ad19ebf57661a59b8f727cf2e0b",
-      "content_checked": "2026-10-27T13:31:53+00:00"
+      "content_checked": "2026-10-28T14:02:46+00:00"
     },
     "dd0b33bc677b5e2e8db15431502436921b867fc572e4b0562ae4015da591b3c6": {
       "title": "Bijlage 1. Ontwerp Omgevingsvergunning Rogier vd Weydestr",
@@ -114756,7 +114776,7 @@
       "kw_sig": "4f53cda18c2b|3f965fa97a16a8b66352e4a3a8e77d011a102df5557c6eb181cd6dce41b6a831|Bijlage 1. Ontwerp Omgevingsvergunning Rogier vd Weydestr|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.3 Terinzagelegging ontwerp omgevingsvergunning Rogier van der Weydestraat 4 en ontwerpbesluit vaststelling hogere waarden geluid (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "3f965fa97a16a8b66352e4a3a8e77d011a102df5557c6eb181cd6dce41b6a831",
-      "content_checked": "2026-10-27T13:31:54+00:00"
+      "content_checked": "2026-10-28T14:02:48+00:00"
     },
     "1012bbbf6b004a38bb5223f85a79a755e9494973cdd3d44ea01b5472f71bccd5": {
       "title": "Bijlage 2. Concept_ontwerp_hogere_waarden_Rogier_vd_Weydestraat 4_Alkmaar",
@@ -114786,7 +114806,7 @@
       "kw_sig": "4f53cda18c2b|ea2b50ce4cdc6718ff350344f933fe33ced8bd4cc7b25a7ca770968592887b80|Bijlage 2. Concept_ontwerp_hogere_waarden_Rogier_vd_Weydestraat 4_Alkmaar|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.3 Terinzagelegging ontwerp omgevingsvergunning Rogier van der Weydestraat 4 en ontwerpbesluit vaststelling hogere waarden geluid (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "ea2b50ce4cdc6718ff350344f933fe33ced8bd4cc7b25a7ca770968592887b80",
-      "content_checked": "2026-10-27T13:31:54+00:00"
+      "content_checked": "2026-10-28T14:02:50+00:00"
     },
     "90179992b5405bd4c79f732e0ad3fcb1454d7297c71381aadc76649c4eecaccb": {
       "title": "Collegevoorstel Opruimen dumpingen en bijplaatsingen",
@@ -114816,7 +114836,7 @@
       "kw_sig": "4f53cda18c2b|a46a0d2955a8339e8a98051404d90be567660d3c6ffe9e913c51200a051c6e47|Collegevoorstel Opruimen dumpingen en bijplaatsingen|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.4 Opruimen dumpingen en bijplaatsingen (Odile Rasch)",
       "missing_count": 0,
       "text_hash": "a46a0d2955a8339e8a98051404d90be567660d3c6ffe9e913c51200a051c6e47",
-      "content_checked": "2026-10-27T13:31:56+00:00"
+      "content_checked": "2026-10-28T14:02:51+00:00"
     },
     "87ea9dce2e2def7bee979e2d9162b126412dc5fa3fbd2b8591254bd98e913360": {
       "title": "Collegevoorstel Investeringskrediet project N9 Kogendijk",
@@ -114846,7 +114866,7 @@
       "kw_sig": "4f53cda18c2b|61132e6865b142fd0fe2a7e7f05bdea044197b479310a981899ac7c475c45a0f|Collegevoorstel Investeringskrediet project N9 Kogendijk|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.5 Investeringskrediet project N9 Kogendijk (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "61132e6865b142fd0fe2a7e7f05bdea044197b479310a981899ac7c475c45a0f",
-      "content_checked": "2026-10-27T13:31:57+00:00"
+      "content_checked": "2026-10-28T14:02:53+00:00"
     },
     "ad36033bc55d533a59db8f675cfcf33b9f37d5c3e9dbfb9d8ed3e2e1f2b87dd8": {
       "title": "GT Raadsvoorstel Investeringskrediet N9 Kogendijk",
@@ -114876,7 +114896,7 @@
       "kw_sig": "4f53cda18c2b|2df468d6cb560655c0432f26d7e8cd1e6f2e434acf301c8e0cf43e8d8ef1e55c|GT Raadsvoorstel Investeringskrediet N9 Kogendijk|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.5 Investeringskrediet project N9 Kogendijk (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "2df468d6cb560655c0432f26d7e8cd1e6f2e434acf301c8e0cf43e8d8ef1e55c",
-      "content_checked": "2026-10-27T13:31:57+00:00"
+      "content_checked": "2026-10-28T14:02:53+00:00"
     },
     "8d088fb23f3c4feed17e2bd930caafb8ebd6736ef250507dc6ddb20d4bc95fba": {
       "title": "Collegevoorstel Zienswijze ontwerp toekomstvisie en Waterschapsverordening 2027",
@@ -114906,7 +114926,7 @@
       "kw_sig": "4f53cda18c2b|701f35bcce8a6487189ebff2bdd8e251f068357e09afc025bf261fcdb23d5423|Collegevoorstel Zienswijze ontwerp toekomstvisie en Waterschapsverordening 2027|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.6 Hoogheemraadschap (HHNK) Zienswijze Toekomstvisie en Waterschapsverordening (Robert te Beest)",
       "missing_count": 0,
       "text_hash": "701f35bcce8a6487189ebff2bdd8e251f068357e09afc025bf261fcdb23d5423",
-      "content_checked": "2026-10-27T13:31:58+00:00"
+      "content_checked": "2026-10-28T14:02:57+00:00"
     },
     "37cca3282bda957d647eba67db833a8e0edf6707d25109c7c134993f560a1c0e": {
       "title": "Raadsinformatiebrief zienswijze ontwerp Toekomstvisie en Waterschapsverordening HHNK",
@@ -114936,7 +114956,7 @@
       "kw_sig": "4f53cda18c2b|dd9f8ef8049df67bd12030152ca370705847eb31095267d7b03fa1f7d72c91ca|Raadsinformatiebrief zienswijze ontwerp Toekomstvisie en Waterschapsverordening HHNK|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.6 Hoogheemraadschap (HHNK) Zienswijze Toekomstvisie en Waterschapsverordening (Robert te Beest)",
       "missing_count": 0,
       "text_hash": "dd9f8ef8049df67bd12030152ca370705847eb31095267d7b03fa1f7d72c91ca",
-      "content_checked": "2026-10-27T13:31:59+00:00"
+      "content_checked": "2026-10-28T14:02:57+00:00"
     },
     "e11b291b590cb603e54bdacbd38ef67098c5f68ae178f78d1557f05fd8dfe71c": {
       "title": "Bijlage 1. GT Zienswijze Toekomstvisie 2050+ en Waterschapsverordening HHNK",
@@ -114966,7 +114986,7 @@
       "kw_sig": "4f53cda18c2b|ecff441fd6620a7a5bcab47a98aeef8ab40717a1628b930f6833c7707a496361|Bijlage 1. GT Zienswijze Toekomstvisie 2050+ en Waterschapsverordening HHNK|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.6 Hoogheemraadschap (HHNK) Zienswijze Toekomstvisie en Waterschapsverordening (Robert te Beest)",
       "missing_count": 0,
       "text_hash": "ecff441fd6620a7a5bcab47a98aeef8ab40717a1628b930f6833c7707a496361",
-      "content_checked": "2026-10-27T13:32:00+00:00"
+      "content_checked": "2026-10-28T14:02:59+00:00"
     },
     "7fd31ae89c2f43dc8311302bd451515a2b93f3ee985f7679c74331afefdc5ea4": {
       "title": "Collegevoorstel Uitkomst Haalbaarheidsonderzoek Dijk 1",
@@ -114996,7 +115016,7 @@
       "kw_sig": "4f53cda18c2b|eaa2d2e79eaf3701241b2ddbe05d4b7195053b0183e0a1da280ec640cd4bc079|Collegevoorstel Uitkomst Haalbaarheidsonderzoek Dijk 1|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.7 Uitkomst Haalbaarheidsonderzoek Dijk 1 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "eaa2d2e79eaf3701241b2ddbe05d4b7195053b0183e0a1da280ec640cd4bc079",
-      "content_checked": "2026-10-27T13:32:01+00:00"
+      "content_checked": "2026-10-28T14:02:59+00:00"
     },
     "9365374e3cb9144d184a6f13e46835f770eafd6c90d103c35310a8fd33251d0e": {
       "title": "Raadsinformatiebrief Uitkomst Haalbaarheidsonderzoek Dijk 1",
@@ -115026,7 +115046,7 @@
       "kw_sig": "4f53cda18c2b|0998c0d2a0df86f5f419a17ee23ddf6aed32d94e08d84afbf70d6ca4260a4601|Raadsinformatiebrief Uitkomst Haalbaarheidsonderzoek Dijk 1|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.7 Uitkomst Haalbaarheidsonderzoek Dijk 1 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "0998c0d2a0df86f5f419a17ee23ddf6aed32d94e08d84afbf70d6ca4260a4601",
-      "content_checked": "2026-10-27T13:32:02+00:00"
+      "content_checked": "2026-10-28T14:03:08+00:00"
     },
     "2763bd1c89593354169bbf3b49154ce9bdfaa0d282d073b97a60b03d8a77c269": {
       "title": "Collegevoorstel Doorontwikkeling Jongerenpunt Noord-Kennemerland",
@@ -115056,7 +115076,7 @@
       "kw_sig": "4f53cda18c2b|cad7b28c6d57b15aa9d3593fe6d42569a14cfae9f5feeb5269b5e6b1727cfe6a|Collegevoorstel Doorontwikkeling Jongerenpunt Noord-Kennemerland|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.8 Doorontwikkeling Jongerenpunt Noord-Kennemerland (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "cad7b28c6d57b15aa9d3593fe6d42569a14cfae9f5feeb5269b5e6b1727cfe6a",
-      "content_checked": "2026-10-27T13:32:02+00:00"
+      "content_checked": "2026-10-28T14:03:09+00:00"
     },
     "ef62dc9d2a8951907bc519d0749f88946a287a1aa7a2af04dde80bcffc2140ad": {
       "title": "Collegevoorstel Beantwoording verzoek op grond van de Wet open overheid (WOO) d.d. 12 augustus 2026",
@@ -115086,7 +115106,7 @@
       "kw_sig": "4f53cda18c2b|aa4079fe88fad4bae3e1881dcbeddbd15a906bfefe33f06d4e1889d80e447ab6|Collegevoorstel Beantwoording verzoek op grond van de Wet open overheid (WOO) d.d. 12 augustus 2026|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.9 Beantwoording verzoek o.g.v. Wet open overheid (WOO) d.d. 12 augustus 2026 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "aa4079fe88fad4bae3e1881dcbeddbd15a906bfefe33f06d4e1889d80e447ab6",
-      "content_checked": "2026-10-27T13:32:03+00:00"
+      "content_checked": "2026-10-28T14:03:09+00:00"
     },
     "5668e483df5371c6aa0941d311b66192d4e3a7e70a00a810d3b5893e635887f2": {
       "title": "Bijlage 1. WOO 12 augustus 2026",
@@ -115116,7 +115136,7 @@
       "kw_sig": "4f53cda18c2b|fd29fe63df3d2952a6f90d55b52b10c82646b9887a40a6bee604e894af3ba743|Bijlage 1. WOO 12 augustus 2026|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.9 Beantwoording verzoek o.g.v. Wet open overheid (WOO) d.d. 12 augustus 2026 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "fd29fe63df3d2952a6f90d55b52b10c82646b9887a40a6bee604e894af3ba743",
-      "content_checked": "2026-10-27T13:32:04+00:00"
+      "content_checked": "2026-10-28T14:03:11+00:00"
     },
     "eefd42a2d7264324a9406ad5c9cb490b4bb6fb0d69eb992004751adfc663a8e2": {
       "title": "Bijlage 2. WOO besluit 22 september 2026",
@@ -115146,7 +115166,7 @@
       "kw_sig": "4f53cda18c2b|8d0a6c92c12d4fbbc21769fa94e270f7015479e2a6615c9f69857014001b6006|Bijlage 2. WOO besluit 22 september 2026|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.9 Beantwoording verzoek o.g.v. Wet open overheid (WOO) d.d. 12 augustus 2026 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "8d0a6c92c12d4fbbc21769fa94e270f7015479e2a6615c9f69857014001b6006",
-      "content_checked": "2026-10-27T13:32:05+00:00"
+      "content_checked": "2026-10-28T14:03:18+00:00"
     },
     "e5424cea438d2dc5937edcfb82bd99f7cb13801ae42c0417c2349ed7c519ee14": {
       "title": "Bijlage 3. Inventarislijst WOO 2026 openbaar",
@@ -115176,7 +115196,7 @@
       "kw_sig": "4f53cda18c2b|165d39bd1bca691765a77bee09674a18507e27899ff94187a00b04d6542eb50a|Bijlage 3. Inventarislijst WOO 2026 openbaar|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.9 Beantwoording verzoek o.g.v. Wet open overheid (WOO) d.d. 12 augustus 2026 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "165d39bd1bca691765a77bee09674a18507e27899ff94187a00b04d6542eb50a",
-      "content_checked": "2026-10-27T14:01:31+00:00"
+      "content_checked": "2026-10-28T14:03:20+00:00"
     },
     "0664242c3a0b8828a40728b5e5602c735286994c59bf529154a9f3ebb4473bc2": {
       "title": "Bijlage 3.1. 006 Aanvraag quickscan vastgoed (Geanonimiseerd)",
@@ -115206,7 +115226,7 @@
       "kw_sig": "4f53cda18c2b|532be23f95460640586a7751a559d71dad38eeca3322c637de5df4e9298129a2|Bijlage 3.1. 006 Aanvraag quickscan vastgoed (Geanonimiseerd)|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.9 Beantwoording verzoek o.g.v. Wet open overheid (WOO) d.d. 12 augustus 2026 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "532be23f95460640586a7751a559d71dad38eeca3322c637de5df4e9298129a2",
-      "content_checked": "2026-10-27T14:01:32+00:00"
+      "content_checked": "2026-10-28T14:03:21+00:00"
     },
     "b485fb2725eb78fdd92873d4dd95d796de1a081fdfd3cb65fc5299170beddc15": {
       "title": "Bijlage 3.2. 005 afspraak aankomende vrijdag (Geanonimiseerd)",
@@ -115236,7 +115256,7 @@
       "kw_sig": "4f53cda18c2b|ae440914aadc50d5108df8ab85cc67a70f9c9d51641f03c225631648fc8ef795|Bijlage 3.2. 005 afspraak aankomende vrijdag (Geanonimiseerd)|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.9 Beantwoording verzoek o.g.v. Wet open overheid (WOO) d.d. 12 augustus 2026 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "ae440914aadc50d5108df8ab85cc67a70f9c9d51641f03c225631648fc8ef795",
-      "content_checked": "2026-10-27T14:01:33+00:00"
+      "content_checked": "2026-10-28T14:03:23+00:00"
     },
     "7216bb815e139c8bea737ebe026e6c0bda29dfde9ba30c1382d08df9e78a88cb": {
       "title": "Bijlage 3.3. 007 Doorspreken reactie 00 (Geanonimiseerd)",
@@ -115266,7 +115286,7 @@
       "kw_sig": "4f53cda18c2b|3269f03c6365b0d02bbcd858e51e9ba8cbce8eb4512995c2a3f76449bfedb730|Bijlage 3.3. 007 Doorspreken reactie 00 (Geanonimiseerd)|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.9 Beantwoording verzoek o.g.v. Wet open overheid (WOO) d.d. 12 augustus 2026 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "3269f03c6365b0d02bbcd858e51e9ba8cbce8eb4512995c2a3f76449bfedb730",
-      "content_checked": "2026-10-27T14:01:34+00:00"
+      "content_checked": "2026-10-28T14:03:24+00:00"
     },
     "bc3aad900eb536897917a544ac6ced0c113bffe67a802e6223bcc771c981bf91": {
       "title": "Bijlage 3.4. 008 Uitvoering bodemonderzoek (Geanonimiseerd)",
@@ -115296,7 +115316,7 @@
       "kw_sig": "4f53cda18c2b|e661738ac1739b7acec55adc5041f7cf671214c6e25c9d5a45a748b69505f0ff|Bijlage 3.4. 008 Uitvoering bodemonderzoek (Geanonimiseerd)|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.9 Beantwoording verzoek o.g.v. Wet open overheid (WOO) d.d. 12 augustus 2026 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "e661738ac1739b7acec55adc5041f7cf671214c6e25c9d5a45a748b69505f0ff",
-      "content_checked": "2026-10-27T14:01:36+00:00"
+      "content_checked": "2026-10-28T14:03:27+00:00"
     },
     "9057468474366af3373fb398ee13da7ad98320c4ab8ccd99d6821fd65d16de60": {
       "title": "Bijlage 3.5. 003 Mail 11 aug 2026 (Geanonimiseerd)",
@@ -115326,7 +115346,7 @@
       "kw_sig": "4f53cda18c2b|4ba51794193bfdc430cb9c9cfd30e465df39ae17279f6807c81a5ef90099823a|Bijlage 3.5. 003 Mail 11 aug 2026 (Geanonimiseerd)|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.9 Beantwoording verzoek o.g.v. Wet open overheid (WOO) d.d. 12 augustus 2026 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "4ba51794193bfdc430cb9c9cfd30e465df39ae17279f6807c81a5ef90099823a",
-      "content_checked": "2026-10-27T14:01:38+00:00"
+      "content_checked": "2026-10-28T14:03:28+00:00"
     },
     "07a1fc418e2e4abe5ac8e64bbb70a56ba2e316c21a974eb49fc3ae5e27ebb462": {
       "title": "Bijlage 3.6. 002 Mail 26 mei 2026 (Geanonimiseerd)",
@@ -115356,7 +115376,7 @@
       "kw_sig": "4f53cda18c2b|7e3ae0de5f7d068ebbd246d0ae010e28d72c375028c96295ed3c382639dd78d6|Bijlage 3.6. 002 Mail 26 mei 2026 (Geanonimiseerd)|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.9 Beantwoording verzoek o.g.v. Wet open overheid (WOO) d.d. 12 augustus 2026 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "7e3ae0de5f7d068ebbd246d0ae010e28d72c375028c96295ed3c382639dd78d6",
-      "content_checked": "2026-10-27T14:01:38+00:00"
+      "content_checked": "2026-10-28T14:03:29+00:00"
     },
     "370d64ebcc84b7598591ff64ec271fbd302ed4b51f2832f0e6d9a0b0d7fa76e1": {
       "title": "Bijlage 3.7. 009 Overleg reactie (Geanonimiseerd)",
@@ -115386,7 +115406,7 @@
       "kw_sig": "4f53cda18c2b|4007f186a5902bbfd8f414d577ff72fb3cbc750af0399a570d5c2baa38785543|Bijlage 3.7. 009 Overleg reactie (Geanonimiseerd)|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.9 Beantwoording verzoek o.g.v. Wet open overheid (WOO) d.d. 12 augustus 2026 (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "4007f186a5902bbfd8f414d577ff72fb3cbc750af0399a570d5c2baa38785543",
-      "content_checked": "2026-10-27T14:01:40+00:00"
+      "content_checked": "2026-10-28T14:03:32+00:00"
     },
     "f71c4adec902ce1e12cac64ea6d6fb5860dd337ce8ea52074b1944fada39e975": {
       "title": "Collegevoorstel Vaststelling canonpercentage erfpacht 3e kwartaal 2026",
@@ -115416,7 +115436,7 @@
       "kw_sig": "4f53cda18c2b|7f5ac2bf6a409a8a747f9aa584973d4b85b29b6b2a329801ec1a50c55511cf8f|Collegevoorstel Vaststelling canonpercentage erfpacht 3e kwartaal 2026|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.10 Vaststelling canonpercentage erfpacht 3e kwartaal 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "7f5ac2bf6a409a8a747f9aa584973d4b85b29b6b2a329801ec1a50c55511cf8f",
-      "content_checked": "2026-10-27T14:01:40+00:00"
+      "content_checked": "2026-10-28T14:03:33+00:00"
     },
     "5fbd74dd91c6abb20c5458101b9f338cf4ab6dce0f1b6b31b940056bb6732e9f": {
       "title": "Collegevoorstel Jaarverslag leer- en kwalificatieplicht 2025-2026",
@@ -115446,7 +115466,7 @@
       "kw_sig": "4f53cda18c2b|0524e2bebb01c4f1bf257ca62ec2304642dab8f067caf86ae5cd5e0d1b17ca4b|Collegevoorstel Jaarverslag leer- en kwalificatieplicht 2025-2026|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.11 Jaarverslag leer- en kwalificatieplicht 2025-2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "0524e2bebb01c4f1bf257ca62ec2304642dab8f067caf86ae5cd5e0d1b17ca4b",
-      "content_checked": "2026-10-27T14:01:41+00:00"
+      "content_checked": "2026-10-28T14:03:33+00:00"
     },
     "c4d9b53381381912420832b84483d79a23c10f67894d4b9556d79fdeda49b1af": {
       "title": "Raadsinformatiebrief Jaarverslag leer- en kwalificatieplicht 2025-2026",
@@ -115476,7 +115496,7 @@
       "kw_sig": "4f53cda18c2b|7b8c3777d1c1e60a87d97145451663fd33e0d6033f2af07ecb9d68762cc2e176|Raadsinformatiebrief Jaarverslag leer- en kwalificatieplicht 2025-2026|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.11 Jaarverslag leer- en kwalificatieplicht 2025-2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "7b8c3777d1c1e60a87d97145451663fd33e0d6033f2af07ecb9d68762cc2e176",
-      "content_checked": "2026-10-27T14:01:41+00:00"
+      "content_checked": "2026-10-28T14:03:34+00:00"
     },
     "c6f2665b45d219956e8503314dafe76d021af3ab3b00077b34ba272d3ad23554": {
       "title": "Bijlage 1. Jaarverslag leer- en kwalificatieplicht 2025-2026",
@@ -115506,7 +115526,7 @@
       "kw_sig": "4f53cda18c2b|f91bf2a8a07dba114fe59dc19f02d63e77f74f8a5d8c826f5cdce523690d2467|Bijlage 1. Jaarverslag leer- en kwalificatieplicht 2025-2026|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.11 Jaarverslag leer- en kwalificatieplicht 2025-2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "f91bf2a8a07dba114fe59dc19f02d63e77f74f8a5d8c826f5cdce523690d2467",
-      "content_checked": "2026-10-27T14:01:43+00:00"
+      "content_checked": "2026-10-28T14:03:36+00:00"
     },
     "e67eb4ba79c2ab2ca6ab30ae6a5d8707f6d5de8a8153b8fb1d36ce8e997fe570": {
       "title": "Collegevoorstel Programmabegroting 2027",
@@ -115536,7 +115556,7 @@
       "kw_sig": "4f53cda18c2b|53242607d625c5cec49de11e21a0747b98081aa9329f229ec108df2332bbcbab|Collegevoorstel Programmabegroting 2027|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.12 Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "53242607d625c5cec49de11e21a0747b98081aa9329f229ec108df2332bbcbab",
-      "content_checked": "2026-10-27T14:01:43+00:00"
+      "content_checked": "2026-10-28T14:03:37+00:00"
     },
     "e7c99f16c062ff5d391b898772e453c6adcdb40c482dda493668bce4661fce30": {
       "title": "GT Raadsvoorstel Programmabegroting 2027",
@@ -115566,7 +115586,7 @@
       "kw_sig": "4f53cda18c2b|e245c6687382e4cc542d433e87d4588ceb8afddffd52138a29250c2836db168c|GT Raadsvoorstel Programmabegroting 2027|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.12 Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "e245c6687382e4cc542d433e87d4588ceb8afddffd52138a29250c2836db168c",
-      "content_checked": "2026-10-27T14:01:44+00:00"
+      "content_checked": "2026-10-28T14:03:38+00:00"
     },
     "762a26b3e36748f39e0911840fcaa2a13b58e128b89d99fb0a7ba75699731c46": {
       "title": "Bijlage 1. Deel A Bestuurlijke hoofdlijn",
@@ -115596,7 +115616,7 @@
       "kw_sig": "4f53cda18c2b|a282a4509d6778d5a412a2238854e289f361eb7d51a6c1f96eb454a0fbbd35b8|Bijlage 1. Deel A Bestuurlijke hoofdlijn|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.12 Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "a282a4509d6778d5a412a2238854e289f361eb7d51a6c1f96eb454a0fbbd35b8",
-      "content_checked": "2026-10-27T14:01:46+00:00"
+      "content_checked": "2026-10-28T14:03:40+00:00"
     },
     "9681fed15a5e26f0831c35f4a42e33f966132df70a680548af27724536c2b51a": {
       "title": "Bijlage 2. Deel B Verplichte onderdelen",
@@ -115626,7 +115646,7 @@
       "kw_sig": "4f53cda18c2b|77439d23bd9c84cab55ac2e97536d65f620c2b88343c95d51d559447301e7172|Bijlage 2. Deel B Verplichte onderdelen|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.12 Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "77439d23bd9c84cab55ac2e97536d65f620c2b88343c95d51d559447301e7172",
-      "content_checked": "2026-10-27T14:01:53+00:00"
+      "content_checked": "2026-10-28T14:03:49+00:00"
     },
     "b23487e093c72ea88e067fe1afb7e6dd83093865a5919e42c6ca96749b1e350c": {
       "title": "Bijlage 3. Deel C Meerjaren Investeringsprogramma 2027-2041",
@@ -115656,7 +115676,7 @@
       "kw_sig": "4f53cda18c2b|08cb3d6fa4944145614bddd9e95f43afb7ec10341addab3a09276a4faa36a9ad|Bijlage 3. Deel C Meerjaren Investeringsprogramma 2027-2041|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.12 Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "08cb3d6fa4944145614bddd9e95f43afb7ec10341addab3a09276a4faa36a9ad",
-      "content_checked": "2026-10-27T14:01:55+00:00"
+      "content_checked": "2026-10-28T14:03:51+00:00"
     },
     "ccadd9aec30b738974f17ab1ee1862dcce5433b852895eb48de4e990a18c2d1c": {
       "title": "Bijlage 4. Persbericht Programmabegroting 2027",
@@ -115686,7 +115706,7 @@
       "kw_sig": "4f53cda18c2b|44f6211518f83bc472b25c2fdeed05e63096fdbd63087abf26c58c213c1af832|Bijlage 4. Persbericht Programmabegroting 2027|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.12 Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "44f6211518f83bc472b25c2fdeed05e63096fdbd63087abf26c58c213c1af832",
-      "content_checked": "2026-10-27T14:01:55+00:00"
+      "content_checked": "2026-10-28T14:03:52+00:00"
     },
     "6c5bb3b2599b02299090daf88c8d0b6911c4622d960cc29a0a1ff587bb35c6af": {
       "title": "Bijlage 5. Verslag informele bijeenkomst met de raad dd 3 september 2026",
@@ -115716,7 +115736,7 @@
       "kw_sig": "4f53cda18c2b|3be1c721ba5ef7ea95e118f955c83535414431e7e42e5a5fafe231444febf9f8|Bijlage 5. Verslag informele bijeenkomst met de raad dd 3 september 2026|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 2.12 Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "3be1c721ba5ef7ea95e118f955c83535414431e7e42e5a5fafe231444febf9f8",
-      "content_checked": "2026-10-27T14:01:56+00:00"
+      "content_checked": "2026-10-28T14:03:53+00:00"
     },
     "5012711910d7d27c04a96f6e247b0a7ff588dacdbe20f80cbd6e3251c77b259e": {
       "title": "GT Beantwoording raadsvragen van BAS over Toekomst lokale omroep",
@@ -115746,7 +115766,7 @@
       "kw_sig": "4f53cda18c2b|2f21333e4a31f818618b5133221de988da348e5ccb5f371d640ddbfcb0788cc6|GT Beantwoording raadsvragen van BAS over Toekomst lokale omroep|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 3.1 Beantwoording raadsvragen van BAS over Toekomst lokale omroep",
       "missing_count": 0,
       "text_hash": "2f21333e4a31f818618b5133221de988da348e5ccb5f371d640ddbfcb0788cc6",
-      "content_checked": "2026-10-27T14:01:56+00:00"
+      "content_checked": "2026-10-28T14:03:53+00:00"
     },
     "ca8f380667b28954b489c94b707cbad193b9d826a5a1ba81fd48c5400ee41869": {
       "title": "Art. 42 - BAS - Toekomst lokale omroep",
@@ -164344,14 +164364,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-28T13:30:50+00:00",
+        "checked": "2026-10-28T14:01:03+00:00",
         "ok": true,
         "count": 458,
         "new": 0,
         "note": "Laatste 30 dagen: 458 van 458 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-28T13:31:31+00:00",
+        "checked": "2026-10-28T14:01:49+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -164359,7 +164379,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 619 documenten bekend. Dekking: vergaderingen van 2026-08-29 t/m 2026-12-12 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-28T13:31:32+00:00",
+        "checked": "2026-10-28T14:01:51+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -164367,42 +164387,42 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-28T13:31:33+00:00",
+        "checked": "2026-10-28T14:01:52+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-10-28T13:31:33+00:00",
+        "checked": "2026-10-28T14:01:53+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-10-28T13:31:37+00:00",
+        "checked": "2026-10-28T14:01:57+00:00",
         "ok": true,
-        "count": 62,
-        "new": 0,
+        "count": 63,
+        "new": 1,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-28T13:32:16+00:00",
+        "checked": "2026-10-28T14:03:53+00:00",
         "ok": true,
-        "count": 23,
+        "count": 43,
         "errors": 0,
-        "note": "23 documenten gecontroleerd (22 pdf), 435 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "43 documenten gecontroleerd (42 pdf), 435 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-28T13:32:16+00:00",
+        "checked": "2026-10-28T14:03:53+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-28T13:32:16+00:00",
+        "checked": "2026-10-28T14:03:53+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -164418,7 +164438,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-10-28T13:30:50+00:00",
+        "checked": "2026-10-28T14:01:03+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -164426,7 +164446,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-10-28T13:30:50+00:00",
+        "checked": "2026-10-28T14:01:03+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -164434,7 +164454,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-10-28T13:30:50+00:00",
+        "checked": "2026-10-28T14:01:03+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -164442,7 +164462,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-10-28T13:30:50+00:00",
+        "checked": "2026-10-28T14:01:03+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -164450,7 +164470,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-10-28T13:30:50+00:00",
+        "checked": "2026-10-28T14:01:03+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -164701,7 +164721,7 @@
         "documents": 65
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-10-28T13:28:31+00:00",
+        "checked": "2026-10-28T14:01:03+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -164709,7 +164729,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-10-28T13:28:31+00:00",
+        "checked": "2026-10-28T14:01:03+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -164717,7 +164737,7 @@
         "documents": 69
       },
       "360c3bf1-368c-4263-ace7-2539daede35f": {
-        "checked": "2026-10-28T13:28:31+00:00",
+        "checked": "2026-10-28T14:01:03+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-15",
@@ -164725,7 +164745,7 @@
         "documents": 36
       },
       "1c8cbec7-871b-41cd-abe4-fc7b1f8e5a3e": {
-        "checked": "2026-10-28T13:28:31+00:00",
+        "checked": "2026-10-28T14:01:03+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-08",
@@ -164733,7 +164753,7 @@
         "documents": 37
       },
       "766b366e-bed9-497b-9f3a-f2108dc142c5": {
-        "checked": "2026-10-28T13:28:31+00:00",
+        "checked": "2026-10-28T14:01:03+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-01",
@@ -164989,7 +165009,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-10-28T13:28:34+00:00"
+      "alkmaar": "2026-10-28T14:01:06+00:00"
     },
     "reports": {
       "alkmaar": {
