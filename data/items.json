@@ -3,6 +3,196 @@
     "alkmaar"
   ],
   "items": {
+    "5140bff5b40a3ad20158dde74eacde7a2e8a8ed59a1f1d03d513a37d4d0d2e1b": {
+      "title": "Eurokaartje stopt op 1 januari 2027",
+      "url": "https://www.alkmaar.nl/nieuws/eurokaartje-stopt-op-1-januari-2027/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-29T14:31:14+00:00",
+      "updated": "2026-10-30T17:01:43+00:00",
+      "last_change": "2026-10-30T17:01:43+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-10-29",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-10-29",
+      "last_seen": "2026-10-30",
+      "published_at": "2026-10-29T16:26+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "Vanaf 1 januari 2027 kunt u in de bus niet meer met het eurokaartje reizen binnen de gemeente Alkmaar. Met dit kaartje kunt u nu nog in de daluren voor € 1 een enkele busrit maken of voor € 2 voor een enkele reis vanuit een dorp binnen de gemeente Alkmaar. Ook het papieren kaartje voor inwoners met een gratis AlkmaarPas stopt op 1 januari 2027. Mensen die nog papieren kaartjes hebben, kunnen deze ",
+      "missing_count": 0,
+      "text_hash": "2f39f08436385ef26c60df54e7223975d765dff26539c3be2375507640fd7a5c",
+      "content_checked": "2026-10-30T17:01:43+00:00",
+      "kw_sig": "4f53cda18c2b|2f39f08436385ef26c60df54e7223975d765dff26539c3be2375507640fd7a5c|Eurokaartje stopt op 1 januari 2027|Vanaf 1 januari 2027 kunt u in de bus niet meer met het eurokaartje reizen binnen de gemeente Alkmaar. Met dit kaartje kunt u nu nog in de daluren voor € 1 een enkele busrit maken of voor € 2 voor een enkele reis vanuit een dorp binnen de gemeente Alkmaar. Ook het papieren kaartje voor inwoners met een gratis AlkmaarPas stopt op 1 januari 2027. Mensen die nog papieren kaartjes hebben, kunnen deze ",
+      "changes": [
+        {
+          "at": "2026-10-29T21:01:20+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Spinaker krijgt nieuw schoolgebouw met gymzaal",
+            "29 oktober 2026"
+          ],
+          "removed": [
+            "Wat wordt uw nieuwe oudjaarstraditie?",
+            "20 oktober 2026"
+          ]
+        },
+        {
+          "at": "2026-10-30T17:01:43+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 1 verwijderd of vervangen",
+          "added": [
+            "Naar verwachting is eind maart 2027 meer bekend over dit nieuwe vervoersbewijs en wanneer het in Alkmaar beschikbaar is.",
+            "Alkmaar is de eerste gemeente in de provincie die hieraan gaat deelnemen."
+          ],
+          "removed": [
+            "Naar verwachting is eind maart 2027 meer bekend over dit nieuwe vervoersbewijs en wanneer het beschikbaar is."
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "568f64ce7f8429c4851f0996187d9c6e860132b46f9865e328af2840813b1e1a": {
+      "title": "Man rent op koning af tijdens bezoek aan Ursem: 'Niks aan de hand'",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzBRQkdUQTh4SjRKTHowVHIwcDVsTVRubUpMSmZrT3R6VDNHMEF5OGR4RTBCU3Nad3hBdlNDSE9jVGlrZjlqSWRLRGtmSzA1MGhacG15ZUQ0MDFuN3F0UnExOGR6TWhJTF80bV8xY1FERDhrRmgzY1RlUjRQN2QtcDF3THZCbV9obUEtbG84U0J5Qy1XbWVzVGI5ejBPTVlmUVdFaG1kb2lkdw?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-30T17:01:22+00:00",
+      "updated": "2026-10-30T17:01:22+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "NU",
+      "media_match": "kop",
+      "last_seen": "2026-10-30",
+      "doc_date": "2026-10-30",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-30T17:20+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Man rent op koning af tijdens bezoek aan Ursem: 'Niks aan de hand'|"
+    },
+    "a863dd58475152e0ef099f3402a5869c62cb94715d127894c62108d7f7e3185c": {
+      "title": "Verwarde man probeert koning Willem-Alexander aan te vallen in Ursem: ’Ze proberen mij kapot te maken’",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZktYZnN0ZjdEcHJMWC1neWp0V0tVMG5GVDgxQW9mb2FoUENkYzFRa0Ffb0lPMFRVLVBvdG1uRnVhajhOS1BfOEhmeGtoLTJONGVoQUZ5ZUpoMG5zRTNOdW5nNkRyWGdNYlQ1YmF1N29JX2oxRHJXTE10eU81SGJoNlFMM2ktVmFPMWhCdlJuTTFsZWluSHlqSzhBZkFfQTl4dXZxT3hNVE9WWFNmd0lWRkZ6eTgyTWc1Y0tpU19xa2lKZ1BUd3JNSGNFckJpZUFwOHZBQWktdjVCWXEwQmtHUUZPRC0?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-30T17:01:22+00:00",
+      "updated": "2026-10-30T17:01:22+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "De Telegraaf",
+      "media_match": "kop",
+      "last_seen": "2026-10-30",
+      "doc_date": "2026-10-30",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-30T17:03+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Verwarde man probeert koning Willem-Alexander aan te vallen in Ursem: ’Ze proberen mij kapot te maken’|"
+    },
+    "feb3042510376b0938131f270c6a2a234531c485ef1e2c688be19135e874a23a": {
+      "title": "Incident in Ursem: man rent op koning af, agenten nemen hem mee",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3RSazlqdThJeHBRZzZfdy1OMHlvM2hMWTdhRGk5VHFPV09NckIzVnRWZ2VjLVVzOG5FNlgzaUY2eU5uZ0RyMWlvQmh3ZjZ4ams1SUo2XzhxRkYwU2ViVG40NHY0Zmc1ZEE0V3NWZndnbTlXUmJ0YlZObjRvTHFKX2w4T0VnYUZHUGFaRWtuWUNWUXZUNFVMUzRmVWlBTnhYVjM1SmMxSE9WWF9Gak9V?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-30T17:01:22+00:00",
+      "updated": "2026-10-30T17:01:22+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Rodi.nl",
+      "media_match": "kop",
+      "last_seen": "2026-10-30",
+      "doc_date": "2026-10-30",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-30T17:39+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Incident in Ursem: man rent op koning af, agenten nemen hem mee|"
+    },
+    "6df74e5aac889c383ca8bb7a0413548d530e33909d3d92089fb538c407315888": {
+      "title": "Koning Willem-Alexander bezoekt Ursem: kracht van het kleine dorp",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFBkR1ZNY2lVRmVzM3pkMEFvUEFzTjdSODc3aVRtcVV4NlVwa2dfRVdPU0FtRG1XblItWlZ6TDZSSWV1bmJQQ2xFRG9KX29Uc1V2dVJHdXNyYVRyTnFNRDk2M2pYYnFTUkdHTkxqd0I0bU9OV3BBN0xCTUtjWjNpTmdDRUFISUpsdEhOdDVWamViYU4wVzBv?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-30T17:01:22+00:00",
+      "updated": "2026-10-30T17:01:22+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Head Topics",
+      "media_match": "kop",
+      "last_seen": "2026-10-30",
+      "doc_date": "2026-10-30",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-30T17:16+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Koning Willem-Alexander bezoekt Ursem: kracht van het kleine dorp|"
+    },
+    "a57cdf65f4051389e6e924c883da34ea072e2806cad6800df86f54c027e60103": {
+      "title": "Verwarde man wil tijdens bezoek aan Ursem koning Willem-Alexander spreken. Beveiliging verhindert dat, politie voert man af",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTndWaDQwYk8wTVNKOXQyUXhnNm1icXM4ZXFZR3Z0dEhEUkwtc3RsWWZxRE1hZGtWRkpLVXpjRmlkODRKeHRtSXA5UXN1amZhaWZYVEhrVVdHOFJrV1dfdU1kMzNXaXZpaUJZVmZtT0paNzhlX0NSeDEtdThsN2wzVjRkYmt4ZXdoR011ODJKSFdFcGNQU21md0wtc2FqQ244cEhrN09PLThNa0d1QkEyamdJdV9uQ0Y0aURIQnBXckdxdC1JT0lZWFJOMkVVVmp0eGItd2dyeHBDbERLdmE3SlEzaXpwX1hrM19rcGdQcjRJeUphRS1ILUhWaGV0NW94T2NB?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-30T17:01:22+00:00",
+      "updated": "2026-10-30T17:01:22+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Noordhollands Dagblad",
+      "media_match": "kop",
+      "last_seen": "2026-10-30",
+      "doc_date": "2026-10-30",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-30T16:40+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Verwarde man wil tijdens bezoek aan Ursem koning Willem-Alexander spreken. Beveiliging verhindert dat, politie voert man af|"
+    },
+    "f1cfe188eded72745d1f177748c4745da3f8a0bcfafd7422110a1e68dcac78d2": {
+      "title": "Bevolkingsdichtheid Alkmaar sinds 2009 continu aan het stijgen",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcVJtWlZJd09XMXFjZ3Fqc1JkbUYxVkNmX0R5ZnZrWVByS1dhY2tUNEgwdmR4MlBLaVFkU1ZwRW5OX1dsbEJjOUR3U1J1TUg0aFptVlpWU0ZzUHhfWWRjaHBvZVRDSHhyaHQtOVE1M1BScW1HVlRIYTRyZHNMcGxONFA4X05weGk4OUM0Vll1bVZyZXlta0txeS1CWlN4azg?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-30T17:01:19+00:00",
+      "updated": "2026-10-30T17:01:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "AD.nl",
+      "media_match": "kop",
+      "last_seen": "2026-10-30",
+      "doc_date": "2026-10-30",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-30T17:37+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Bevolkingsdichtheid Alkmaar sinds 2009 continu aan het stijgen|"
+    },
+    "acf9dfc38a4e780ca8fa58ab9bafc251a94116f7b6110686fa6cd51d36a4a7ef": {
+      "title": "Ruim 2.500 bezoekers op Vitaliteitsmarkt XXL in Grote Kerk Alkmaar",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3dNOEJmMzVKTk1zdmI1SVNHRnJTVGZPZXZaanhtZi1keFo4N19FbENCeDh0aXZyY3VlS29PZk5ydFBfM1I1eUtidFNnNjQ4WS10bHNLeGp4bUZEX2FLMTVJd05mMXVxRktFeXFyYUQwX19OQTJvdVBrYVNhT09TRnJ4bGxfZEtnNU1qMFI5VEMtZXNyZ1NEcG9jOFlnaXY3QVNRQ2I2OUJpNEV5UGJN?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-10-30T17:01:19+00:00",
+      "updated": "2026-10-30T17:01:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Nieuws.nl",
+      "media_match": "kop",
+      "last_seen": "2026-10-30",
+      "doc_date": "2026-10-30",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-10-30T17:34+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Ruim 2.500 bezoekers op Vitaliteitsmarkt XXL in Grote Kerk Alkmaar|"
+    },
     "810916433337c87e3fcc60141eb859bea073ae8cbfaca792fbc7922a6a57dc38": {
       "title": "Koning schrikt van man die op hem af komt rennen in Ursem",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0p5Y2RYZG5EQVBHeWNKQ3dYVGpRRDU5cWpDcDVEbFE5UDVqbHlBdERpZ1h0MDRtd0ZIeWg0eTJsQ01oWTktYzBocVRRSEVjLVY2UktlWldfRmJzSmR2Wm9MN19INDlRNTVLejJqWFJ0UnFFcUU3MVluOFBUV1J0cTlGRVY0WU5jbXloQmdOOFJXcDZ0VVd2Q0NwWWtfb3hBSzlsY3ZPN1E3VUN2bUZObmtiMTE3ekRvRVI3dw?oc=5",
@@ -59,7 +249,7 @@
       "last_seen": "2026-10-30",
       "doc_date": "2026-10-30",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-30T17:26+01:00",
+      "published_at": "2026-10-30T17:33+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Verwarde man probeert koning Willem-Alexander aan te spreken in Ursem: ’Ze proberen mij kapot te maken’|"
     },
@@ -3653,7 +3843,7 @@
       "excerpt": "De Spinaker locatie SO Regio krijgt een nieuw schoolgebouw met gymzaal aan de Stalpaertstraat 3 in Alkmaar. Het college heeft...",
       "missing_count": 0,
       "text_hash": "b5251d6f717b79e74b89f1cfd40f8a9e745f9fdd689297a8141adc14c0ae754e",
-      "content_checked": "2026-10-30T10:01:27+00:00",
+      "content_checked": "2026-10-30T17:01:44+00:00",
       "kw_sig": "4f53cda18c2b|b5251d6f717b79e74b89f1cfd40f8a9e745f9fdd689297a8141adc14c0ae754e|Spinaker krijgt nieuw schoolgebouw met gymzaal|De Spinaker locatie SO Regio krijgt een nieuw schoolgebouw met gymzaal aan de Stalpaertstraat 3 in Alkmaar. Het college heeft...",
       "changes": [
         {
@@ -3774,44 +3964,6 @@
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Vaar tussen de wintergasten tijdens excursie door de Eilandspolder|"
     },
-    "5140bff5b40a3ad20158dde74eacde7a2e8a8ed59a1f1d03d513a37d4d0d2e1b": {
-      "title": "Eurokaartje stopt op 1 januari 2027",
-      "url": "https://www.alkmaar.nl/nieuws/eurokaartje-stopt-op-1-januari-2027/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-10-29T14:31:14+00:00",
-      "updated": "2026-10-29T21:01:20+00:00",
-      "last_change": "2026-10-29T21:01:20+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-10-29",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-10-29",
-      "last_seen": "2026-10-30",
-      "published_at": "2026-10-29T16:26+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "Vanaf 1 januari 2027 kunt u in de bus niet meer met het eurokaartje reizen binnen de gemeente Alkmaar. Met dit kaartje kunt u nu nog in de daluren voor € 1 een enkele busrit maken of voor € 2 voor een enkele reis vanuit een dorp binnen de gemeente Alkmaar. Ook het papieren kaartje voor inwoners met een gratis AlkmaarPas stopt op 1 januari 2027. Mensen die nog papieren kaartjes hebben, kunnen deze ",
-      "missing_count": 0,
-      "text_hash": "14766eef524dc0e726fe0e94c676ffc28cd70273d949be7804410bad1737e687",
-      "content_checked": "2026-10-30T09:31:35+00:00",
-      "kw_sig": "4f53cda18c2b|14766eef524dc0e726fe0e94c676ffc28cd70273d949be7804410bad1737e687|Eurokaartje stopt op 1 januari 2027|Vanaf 1 januari 2027 kunt u in de bus niet meer met het eurokaartje reizen binnen de gemeente Alkmaar. Met dit kaartje kunt u nu nog in de daluren voor € 1 een enkele busrit maken of voor € 2 voor een enkele reis vanuit een dorp binnen de gemeente Alkmaar. Ook het papieren kaartje voor inwoners met een gratis AlkmaarPas stopt op 1 januari 2027. Mensen die nog papieren kaartjes hebben, kunnen deze ",
-      "changes": [
-        {
-          "at": "2026-10-29T21:01:20+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Spinaker krijgt nieuw schoolgebouw met gymzaal",
-            "29 oktober 2026"
-          ],
-          "removed": [
-            "Wat wordt uw nieuwe oudjaarstraditie?",
-            "20 oktober 2026"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
     "3171f35deeae400147241613f12d1cadf4316a4b1922cf76c435b9712acf03d9": {
       "title": "Bergerhoutrotonde vanaf 2 november afgesloten",
       "url": "https://www.alkmaar.nl/nieuws/bergerhoutro/",
@@ -3831,7 +3983,7 @@
       "excerpt": "Op maandag 2 november start het opnieuw inrichten van de Bergerhoutrotonde en Scharlo. Met de herinrichting wil de gemeente Alkmaar de verkeersveiligheid verbeteren, de omgeving groener maken en de kwaliteit van loop- en fietsroutes vergroten. Naar verwachting zijn de werkzaamheden medio 2027 afgerond.",
       "missing_count": 0,
       "text_hash": "dac10caf9794a8e44eb694ae5af775f43d52e2b9fed6d6d4087cb6cb32229953",
-      "content_checked": "2026-10-30T09:31:24+00:00",
+      "content_checked": "2026-10-30T17:01:37+00:00",
       "kw_sig": "4f53cda18c2b|dac10caf9794a8e44eb694ae5af775f43d52e2b9fed6d6d4087cb6cb32229953|Bergerhoutrotonde vanaf 2 november afgesloten|Op maandag 2 november start het opnieuw inrichten van de Bergerhoutrotonde en Scharlo. Met de herinrichting wil de gemeente Alkmaar de verkeersveiligheid verbeteren, de omgeving groener maken en de kwaliteit van loop- en fietsroutes vergroten. Naar verwachting zijn de werkzaamheden medio 2027 afgerond.",
       "changes": [
         {
@@ -3884,7 +4036,7 @@
       "excerpt": "Het Rijk heeft een voorkeursroute gekozen voor een nieuwe hoogspanningsverbinding in Noord-Holland Noord. Deze route loopt ook langs Oterleek, Stompetoren,...",
       "missing_count": 0,
       "text_hash": "a988ca4dce862c8e94a06b29a5b227ff8b938891da1e6960e2c56009c776e042",
-      "content_checked": "2026-10-30T09:31:23+00:00",
+      "content_checked": "2026-10-30T17:01:35+00:00",
       "kw_sig": "4f53cda18c2b|a988ca4dce862c8e94a06b29a5b227ff8b938891da1e6960e2c56009c776e042|Reageer op plannen voor nieuwe hoogspanningsverbinding|Het Rijk heeft een voorkeursroute gekozen voor een nieuwe hoogspanningsverbinding in Noord-Holland Noord. Deze route loopt ook langs Oterleek, Stompetoren,...",
       "changes": [
         {
@@ -3924,7 +4076,7 @@
       "excerpt": "Goed nieuws voor Alkmaar: subsidie van het Rijk brengt ruim 10.000 nieuwe woningen en bereikbaarheid voor projecten Alkmaars Kanaal dichterbij.",
       "missing_count": 0,
       "text_hash": "d15ac06ded1f556559f74dbaf79b216adecd765de931f2fb40e7887e557bd8a9",
-      "content_checked": "2026-10-30T09:31:21+00:00",
+      "content_checked": "2026-10-30T17:01:34+00:00",
       "kw_sig": "4f53cda18c2b|d15ac06ded1f556559f74dbaf79b216adecd765de931f2fb40e7887e557bd8a9|Rijk investeert 100 miljoen in bereikbaarheid van nieuwe woningen|Goed nieuws voor Alkmaar: subsidie van het Rijk brengt ruim 10.000 nieuwe woningen en bereikbaarheid voor projecten Alkmaars Kanaal dichterbij.",
       "changes": [
         {
@@ -3990,7 +4142,7 @@
       "excerpt": "Van grote festivals tot kleine evenementen in de wijk of het dorp. In Alkmaar is van alles te beleven! Maar...",
       "missing_count": 0,
       "text_hash": "85281e0ed094eb3ffb18799326fce675a522fc68a0e56dfd37f65c40358000a2",
-      "content_checked": "2026-10-30T09:31:20+00:00",
+      "content_checked": "2026-10-30T17:01:33+00:00",
       "kw_sig": "4f53cda18c2b|85281e0ed094eb3ffb18799326fce675a522fc68a0e56dfd37f65c40358000a2|Wat vindt u van evenementen in Alkmaar?|Van grote festivals tot kleine evenementen in de wijk of het dorp. In Alkmaar is van alles te beleven! Maar...",
       "changes": [
         {
@@ -4056,7 +4208,7 @@
       "excerpt": "In Alkmaar vieren we dit jaar voor de derde keer de jaarwisseling zonder consumentenvuurwerk. Een mooie aanleiding om samen met...",
       "missing_count": 0,
       "text_hash": "e7660df944bb719131948e66c10c00229d0ae4d12336771eee45f2390647aa78",
-      "content_checked": "2026-10-30T09:31:18+00:00",
+      "content_checked": "2026-10-30T17:01:30+00:00",
       "kw_sig": "4f53cda18c2b|e7660df944bb719131948e66c10c00229d0ae4d12336771eee45f2390647aa78|Wat wordt uw nieuwe oudjaarstraditie?|In Alkmaar vieren we dit jaar voor de derde keer de jaarwisseling zonder consumentenvuurwerk. Een mooie aanleiding om samen met...",
       "changes": [
         {
@@ -4613,7 +4765,7 @@
       "excerpt": "Wat heeft u als woning- of gebouweigenaar nodig om over te stappen naar duurzaam verwarmen? Welke vragen heeft u hierbij? En hoe kan de gemeente u helpen bij deze overstap? Tijdens de inloopavonden op 18 en 26 november vertellen we u meer over het warmteprogramma en kunt u uw mening geven.",
       "missing_count": 0,
       "text_hash": "0a56d05fd4dc0c38d81daf688b092c41b0d8706e5a71519e61d9d7cf3833c303",
-      "content_checked": "2026-10-30T09:31:33+00:00",
+      "content_checked": "2026-10-30T17:01:42+00:00",
       "kw_sig": "4f53cda18c2b|0a56d05fd4dc0c38d81daf688b092c41b0d8706e5a71519e61d9d7cf3833c303|Alkmaar Aardgasvrij 2050: wat vindt u belangrijk?|Wat heeft u als woning- of gebouweigenaar nodig om over te stappen naar duurzaam verwarmen? Welke vragen heeft u hierbij? En hoe kan de gemeente u helpen bij deze overstap? Tijdens de inloopavonden op 18 en 26 november vertellen we u meer over het warmteprogramma en kunt u uw mening geven.",
       "changes": [
         {
@@ -5876,7 +6028,7 @@
       "excerpt": "Na een kop koffie en wat lekkers staken wethouder Robert te Beest, leerlingen, bewoners en organisaties de handen uit de...",
       "missing_count": 0,
       "text_hash": "57b2e3951b089e157c6ad567645b2553701a7acb7495ef3dd12b6ec79f8ba36d",
-      "content_checked": "2026-10-30T09:31:16+00:00",
+      "content_checked": "2026-10-30T17:01:29+00:00",
       "kw_sig": "4f53cda18c2b|57b2e3951b089e157c6ad567645b2553701a7acb7495ef3dd12b6ec79f8ba36d|Leerlingen en bewoners maken Sluiswaard groener|Na een kop koffie en wat lekkers staken wethouder Robert te Beest, leerlingen, bewoners en organisaties de handen uit de...",
       "changes": [
         {
@@ -12154,7 +12306,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 1 Besluitenlijst collegevergadering van 20 oktober 2026",
       "missing_count": 0,
       "text_hash": "95a5ccd9e8795d674c9235b88fcbc59964916c59993dfec810e176e5491d48d2",
-      "content_checked": "2026-10-30T09:31:25+00:00",
+      "content_checked": "2026-10-30T17:01:38+00:00",
       "kw_sig": "4f53cda18c2b|95a5ccd9e8795d674c9235b88fcbc59964916c59993dfec810e176e5491d48d2|Besluitenlijst Collegevergadering van 20 oktober 2026|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 1 Besluitenlijst collegevergadering van 20 oktober 2026"
     },
     "c4eae988bf190089560f45c82d3cb6e1b17cd235467ed94c31bb18a6c369d633": {
@@ -12184,7 +12336,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.1 Woonplaatsgrenswijziging Graft en Oost- en West-Graftdijk (Anja Schouten)",
       "missing_count": 0,
       "text_hash": "882ccf205b38043dbab12e91dd4567bd8da7640bd37af02c22fc44d58049da6e",
-      "content_checked": "2026-10-30T09:31:30+00:00",
+      "content_checked": "2026-10-30T17:01:39+00:00",
       "kw_sig": "4f53cda18c2b|882ccf205b38043dbab12e91dd4567bd8da7640bd37af02c22fc44d58049da6e|Collegevoorstel Graft en Oost- en West-Graftdijk met bijlage|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.1 Woonplaatsgrenswijziging Graft en Oost- en West-Graftdijk (Anja Schouten)"
     },
     "da148333e5b060444e7ca6697015216ec9d12c037f5e04a73c3cbdf9b5ff2ff0": {
@@ -12214,7 +12366,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.2 Concept Ontwikkelperspectief Noord-Holland Noord (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "f4bc228be15193a441808ee4cd87f473b345e4949b30108de794a4193fc4e1e1",
-      "content_checked": "2026-10-30T09:31:31+00:00",
+      "content_checked": "2026-10-30T17:01:39+00:00",
       "kw_sig": "4f53cda18c2b|f4bc228be15193a441808ee4cd87f473b345e4949b30108de794a4193fc4e1e1|Collegevoorstel concept Ontwikkelperspectief NHN|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.2 Concept Ontwikkelperspectief Noord-Holland Noord (Gijsbert van Iterson Scholten)"
     },
     "7416c776bbc0be9f07aa5272b2f7b0323e901656c3420c94baa3114760637bf4": {
@@ -12244,7 +12396,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.2 Concept Ontwikkelperspectief Noord-Holland Noord (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "5678a765b7ff2767274b4cea32f0dfc5ba85c1d1f82d38d05f2439ffd697e55a",
-      "content_checked": "2026-10-30T09:31:32+00:00",
+      "content_checked": "2026-10-30T17:01:40+00:00",
       "kw_sig": "4f53cda18c2b|5678a765b7ff2767274b4cea32f0dfc5ba85c1d1f82d38d05f2439ffd697e55a|GT Raadsvoorstel Concept Ontwikkelperspectief NHN|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.2 Concept Ontwikkelperspectief Noord-Holland Noord (Gijsbert van Iterson Scholten)"
     },
     "08165f101db58e8c9a18c68231438945da421b99b919b9150eeb742b367c818c": {
@@ -14255,7 +14407,7 @@
       "kw_sig": "4f53cda18c2b|5590adc0ac7d8ef51ee6afc3ba8568587d292a379caa9fe4b42f0ed82500a1a3|Brief Provinciale Staten Regionale samenwerking mobiliteit - 688964|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 5.4 Brief Provinciale Staten Regionale samenwerking Mobiliteit",
       "missing_count": 0,
       "text_hash": "5590adc0ac7d8ef51ee6afc3ba8568587d292a379caa9fe4b42f0ed82500a1a3",
-      "content_checked": "2026-10-30T09:31:15+00:00"
+      "content_checked": "2026-10-30T17:01:28+00:00"
     },
     "b0befb064be1791578c20a010a63f7e62bce7088a4c6c036dfa05f7714f4b55d": {
       "title": "🔴 Explosie bij bedrijfspand in Badhoevedorp • Overval bij tweedehands winkel in Alkmaar",
@@ -117605,7 +117757,7 @@
       "kw_sig": "4f53cda18c2b|fa4f35a1fe89bdf62ba8b099cbbb05e758a9e9291350140732fc0c300cce3a56|Raadsinformatiebrief Veiligheidsrisicogebied 29 augustus (vervolg)|B&W Openbare besluiten college dinsdag 1 september 2026 · agendapunt 4.3 Raadsinformatiebrief Veiligheidsrisicogebied kermis 29 augustus (vervolg)",
       "missing_count": 0,
       "text_hash": "fa4f35a1fe89bdf62ba8b099cbbb05e758a9e9291350140732fc0c300cce3a56",
-      "content_checked": "2026-10-29T16:31:09+00:00"
+      "content_checked": "2026-10-30T17:01:24+00:00"
     },
     "1359ef401b32c2b5c5691e05ca5befd5061bc6c39b05a1924cdd45be483cea69": {
       "title": "Raadsinformatiebrief Veiligheidsrisicogebied kermis 30 augustus (vervolg)",
@@ -117635,7 +117787,7 @@
       "kw_sig": "4f53cda18c2b|bb948cdda07574e56bfa3a5a236efbcefd9ad3735e87854af299921eafc79b19|Raadsinformatiebrief Veiligheidsrisicogebied kermis 30 augustus (vervolg)|B&W Openbare besluiten college dinsdag 1 september 2026 · agendapunt 4.4 Raadsinformatiebrief Veiligheidsrisicogebied kermis 30 augustus (vervolg)",
       "missing_count": 0,
       "text_hash": "bb948cdda07574e56bfa3a5a236efbcefd9ad3735e87854af299921eafc79b19",
-      "content_checked": "2026-10-29T16:31:09+00:00"
+      "content_checked": "2026-10-30T17:01:25+00:00"
     },
     "4b9bba524ee33278532d3e5f2f3ffc6f3e5767d750794fe3185d84f8a8c72a99": {
       "title": "GS besluitenlijst 25 augustus 2026",
@@ -117665,7 +117817,7 @@
       "kw_sig": "4f53cda18c2b|180f1751624af9c1bdd9ffbb03eefe4de6692604faf7182ffc4161c4fa995a67|GS besluitenlijst 25 augustus 2026|B&W Openbare besluiten college dinsdag 1 september 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland",
       "missing_count": 0,
       "text_hash": "180f1751624af9c1bdd9ffbb03eefe4de6692604faf7182ffc4161c4fa995a67",
-      "content_checked": "2026-10-29T16:31:10+00:00"
+      "content_checked": "2026-10-30T17:01:26+00:00"
     },
     "a17d37ddaec6f39a97ca822699912316391b696b9b7123778bf5b1091ce1c7e3": {
       "title": "B&W Openbare besluiten college dinsdag 8 september 2026",
@@ -143025,7 +143177,7 @@
       "kw_sig": "4f53cda18c2b|185edff25bcc00c3fd1f6f07121c829c9a4f1197866ecf273ba1c10f48e70424|Agenda Collegevergadering van 1 september 2026|B&W Agenda dinsdag 1 september 2026 · agendapunt Agenda Collegevergadering van 1 september 2026",
       "missing_count": 0,
       "text_hash": "185edff25bcc00c3fd1f6f07121c829c9a4f1197866ecf273ba1c10f48e70424",
-      "content_checked": "2026-10-29T16:31:11+00:00"
+      "content_checked": "2026-10-30T17:01:26+00:00"
     },
     "8a733b11ff82d4966bac0c2c147cfe3f6c6bb601e0a70c9c690e5c75cdc1df47": {
       "title": "B&W Agenda dinsdag 8 september 2026",
@@ -143306,7 +143458,7 @@
       "excerpt": "B&W Agenda dinsdag 20 oktober 2026 · agendapunt Agenda collegevergadering van 20 oktober 2026",
       "missing_count": 0,
       "text_hash": "fac8055ff0a22f496d5941f226f44347746e8876315cafb0fbf20baca8220825",
-      "content_checked": "2026-10-30T09:31:18+00:00",
+      "content_checked": "2026-10-30T17:01:31+00:00",
       "kw_sig": "4f53cda18c2b|fac8055ff0a22f496d5941f226f44347746e8876315cafb0fbf20baca8220825|Agenda Collegevergadering 20 oktober 2026|B&W Agenda dinsdag 20 oktober 2026 · agendapunt Agenda collegevergadering van 20 oktober 2026"
     },
     "5cbd7ca2d846a49d343eb0d79467699199a472335c9d230842f95ae3bc079e88": {
@@ -169946,14 +170098,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-10-30T16:30:47+00:00",
+        "checked": "2026-10-30T17:00:59+00:00",
         "ok": true,
         "count": 445,
         "new": 0,
         "note": "Laatste 30 dagen: 445 van 445 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-10-30T16:31:01+00:00",
+        "checked": "2026-10-30T17:01:15+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -169961,7 +170113,7 @@
         "note": "10 van 17 vergaderingen in venster bijgewerkt; 686 documenten bekend. Dekking: vergaderingen van 2026-08-31 t/m 2026-12-14 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-10-30T16:31:02+00:00",
+        "checked": "2026-10-30T17:01:16+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -169969,42 +170121,42 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-10-30T16:31:03+00:00",
+        "checked": "2026-10-30T17:01:18+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-10-30T16:31:04+00:00",
+        "checked": "2026-10-30T17:01:19+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-10-30T16:31:08+00:00",
+        "checked": "2026-10-30T17:01:23+00:00",
         "ok": true,
-        "count": 68,
-        "new": 9,
+        "count": 72,
+        "new": 7,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-10-30T16:31:57+00:00",
+        "checked": "2026-10-30T17:01:44+00:00",
         "ok": true,
-        "count": 50,
+        "count": 19,
         "errors": 0,
-        "note": "50 documenten gecontroleerd (47 pdf), 504 gevolgd (alle gemeenten), 15 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 1 pdf zonder tekst deze run."
+        "note": "19 documenten gecontroleerd (10 pdf), 504 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-10-30T16:31:57+00:00",
+        "checked": "2026-10-30T17:01:44+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-10-30T16:31:57+00:00",
+        "checked": "2026-10-30T17:01:44+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -170020,7 +170172,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-10-30T16:30:47+00:00",
+        "checked": "2026-10-30T17:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -170028,7 +170180,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-10-30T16:30:47+00:00",
+        "checked": "2026-10-30T17:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -170036,7 +170188,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-10-30T16:30:47+00:00",
+        "checked": "2026-10-30T17:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -170060,7 +170212,7 @@
         "documents": 1
       },
       "de6bfeba-89a2-438c-9c25-e8e2f301ea66": {
-        "checked": "2026-10-30T16:00:56+00:00",
+        "checked": "2026-10-30T17:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-08",
@@ -170068,7 +170220,7 @@
         "documents": 1
       },
       "26ae9829-4f1b-45de-bdb1-efbd12507ad1": {
-        "checked": "2026-10-30T16:00:56+00:00",
+        "checked": "2026-10-30T17:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-01",
@@ -170287,7 +170439,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-10-30T16:00:56+00:00",
+        "checked": "2026-10-30T17:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -170295,7 +170447,7 @@
         "documents": 18
       },
       "dcc6411b-600b-4103-9480-0c96305035a4": {
-        "checked": "2026-10-30T16:00:56+00:00",
+        "checked": "2026-10-30T17:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-06",
@@ -170582,7 +170734,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-10-30T16:00:56+00:00",
+        "checked": "2026-10-30T17:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -170590,7 +170742,7 @@
         "documents": 71
       },
       "76d0f4f5-e1b7-4995-b9f2-74d91963993a": {
-        "checked": "2026-10-30T16:00:56+00:00",
+        "checked": "2026-10-30T17:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-27",
@@ -170598,7 +170750,7 @@
         "documents": 1
       },
       "f339467e-beb6-47d2-9d1f-e8fd285b0283": {
-        "checked": "2026-10-30T16:00:56+00:00",
+        "checked": "2026-10-30T17:00:59+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-27",
@@ -170607,7 +170759,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-10-30T16:30:49+00:00"
+      "alkmaar": "2026-10-30T17:01:01+00:00"
     },
     "reports": {
       "alkmaar": {
