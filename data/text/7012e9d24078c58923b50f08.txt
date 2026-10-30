@@ -1,0 +1,51 @@
+Datum: 08-10-2026
+Vragen conform artikel 42 RvO
+Bedrijfscontinuïteit en digitale weerbaarheid gemeente Alkmaar
+Geacht college,
+Aanleiding
+De gemeente is voor haar dienstverlening sterk afhankelijk van digitale systemen.
+Uitval kan
+gevolgen hebben voor onder meer de bereikbaarheid van de gemeente, toegang tot dossiers,
+betalingen, zorgverlening en het tijdig nemen van besluiten.
+Digitale continuïteit is daarmee niet
+alleen een technisch vraagstuk, maar ook een bestuurlijke verantwoordelijkheid.
+Sinds 15 augustus 2026 zijn de Cyberbeveiligingswet en de Wet weerbaarheid kritieke entiteiten van
+kracht.
+Voor gemeenten gelden hierdoor verplichtingen op het gebied van risicobeheersing, digitale
+weerbaarheid en continuïteit.
+De Baseline Informatiebeveiliging Overheid 2 (BIO2) vormt daarbij het
+verplichte normenkader.
+Er geldt geen overgangstermijn.
+Naar aanleiding van eerdere technische vragen willen wij duidelijkheid over de wijze waarop
+gemeente Alkmaar aan deze verplichtingen voldoet.
+Graag stellen we de volgende vragen:
+1.
+Hoe beoordeelt het college de huidige inrichting van bedrijfscontinuïteit in het licht van de
+Cyberbeveiligingswet en de BIO2?
+Is hiervoor een analyse uitgevoerd van wat al op orde is
+en wat nog ontbreekt?
+Indien ja, gaat het college deze delen met de raad?
+2.
+Welke risico’s accepteert de gemeente zolang bedrijfscontinuïteitsmanagement,
+terugvalmogelijkheden en noodinformatie nog niet structureel zijn ingericht?
+Wie heeft deze
+risico’s formeel beoordeeld en geaccepteerd?
+3.
+Welke tijdelijke maatregelen worden genomen om de belangrijkste risico’s te beperken
+totdat de structurele inrichting gereed is?
+4.
+Onze gemeente heeft in 2023 een incident meegemaakt (phishing/fraude waardoor onze
+gemeente een fictief inkoopfactuur binnenkreeg en deze heeft betaald).
+Moeten er met de
+opkomst van BIO2 extra maatregelen genomen worden om te voldoen aan BIO2?
+Of zijn de
+genomen maatregelen na het incident nog steeds voldoende?
+Kunt u deze toelichten?
+5.
+Wanneer ontvangt de gemeenteraad in 2027 een concreet plan met benodigde capaciteit,
+budget, verantwoordelijkheden, uitvoeringsdata en momenten waarop de
+continuïteitsmaatregelen daadwerkelijk worden getest?
+TOELICHTING
+1- https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cyberbeveiligingswet/
+2- https://vng.nl/nieuws/nieuwe-regels-digitale-weerbaarheid-van-kracht
+3- https://www.digitaleoverheid.nl/nieuws/bio2-versie-1-3-voor-alle-overheidslagen/

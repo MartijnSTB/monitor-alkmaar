@@ -1,0 +1,117 @@
+Bezoekadres
+Mallegatsplein 10
+1815 AG Alkmaar
+postadres
+Postbus 53
+1800 BC Alkmaar
+bank
+NL78BNGH0285000179
+website
+www.alkmaar.nl
+telefoon
+14 072
+Aan de gemeenteraad van Alkmaar
+Onderwerp
+Beantwoording raadsvragen PvdD Bedrijfscontinuïteit en digitale weerbaarheid gemeente Alkmaar
+Uw brief van Behandeld door Datum
+8 oktober 2026 Informatiebeveiliging 27 oktober 2026
+Geachte leden van de raad,
+Het lid van de raad de heer Pinar heeft ons op 8 oktober 2026 de volgende raadsvragen gesteld over
+Bedrijfscontinuïteit en digitale weerbaarheid gemeente Alkmaar.
+In deze brief leest u onze reactie,
+overeenkomstig art.
+42 Reglement van Orde voor vergaderingen van de raad.
+1 Hoe beoordeelt het college de huidige inrichting van bedrijfscontinuïteit in het licht van de
+Cyberbeveiligingswet en de BIO2?
+Is hiervoor een analyse uitgevoerd van wat al op orde is en wat nog
+ontbreekt?
+Indien ja, gaat het college deze delen met de raad?
+Antwoord
+Voor de kritieke processen is samen met de betrokken medewerkers geïnventariseerd welke middelen
+noodzakelijk zijn en welke uitvalsduur en welk gegevensverlies acceptabel zijn.
+Hiermee is een eerste
+stap gezet in het inzichtelijk maken van de continuïteitsbehoeften van deze processen.
+Een bredere
+analyse van wat ten aanzien van bedrijfscontinuïteitsmanagement al is ingericht en wat nog ontbreekt
+in het licht van de Cyberbeveiligingswet en BIO2, is nog niet uitgevoerd.
+We zijn voornemens om in 2027 in beeld te brengen wat nodig is voor de verdere inrichting van
+bedrijfscontinuïteitsmanagement.
+Tijdens de raadsinformatiebijeenkomst op 11 november kunnen deze en eventuele aanvullende vragen
+nader worden toegelicht.
+2/3
+2 Welke risico’s accepteert de gemeente zolang bedrijfscontinuïteitsmanagement,
+terugvalmogelijkheden en noodinformatie nog niet structureel zijn ingericht?
+Wie heeft deze risico’s
+formeel beoordeeld en geaccepteerd?
+Antwoord
+Het ontbreken van structureel bedrijfscontinuïteitsmanagement is als algemeen risico onderkend en
+beschreven in de directiebeoordeling van 2025, die door de directie en het college is vastgesteld.
+Hiermee is het algemene risico bestuurlijk onderkend, maar zijn geen afzonderlijke continuïteitsrisico's
+formeel geaccepteerd.
+Wat de daadwerkelijke gevolgen hiervan zijn voor de continuïteit van de gemeentelijke
+dienstverlening, is nog onvoldoende in beeld gebracht.
+Veel voorzieningen worden als cloud- of SaaS-
+dienst afgenomen, waarbij leveranciers een deel van de technische continuïteit verzorgen.
+De
+verantwoordelijkheid voor de continuïteit van de gemeentelijke processen blijft echter bij de
+gemeente.
+In hoeverre de dienstverlening door deze voorzieningen minder kwetsbaar is voor uitval, is
+nog niet vastgesteld.
+Voor de operationele technologie (OT) worden de continuïteitsrisico's momenteel door Stadswerk072
+in kaart gebracht.
+3 Welke tijdelijke maatregelen worden genomen om de belangrijkste risico’s te beperken totdat
+de structurele inrichting gereed is?
+Antwoord
+Voor de kritieke processen zijn de belangrijkste middelen en de acceptabele uitvalsduur en het
+gegevensverlies in beeld gebracht.
+Op basis hiervan zijn beschikbaarheidseisen opgesteld, waarbij
+bestaande leveranciers aangeven in hoeverre zij hier binnen de huidige contractuele afspraken aan
+kunnen voldoen.
+Bij nieuwe diensten, applicaties en aanbestedingen worden deze eisen vooraf
+meegenomen.
+Deze eisen richten zich op de beschikbaarheid van de dienstverlening onder reguliere
+omstandigheden.
+Grootschalige verstoringen, zoals een landelijke stroomuitval, vallen hier niet onder
+en vragen om eigen continuïteitsvoorzieningen binnen de gemeentelijke organisatie.
+Deze verdere
+uitwerking is onderdeel van bedrijfscontinuïteitsmanagement.
+3/3
+4 Onze gemeente heeft in 2023 een incident meegemaakt (phishing/fraude waardoor onze
+gemeente een fictief inkoopfactuur binnenkreeg en deze heeft betaald).
+Moeten er met de opkomst
+van BIO2 extra maatregelen genomen worden om te voldoen aan BIO2?
+Of zijn de genomen
+maatregelen na het incident nog steeds voldoende?
+Kunt u deze toelichten?
+Antwoord
+De BIO2 stelt eisen aan onder andere toegangsbeveiliging, functiescheiding, bewustwording en het
+leren van incidenten.
+Deze maatregelen dragen bij aan het beperken van frauderisico's.
+Daarnaast
+vraagt het voorkomen van factuurfraude om specifieke beheersmaatregelen binnen het financiële
+proces.
+Na het incident in 2023 zijn aanvullende beheersmaatregelen getroffen.
+Als gemeente
+evalueren wij doorlopend of de getroffen maatregelen toereikend zijn, mede op basis van
+reguliere interne controles en toetsing aan BIO2.
+Waar nodig scherpen wij de maatregelen aan.
+5.
+Wanneer ontvangt de gemeenteraad in 2027 een concreet plan met benodigde capaciteit,
+budget, verantwoordelijkheden, uitvoeringsdata en momenten waarop de continuïteitsmaatregelen
+daadwerkelijk worden getest?
+Antwoord
+We zijn voornemens om in 2027 in beeld te brengen wat nodig is voor de verdere inrichting van
+bedrijfscontinuïteitsmanagement, waaronder de benodigde capaciteit, middelen en
+verantwoordelijkheden.
+Op basis daarvan kan worden bepaald welke vervolgstappen noodzakelijk zijn,
+waaronder het oefenen en testen van continuïteitsmaatregelen.
+Zodra hierover meer duidelijkheid
+bestaat, informeren wij de gemeenteraad.
+Met vriendelijke groet,
+Het college van burgemeester en wethouders van Alkmaar,
+mw. drs.
+A.M.C.G.
+(Anja) Schouten, burgemeester
+dhr.
+R.M.
+(Robert) Reus MPM, gemeentesecretaris
