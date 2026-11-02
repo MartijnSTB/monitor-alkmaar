@@ -3,6 +3,86 @@
     "alkmaar"
   ],
   "items": {
+    "3015e37519255edd5301ddc9ba4ab821a087cf7d83fc2ca5641ce24b507f0f85": {
+      "title": "Ongeval met letsel op Koedijk in Loenen",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVFwVFRQLTliSWIyXzRkajFfWnVfY3ZrNDFod2JtcjE0dzdlOTZRd1RZckh5czBlMUtnUjRXN0NPdTBkZ2gzSVhuMTVuMlFIZDhlemJxMGR5cTgtQ3hHZmswSHNLWXNyZVE2bWpVUkxOalJvS2FMRkRCZHZtSWVNa1NZWEVwbkRaM1ZtU3dHTVlpYkZhVXR2UmpWMA?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-02T10:31:18+00:00",
+      "updated": "2026-11-02T10:31:18+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "de Stentor",
+      "media_match": "kop",
+      "last_seen": "2026-11-02",
+      "doc_date": "2026-11-01",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-01T23:26+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Ongeval met letsel op Koedijk in Loenen|"
+    },
+    "0ee659582dc0ded40f421ffbbc6c632f110f29352331d89c7369b439b189a295": {
+      "title": "Filmfestival Alkmaar toont deze week ruim dertig films in Filmhuis",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOFZFWV9yczBaVkRiM0dDdFNRY05Ub1BycUVvVllRNzhuRm95Vl9jQUhBVHhpazR2aFhPV3ViYmZDbVNZVDBjbVhDOXhiWC1sVzZOLXI2WGEtOGstSlZWTy0yc21ZbzVNYVZuYkhwaDV5b2s1NWpGQmUyTHFCRXJfQTBoV2VkSmx4VGZBVzQ2OTN2WV95TW9ZMHlVVW9XaVhaZVlCWg?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-02T10:31:15+00:00",
+      "updated": "2026-11-02T10:31:15+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "AD.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-02",
+      "doc_date": "2026-11-02",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-02T11:11+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Filmfestival Alkmaar toont deze week ruim dertig films in Filmhuis|"
+    },
+    "342585473f7aca51ba2d1e46a3872ecb19e1d80976d1bb2134567f5bed0fcb20": {
+      "title": "Werkzaamheden aan de Bergerhoutrotonde in Alkmaar zijn begonnen: rotonde volledig afgesloten",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVUZNa0lXNjYxa0QtUFpkOXN6UVhjUTNTRXA1eW93Q1dHMmNIRERqalVpbGxOMWE0UWlOVzQ5XzZyM1Nxc0NZSHVNRVpkTTN4MXpQVE44Wkl3YkV3OGlxcW1ybklWaHVhN1dVeUxhWllWM0Rlb0JjLTZwem1qREZaNXdXUDBKNGctSHE5cXdJZk8zM3VZcG5GY0tueGpmUWROV0wzb1BOeTBaQmFuVU9UdmRTMW1JWWF1cGt4b202d2lkMFVGUzc5YWgwamUyZw?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-02T10:31:15+00:00",
+      "updated": "2026-11-02T10:31:15+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "www.rodi.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-02",
+      "doc_date": "2026-11-02",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-02T11:22+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Werkzaamheden aan de Bergerhoutrotonde in Alkmaar zijn begonnen: rotonde volledig afgesloten|"
+    },
+    "6a55038c09871441a798b6e94beed7267976b6f44369b1ee1de452206c3b1aef": {
+      "title": "Grote Kerk Alkmaar lanceert huiswijn Grande Chiesa San Lorenzo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmpBV2F5YUx3TXltam5PWGZoSzE3c2RkQnVNRktPN0xrQlQ3Z3k0TzliRXRMM3BZYnhFZ0lkQU83b1lSSnFJS19vWGphX0tCLUsyYTZKcVoycjNfUXBWZWl6ODZLbUJQN2dzYzBtM3MxNk91Q0dtZng3ZmVkVXd5MVN5Wkg0aDVSbi1YTXlQaExXbUpqQzZtVUdUeTFzTTJm?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-02T10:31:15+00:00",
+      "updated": "2026-11-02T10:31:15+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Alkmaarsdagblad.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-02",
+      "doc_date": "2026-11-02",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-02T11:02+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Grote Kerk Alkmaar lanceert huiswijn Grande Chiesa San Lorenzo|"
+    },
     "6496697fcc81b30119c5f45f9ecad2de4d5aca22a994776fea76d1c4e2d8d23d": {
       "title": "De Rijp stuurt 1.500 chocoladeletters en cadeaus naar kinderen in Oekraïne: Zó kan jij meedoen",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHFmdk5qbWloSm5lV1lXU3lvcVEweGN2RjFUVFhqd05PcUEtTVUzV3Y4eXROVWZkbVVSSmNLVmtyemREdDlGQ1VsVXZRWFNmRUYxV3pTZzNyM0NtQ0hZYk5yajUycHpSXzJyVmtPTk5NY0J1NWJSYlFzTjl6MnNEeVEtWkVwby1XdExhaDlBVFNPMTZCMjJRUnhYcXFIbG9LempFQzNOclFVbndxVWtUaV95NV8tRUNJR3plN3QtQUdWV2V6WEJiV1RPOTRMS2Zq?oc=5",
@@ -173932,14 +174012,12 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-02T10:00:53+00:00",
-        "ok": true,
-        "count": 416,
-        "new": 0,
-        "note": "Laatste 30 dagen: 416 van 416 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "checked": "2026-11-02T10:30:56+00:00",
+        "ok": false,
+        "error": "500 Server Error: Internal Server Error for url: https://repository.overheid.nl/sru?operation=searchRetrieve&version=2.0&query=c.product-area%3D%3D%22officielepublicaties%22+AND+dt.creator%3D%3D%22Alkmaar%22+AND+dt.available%3E%3D2026-10-03&maximumRe"
       },
       "Raadsstukken": {
-        "checked": "2026-11-02T10:01:16+00:00",
+        "checked": "2026-11-02T10:31:13+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -173947,7 +174025,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 686 documenten bekend. Dekking: vergaderingen van 2026-09-03 t/m 2026-12-17 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-02T10:01:16+00:00",
+        "checked": "2026-11-02T10:31:13+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -173955,42 +174033,42 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-02T10:01:17+00:00",
+        "checked": "2026-11-02T10:31:14+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-02T10:01:18+00:00",
+        "checked": "2026-11-02T10:31:15+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-11-02T10:01:23+00:00",
+        "checked": "2026-11-02T10:31:19+00:00",
         "ok": true,
-        "count": 58,
-        "new": 2,
+        "count": 75,
+        "new": 4,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-02T10:01:24+00:00",
+        "checked": "2026-11-02T10:31:19+00:00",
         "ok": true,
-        "count": 1,
+        "count": 0,
         "errors": 0,
-        "note": "1 documenten gecontroleerd (1 pdf), 504 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "0 documenten gecontroleerd (0 pdf), 504 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-02T10:01:24+00:00",
+        "checked": "2026-11-02T10:31:19+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-02T10:01:24+00:00",
+        "checked": "2026-11-02T10:31:19+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -174006,7 +174084,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-02T10:00:53+00:00",
+        "checked": "2026-11-02T10:30:56+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -174014,7 +174092,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-02T10:00:53+00:00",
+        "checked": "2026-11-02T10:30:56+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -174022,7 +174100,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-02T10:00:53+00:00",
+        "checked": "2026-11-02T10:30:56+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -174030,7 +174108,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-02T10:00:53+00:00",
+        "checked": "2026-11-02T10:30:56+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -174038,7 +174116,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-11-02T10:00:53+00:00",
+        "checked": "2026-11-02T10:30:56+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -174046,7 +174124,7 @@
         "documents": 1
       },
       "de6bfeba-89a2-438c-9c25-e8e2f301ea66": {
-        "checked": "2026-11-02T09:30:50+00:00",
+        "checked": "2026-11-02T10:30:56+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-08",
@@ -174289,7 +174367,7 @@
         "documents": 65
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-11-02T09:30:50+00:00",
+        "checked": "2026-11-02T10:30:56+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -174297,7 +174375,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-11-02T09:30:50+00:00",
+        "checked": "2026-11-02T10:30:56+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -174305,7 +174383,7 @@
         "documents": 69
       },
       "360c3bf1-368c-4263-ace7-2539daede35f": {
-        "checked": "2026-11-02T09:30:50+00:00",
+        "checked": "2026-11-02T10:30:56+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-15",
@@ -174313,7 +174391,7 @@
         "documents": 36
       },
       "1c8cbec7-871b-41cd-abe4-fc7b1f8e5a3e": {
-        "checked": "2026-11-02T09:30:50+00:00",
+        "checked": "2026-11-02T10:30:56+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-08",
@@ -174593,7 +174671,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-02T10:00:56+00:00"
+      "alkmaar": "2026-11-02T10:30:58+00:00"
     },
     "reports": {
       "alkmaar": {
