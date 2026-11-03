@@ -3,6 +3,354 @@
     "alkmaar"
   ],
   "items": {
+    "41f91f17f48552c3f86516246538564c16613381083002f72785187bff9817c0": {
+      "title": "Grote nieuwe plannen voor stationsgebied Alkmaar, op de plek waar ooit een Chinees hotel moest komen",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObGk1VDFrZmRRdkxxd1FhNmhOYU1wSzAwcW1Sekt2VC1ZMnhIWk1pX3NzSnN3MkNzU3c3X1ZMc29VSWc2SVk4WXJLcU9iZmlUdDFsdTJydDJrakZTdkVqUUJraFpiRktPS2d5VXJIXzFnbmt4UFZub21DVk5yTXhlaE9ha2RqZ1dkbWxPMUZBamNUU2pMbTlYTG15VVd3N1F1Rnp0a0ZURUVVZEsycV80Q3MyeXFCT2JlRnZ6OVNLd25nV1Jzc0V0WEMzcUF1bU9GNWRjWHl0dUY?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-03T08:31:14+00:00",
+      "updated": "2026-11-03T08:31:14+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Rodi.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-03",
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-03T08:43+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Grote nieuwe plannen voor stationsgebied Alkmaar, op de plek waar ooit een Chinees hotel moest komen|"
+    },
+    "5439cdf0b2b9eabc3fae428e5e3967170ef8f7939d943780f6482a834f6cff84": {
+      "title": "Omgevingsvergunning aangevraagd: het tijdelijk opslaan van bouwmateriaal op 4 parkeervakken op 17-11-2026, Breedstraat 17, 1811 HE Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-512576.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-03T08:30:49+00:00",
+      "updated": "2026-11-03T08:30:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-03",
+      "geo": [
+        52.631112,
+        4.74639
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-03",
+        "issued": null,
+        "date": "2026-11-03"
+      },
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Breedstraat 17 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03",
+      "published_at_tried": true,
+      "published_at": "2026-11-03T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het tijdelijk opslaan van bouwmateriaal op 4 parkeervakken op 17-11-2026, Breedstraat 17, 1811 HE Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03"
+    },
+    "4efa67150b64fbf82cc9686028797c75ed9b2bae8eb8ea0384d93abdb9c41ec6": {
+      "title": "Omgevingsvergunning buiten behandeling: het plaatsen van een dakkapel aan de voor- en achterzijde van woning, De Ruijterstraat 7, 1813 TT Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-511211.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-03T08:30:49+00:00",
+      "updated": "2026-11-03T08:30:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-03",
+      "geo": [
+        52.62383,
+        4.763136
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-03",
+        "issued": null,
+        "date": "2026-11-03"
+      },
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "De Ruijterstraat 7 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03",
+      "published_at_tried": true,
+      "published_at": "2026-11-03T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning buiten behandeling: het plaatsen van een dakkapel aan de voor- en achterzijde van woning, De Ruijterstraat 7, 1813 TT Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03"
+    },
+    "d858d3abed57b3b3bf6d9598ca7387da60947a303e674f3efa7f9f7dbc31c1c8": {
+      "title": "Nr. 1417396 Diverse locaties voor oplaadlocaties",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-511243.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-03T08:30:49+00:00",
+      "updated": "2026-11-03T08:30:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-03",
+      "geo": [
+        52.632297,
+        4.742819
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-03",
+        "issued": null,
+        "date": "2026-11-03"
+      },
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "koop_type": "verkeersbesluit of -mededeling",
+      "locatie": null,
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03",
+      "published_at_tried": true,
+      "published_at": "2026-11-03T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Nr. 1417396 Diverse locaties voor oplaadlocaties|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03"
+    },
+    "8f633802050b22d7003e24723c81d6057a95f7fa5edeede579582a8069199879": {
+      "title": "Ondermandatering teamleider",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-510848.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-03T08:30:49+00:00",
+      "updated": "2026-11-03T08:30:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-03",
+      "koop_dates": {
+        "available": "2026-11-03",
+        "issued": null,
+        "date": "2026-11-03"
+      },
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "koop_type": "delegatie- of mandaatbesluit",
+      "locatie": null,
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03",
+      "published_at_tried": true,
+      "published_at": "2026-11-03T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Ondermandatering teamleider|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03"
+    },
+    "ad1a2ea40f0b7a6190c5817ef6ba9d23c1db0fde60d272a4856709b90fce9b03": {
+      "title": "Omgevingsvergunning regulier Verleend: het realiseren van een dakopbouw over twee woningen, Van Leeuwenhoekstraat 17, 1815 VP Alkmaar, Van Leeuwenhoekstraat 21, 1815 VP Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-511916.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-03T08:30:49+00:00",
+      "updated": "2026-11-03T08:30:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-03",
+      "geo": [
+        52.634653,
+        4.7355
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-03",
+        "issued": null,
+        "date": "2026-11-03"
+      },
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Van Leeuwenhoekstraat 17 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03",
+      "published_at_tried": true,
+      "published_at": "2026-11-03T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning regulier Verleend: het realiseren van een dakopbouw over twee woningen, Van Leeuwenhoekstraat 17, 1815 VP Alkmaar, Van Leeuwenhoekstraat 21, 1815 VP Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03"
+    },
+    "ef570251f5c77b9bb57b5aa7cb66c6accf4f878ddc78da938b82cfea5c787b3e": {
+      "title": "Algemene plaatselijke verordening Verleend: Ontheffing geluidhinder, ontheffing geluidshinder op 15 -12-2026 van 16:00-21:00, James Wattstraat 11, 1817 DC Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-512667.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-03T08:30:49+00:00",
+      "updated": "2026-11-03T08:30:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-03",
+      "geo": [
+        52.64933,
+        4.741157
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-03",
+        "issued": null,
+        "date": "2026-11-03"
+      },
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "koop_type": "andere vergunning",
+      "locatie": "James Wattstraat 11 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03",
+      "published_at_tried": true,
+      "published_at": "2026-11-03T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Algemene plaatselijke verordening Verleend: Ontheffing geluidhinder, ontheffing geluidshinder op 15 -12-2026 van 16:00-21:00, James Wattstraat 11, 1817 DC Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03"
+    },
+    "b7db14d643df507feff139e018e517b555a183206e674066add0fbb3742d02d8": {
+      "title": "Omgevingsvergunning aangevraagd: het legaliseren van geplaatste dakkapel, Branding 16, 1822 EG Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-511232.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-03T08:30:49+00:00",
+      "updated": "2026-11-03T08:30:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-03",
+      "geo": [
+        52.649767,
+        4.780074
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-03",
+        "issued": null,
+        "date": "2026-11-03"
+      },
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Branding 16 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03",
+      "published_at_tried": true,
+      "published_at": "2026-11-03T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het legaliseren van geplaatste dakkapel, Branding 16, 1822 EG Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03"
+    },
+    "45658a5e754752939af0420379da28dd10e42ab481aa3fdf2dc56ec7056e99b6": {
+      "title": "Omgevingsvergunning aangevraagd: het plaatsen van een hijskraan op 4-12-26, Ranonkelstraat 25, 1817 CC Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-512490.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-03T08:30:49+00:00",
+      "updated": "2026-11-03T08:30:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-03",
+      "geo": [
+        52.640506,
+        4.741867
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-03",
+        "issued": null,
+        "date": "2026-11-03"
+      },
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Ranonkelstraat 25 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03",
+      "published_at_tried": true,
+      "published_at": "2026-11-03T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het plaatsen van een hijskraan op 4-12-26, Ranonkelstraat 25, 1817 CC Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03"
+    },
+    "7bee71970d07a65de4523ea6922c30cceaa2cd2d7550b8b8108947dc6b145c5f": {
+      "title": "Omgevingsvergunning aangevraagd: het plaatsen van een schaftkeet, ecotoilet en hoogwerker van 30-10 t/m 24-12-2026, ter hoogte van Willem de Zwijgerlaan 154",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-512155.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-03T08:30:49+00:00",
+      "updated": "2026-11-03T08:30:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-03",
+      "koop_dates": {
+        "available": "2026-11-03",
+        "issued": null,
+        "date": "2026-11-03"
+      },
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "ter hoogte van Willem de Zwijgerlaan 154",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03",
+      "published_at_tried": true,
+      "published_at": "2026-11-03T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het plaatsen van een schaftkeet, ecotoilet en hoogwerker van 30-10 t/m 24-12-2026, ter hoogte van Willem de Zwijgerlaan 154|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03"
+    },
+    "e324e4406f29217d15595cdac468f143325784d0f0b4321ea3b6a31f61edf8d8": {
+      "title": "Omgevingsvergunning aangevraagd: het plaatsen van een container van 16-11 t/m 22-11, op parkeerplaats thv Spinnerij 7, Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-511208.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-03T08:30:49+00:00",
+      "updated": "2026-11-03T08:30:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-03",
+      "koop_dates": {
+        "available": "2026-11-03",
+        "issued": null,
+        "date": "2026-11-03"
+      },
+      "doc_date": "2026-11-03",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "op parkeerplaats thv Spinnerij 7, Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03",
+      "published_at_tried": true,
+      "published_at": "2026-11-03T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het plaatsen van een container van 16-11 t/m 22-11, op parkeerplaats thv Spinnerij 7, Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-03"
+    },
     "567116e956207f093ccb19550740e3f23078e7e9a2a3057e7c253989932ec863": {
       "title": "Nieuwe plannen voor stationsgebied: op plek waar ooit Chinees hotel moest komen",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEh6UTNSWDVvaU1LZTlrdkY1Ti1XQ3JTaDh4clhWWjNMM2RRSVRUOFJVN3U5ZXF3M2RoYktDcDI1WndxTDdUNXhSTzhoR1VhWG1NNFhfUGdYMldQV2ctcFpBODlGQi1fcFZMYWpEUVl4ZlFkSnI5dXBSc1pUZk1UZmNUMlM5eVpUWnFoOW5CVXJqeTdaZHVGaWFtaVNFRGRCMnlJczlmb2VTbTJOM0c4QnduRWhkZkh2T1hQTg?oc=5",
@@ -139,7 +487,7 @@
       "last_seen": "2026-11-03",
       "doc_date": "2026-11-02",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-02T20:19+01:00",
+      "published_at": "2026-11-02T11:19+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Flinke ravage na botsing auto en busje in Heiloo|"
     },
@@ -1563,7 +1911,7 @@
       "excerpt": "Wat heeft u nodig om gezond en prettig te leven in Alkmaar? Kunt u gemakkelijk bewegen in uw buurt? En...",
       "missing_count": 0,
       "text_hash": "1a1f824215f3ba87ea119af44e741fdef14358a88dfd3035093866f4531c2bb5",
-      "content_checked": "2026-11-03T02:01:32+00:00",
+      "content_checked": "2026-11-03T08:31:30+00:00",
       "kw_sig": "4f53cda18c2b|1a1f824215f3ba87ea119af44e741fdef14358a88dfd3035093866f4531c2bb5|Denk mee over gezondheid in Alkmaar|Wat heeft u nodig om gezond en prettig te leven in Alkmaar? Kunt u gemakkelijk bewegen in uw buurt? En..."
     },
     "46bbeb7d840fd3115c5fde1cc3207f68716a87597ed9f03e7e044da621fb614e": {
@@ -4049,10 +4397,10 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "tekst",
-      "last_seen": "2026-11-02",
-      "doc_date": "2026-10-31",
+      "last_seen": "2026-11-03",
+      "doc_date": "2026-11-01",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-31T19:50+01:00",
+      "published_at": "2026-11-01T11:07+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Chauffeur van Noot laat Jet (79) aan haar lot over: ’Ik stond met mijn rollator in een onbekende wijk’|"
     },
@@ -17953,7 +18301,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "23aa31be2ac61e7317118d60e163cd41c2b23704c163321114f06e0534c954dd",
-      "content_checked": "2026-11-03T02:01:34+00:00",
+      "content_checked": "2026-11-03T08:31:32+00:00",
       "kw_sig": "4f53cda18c2b|23aa31be2ac61e7317118d60e163cd41c2b23704c163321114f06e0534c954dd|Bijlage 3. Toelichting FER - Stedelijk Dalton College Alkmaar en OSG Willem Blaeu|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)"
     },
     "94d5e6a07242e47a3e654f6f27c10db6fd8d7aee7324cde8ba8e87c5348f97d2": {
@@ -17983,7 +18331,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "e91a102096c9442d520d72506ce3142e106eb5bc9f2164e484f162218fed94e3",
-      "content_checked": "2026-11-03T02:01:34+00:00",
+      "content_checked": "2026-11-03T08:31:33+00:00",
       "kw_sig": "4f53cda18c2b|e91a102096c9442d520d72506ce3142e106eb5bc9f2164e484f162218fed94e3|Bijlage 4. Instemming medezeggenschapsraden fusie|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)"
     },
     "ea89983a0aeeb15f32ae56faffa7d824cc9e732b58077b375672f39f3d91f966": {
@@ -18013,7 +18361,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "eda7daddb6f10f09fb5c1bca54f78575bb64f2ace79adb8ade27a42c393802b6",
-      "content_checked": "2026-11-03T02:01:35+00:00",
+      "content_checked": "2026-11-03T08:31:34+00:00",
       "kw_sig": "4f53cda18c2b|eda7daddb6f10f09fb5c1bca54f78575bb64f2ace79adb8ade27a42c393802b6|Bijlage 5. GT Advies college van B&W over de fusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.7 Scholenfusie Stedelijk Dalton College Alkmaar en OSG Willem Blaeu (Marco Wiesehahn-Vrijman)"
     },
     "fe3f4261ad19611344a400ae70160af6bda0c79c481d1d6390ecb57f1f0b32a1": {
@@ -18043,7 +18391,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.8 Converteren lening Alliander (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "d781a0b8fe9fde83cd4ea77660710ca04eec2c748ed7ebadfc3cef16a48cffe5",
-      "content_checked": "2026-11-03T02:31:12+00:00",
+      "content_checked": "2026-11-03T08:31:34+00:00",
       "kw_sig": "4f53cda18c2b|d781a0b8fe9fde83cd4ea77660710ca04eec2c748ed7ebadfc3cef16a48cffe5|Collegevoorstel Converteren lening Alliander|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.8 Converteren lening Alliander (Marco Wiesehahn-Vrijman)"
     },
     "610f0c5c1abf94c363735522944d36352fd8cebe2c6b0b485400cbad96618ce0": {
@@ -174972,14 +175320,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-03T08:00:53+00:00",
+        "checked": "2026-11-03T08:30:49+00:00",
         "ok": true,
-        "count": 416,
-        "new": 0,
-        "note": "Laatste 30 dagen: 416 van 416 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 426,
+        "new": 10,
+        "note": "Laatste 30 dagen: 426 van 426 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-03T08:01:09+00:00",
+        "checked": "2026-11-03T08:31:11+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -174987,7 +175335,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 686 documenten bekend. Dekking: vergaderingen van 2026-09-04 t/m 2026-12-18 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-03T08:01:09+00:00",
+        "checked": "2026-11-03T08:31:11+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -174995,42 +175343,42 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-03T08:01:11+00:00",
+        "checked": "2026-11-03T08:31:13+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-03T08:01:11+00:00",
+        "checked": "2026-11-03T08:31:13+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-11-03T08:01:15+00:00",
+        "checked": "2026-11-03T08:31:17+00:00",
         "ok": true,
-        "count": 73,
-        "new": 3,
+        "count": 54,
+        "new": 1,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-03T08:01:18+00:00",
+        "checked": "2026-11-03T08:31:34+00:00",
         "ok": true,
-        "count": 1,
+        "count": 5,
         "errors": 0,
-        "note": "1 documenten gecontroleerd (1 pdf), 505 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "5 documenten gecontroleerd (4 pdf), 505 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-03T08:01:18+00:00",
+        "checked": "2026-11-03T08:31:34+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-03T08:01:18+00:00",
+        "checked": "2026-11-03T08:31:34+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -175046,7 +175394,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-03T08:00:53+00:00",
+        "checked": "2026-11-03T08:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -175054,7 +175402,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-03T08:00:53+00:00",
+        "checked": "2026-11-03T08:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -175062,7 +175410,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-03T08:00:53+00:00",
+        "checked": "2026-11-03T08:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -175070,7 +175418,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-03T08:00:53+00:00",
+        "checked": "2026-11-03T08:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -175078,7 +175426,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-11-03T08:00:53+00:00",
+        "checked": "2026-11-03T08:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -175086,7 +175434,7 @@
         "documents": 1
       },
       "de6bfeba-89a2-438c-9c25-e8e2f301ea66": {
-        "checked": "2026-11-03T07:30:59+00:00",
+        "checked": "2026-11-03T08:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-08",
@@ -175329,7 +175677,7 @@
         "documents": 65
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-11-03T07:30:59+00:00",
+        "checked": "2026-11-03T08:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -175337,7 +175685,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-11-03T07:30:59+00:00",
+        "checked": "2026-11-03T08:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -175345,7 +175693,7 @@
         "documents": 69
       },
       "360c3bf1-368c-4263-ace7-2539daede35f": {
-        "checked": "2026-11-03T07:30:59+00:00",
+        "checked": "2026-11-03T08:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-15",
@@ -175353,7 +175701,7 @@
         "documents": 36
       },
       "1c8cbec7-871b-41cd-abe4-fc7b1f8e5a3e": {
-        "checked": "2026-11-03T07:30:59+00:00",
+        "checked": "2026-11-03T08:30:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-08",
@@ -175633,7 +175981,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-03T08:00:55+00:00"
+      "alkmaar": "2026-11-03T08:30:52+00:00"
     },
     "reports": {
       "alkmaar": {
