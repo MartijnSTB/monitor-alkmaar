@@ -3,6 +3,26 @@
     "alkmaar"
   ],
   "items": {
+    "7509d9b3c56455e53f617a6c883516498f3b822e0518f97a43b873d36161ffdc": {
+      "title": "Inschrijving De 4 van Alkmaar en De Vierde van de 4 geopend",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWhvYzJpN3dsSTNlRGlsSnpPY1JQZF8xbGRBQUlfdFptVlFEZEdxWDY3Y2NLUmM5WjVib1JIQzZFcmVndXNlbEhwSlFSMVE0ajZleHBsYVZ3bm52bEJUc0h6dU14eXRZMkpRVXNUejQtRXljUVJpVVM0S2JDSGJRUWZNZFhweExOMEM0UEFNYjZzdXBxM0V0UXA1NkkzOERldVVkU0xVeFBZRjNhRkRnNVNVQQ?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-09T13:01:22+00:00",
+      "updated": "2026-11-09T13:01:22+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Streekradio Alkmaar",
+      "media_match": "kop",
+      "last_seen": "2026-11-09",
+      "doc_date": "2026-11-09",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-09T10:55+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Inschrijving De 4 van Alkmaar en De Vierde van de 4 geopend|"
+    },
     "ccdb149f8edf5e86d9b87d22893e0d99c6d881c09d687aeb42872c4100ff3998": {
       "title": "Oude spullen over? Geef ze aan mede-Alkmaarders via dít ruilplatform",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTExnM1FsRnBwZ2M5ZEZrYVpZUFk4MzRPaHlHckRBQ2lEUlZac000SV9BS1IxSVBXRmpFTEt4OWI0SDlILVV1UjN1YnlUTFBPVHUzVUJJN29pb3l2NmZwTVdYQ1d4WkhyRGtTUzRNeEVUeWtnUzZqZ3RfYXVSbVFSZmI1dUhFOHo5WFV6RWt6U3hDZElPM2xkdUREYy1nX25laHZqd2xWb25zekZaUmc?oc=5",
@@ -15687,7 +15707,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.1 (Her)benoemen leden commissie Omgevingskwaliteit (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "0e1bf37f738ee87930e5d6e0f355b5ec3c953092fbfa0b21f200a7f4342c7c31",
-      "content_checked": "2026-11-09T07:01:10+00:00",
+      "content_checked": "2026-11-09T13:01:26+00:00",
       "kw_sig": "4f53cda18c2b|0e1bf37f738ee87930e5d6e0f355b5ec3c953092fbfa0b21f200a7f4342c7c31|Collegevoorstel (Her)benoemen leden commissie Omgevingskwaliteit|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.1 (Her)benoemen leden commissie Omgevingskwaliteit (Gijsbert van Iterson Scholten)"
     },
     "153d4ca5f5a5fde49084c01ffe08ebf32001efd0ee6142d201be3101ffc10f60": {
@@ -15717,7 +15737,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.1 (Her)benoemen leden commissie Omgevingskwaliteit (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "cb0a04691c9a50940934d25b073ce1e8c56dbbb538bc7fcd02ca7f1a00961478",
-      "content_checked": "2026-11-09T07:01:11+00:00",
+      "content_checked": "2026-11-09T13:01:27+00:00",
       "kw_sig": "4f53cda18c2b|cb0a04691c9a50940934d25b073ce1e8c56dbbb538bc7fcd02ca7f1a00961478|GT Raadsvoorstel (Her)benoemen leden commissie Omgevingskwaliteit|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.1 (Her)benoemen leden commissie Omgevingskwaliteit (Gijsbert van Iterson Scholten)"
     },
     "13bdd16b22a34825c4481bcc2186a64891e77472301e1ce51c82b28770dcda9d": {
@@ -15747,7 +15767,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.2 Evaluatie commissie omgevingskwaliteit (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "615483bc30f989b9a02a3fe23621ca16affda7e4d950a10f9f04c271264afd1e",
-      "content_checked": "2026-11-09T07:01:11+00:00",
+      "content_checked": "2026-11-09T13:01:28+00:00",
       "kw_sig": "4f53cda18c2b|615483bc30f989b9a02a3fe23621ca16affda7e4d950a10f9f04c271264afd1e|Collegevoorstel Evaluatie aanpassingen commissie Omgevingskwaliteit|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.2 Evaluatie commissie omgevingskwaliteit (Gijsbert van Iterson Scholten)"
     },
     "4bfe6a60ed4edcb83a0b99306215ccf71398b12755a44c11e0536869cfc5d7ec": {
@@ -15777,7 +15797,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.2 Evaluatie commissie omgevingskwaliteit (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "9b73d8fd3431013c9911c030a7b8c56383187345b0dd585332c27f7f09747c47",
-      "content_checked": "2026-11-09T07:01:11+00:00",
+      "content_checked": "2026-11-09T13:01:30+00:00",
       "kw_sig": "4f53cda18c2b|9b73d8fd3431013c9911c030a7b8c56383187345b0dd585332c27f7f09747c47|Notulen van het evaluatiegesprek van gemeente en commissie Omgevingskwaliteit op 24 september 2026|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.2 Evaluatie commissie omgevingskwaliteit (Gijsbert van Iterson Scholten)"
     },
     "91ba3ae11fa501b2244cc12d806e9474bfea3c2e01d3c5fd06446cdf21c173e6": {
@@ -15807,7 +15827,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.2 Evaluatie commissie omgevingskwaliteit (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "e8a6f63e28a5d1b44570f629e16abab6c329146b7d2a5e3ddab3928cd9e66742",
-      "content_checked": "2026-11-09T07:01:12+00:00",
+      "content_checked": "2026-11-09T13:01:30+00:00",
       "kw_sig": "4f53cda18c2b|e8a6f63e28a5d1b44570f629e16abab6c329146b7d2a5e3ddab3928cd9e66742|Raadsinformatiebrief Evaluatie aanpassingen commissie Omgevingskwaliteit|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.2 Evaluatie commissie omgevingskwaliteit (Gijsbert van Iterson Scholten)"
     },
     "098d8f9491466033bd98c88b7789818fb85cbfb5924da50d62bc60668fc7c75c": {
@@ -15837,7 +15857,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.2 Evaluatie commissie omgevingskwaliteit (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "1c6c3b74d05f385492b4cec51aac168e63556d5dcb52effab1594aaf4b308c1d",
-      "content_checked": "2026-11-09T07:01:12+00:00",
+      "content_checked": "2026-11-09T13:01:37+00:00",
       "kw_sig": "4f53cda18c2b|1c6c3b74d05f385492b4cec51aac168e63556d5dcb52effab1594aaf4b308c1d|Bijlage 1. Per 2025 doorgevoerde aanpassingen werkwijze cie Omgevingskwaliteit|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.2 Evaluatie commissie omgevingskwaliteit (Gijsbert van Iterson Scholten)"
     },
     "210d5e6ebbd9d1af84da27f4b94463263314c743cb35fef6f4a8aa2f1ca1e83c": {
@@ -15867,7 +15887,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.3 Instellen bestemmingsreserve Gebiedsontwikkeling (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "10c8d4e27c89b7f7c5e4bc09c72810e441695fb66d554750b656416c054f31a4",
-      "content_checked": "2026-11-09T07:01:13+00:00",
+      "content_checked": "2026-11-09T13:01:38+00:00",
       "kw_sig": "4f53cda18c2b|10c8d4e27c89b7f7c5e4bc09c72810e441695fb66d554750b656416c054f31a4|Collegevoorstel Instellen bestemmingsreserve Gebiedsontwikkeling|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.3 Instellen bestemmingsreserve Gebiedsontwikkeling (Gijsbert van Iterson Scholten)"
     },
     "52fd2ce98184e107d9b1dff6e82a9bebfc38dfaff06734adf1d53a12e8dab14d": {
@@ -15897,7 +15917,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.3 Instellen bestemmingsreserve Gebiedsontwikkeling (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "b1b8e746ca55af47a01201f5c195407bbdc23c8110e67c1331ad0566a320f8c5",
-      "content_checked": "2026-11-09T07:01:13+00:00",
+      "content_checked": "2026-11-09T13:01:39+00:00",
       "kw_sig": "4f53cda18c2b|b1b8e746ca55af47a01201f5c195407bbdc23c8110e67c1331ad0566a320f8c5|GT Instelllen bestemmingsreserve Gebiedsontwikkeling|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.3 Instellen bestemmingsreserve Gebiedsontwikkeling (Gijsbert van Iterson Scholten)"
     },
     "3617b03683c3e31bfff3cb26d039cbfaccbdf2f9dd39b919b2ffe5a3a2f111b7": {
@@ -15927,7 +15947,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.4 Uitgebreide Wabo procedure De Rederijker (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "50f8169929d92f39033d34840ab2a146c0eb9e7d6f1b54302131f79af60f90eb",
-      "content_checked": "2026-11-09T07:01:14+00:00",
+      "content_checked": "2026-11-09T13:01:40+00:00",
       "kw_sig": "4f53cda18c2b|50f8169929d92f39033d34840ab2a146c0eb9e7d6f1b54302131f79af60f90eb|Collegevoorstel Uitgebreide Wabo procedure De Rederijker|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.4 Uitgebreide Wabo procedure De Rederijker (Gijsbert van Iterson Scholten)"
     },
     "f869dc0b98d5640b3e7338c4ff89a0687847badf8ce15cee1350e9c89cf62ea8": {
@@ -15957,7 +15977,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.4 Uitgebreide Wabo procedure De Rederijker (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "dfa8fbeee9ba8b6064f8ce7492fc8734dfc3bf6136ae16a706dfc780ca5949b3",
-      "content_checked": "2026-11-09T07:01:15+00:00",
+      "content_checked": "2026-11-09T13:01:42+00:00",
       "kw_sig": "4f53cda18c2b|dfa8fbeee9ba8b6064f8ce7492fc8734dfc3bf6136ae16a706dfc780ca5949b3|Ontwerp omgevingsvergunning|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.4 Uitgebreide Wabo procedure De Rederijker (Gijsbert van Iterson Scholten)"
     },
     "24cc7a9b8a9e0d36cf291a76ba875d33eddff674951bc94d8b18a279c657c7a7": {
@@ -15987,7 +16007,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.4 Uitgebreide Wabo procedure De Rederijker (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "122a7043abe8796f826da814cae775b254bfa46f5e0758a14cfb006cb5fedd65",
-      "content_checked": "2026-11-09T07:01:16+00:00",
+      "content_checked": "2026-11-09T13:01:44+00:00",
       "kw_sig": "4f53cda18c2b|122a7043abe8796f826da814cae775b254bfa46f5e0758a14cfb006cb5fedd65|Ontwerp vaststelling hogere grenswaarde|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.4 Uitgebreide Wabo procedure De Rederijker (Gijsbert van Iterson Scholten)"
     },
     "d1d139e88fd0ec0b9d4cd36cf09746d8ccce65df666c6fd6eaa810e2699efc6e": {
@@ -16017,8 +16037,9 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.4 Uitgebreide Wabo procedure De Rederijker (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "e86a5f2dc57af0f31bd3f51d3d2cdcb819b97c3f9e28e0c99cfed0ec4d940064",
-      "content_checked": "2026-11-09T07:01:17+00:00",
-      "kw_sig": "4f53cda18c2b|e86a5f2dc57af0f31bd3f51d3d2cdcb819b97c3f9e28e0c99cfed0ec4d940064|GT Raadsvoorstel Uitgebreide Wabo procedure De Rederijker|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.4 Uitgebreide Wabo procedure De Rederijker (Gijsbert van Iterson Scholten)"
+      "content_checked": "2026-11-09T13:01:44+00:00",
+      "kw_sig": "4f53cda18c2b|e86a5f2dc57af0f31bd3f51d3d2cdcb819b97c3f9e28e0c99cfed0ec4d940064|GT Raadsvoorstel Uitgebreide Wabo procedure De Rederijker|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.4 Uitgebreide Wabo procedure De Rederijker (Gijsbert van Iterson Scholten)",
+      "content_error": "429 Client Error: Too Many Requests for url: https://alkmaar.bestuurlijkeinformatie.nl/Document/View/1d14d058-f8e8-4652-"
     },
     "d8972e4c8607b2d9ad92a597d5b17b9efd4ac4e53a6fb13cf885613e393bcc82": {
       "title": "Bijlage 1. Aanvraag om een omgevingsvergunning De Rederijker",
@@ -16047,7 +16068,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.4 Uitgebreide Wabo procedure De Rederijker (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "1c0ea56614c09e5a7d53c8c1524d4e927dd0b2a277a8d3cce2a400ad707266c0",
-      "content_checked": "2026-11-09T07:01:18+00:00",
+      "content_checked": "2026-11-09T13:01:46+00:00",
       "kw_sig": "4f53cda18c2b|1c0ea56614c09e5a7d53c8c1524d4e927dd0b2a277a8d3cce2a400ad707266c0|Bijlage 1. Aanvraag om een omgevingsvergunning De Rederijker|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.4 Uitgebreide Wabo procedure De Rederijker (Gijsbert van Iterson Scholten)"
     },
     "4f7d315139a5f796575a89f9acf3a191228d85f30e7dd80aa2459d35da695f64": {
@@ -17594,7 +17615,7 @@
       "excerpt": "B&W Agenda dinsdag 27 oktober 2026 · agendapunt Agenda collegevergadering van 27 oktober 2026",
       "missing_count": 0,
       "text_hash": "a14097f9e78df302c7a8f786194678e6238cb376c746cf69e84c7492df7d9363",
-      "content_checked": "2026-11-09T07:01:14+00:00",
+      "content_checked": "2026-11-09T13:01:40+00:00",
       "kw_sig": "4f53cda18c2b|a14097f9e78df302c7a8f786194678e6238cb376c746cf69e84c7492df7d9363|Agenda Collegevergadering van 27 oktober 2026|B&W Agenda dinsdag 27 oktober 2026 · agendapunt Agenda collegevergadering van 27 oktober 2026",
       "content_error": "401 Client Error: Unauthorized for url: https://alkmaar.bestuurlijkeinformatie.nl/Document/View/94ad9d22-8e6e-4100-b15d-"
     },
@@ -184388,22 +184409,22 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-09T12:30:42+00:00",
+        "checked": "2026-11-09T13:00:55+00:00",
         "ok": true,
         "count": 415,
-        "new": 2,
+        "new": 0,
         "note": "Laatste 30 dagen: 415 van 415 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-09T12:31:18+00:00",
-        "ok": false,
+        "checked": "2026-11-09T13:01:19+00:00",
+        "ok": true,
         "count": 10,
         "new": 0,
-        "error": "B&W Agenda 2026: 429 Client Error: Too Many Requests for url: https://alkmaar",
+        "error": null,
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 728 documenten bekend. Dekking: vergaderingen van 2026-09-10 t/m 2026-12-24 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-09T12:31:19+00:00",
+        "checked": "2026-11-09T13:01:20+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -184411,21 +184432,21 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-09T12:31:20+00:00",
+        "checked": "2026-11-09T13:01:21+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-09T12:31:21+00:00",
+        "checked": "2026-11-09T13:01:22+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-11-09T12:31:25+00:00",
+        "checked": "2026-11-09T13:01:26+00:00",
         "ok": true,
         "count": 33,
         "new": 1,
@@ -184434,19 +184455,19 @@
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-09T12:31:28+00:00",
-        "ok": true,
-        "count": 0,
-        "errors": 0,
-        "note": "0 documenten gecontroleerd (0 pdf), 548 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "checked": "2026-11-09T13:01:46+00:00",
+        "ok": false,
+        "count": 12,
+        "errors": 2,
+        "note": "12 documenten gecontroleerd (12 pdf), 548 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-09T12:31:28+00:00",
+        "checked": "2026-11-09T13:01:46+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-09T12:31:28+00:00",
+        "checked": "2026-11-09T13:01:46+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -184462,7 +184483,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-09T12:30:42+00:00",
+        "checked": "2026-11-09T13:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -184470,7 +184491,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-09T12:30:42+00:00",
+        "checked": "2026-11-09T13:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -184478,7 +184499,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-09T12:30:42+00:00",
+        "checked": "2026-11-09T13:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -184486,7 +184507,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-09T12:30:42+00:00",
+        "checked": "2026-11-09T13:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -184494,7 +184515,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-11-09T12:30:42+00:00",
+        "checked": "2026-11-09T13:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -184729,7 +184750,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-11-09T12:00:54+00:00",
+        "checked": "2026-11-09T13:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -184737,7 +184758,7 @@
         "documents": 18
       },
       "dcc6411b-600b-4103-9480-0c96305035a4": {
-        "checked": "2026-11-09T12:00:54+00:00",
+        "checked": "2026-11-09T13:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-06",
@@ -185024,7 +185045,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-11-09T12:00:54+00:00",
+        "checked": "2026-11-09T13:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -185032,7 +185053,7 @@
         "documents": 71
       },
       "76d0f4f5-e1b7-4995-b9f2-74d91963993a": {
-        "checked": "2026-11-09T12:00:54+00:00",
+        "checked": "2026-11-09T13:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-27",
@@ -185040,7 +185061,7 @@
         "documents": 1
       },
       "f339467e-beb6-47d2-9d1f-e8fd285b0283": {
-        "checked": "2026-11-09T12:00:54+00:00",
+        "checked": "2026-11-09T13:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-27",
@@ -185065,7 +185086,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-09T12:30:47+00:00"
+      "alkmaar": "2026-11-09T13:00:57+00:00"
     },
     "reports": {
       "alkmaar": {
