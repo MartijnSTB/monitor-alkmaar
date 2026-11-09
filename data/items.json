@@ -3,6 +3,182 @@
     "alkmaar"
   ],
   "items": {
+    "4bde9f460264185d25a4dd4f5097b1c88ba62a27da34445b2e4c410511837be9": {
+      "title": "Geen treinen tussen Hoorn en Alkmaar door werkzaamheden, NS zet bussen in",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTjR1eDZCLVVIMHlwWEt0ckxTeXRpZlpmOENPU09RZzNHY0VpTWs4N1pLMzg4Q24xSll6LUxHRGdNR2JTeWRpeThfdVhTWFoxN1RDeEtmeDJPYjJxVEUtdDhub1I5eXMzVHJhR056STQ5VERRTnpvczBwbXFNbmhpNXFIbWhvdmhHRmJEd3I5UEV6WmtNQ3JiRHFYR09Pc1lNRGhFaGVVQmVSVGNCcXdBakRtU2haSVVjZXlfYjRR?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-09T09:31:52+00:00",
+      "updated": "2026-11-09T09:31:52+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "OnsWestfriesland",
+      "media_match": "kop",
+      "last_seen": "2026-11-09",
+      "doc_date": "2026-11-09",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-09T10:03+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Geen treinen tussen Hoorn en Alkmaar door werkzaamheden, NS zet bussen in|"
+    },
+    "2e9a70fc90fe0b8d2cdd8c0d6da44f139a9d133db619c73f25d8256a9957456c": {
+      "title": "Omgevingsvergunning regulier Verleend: het bouwen van een nieuw dorpshuis, Oosteinde 6, 1636 XV Schermerhorn, Dorpshuis Schermerhorn",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-520837.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-09T09:31:36+00:00",
+      "updated": "2026-11-09T09:31:36+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-09",
+      "koop_dates": {
+        "available": "2026-11-09",
+        "issued": null,
+        "date": "2026-11-09"
+      },
+      "doc_date": "2026-11-09",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "koop_type": "omgevingsvergunning",
+      "locatie": null,
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-09",
+      "published_at_tried": true,
+      "published_at": "2026-11-09T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "geo": [
+        52.601171,
+        4.890085
+      ],
+      "geo_src": "PDOK",
+      "plaats": "Schermerhorn",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning regulier Verleend: het bouwen van een nieuw dorpshuis, Oosteinde 6, 1636 XV Schermerhorn, Dorpshuis Schermerhorn|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-09"
+    },
+    "0df48018b43cd29734cae006c083df89ac787137e571570b669c79394dee346f": {
+      "title": "Omgevingsvergunning aangevraagd: het innemen van een standplaats van 24-12 t/m 31-12 2026, Op het Frederik Hendrikplein, Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-521316.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-09T09:31:36+00:00",
+      "updated": "2026-11-09T09:31:36+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-09",
+      "koop_dates": {
+        "available": "2026-11-09",
+        "issued": null,
+        "date": "2026-11-09"
+      },
+      "doc_date": "2026-11-09",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Op het Frederik Hendrikplein, Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-09",
+      "published_at_tried": true,
+      "published_at": "2026-11-09T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het innemen van een standplaats van 24-12 t/m 31-12 2026, Op het Frederik Hendrikplein, Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-09"
+    },
+    "5ce21edf70aeb21914804e9491e053335b69c9fd790a8483673ffa27f1137bc8": {
+      "title": "Omgevingsvergunning regulier Verleend: het plaatsen van een verhuislift 12-11-2026, op de stoep voor Voordam 6A",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-521424.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-09T09:31:36+00:00",
+      "updated": "2026-11-09T09:31:36+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-09",
+      "koop_dates": {
+        "available": "2026-11-09",
+        "issued": null,
+        "date": "2026-11-09"
+      },
+      "doc_date": "2026-11-09",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "op de stoep voor Voordam 6A",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-09",
+      "published_at_tried": true,
+      "published_at": "2026-11-09T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning regulier Verleend: het plaatsen van een verhuislift 12-11-2026, op de stoep voor Voordam 6A|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-09"
+    },
+    "be3b9d203e98350cebb36b7c75f4d097b439c91b5f31744c078930b5ef3e4b90": {
+      "title": "Verordening fysieke leefomgeving Aangevraagd: Ontheffing Sfeerverlichting, het laten branden van baniers met sfeerverlichting tot en met 15 maart 2027, overstad",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-521165.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-09T09:31:36+00:00",
+      "updated": "2026-11-09T09:31:36+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-09",
+      "koop_dates": {
+        "available": "2026-11-09",
+        "issued": null,
+        "date": "2026-11-09"
+      },
+      "doc_date": "2026-11-09",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "koop_type": "andere beschikking",
+      "locatie": "overstad",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-09",
+      "published_at_tried": true,
+      "published_at": "2026-11-09T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Verordening fysieke leefomgeving Aangevraagd: Ontheffing Sfeerverlichting, het laten branden van baniers met sfeerverlichting tot en met 15 maart 2027, overstad|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-09"
+    },
+    "ce6648a80bed93550c131f4bfa69e3f598d17e7655c8f6ac51f599bea3251b89": {
+      "title": "Algemene plaatselijke verordening Aangevraagd: Evenementenvergunning, het organiseren van de Vijfdorpentocht op 31 december 2026, Ursem",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-521222.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-09T09:31:36+00:00",
+      "updated": "2026-11-09T09:31:36+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-09",
+      "koop_dates": {
+        "available": "2026-11-09",
+        "issued": null,
+        "date": "2026-11-09"
+      },
+      "doc_date": "2026-11-09",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "koop_type": "evenementenvergunning",
+      "locatie": "Ursem",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-09",
+      "published_at_tried": true,
+      "published_at": "2026-11-09T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Algemene plaatselijke verordening Aangevraagd: Evenementenvergunning, het organiseren van de Vijfdorpentocht op 31 december 2026, Ursem|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-09"
+    },
     "b0cf08ea676ec50136e51f18e32762608d1122682742cb2be9eda552199c1a07": {
       "title": "Waardevolle ontmoetingen op Vrijwilligersmarkt Alkmaar",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1J2bkFtaUY1bkJvcHBXM2VwR2gydkhnU25scklwZ3ZiVTJITkYtZkk4VllETl9IQUZOZG9DdzlucTZfR2o4R1ZjclJDeVhMTkg2VVJkN1VTbFVua1p2S21hc2hwRmlmNWcyZDk5SWZNZE5kVmhDMHpHWmpGaWthV2RfNS1tYXhmekpHRUlYcllFX0kxV0E?oc=5",
@@ -15773,7 +15949,7 @@
       "agendapunt": "2.7 Belasting- en legesverordeningen 2027 (Marco Wiesehahn-Vrijman)",
       "last_seen": "2026-11-09",
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.7 Belasting- en legesverordeningen 2027 (Marco Wiesehahn-Vrijman)",
-      "content_checked": "2026-11-09T03:31:16+00:00",
+      "content_checked": "2026-11-09T09:32:01+00:00",
       "kw_sig": "4f53cda18c2b|b3c8a1d2bd6665dff9d60e399ababf469a8f580d09c27ae1457952329ee6ffe2|Bijlage 9. Verordening Forensenbelasting 2027|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.7 Belasting- en legesverordeningen 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "b3c8a1d2bd6665dff9d60e399ababf469a8f580d09c27ae1457952329ee6ffe2"
@@ -15803,7 +15979,7 @@
       "agendapunt": "2.7 Belasting- en legesverordeningen 2027 (Marco Wiesehahn-Vrijman)",
       "last_seen": "2026-11-09",
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.7 Belasting- en legesverordeningen 2027 (Marco Wiesehahn-Vrijman)",
-      "content_checked": "2026-11-09T03:31:16+00:00",
+      "content_checked": "2026-11-09T09:32:02+00:00",
       "kw_sig": "4f53cda18c2b|267fd66616ee839b9b876fd4ba976fbd4d13cde7815bef2b988d0cc3b00b6994|Bijlage 10. Besluit kwijtscheldingsregels 2027 Alkmaar|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.7 Belasting- en legesverordeningen 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "267fd66616ee839b9b876fd4ba976fbd4d13cde7815bef2b988d0cc3b00b6994"
@@ -15833,7 +16009,7 @@
       "agendapunt": "2.7 Belasting- en legesverordeningen 2027 (Marco Wiesehahn-Vrijman)",
       "last_seen": "2026-11-09",
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.7 Belasting- en legesverordeningen 2027 (Marco Wiesehahn-Vrijman)",
-      "content_checked": "2026-11-09T03:31:17+00:00",
+      "content_checked": "2026-11-09T09:32:02+00:00",
       "kw_sig": "4f53cda18c2b|d9a0ad4f8709dbffbf8cc620a216e5daaad2dc547954ba78198a7c0c01244969|Bijlage 11. Mutatietabel leges- en belastingverordeningen 2027|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.7 Belasting- en legesverordeningen 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "d9a0ad4f8709dbffbf8cc620a216e5daaad2dc547954ba78198a7c0c01244969"
@@ -15863,7 +16039,7 @@
       "agendapunt": "2.8 Verordening tot wijziging van de legesverordening 2026 (Marco Wiesehahn-Vrijman)",
       "last_seen": "2026-11-09",
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.8 Verordening tot wijziging van de legesverordening 2026 (Marco Wiesehahn-Vrijman)",
-      "content_checked": "2026-11-09T03:31:18+00:00",
+      "content_checked": "2026-11-09T09:32:03+00:00",
       "kw_sig": "4f53cda18c2b|86df9ceba7b829986032cb1aa70d610b829e49a9c6eb0363ca5f733562bacd4c|Collegevoorstel Verordening tot wijziging van de legesverordening 2026|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.8 Verordening tot wijziging van de legesverordening 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "86df9ceba7b829986032cb1aa70d610b829e49a9c6eb0363ca5f733562bacd4c"
@@ -15893,7 +16069,7 @@
       "agendapunt": "2.8 Verordening tot wijziging van de legesverordening 2026 (Marco Wiesehahn-Vrijman)",
       "last_seen": "2026-11-09",
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.8 Verordening tot wijziging van de legesverordening 2026 (Marco Wiesehahn-Vrijman)",
-      "content_checked": "2026-11-09T03:31:19+00:00",
+      "content_checked": "2026-11-09T09:32:03+00:00",
       "kw_sig": "4f53cda18c2b|2f2dcfa86f4cf9acb50a6fcd59bc1f1eee70ffe0aaacdf230471e18e172db1b5|GT Raadsvoorstel Verordening tot wijziging leges 2026|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.8 Verordening tot wijziging van de legesverordening 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "2f2dcfa86f4cf9acb50a6fcd59bc1f1eee70ffe0aaacdf230471e18e172db1b5"
@@ -15923,7 +16099,7 @@
       "agendapunt": "2.8 Verordening tot wijziging van de legesverordening 2026 (Marco Wiesehahn-Vrijman)",
       "last_seen": "2026-11-09",
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.8 Verordening tot wijziging van de legesverordening 2026 (Marco Wiesehahn-Vrijman)",
-      "content_checked": "2026-11-09T03:31:20+00:00",
+      "content_checked": "2026-11-09T09:32:04+00:00",
       "kw_sig": "4f53cda18c2b|11810f5911001fd40612cebe7a8aadd8ab92b83346e196afaaa1889d1a55196f|Bijlage 1. Verordening tot wijziging van de Legesverordening 2026|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.8 Verordening tot wijziging van de legesverordening 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "11810f5911001fd40612cebe7a8aadd8ab92b83346e196afaaa1889d1a55196f"
@@ -15953,7 +16129,7 @@
       "agendapunt": "3.1 Raadsinformatiebrief Voortgang aanpak overlast en leefbaarheid",
       "last_seen": "2026-11-09",
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 3.1 Raadsinformatiebrief Voortgang aanpak overlast en leefbaarheid",
-      "content_checked": "2026-11-09T03:31:21+00:00",
+      "content_checked": "2026-11-09T09:32:04+00:00",
       "kw_sig": "4f53cda18c2b|184804bd6993f8019e54270270a51f69f6e124918f355b84e340e1456eccb190|Raadsinformatiebrief Voortgang aanpak overlast en leefbaarheid|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 3.1 Raadsinformatiebrief Voortgang aanpak overlast en leefbaarheid",
       "missing_count": 0,
       "text_hash": "184804bd6993f8019e54270270a51f69f6e124918f355b84e340e1456eccb190"
@@ -183546,14 +183722,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-09T09:00:59+00:00",
+        "checked": "2026-11-09T09:31:36+00:00",
         "ok": true,
-        "count": 393,
-        "new": 3,
-        "note": "Laatste 30 dagen: 393 van 393 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 398,
+        "new": 5,
+        "note": "Laatste 30 dagen: 398 van 398 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-09T09:01:21+00:00",
+        "checked": "2026-11-09T09:31:49+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -183561,7 +183737,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 728 documenten bekend. Dekking: vergaderingen van 2026-09-10 t/m 2026-12-24 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-09T09:01:22+00:00",
+        "checked": "2026-11-09T09:31:50+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -183569,21 +183745,21 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-09T09:01:23+00:00",
+        "checked": "2026-11-09T09:31:51+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-09T09:01:23+00:00",
+        "checked": "2026-11-09T09:31:52+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-11-09T09:01:27+00:00",
+        "checked": "2026-11-09T09:31:56+00:00",
         "ok": true,
         "count": 30,
         "new": 1,
@@ -183592,19 +183768,19 @@
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-09T09:01:30+00:00",
+        "checked": "2026-11-09T09:32:04+00:00",
         "ok": true,
-        "count": 0,
+        "count": 7,
         "errors": 0,
-        "note": "0 documenten gecontroleerd (0 pdf), 548 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "7 documenten gecontroleerd (7 pdf), 548 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-09T09:01:30+00:00",
+        "checked": "2026-11-09T09:32:04+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-09T09:01:30+00:00",
+        "checked": "2026-11-09T09:32:04+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -183620,7 +183796,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-09T09:00:59+00:00",
+        "checked": "2026-11-09T09:31:36+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -183628,7 +183804,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-09T09:00:59+00:00",
+        "checked": "2026-11-09T09:31:36+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -183636,7 +183812,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-09T09:00:59+00:00",
+        "checked": "2026-11-09T09:31:36+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -183644,7 +183820,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-09T09:00:59+00:00",
+        "checked": "2026-11-09T09:31:36+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -183652,7 +183828,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-11-09T09:00:59+00:00",
+        "checked": "2026-11-09T09:31:36+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -183887,7 +184063,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-11-09T08:30:49+00:00",
+        "checked": "2026-11-09T09:31:36+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -183895,7 +184071,7 @@
         "documents": 18
       },
       "dcc6411b-600b-4103-9480-0c96305035a4": {
-        "checked": "2026-11-09T08:30:49+00:00",
+        "checked": "2026-11-09T09:31:36+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-06",
@@ -184182,7 +184358,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-11-09T08:30:49+00:00",
+        "checked": "2026-11-09T09:31:36+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -184190,7 +184366,7 @@
         "documents": 71
       },
       "76d0f4f5-e1b7-4995-b9f2-74d91963993a": {
-        "checked": "2026-11-09T08:30:49+00:00",
+        "checked": "2026-11-09T09:31:36+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-27",
@@ -184198,7 +184374,7 @@
         "documents": 1
       },
       "f339467e-beb6-47d2-9d1f-e8fd285b0283": {
-        "checked": "2026-11-09T08:30:49+00:00",
+        "checked": "2026-11-09T09:31:36+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-27",
@@ -184223,7 +184399,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-09T09:01:02+00:00"
+      "alkmaar": "2026-11-09T09:31:38+00:00"
     },
     "reports": {
       "alkmaar": {
