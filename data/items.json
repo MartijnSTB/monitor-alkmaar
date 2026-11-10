@@ -3,6 +3,66 @@
     "alkmaar"
   ],
   "items": {
+    "d99d7d30bfdf4110c652cba6e6aa7d0a6ead745fcac7607db50dcca0191238f1": {
+      "title": "Ongeval met letsel op Martin Luther Kingweg in Alkmaar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0s5dzJsYzAyUVhBMkU0S045Mm1taGNoVW1aTkVPUTRtNU5USHduSDd5ZG12elQ5VGc1UnIxZm9ETWJmUU1zakdkMENLTER2ckU2SS1SekFhbU41Z0FHX05JTHpDZjJSZE1oSFBIcUtfMURRaWpxYmgwd0U0S3RyWjgwZW1QM3FnVDhOSkc3NjRXWks3MXhEeV9wOWF3N2FxdmlZ?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-10T13:31:11+00:00",
+      "updated": "2026-11-10T13:31:11+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "AD.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-10",
+      "doc_date": "2026-11-10",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-10T13:54+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Ongeval met letsel op Martin Luther Kingweg in Alkmaar|"
+    },
+    "dcc643959cbe4b8592c29213f79a058fb9bf6e0f3801238d02042022568aa860": {
+      "title": "Stroomstoring in West-Graftdijk opgelost",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLTdaanZRX0dIcFFjRzVTNVFBX2xVTUloaklvMERxYlc4TjN5WTY2Z19tOEJmMDVDNFQ1aFk2dUo3dzVNOXJEalBqdEh1RHJ1T0ZtUFBWakRzempoRkxHOTRRdEU4ZzhuUlhqNEFQYUhXa2s0TTRmYkdBc3Y2Q1VmRW1JUQ?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-10T13:31:09+00:00",
+      "updated": "2026-11-10T13:31:09+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "AD.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-10",
+      "doc_date": "2026-11-10",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-10T09:43+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Stroomstoring in West-Graftdijk opgelost|"
+    },
+    "5a1765db425947541f21d5ef948f33a63a1f98210bcffd225882dc78a620f43a": {
+      "title": "Aanpak tegen wateroverlast in Alkmaarse binnenstad loopt flinke vertraging op",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUF6cVg4VzVFZkdXb1g2bjRPN0djS2gxb01zb19VcjgxWDIzcHE0RTlKOGJrenBXRjdOcVZOeGhDdmRjNWk2TFhsaUxDMk9mM0tKMEJtZ0tWdTF6YmRYSTRVc1Z6dFluTTBITzJodVVEaW5objctbDhZVndWWG8yN2lFYW5fSXZlMzAxcmhtM2tzOWQ4ekVBb2ltalZHcHIxcUktSHJfYmNCRkZjLXVtaEl3eEVJYTFvMHBN?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-10T13:31:09+00:00",
+      "updated": "2026-11-10T13:31:09+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "www.rodi.nl",
+      "media_match": "tekst",
+      "last_seen": "2026-11-10",
+      "doc_date": "2026-11-10",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-10T14:02+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Aanpak tegen wateroverlast in Alkmaarse binnenstad loopt flinke vertraging op|"
+    },
     "ed9fd981bc2b181ab62f89b11f5f76fc72bad546bf04d979f20e7b99e2eabf91": {
       "title": "Eerste bomen voor dorpsbos in Ursem gaan de grond in",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNakhfYTRQaUxRRWIzMVMxUVpOYlZuZmVsTzEtZXZ6QnhjQVJkNkt1bTAxU3pvZnBMTHhtMTQwZ2pSSDJUZFNDLUFUeXZhazB3VzVNZHFDcGFyWEZqRmdpN2I4Ymx6UDVTLVRPdUpGcURNMmpHandNSE40ekhwOHJNMXZraGlOVEcweER5UzNLMldVcUNuSWc?oc=5",
@@ -824,9 +884,9 @@
       "media_bron": "NH Nieuws",
       "media_match": "tekst",
       "last_seen": "2026-11-10",
-      "doc_date": "2026-11-10",
+      "doc_date": "2026-11-09",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-10T01:22+01:00",
+      "published_at": "2026-11-09T09:00+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Propvolle vervangende bussen in Noordkop: \"Ik moest vier bussen wachten\"|"
     },
@@ -4793,7 +4853,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 5.2.2 Besluit 12: Rapport Ruimte voor recreatie",
       "missing_count": 0,
       "text_hash": "1425e68de2dea18708b7aaff026cee5145f97198e8c49262125a8696796488e1",
-      "content_checked": "2026-11-10T07:31:11+00:00",
+      "content_checked": "2026-11-10T13:31:18+00:00",
       "kw_sig": "4f53cda18c2b|1425e68de2dea18708b7aaff026cee5145f97198e8c49262125a8696796488e1|Noord-Holland - ruimte voor recreatie - eindrapport 14 juli 2026|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 5.2.2 Besluit 12: Rapport Ruimte voor recreatie"
     },
     "5f1c02d14697e54f0d554c2a591423342711d556346d760980793bb4bcc1cc16": {
@@ -4823,7 +4883,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 5.3 VNG Lobbymemo",
       "missing_count": 0,
       "text_hash": "3afb19bdad0c786b626b541b43db189c2ffe974add1a00cf6cc0cc26d0ded608",
-      "content_checked": "2026-11-10T07:31:12+00:00",
+      "content_checked": "2026-11-10T13:31:21+00:00",
       "kw_sig": "4f53cda18c2b|3afb19bdad0c786b626b541b43db189c2ffe974add1a00cf6cc0cc26d0ded608|20261030 VNG Lobbymemo|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 5.3 VNG Lobbymemo"
     },
     "4f24420cbcbf48bd81537a28d323693d7e07c50df574f2b73a62343df5fd33d7": {
@@ -7816,7 +7876,7 @@
       "excerpt": "Wat heeft u nodig om gezond en prettig te leven in Alkmaar? Kunt u gemakkelijk bewegen in uw buurt? En...",
       "missing_count": 0,
       "text_hash": "7e6be815604b8f1530a8378a5f2c1ef5b1d89b0bd97505f178d4ff459bc20b43",
-      "content_checked": "2026-11-10T07:31:13+00:00",
+      "content_checked": "2026-11-10T13:31:22+00:00",
       "kw_sig": "4f53cda18c2b|7e6be815604b8f1530a8378a5f2c1ef5b1d89b0bd97505f178d4ff459bc20b43|Denk mee over gezondheid in Alkmaar|Wat heeft u nodig om gezond en prettig te leven in Alkmaar? Kunt u gemakkelijk bewegen in uw buurt? En...",
       "changes": [
         {
@@ -185435,14 +185495,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-10T13:00:53+00:00",
+        "checked": "2026-11-10T13:30:48+00:00",
         "ok": true,
         "count": 421,
         "new": 0,
         "note": "Laatste 30 dagen: 421 van 421 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-10T13:01:15+00:00",
+        "checked": "2026-11-10T13:31:06+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -185450,7 +185510,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 731 documenten bekend. Dekking: vergaderingen van 2026-09-11 t/m 2026-12-25 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-10T13:01:21+00:00",
+        "checked": "2026-11-10T13:31:07+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -185458,40 +185518,42 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-10T13:02:51+00:00",
-        "ok": false,
-        "error": "HTTPSConnectionPool(host='www.alkmaar.nl', port=443): Max retries exceeded with url: /nieuws/feed (Caused by NewConnectionError(\"HTTPSConnection(host='www.alkmaar.nl', port=443): Failed to establish a new connection: [Errno 101] Network is unreachabl"
+        "checked": "2026-11-10T13:31:08+00:00",
+        "ok": true,
+        "count": 10,
+        "new": 0,
+        "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-10T13:02:51+00:00",
+        "checked": "2026-11-10T13:31:09+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-11-10T13:02:56+00:00",
+        "checked": "2026-11-10T13:31:13+00:00",
         "ok": true,
-        "count": 44,
-        "new": 2,
+        "count": 48,
+        "new": 3,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-10T13:03:16+00:00",
+        "checked": "2026-11-10T13:31:22+00:00",
         "ok": true,
-        "count": 18,
+        "count": 3,
         "errors": 0,
-        "note": "18 documenten gecontroleerd (18 pdf), 552 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 3 pdf zonder tekst deze run."
+        "note": "3 documenten gecontroleerd (2 pdf), 552 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-10T13:03:16+00:00",
+        "checked": "2026-11-10T13:31:22+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-10T13:03:16+00:00",
+        "checked": "2026-11-10T13:31:22+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -185507,7 +185569,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-10T13:00:53+00:00",
+        "checked": "2026-11-10T13:30:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -185515,7 +185577,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-10T13:00:53+00:00",
+        "checked": "2026-11-10T13:30:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -185523,7 +185585,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-10T13:00:53+00:00",
+        "checked": "2026-11-10T13:30:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -185531,7 +185593,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-10T13:00:53+00:00",
+        "checked": "2026-11-10T13:30:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -185539,7 +185601,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-11-10T13:00:53+00:00",
+        "checked": "2026-11-10T13:30:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -185774,7 +185836,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-11-10T12:30:44+00:00",
+        "checked": "2026-11-10T13:30:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -185782,7 +185844,7 @@
         "documents": 18
       },
       "dcc6411b-600b-4103-9480-0c96305035a4": {
-        "checked": "2026-11-10T12:30:44+00:00",
+        "checked": "2026-11-10T13:30:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-06",
@@ -186069,7 +186131,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-11-10T12:30:44+00:00",
+        "checked": "2026-11-10T13:30:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -186077,7 +186139,7 @@
         "documents": 71
       },
       "76d0f4f5-e1b7-4995-b9f2-74d91963993a": {
-        "checked": "2026-11-10T12:30:44+00:00",
+        "checked": "2026-11-10T13:30:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-27",
@@ -186085,7 +186147,7 @@
         "documents": 1
       },
       "f339467e-beb6-47d2-9d1f-e8fd285b0283": {
-        "checked": "2026-11-10T12:30:44+00:00",
+        "checked": "2026-11-10T13:30:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-27",
@@ -186110,7 +186172,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-10T13:00:57+00:00"
+      "alkmaar": "2026-11-10T13:30:51+00:00"
     },
     "reports": {
       "alkmaar": {
