@@ -3,6 +3,228 @@
     "alkmaar"
   ],
   "items": {
+    "24175bad46b87aae143936c94ab7dfa945000435f03413692726fd0fc68d6a9f": {
+      "title": "Omgevingsvergunning aangevraagd: het kappen van een iep (noodkap) , voor Gaffelstraat 235, Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-527008.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T09:30:46+00:00",
+      "updated": "2026-11-11T09:30:46+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "voor Gaffelstraat 235, Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het kappen van een iep (noodkap) , voor Gaffelstraat 235, Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
+    "1fd037b8048c1153cc5d895d1fb14a2700c331dec282c4253f483632c6ea2d95": {
+      "title": "Omgevingsvergunning aangevraagd: het vervangen van luchtbehandelingskast (PCC), Vondelstraat 41, 1813 BA Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-526942.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T09:30:46+00:00",
+      "updated": "2026-11-11T09:30:46+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "geo": [
+        52.621038,
+        4.749045
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Vondelstraat 41 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het vervangen van luchtbehandelingskast (PCC), Vondelstraat 41, 1813 BA Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
+    "47a73d964c256202a73b8bade702e373c6eaabbd9f0d1b4bf22ac309e50acae2": {
+      "title": "Omgevingsvergunning aangevraagd: het schilderen van de voorgevel en het plaatsen van reclame, Laat 151, 1811 EE Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-526923.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T09:30:46+00:00",
+      "updated": "2026-11-11T09:30:46+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "geo": [
+        52.630238,
+        4.74738
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Laat 151 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het schilderen van de voorgevel en het plaatsen van reclame, Laat 151, 1811 EE Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
+    "32c6a372a8d8153607eac8553d29c7aacf5b120de1950807a4a2be521c68fb36": {
+      "title": "Melding ontvangen voor Louise Henriettestraat te Alkmaar (Toepassen van grond of baggerspecie)",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-526589.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T09:30:46+00:00",
+      "updated": "2026-11-11T09:30:46+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "omgevingsmelding",
+      "locatie": "Vlak 1",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Melding ontvangen voor Louise Henriettestraat te Alkmaar (Toepassen van grond of baggerspecie)|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
+    "3e968fec4fbdbcc55aae247f46d83ecda11bb7832f20cbb0b739fe40c9dc74f7": {
+      "title": "Omgevingsvergunning regulier Verleend: het plaatsen van een mobiel toilet van 12-11-26 t/m 26-11-26, t.h.v Geest 16, Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-526304.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T09:30:46+00:00",
+      "updated": "2026-11-11T09:30:46+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "t.h.v Geest 16, Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning regulier Verleend: het plaatsen van een mobiel toilet van 12-11-26 t/m 26-11-26, t.h.v Geest 16, Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
+    "3c962e83082404dedad044963f776cf953531117029b920f328562e0511a2e25": {
+      "title": "Omgevingsvergunning ingetrokken: het uitbreiden van de woning , Westeinde 1, 1483 EA De Rijp",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-526344.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T09:30:46+00:00",
+      "updated": "2026-11-11T09:30:46+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "geo": [
+        52.560315,
+        4.844141
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Westeinde 1 te De Rijp",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning ingetrokken: het uitbreiden van de woning , Westeinde 1, 1483 EA De Rijp|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
+    "14ada84e512803930f3cd07f7364a41795b1777b9ab696d62acd2023fc54deb4": {
+      "title": "Omgevingsvergunning aangevraagd: het realiseren van 3 voetgangersbruggen, bij Pendorp, Helderseweg Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-526972.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T09:30:46+00:00",
+      "updated": "2026-11-11T09:30:46+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "bij Pendorp, Helderseweg Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het realiseren van 3 voetgangersbruggen, bij Pendorp, Helderseweg Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
     "dc3d57c643e32e329d9fde138d141e33c1db4cdaf75171b484144554fa87105f": {
       "title": "Omgevingsvergunning aangevraagd: het kappen van twee bomen, t.h.v Einthovenstraat 4E, Alkmaar",
       "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-526860.html",
@@ -186580,14 +186802,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-11T09:00:54+00:00",
+        "checked": "2026-11-11T09:30:46+00:00",
         "ok": true,
-        "count": 446,
-        "new": 17,
-        "note": "Laatste 30 dagen: 446 van 446 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 453,
+        "new": 7,
+        "note": "Laatste 30 dagen: 453 van 453 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-11T09:01:16+00:00",
+        "checked": "2026-11-11T09:31:04+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -186595,7 +186817,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 731 documenten bekend. Dekking: vergaderingen van 2026-09-12 t/m 2026-12-26 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-11T09:01:17+00:00",
+        "checked": "2026-11-11T09:31:05+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -186603,40 +186825,40 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-11T09:01:19+00:00",
+        "checked": "2026-11-11T09:31:06+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-11T09:01:19+00:00",
+        "checked": "2026-11-11T09:31:07+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-11-11T09:01:19+00:00",
+        "checked": "2026-11-11T09:31:07+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-11T09:01:56+00:00",
+        "checked": "2026-11-11T09:31:20+00:00",
         "ok": true,
-        "count": 3,
+        "count": 0,
         "errors": 0,
-        "note": "3 documenten gecontroleerd (2 pdf), 552 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "0 documenten gecontroleerd (0 pdf), 552 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-11T09:01:56+00:00",
+        "checked": "2026-11-11T09:31:20+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-11T09:01:56+00:00",
+        "checked": "2026-11-11T09:31:20+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -186652,7 +186874,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-11T09:00:54+00:00",
+        "checked": "2026-11-11T09:30:46+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -186660,7 +186882,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-11T09:00:54+00:00",
+        "checked": "2026-11-11T09:30:46+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -186668,7 +186890,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-11T09:00:54+00:00",
+        "checked": "2026-11-11T09:30:46+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -186676,7 +186898,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-11T09:00:54+00:00",
+        "checked": "2026-11-11T09:30:46+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -186684,7 +186906,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-11-11T09:00:54+00:00",
+        "checked": "2026-11-11T09:30:46+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -186935,7 +187157,7 @@
         "documents": 67
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-11-11T08:30:42+00:00",
+        "checked": "2026-11-11T09:30:46+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -186943,7 +187165,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-11-11T08:30:42+00:00",
+        "checked": "2026-11-11T09:30:46+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -186951,7 +187173,7 @@
         "documents": 69
       },
       "360c3bf1-368c-4263-ace7-2539daede35f": {
-        "checked": "2026-11-11T08:30:42+00:00",
+        "checked": "2026-11-11T09:30:46+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-15",
@@ -187238,7 +187460,7 @@
         "documents": 64
       },
       "42f2dcbc-b02c-4292-98ff-133fe6c4b5a7": {
-        "checked": "2026-11-11T08:30:42+00:00",
+        "checked": "2026-11-11T09:30:46+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-03",
@@ -187246,7 +187468,7 @@
         "documents": 1
       },
       "b5f85388-de26-4e67-be6a-3bda136604ae": {
-        "checked": "2026-11-11T08:30:42+00:00",
+        "checked": "2026-11-11T09:30:46+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-03",
@@ -187255,7 +187477,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-11T09:00:58+00:00"
+      "alkmaar": "2026-11-11T09:30:48+00:00"
     },
     "reports": {
       "alkmaar": {
