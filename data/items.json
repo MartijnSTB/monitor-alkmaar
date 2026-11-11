@@ -3,6 +3,254 @@
     "alkmaar"
   ],
   "items": {
+    "f6bc0434da3b79975d77438374ed8dbe3ebf685c2522c5215a9cd508d4cb2f5f": {
+      "title": "Algemene plaatselijke verordening Aangevraagd: Evenementenvergunning, het organiseren van KingsNight & KingsDay op 26 en 27 april 2027, hofplein alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-524948.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T08:30:42+00:00",
+      "updated": "2026-11-11T08:30:42+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "evenementenvergunning",
+      "locatie": "hofplein alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Algemene plaatselijke verordening Aangevraagd: Evenementenvergunning, het organiseren van KingsNight & KingsDay op 26 en 27 april 2027, hofplein alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
+    "0ff75be3db66478fa88293e67ae4fedbfe5d883a59be601c4216b6e38a1b3562": {
+      "title": "Omgevingsvergunning aangevraagd: het restaureren van verbrande en beschadigde onderdelen van een pand, Molenbuurt 26, 1811 KD Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-524821.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T08:30:42+00:00",
+      "updated": "2026-11-11T08:30:42+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "geo": [
+        52.633734,
+        4.742658
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Molenbuurt 26 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het restaureren van verbrande en beschadigde onderdelen van een pand, Molenbuurt 26, 1811 KD Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
+    "45283b18df0c7593b3cdefc49eaa323a8342ddd9d1f0a00b970f93e2db9207ef": {
+      "title": "Uitnodiging tot inschrijving pachtpercelen en Hobbyland",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-523684.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T08:30:42+00:00",
+      "updated": "2026-11-11T08:30:42+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "andere voorlichtingsinformatie",
+      "locatie": "Perceel Graft-De Rijp (GRA03) G 415",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Uitnodiging tot inschrijving pachtpercelen en Hobbyland|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
+    "cee96e6c9dc8d163730189901b311e955ef08af69e93d227ebdb7435baafbc3c": {
+      "title": "Voornemen tot ambtshalve uitschrijving uit de basisregistratie personen van Stefan Dimitrov Yordanov",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-523533.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T08:30:42+00:00",
+      "updated": "2026-11-11T08:30:42+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "uitschrijving basisregistratie personen",
+      "locatie": null,
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Voornemen tot ambtshalve uitschrijving uit de basisregistratie personen van Stefan Dimitrov Yordanov|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
+    "4234bad5b0c4837fb0fcbb95caa48ea1d2d73bf5b5f5d6896e8c68b6e3ff7e41": {
+      "title": "Omgevingsvergunning aangevraagd: het realiseren van een dakopbouw van bestaande woning, Rhijnvis Feithlaan 114, 1813 KT Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-525149.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T08:30:42+00:00",
+      "updated": "2026-11-11T08:30:42+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "geo": [
+        52.616126,
+        4.744071
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Rhijnvis Feithlaan 114 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het realiseren van een dakopbouw van bestaande woning, Rhijnvis Feithlaan 114, 1813 KT Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
+    "b2bc3079d9887f9654f026c98edb605adf4487c4a8329a0a1851694c6ccbc3fa": {
+      "title": "Voornemen tot ambtshalve uitschrijving uit de basisregistratie personen van Katerina Dimitrova Yordanova",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-523509.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T08:30:42+00:00",
+      "updated": "2026-11-11T08:30:42+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "uitschrijving basisregistratie personen",
+      "locatie": null,
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Voornemen tot ambtshalve uitschrijving uit de basisregistratie personen van Katerina Dimitrova Yordanova|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
+    "0e83dbf47873dd3302794a5a15081bbe469dedaad6edd1e795a3f5a2f6d7f00f": {
+      "title": "Voornemen tot ambtshalve uitschrijving uit de basisregistratie personen van Bozhidar Petkov Iliev",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-523478.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T08:30:42+00:00",
+      "updated": "2026-11-11T08:30:42+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "uitschrijving basisregistratie personen",
+      "locatie": null,
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Voornemen tot ambtshalve uitschrijving uit de basisregistratie personen van Bozhidar Petkov Iliev|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
+    "61796d4a7fe45808dc30077f132e3d1d137663d86785e5644ec0f391ffca0f24": {
+      "title": "Publicatie voornemen tot verpachten van grond",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-523637.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-11T08:30:42+00:00",
+      "updated": "2026-11-11T08:30:42+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-11",
+      "koop_dates": {
+        "available": "2026-11-11",
+        "issued": null,
+        "date": "2026-11-11"
+      },
+      "doc_date": "2026-11-11",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "koop_type": "andere voorlichtingsinformatie",
+      "locatie": "Perceel Egmond-Binnen (EMD02) G 140",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11",
+      "published_at_tried": true,
+      "published_at": "2026-11-11T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Publicatie voornemen tot verpachten van grond|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-11"
+    },
     "42f991a46b07ea5928a824fa51c9331baed77500add0ba2fdc3fd22c4c32aaa6": {
       "title": "Queer Alkmaar - Wandelen",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSEpjU2N2SG9ISElYbWZXOFVNeWxhMnpfVTg0ZDZEbUtpUEhIaVRqOXUwMXZiTW9RVWtMYzdKUHhWR0doajZDWExQVlJ6dGJWN0JPeno0TG1EUXRkamo3dDljSVNKbk9ZTTk5NTVKZGluNG94dHZOeW0tbUF5NjI5Wg?oc=5",
@@ -3946,7 +4194,7 @@
       "excerpt": "B&W Agenda dinsdag 3 november 2026 · agendapunt Agenda collegevergadering van 3 november 2026",
       "missing_count": 0,
       "text_hash": "8dc34dba7e87b8f8b961a07592b571f8ce1e8fef1e59e5ca80e2d111248d4509",
-      "content_checked": "2026-11-11T02:01:30+00:00",
+      "content_checked": "2026-11-11T08:31:20+00:00",
       "kw_sig": "4f53cda18c2b|8dc34dba7e87b8f8b961a07592b571f8ce1e8fef1e59e5ca80e2d111248d4509|Agenda Collegevergadering van 3 november 2026|B&W Agenda dinsdag 3 november 2026 · agendapunt Agenda collegevergadering van 3 november 2026"
     },
     "ca4b35b279a669b312c638409a525a71b89aa1d6a776cf3c234e80baa66d9617": {
@@ -4893,7 +5141,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 4.2 Raadsinformatiebrief Toezegging Munnikenweg",
       "missing_count": 0,
       "text_hash": "163f9ad1965a9f1e0dc11aba7a6b06b70f4e598da145741f2815817a81f0170b",
-      "content_checked": "2026-11-11T02:01:28+00:00",
+      "content_checked": "2026-11-11T08:31:18+00:00",
       "kw_sig": "4f53cda18c2b|163f9ad1965a9f1e0dc11aba7a6b06b70f4e598da145741f2815817a81f0170b|Raadsinformatiebrief Toezegging Munnikenweg|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 4.2 Raadsinformatiebrief Toezegging Munnikenweg"
     },
     "d48a8cbc3a6139fbd8951568cf84917b5f37080a2314c1459fb6e71698bf7f50": {
@@ -4923,7 +5171,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 4.3 Raadsinformatiebrief HVC Brief aan aandeelhouders - Update geothermieproject Alton",
       "missing_count": 0,
       "text_hash": "d73d82795896f853c7d25d600eb7a60e47f0f60f8d44660a3a591e89a7a8b35e",
-      "content_checked": "2026-11-11T02:01:29+00:00",
+      "content_checked": "2026-11-11T08:31:19+00:00",
       "kw_sig": "4f53cda18c2b|d73d82795896f853c7d25d600eb7a60e47f0f60f8d44660a3a591e89a7a8b35e|Raadsinformatiebrief HVC_Brief aan aandeelhouders_Update_Alton_project|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 4.3 Raadsinformatiebrief HVC Brief aan aandeelhouders - Update geothermieproject Alton"
     },
     "88276c746a84fb961416250396af5b5ad7185ca960f35774c18ddd1a4324c43b": {
@@ -4953,7 +5201,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 4.3 Raadsinformatiebrief HVC Brief aan aandeelhouders - Update geothermieproject Alton",
       "missing_count": 0,
       "text_hash": "8c383dbc716b30f5f228381697aed147bad8fa48df48f5272fa9fa2f77327885",
-      "content_checked": "2026-11-11T02:01:31+00:00",
+      "content_checked": "2026-11-11T08:31:20+00:00",
       "kw_sig": "4f53cda18c2b|8c383dbc716b30f5f228381697aed147bad8fa48df48f5272fa9fa2f77327885|Bijlage 1. Update voortgang realisatie geothermie Alton|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 4.3 Raadsinformatiebrief HVC Brief aan aandeelhouders - Update geothermieproject Alton"
     },
     "8de5444bb39f34f675185f599bdce5a53407cf51fc7f9c0da62783825c50c0f7": {
@@ -4983,7 +5231,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 4.4 Raadsinformatiebrief Bewonersbrief meeting point ivm AZ-Juventus",
       "missing_count": 0,
       "text_hash": "a65987f170522186038a6bb7675280e6bcb90d6e363961812e99ba1a557aedd4",
-      "content_checked": "2026-11-11T02:01:32+00:00",
+      "content_checked": "2026-11-11T08:31:21+00:00",
       "kw_sig": "4f53cda18c2b|a65987f170522186038a6bb7675280e6bcb90d6e363961812e99ba1a557aedd4|Raadsinformatiebrief Bewonersbrief meeting point ivm AZ-Juventus|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 4.4 Raadsinformatiebrief Bewonersbrief meeting point ivm AZ-Juventus"
     },
     "828436571ac4415d88b26c0b6f0926e42cc799d9f7a4da787135adacbce54552": {
@@ -5013,7 +5261,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 4.4 Raadsinformatiebrief Bewonersbrief meeting point ivm AZ-Juventus",
       "missing_count": 0,
       "text_hash": "b7be9d8a7b25001a80a6fbb2f362b4ce8aed09403798b2eb0bd8651255da09fb",
-      "content_checked": "2026-11-11T02:01:32+00:00",
+      "content_checked": "2026-11-11T08:31:22+00:00",
       "kw_sig": "4f53cda18c2b|b7be9d8a7b25001a80a6fbb2f362b4ce8aed09403798b2eb0bd8651255da09fb|Bijlage 1. Bewonersbrief AZ - Juventus|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 4.4 Raadsinformatiebrief Bewonersbrief meeting point ivm AZ-Juventus"
     },
     "cc2fd25eacd4430cc7db8b080ce4c5bf173c8c27a8d530c7f72741e635fb6bc9": {
@@ -5043,7 +5291,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland van 27 oktober 2026",
       "missing_count": 0,
       "text_hash": "420a8f4f75dd03697d96ef14c2fb5f2301f820f5352d6f4cdbedafa54d6b7b64",
-      "content_checked": "2026-11-11T02:01:33+00:00",
+      "content_checked": "2026-11-11T08:31:23+00:00",
       "kw_sig": "4f53cda18c2b|420a8f4f75dd03697d96ef14c2fb5f2301f820f5352d6f4cdbedafa54d6b7b64|GS Besluitenlijst 26-10-27 OBV|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland van 27 oktober 2026"
     },
     "dc78f4276c760802e0d1ccb9bce75244f38fccd24e2a7e344ebad08dcd706f80": {
@@ -5073,7 +5321,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 5.2.1 Besluit 10: Stand van zaken mogelijke toekomstscenario's voor RAUM",
       "missing_count": 0,
       "text_hash": "ebda9b765a9e902daf78707f88f7dbaedebd1cde6ef91078ad90e80277db8fae",
-      "content_checked": "2026-11-11T02:01:34+00:00",
+      "content_checked": "2026-11-11T08:31:24+00:00",
       "kw_sig": "4f53cda18c2b|ebda9b765a9e902daf78707f88f7dbaedebd1cde6ef91078ad90e80277db8fae|Brief aan PS over Voortgang toekomstscenario Recreatieschap Alkmaarder- en Uitgeestermeer (RAUM) (ER)|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 5.2.1 Besluit 10: Stand van zaken mogelijke toekomstscenario's voor RAUM"
     },
     "511de41e1d169aa9493281d084863f06347658e082aee7e723231dc18fadc27a": {
@@ -5103,7 +5351,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 5.2.2 Besluit 12: Rapport Ruimte voor recreatie",
       "missing_count": 0,
       "text_hash": "de7dd4a17b2c85b09824f3500cbf47bf63b9bccead2af8e47e4d932cc963a9ca",
-      "content_checked": "2026-11-11T02:01:35+00:00",
+      "content_checked": "2026-11-11T08:31:31+00:00",
       "kw_sig": "4f53cda18c2b|de7dd4a17b2c85b09824f3500cbf47bf63b9bccead2af8e47e4d932cc963a9ca|Brief aan PS over Rapport Ruimte voor Recreatie Noord-Holland|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 5.2.2 Besluit 12: Rapport Ruimte voor recreatie"
     },
     "63483b3690ce1210dd09716c67e535e454cdb1025492fcb32da523acb4d10c3b": {
@@ -185774,14 +186022,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-11T08:00:50+00:00",
+        "checked": "2026-11-11T08:30:42+00:00",
         "ok": true,
-        "count": 421,
-        "new": 0,
-        "note": "Laatste 30 dagen: 421 van 421 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 429,
+        "new": 8,
+        "note": "Laatste 30 dagen: 429 van 429 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-11T08:01:11+00:00",
+        "checked": "2026-11-11T08:31:00+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -185789,7 +186037,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 731 documenten bekend. Dekking: vergaderingen van 2026-09-12 t/m 2026-12-26 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-11T08:01:18+00:00",
+        "checked": "2026-11-11T08:31:01+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -185797,40 +186045,40 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-11T08:01:19+00:00",
+        "checked": "2026-11-11T08:31:02+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-11T08:01:20+00:00",
+        "checked": "2026-11-11T08:31:02+00:00",
         "ok": true,
         "count": 200,
         "new": 0,
         "note": "Open Raadsinformatie: 200 nieuwste stukken en vergaderingen. Nieuwste bijwerking in ORI: 2026-06-29. ORI loopt soms maanden achter op het raadsinformatiesysteem van de gemeente."
       },
       "In de media": {
-        "checked": "2026-11-11T08:01:26+00:00",
-        "ok": false,
-        "error": "Google Nieuws gaf HTTP 503; 2 uur pauze"
+        "checked": "2026-11-11T08:31:02+00:00",
+        "ok": true,
+        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-11T08:02:15+00:00",
+        "checked": "2026-11-11T08:31:31+00:00",
         "ok": true,
-        "count": 34,
+        "count": 9,
         "errors": 0,
-        "note": "34 documenten gecontroleerd (28 pdf), 552 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 4 pdf zonder tekst deze run."
+        "note": "9 documenten gecontroleerd (9 pdf), 552 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-11T08:02:15+00:00",
+        "checked": "2026-11-11T08:31:31+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-11T08:02:15+00:00",
+        "checked": "2026-11-11T08:31:31+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -185846,7 +186094,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-11T08:00:50+00:00",
+        "checked": "2026-11-11T08:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -185854,7 +186102,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-11T08:00:50+00:00",
+        "checked": "2026-11-11T08:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -185862,7 +186110,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-11T08:00:50+00:00",
+        "checked": "2026-11-11T08:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -185870,7 +186118,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-11T08:00:50+00:00",
+        "checked": "2026-11-11T08:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -185878,7 +186126,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-11-11T08:00:50+00:00",
+        "checked": "2026-11-11T08:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -186129,7 +186377,7 @@
         "documents": 67
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-11-11T07:30:46+00:00",
+        "checked": "2026-11-11T08:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -186137,7 +186385,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-11-11T07:30:46+00:00",
+        "checked": "2026-11-11T08:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -186145,7 +186393,7 @@
         "documents": 69
       },
       "360c3bf1-368c-4263-ace7-2539daede35f": {
-        "checked": "2026-11-11T07:30:46+00:00",
+        "checked": "2026-11-11T08:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-15",
@@ -186432,7 +186680,7 @@
         "documents": 64
       },
       "42f2dcbc-b02c-4292-98ff-133fe6c4b5a7": {
-        "checked": "2026-11-11T07:30:46+00:00",
+        "checked": "2026-11-11T08:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-03",
@@ -186440,7 +186688,7 @@
         "documents": 1
       },
       "b5f85388-de26-4e67-be6a-3bda136604ae": {
-        "checked": "2026-11-11T07:30:46+00:00",
+        "checked": "2026-11-11T08:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-03",
@@ -186449,7 +186697,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-11T08:00:53+00:00"
+      "alkmaar": "2026-11-11T08:30:44+00:00"
     },
     "reports": {
       "alkmaar": {
