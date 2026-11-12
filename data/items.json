@@ -3,6 +3,172 @@
     "alkmaar"
   ],
   "items": {
+    "00f2d8448e424a66ac544484b5ff004e51ccc526b7c15ae426b0901fadb2c31b": {
+      "title": "Algemene plaatselijke verordening Verleend: Horeca-inrichting exploitatievergunning, Eetcafe Stoop , Rechtestraat 106, 1483 BE De Rijp",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-529321.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-12T09:30:42+00:00",
+      "updated": "2026-11-12T09:30:42+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-12",
+      "geo": [
+        52.559897,
+        4.849857
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-12",
+        "issued": null,
+        "date": "2026-11-12"
+      },
+      "doc_date": "2026-11-12",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "koop_type": "exploitatievergunning",
+      "locatie": "Rechtestraat 106 te De Rijp",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-12",
+      "published_at_tried": true,
+      "published_at": "2026-11-12T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Algemene plaatselijke verordening Verleend: Horeca-inrichting exploitatievergunning, Eetcafe Stoop , Rechtestraat 106, 1483 BE De Rijp|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-12"
+    },
+    "e4d6be6ec5fd7367bf250921caac01dd045eefdfd4cc1fd665c5ebfc80ded0e5": {
+      "title": "Algemene plaatselijke verordening Verleend: Alcoholwetvergunning, Eetcafe Stoop , Rechtestraat 106, 1483 BE De Rijp",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-529322.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-12T09:30:42+00:00",
+      "updated": "2026-11-12T09:30:42+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-12",
+      "geo": [
+        52.559897,
+        4.849857
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-12",
+        "issued": null,
+        "date": "2026-11-12"
+      },
+      "doc_date": "2026-11-12",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "koop_type": "andere vergunning",
+      "locatie": "Rechtestraat 106 te De Rijp",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-12",
+      "published_at_tried": true,
+      "published_at": "2026-11-12T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Algemene plaatselijke verordening Verleend: Alcoholwetvergunning, Eetcafe Stoop , Rechtestraat 106, 1483 BE De Rijp|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-12"
+    },
+    "11ee8eeb8dbba89159138e322b95d74b474125d36d5296013b25eb31072d6e1c": {
+      "title": "Omgevingsvergunning aangevraagd: het verkopen van kerstbomen van 26-11-26 t/m 20-12-26, Kanaaldijk 236, 1831 BE Koedijk",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-529369.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-12T09:30:42+00:00",
+      "updated": "2026-11-12T09:30:42+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-12",
+      "geo": [
+        52.667071,
+        4.750643
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-12",
+        "issued": null,
+        "date": "2026-11-12"
+      },
+      "doc_date": "2026-11-12",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Kanaaldijk 236 te Koedijk",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-12",
+      "published_at_tried": true,
+      "published_at": "2026-11-12T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het verkopen van kerstbomen van 26-11-26 t/m 20-12-26, Kanaaldijk 236, 1831 BE Koedijk|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-12"
+    },
+    "baee59a4cb3b312f98bd1f653db4f55e2d63b69c5211815cea9bf87eecff601a": {
+      "title": "Omgevingsvergunning regulier Verleend: het verkopen van kerstbomen van 26-11-26 t/m 14-12-26, naast Grote Sint Laurenskerk, Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-529231.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-12T09:30:42+00:00",
+      "updated": "2026-11-12T09:30:42+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-12",
+      "koop_dates": {
+        "available": "2026-11-12",
+        "issued": null,
+        "date": "2026-11-12"
+      },
+      "doc_date": "2026-11-12",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "naast Grote Sint Laurenskerk, Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-12",
+      "published_at_tried": true,
+      "published_at": "2026-11-12T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning regulier Verleend: het verkopen van kerstbomen van 26-11-26 t/m 14-12-26, naast Grote Sint Laurenskerk, Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-12"
+    },
+    "ad08bb3b6051ac393d2b87a4ffd36b8617b00c7a1b1038f2ed8a7ffbb92b81cb": {
+      "title": "Omgevingsvergunning regulier Verleend: het verbouwen, uitbreiden en restylen van bestaande woning, Kerklaan 19, 1829 BS Oudorp",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-529764.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-12T09:30:42+00:00",
+      "updated": "2026-11-12T09:30:42+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-12",
+      "geo": [
+        52.630693,
+        4.774488
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-12",
+        "issued": null,
+        "date": "2026-11-12"
+      },
+      "doc_date": "2026-11-12",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Kerklaan 19 te Oudorp",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-12",
+      "published_at_tried": true,
+      "published_at": "2026-11-12T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning regulier Verleend: het verbouwen, uitbreiden en restylen van bestaande woning, Kerklaan 19, 1829 BS Oudorp|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-12"
+    },
     "39d259f5d413edd7e90d3852051eab079b731669c22a98a133f6cc73a24b4d09": {
       "title": "Twee weken lang geen treinen in de Noordkop. Hoe lang ben je nu onderweg?",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOHBQLTlwSENRVU0yV0FWSllfUVhHQ2taNms1dnZoenFacnBNSUw2N2tWenZCZWJXVFV2R1ZUX3NxYjFKUWpXNjFveUluSUNOZ28yZ2RZRUdZY1FBTXhiR3RnMlZUanp6ZGZMeGJ6bEtQbHhzNFBaZGJoN2NVdmI5ODJBaGJHSENZTDR6RUJTRV9fbTROem1HakNwWWE0TWtndWtDTG9sTEt3Q0xfdlpzZWNyYWplaFpPbDZpVlF2OV83R3N0dnplbGhNUTVzYlp5dGkxSDI3cFNXcHJ6dHJHVG1WSzhCNTY4aDh6b21R?oc=5",
@@ -188223,14 +188389,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-12T09:00:52+00:00",
+        "checked": "2026-11-12T09:30:42+00:00",
         "ok": true,
-        "count": 458,
-        "new": 16,
-        "note": "Laatste 30 dagen: 458 van 458 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 463,
+        "new": 5,
+        "note": "Laatste 30 dagen: 463 van 463 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-12T09:01:08+00:00",
+        "checked": "2026-11-12T09:31:01+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -188238,7 +188404,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 731 documenten bekend. Dekking: vergaderingen van 2026-09-13 t/m 2026-12-27 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-12T09:01:08+00:00",
+        "checked": "2026-11-12T09:31:02+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -188246,40 +188412,40 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-12T09:01:10+00:00",
+        "checked": "2026-11-12T09:31:03+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-12T09:02:10+00:00",
+        "checked": "2026-11-12T09:32:03+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-12T09:02:14+00:00",
+        "checked": "2026-11-12T09:32:07+00:00",
         "ok": true,
-        "count": 45,
-        "new": 1,
+        "count": 43,
+        "new": 0,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-12T09:02:33+00:00",
+        "checked": "2026-11-12T09:32:14+00:00",
         "ok": true,
         "count": 0,
         "errors": 0,
         "note": "0 documenten gecontroleerd (0 pdf), 553 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-12T09:02:33+00:00",
+        "checked": "2026-11-12T09:32:14+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-12T09:02:33+00:00",
+        "checked": "2026-11-12T09:32:14+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -188295,7 +188461,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-12T09:00:52+00:00",
+        "checked": "2026-11-12T09:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -188303,7 +188469,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-12T09:00:52+00:00",
+        "checked": "2026-11-12T09:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -188311,7 +188477,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-12T09:00:52+00:00",
+        "checked": "2026-11-12T09:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -188319,7 +188485,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-12T09:00:52+00:00",
+        "checked": "2026-11-12T09:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -188327,7 +188493,7 @@
         "documents": 1
       },
       "ac4e2cc5-0ef0-4f65-b116-435580fbe813": {
-        "checked": "2026-11-12T09:00:52+00:00",
+        "checked": "2026-11-12T09:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-15",
@@ -188578,7 +188744,7 @@
         "documents": 67
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-11-12T08:30:49+00:00",
+        "checked": "2026-11-12T09:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -188586,7 +188752,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-11-12T08:30:49+00:00",
+        "checked": "2026-11-12T09:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -188594,7 +188760,7 @@
         "documents": 69
       },
       "360c3bf1-368c-4263-ace7-2539daede35f": {
-        "checked": "2026-11-12T08:30:49+00:00",
+        "checked": "2026-11-12T09:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-15",
@@ -188881,7 +189047,7 @@
         "documents": 64
       },
       "42f2dcbc-b02c-4292-98ff-133fe6c4b5a7": {
-        "checked": "2026-11-12T08:30:49+00:00",
+        "checked": "2026-11-12T09:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-03",
@@ -188889,7 +189055,7 @@
         "documents": 1
       },
       "b5f85388-de26-4e67-be6a-3bda136604ae": {
-        "checked": "2026-11-12T08:30:49+00:00",
+        "checked": "2026-11-12T09:30:42+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-03",
@@ -188898,7 +189064,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-12T09:00:54+00:00"
+      "alkmaar": "2026-11-12T09:30:45+00:00"
     },
     "reports": {
       "alkmaar": {
