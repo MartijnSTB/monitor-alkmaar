@@ -1,0 +1,931 @@
+1
+Energiebesparingsakkoord
+Noord-Hollandse bedrijven en instellingen 2027-2030
+Bestuurlijk Energiebesparingsberaad
+18 november 2026
+Voorbereid door werkgroep Energiebesparingsakkoord
+waar aa n deelnemen alle 45 Noord -Hollandse gemeenten, de vier omgevingsdiensten en
+de provincie Noord -Holland .
+Eind redactie Provincie Noord -Holland
+Haarlem, 15 -10 -2026
+2
+Inhoud
+Partijen ........................................................................................................................................
+3
+Considerans .................................................................................................................................
+4
+ENERGIEBESPARINGSAKKOORD 2027-2030 ...................................................................................
+5
+Artikelen ......................................................................................................................................
+5
+1.
+Begrippenlijst ...................................................................................................................
+5
+2.
+Ambitie, doelen, randvoorwaarden en aanpak in twee stappen .........................................
+9
+3.
+Werkwijze ......................................................................................................................
+11
+4.
+Monitoring .....................................................................................................................
+11
+5.
+Middelen ........................................................................................................................
+12
+6.
+Algemene bepalingen .....................................................................................................
+13
+7.
+Slotbepalingen ...............................................................................................................
+13
+Werkplan ....................................................................................................................................
+14
+1.
+Doel werkplan ................................................................................................................
+14
+2.
+Werkwijze uitvoering Energiebesparingsakkoord ............................................................
+14
+3.
+Organisatiestructuur, organisatieonderdelen en taken ....................................................
+15
+4.
+Rollen en taken per partij ...............................................................................................
+15
+5.
+Fasering en planning ......................................................................................................
+17
+6.
+Toezicht en handhaving .................................................................................................
+17
+7.
+Data ...............................................................................................................................
+18
+8.
+Communicatie ................................................................................................................
+19
+3
+Partijen
+Het college van Burgemeester en wethouders (B&W) van:
+De gemeente Amstelveen, vertegenwoordigd door wethouder Lennart de Looze
+De gemeente Aalsmeer, vertegenwoordigd door wethouder Sybrand de Vries
+De gemeente Alkmaar, vertegenwoordigd door wethouder Odile Rasch
+De gemeente Amsterdam, vertegenwoordigd door wethouder Lian Heinhuis
+De gemeente Bergen, vertegenwoordigd door wethouder Valentijn Brouwer
+De gemeente Beverwijk, vertegenwoordigd door wethouder Suzanne Klaassen
+De gemeente Blaricum, vertegenwoordigd door wethouder
+De gemeente Bloemendaal, vertegenwoordigd door wethouder Thessa van der Windt
+De gemeente Castricum, vertegenwoordigd door wethouder Ivor Balke
+De gemeente Den Helder, vertegenwoordigd door wethouder Kees Boelema Robertus
+De gemeente Diemen, vertegenwoordigd door wethouder Rick Poelwijk
+De gemeente Dijk en Waard, vertegenwoordigd door wethouder Soledad van Eijk
+De gemeente Drechterland, vertegenwoordigd door wethouder Sjon Wagenaar
+De gemeente Edam-Volendam, vertegenwoordigd door wethouder Ron Veerman
+De gemeente Enkhuizen, vertegenwoordigd door wethouder Harry Nederpelt
+De gemeente Gooise Meren. vertegenwoordigd door wethouder Arthur Helling
+De gemeente Haarlem, vertegenwoordigd door wethouder Robbert Berkhout
+De gemeente Haarlemmermeer, vertegenwoordigd door wethouder Roy Staal
+De gemeente Heemskerk, vertegenwoordigd door wethouder Kees van Montfort
+De gemeente Heemstede, vertegenwoordigd door wethouder Dimitry van den Berg
+De gemeente Heiloo, vertegenwoordigd door wethouder Linda Verbeek
+De gemeente Hilversum, vertegenwoordigd door wethouder Bart Heller
+De gemeente Hollands Kroon, vertegenwoordigd door wethouder Paul Medema
+De gemeente Hoorn, vertegenwoordigd door wethouder Yousuf Yousufi
+De gemeente Huizen, vertegenwoordigd door wethouder Bert Rebel
+De gemeente Koggenland, vertegenwoordigd door wethouder Jeroen Schilder
+De gemeente Landsmeer, vertegenwoordigd door wethouder Bas ten Have
+De gemeente Laren, vertegenwoordigd door wethouder Sander de Brito Roque
+De gemeente Medemblik, vertegenwoordigd door wethouder Ivo Mantel
+De gemeente Oostzaan, vertegenwoordigd door wethouder Jaap Hollebeek
+De gemeente Opmeer, vertegenwoordigd door wethouder Herman ter Veen
+De gemeente Ouder-Amstel, vertegenwoordigd door wethouder Maarten de Groot
+De gemeente Purmerend, vertegenwoordigd door wethouder Mark Intres
+De gemeente Schagen, vertegenwoordigd door wethouder Heleen Stoelinga-Souman
+De gemeente Stede Broec, vertegenwoordigd door wethouder Thijs Visser
+De gemeente Texel, vertegenwoordigd door wethouder Mariska Woertman
+De gemeente Uitgeest, vertegenwoordigd door wethouder Simon Twaalfhoven Bakkum
+De gemeente Uithoorn, vertegenwoordigd door wethouder Ferry Hoekstra
+De gemeente Velsen, vertegenwoordigd door wethouder Nathanael Korf
+De gemeente Waterland, vertegenwoordigd door wethouder Jaap Boes
+De gemeente Wijdemeren, vertegenwoordigd door wethouder Wilna Wind
+De gemeente Wormerland, vertegenwoordigd door wethouder Karen Schoonheim-Bakker
+De gemeente Zaanstad, vertegenwoordigd door wethouder Saskia Groenewoud
+De gemeente Zandvoort, vertegenwoordigd door wethouder Lars Carree
+Het college van Gedeputeerde Staten (GS) van:
+De provincie Noord-Holland, vertegenwoordigd door gedeputeerde Anouk Gielen
+4
+Considerans
+Overwegende dat:
+• het Energiebesparingsakkoord 2022-2026 op 31 december 2026 ten einde is;
+• het hoofddoel van dit akkoord: dat alle energiebesparingsplichtige bedrijven en
+instellingen op de naleving energiebesparingsplicht gecontroleerd zouden zijn, door
+verschillende omstandigheden, bij tekening van dit akkoord, nog niet is bereikt;
+• toezicht en handhaving tijdens de uitvoering van het Energiebesparingsakkoord
+2022-2026 een effectief middel bleek te zijn om bedrijven en instellingen aan te
+zetten tot het nemen van de verplichte energiebesparingsmaatregelen, maar dat niet
+alle energiebesparingsplichtige bedrijven en instellingen als zodanig bekend waren;
+• nagenoeg alle energiebesparingsplichtige bedrijven en instellingen in 2026, met
+behulp van gegevens van netbeheerders, inmiddels bekend zijn geworden;
+• tijdens de uitvoering van het Energiebesparingsakkoord 2022-2026 om en nabij 70%
+van de nu bekende bedrijven en instellingen op de naleving van de wettelijke
+energiebesparingsplicht zijn gecontroleerd en daarmee in Noord-Holland nog ca.
+30%
+resteert;
+• dat afgelopen jaren veel inspanning is gepleegd door gemeenten en provincie om
+bedrijven en instellingen via stimulering, zoals het aanbieden van energiescans en
+het bieden van informatie, aan te zetten tot energiebesparing en dat bedrijven en
+instellingen nu grotendeels goed op de hoogte zijn van de energiebesparingsplicht.
+En dat, hoewel stimulering nu buiten het akkoord valt, dit wel door provincie en
+gemeenten eigenstandig verder kan worden doorgezet.
+• de partijen van dit akkoord energiebesparing onverminderd urgent en belangrijk
+achten voor de energietransitie en de CO2-emissiereductie;
+• de doelen van het gemeentelijk, provinciaal en landelijk klimaatbeleid nog niet zijn
+gehaald en energiebesparing en verduurzaming van het energieverbruik door
+energiegrootverbruikers een belangrijke bijdrage levert aan de CO2-emissiereductie
+doelstelling;
+• gezien de geopolitieke ontwikkelingen het van belang is voor bedrijven en
+instellingen, en voor de economie als geheel, om minder afhankelijk te worden van
+import van fossiele brandstoffen en prijsschommelingen op de energiemarkt;
+• bedrijven die besparingen in het stroomverbruik realiseren, binnen het
+leveringscontract met de netbeheerder, meer ruimte krijgen voor
+bedrijfsontwikkeling;
+• partijen in ieder geval voor 2027 en 2028 middelen ter beschikking stellen om met
+versnelling de bekend geworden bedrijven op de naleving energiebesparingsplicht te
+controleren;
+• partijen voornemens zijn om voor de periode na 2028 energiebesparingsplichtige
+bedrijven en instellingen blijvend te houden aan de naleving van de
+energiebesparingsplicht, maar dat in 2028 pas bepaald wordt hoe dit uitgevoerd
+wordt en welke financiële middelen gemeenten daarvoor gaan inzetten;
+• partijen hebben besloten de geleerde lessen en de aanbevelingen van de
+Eindevaluatie Energiebesparingsakkoord 2022-2026 mee te nemen bij de uitvoering
+van dit akkoord;
+• partijen afspraken voor een gezamenlijke aanpak van de naleving
+energiebesparingsplicht bedrijven en instellingen in Noord-Holland willen vastleggen
+in een nieuw energiebesparingsakkoord voor de periode van 2027 tot en met 2030.
+5
+ENERGIEBESPARINGSAKKOORD 2027-2030
+Artikelen
+1.
+Begrippenlijst
+NB. de onderstreepte woorden vindt u terug in de begrippenlijst.
+Basistaak
+De basistaak energiebesparing omvat het toezicht op en de handhaving van de
+energiebesparingsplicht bij bedrijven en instellingen op wie deze verplichting van toepassing is.
+De energiebesparingsplicht komt voort uit de Omgevingswet.
+De uitvoering van het toezicht en
+de handhaving is binnen het VTH-stelsel belegd bij de omgevingsdiensten.
+De basistaak maakt
+daarmee deel uit van het reguliere takenpakket van de omgevingsdiensten.
+Bedrijven en instellingen onder gemeentelijk bevoegd gezag
+Bedrijven en instellingen met energieverbruik boven de drempel zoals bepaald in het Besluit
+activiteiten leefomgeving, die onder gemeentelijk bevoegd gezag vallen zijn bijvoorbeeld: horeca,
+ziekenhuizen, sporthallen en industrie.
+Bedrijven en instellingen onder provinciaal bevoegd gezag
+Bedrijven en instellingen met een energieverbruik boven de drempel zoals bepaald in het Besluit
+activiteiten leefomgeving, die onder provinciaal bevoegd gezag vallen, zijn meestal grotere of
+risicovolle bedrijven met een grote impact op milieu of veiligheid.
+Dit zijn onder meer bedrijven
+met grote hoeveelheden gevaarlijke stoffen (Seveso-inrichtingen), zoals bijvoorbeeld zware
+industrie, grote energiecentrales, chemische installaties, metaalindustrie of
+afvalverwerkingsinstallaties.
+Deze bedrijven vallen veelal onder de onderzoeksplicht.
+Beheerfase
+Fase waarin de uitvoerders van het Energiebesparingsakkoord beheren dat de
+energiebesparingsplichtige bedrijven blijven voldoen aan de Energiebesparingsplicht.
+Het toezicht
+is in deze fase risicogestuurd.
+Besluit activiteiten leefomgeving (Bal)
+Het Besluit activiteiten leefomgeving is één van de vier Algemene Maatregelen van Bestuur
+(AMvB) waaruit de Omgevingswet is opgebouwd.
+Het Bal bevat regels voor milieubelastende
+bedrijfsactiviteiten voor bijvoorbeeld emissies, energiebesparing, informatieplicht en installaties.
+In het Bal is de energiebesparingsplicht en onderzoeksplicht opgenomen.
+Besluit bouwwerken leefomgeving (Bbl)
+Het Besluit bouwwerken leefomgeving is één van de andere vier Algemene Maatregelen van
+Bestuur (AMvB) onder de Omgevingswet die landelijke regels bevat voor het bouwen, gebruiken
+onderhouden en slopen van bouwwerken.
+De regels gaan over veiligheid, gezondheid,
+energiezuinigheid en duurzaamheid van gebouwen.
+6
+Bestuurlijk Energiebesparingsberaad (BEB)
+Het bestuurlijk Energiebesparingsberaad is het bestuurlijk overleg waarin de verantwoordelijk
+bestuurders voor de uitvoering van het Energiebesparingsakkoord samenkomen om de uitvoering
+van energiebesparing door bedrijven in Noord-Holland te versnellen.
+Het beraad is de stuurgroep
+van het Energiebesparingsakkoord en is daarmee verantwoordelijk voor de strategische sturing
+en besluitvorming van de uitvoering van dit akkoord.
+Het komt onder leiding van de
+gedeputeerde minimaal één keer per jaar samen om de voortgang te bespreken en deze zo nodig
+bij te sturen.
+Energiebesparingsplicht
+De energiebesparingsplicht, de verplichting tot verduurzaming van het energiegebruik, volgt uit
+het Besluit activiteiten leefomgeving (Bal) en het Besluit bouwwerken leefomgeving (Bbl).
+Deze
+verplichten bedrijven en instellingen, die meer dan 50.000 kWh elektriciteit of meer dan 25.000
+m3 aardgas verbruiken, kosteneffectieve energiebesparende maatregelen te nemen.
+Deze
+bedrijven en instellingen zijn verplicht te rapporteren (Informatieplicht) welke maatregelen uit de
+Erkende Maatregelenlijst (EML) zij hebben genomen en gaan nemen.
+Deze maatregelen zijn
+binnen vijf jaar (en per 2027 binnen 7 jaar) terug te verdienen.
+Bedrijven of instellingen die meer
+dan 10 miljoen kWh elektriciteit of meer dan 170.000 m3 aardgas verbruiken vallen onder de
+Onderzoeksplicht.
+Energiebesparingsplichtige bedrijven en instellingen
+Energiebesparingsplichtige bedrijven en instellingen zijn bedrijven of instellingen die door hun
+verbruik van meer dan 50.000 kWh elektriciteit of meer dan 25.000 m3 aardgas (-equivalent)
+onder de energiebesparings- en informatieplicht vallen en verplicht zijn energiebesparende
+maatregelen te treffen en hierover te rapporteren.
+Grootverbruiker
+Deze term in relatie tot stroom- en gasverbruik is verouderd.
+We spreken nu in dit verband van
+energiebesparingsplichtige bedrijven en wettelijke verbruiksgrenswaarden.
+De termen klein of
+middelgroot- of grootverbruik staan niet meer in de wet.
+Wat gangbaar geworden is, is om te spreken van:
+Kleinverbruik bij jaarlijks verbruik van :< 50.000 kWh en < 25.000 m³ gas per jaar
+Middelgrootverbruik bij: 50.000 – 200.000 kWh en 25.000 – 75.000 m³ gas per jaar
+Grootverbruik bij: 200.000 kWh - 10.000.000 kWh en 75.000 – 170.000 m³
+gas per jaar
+Zeer grootverbruik bij: > 10.000.000 kWh en > 170.000 m³ gas per jaar
+Informatieplicht
+Is de rapportageplicht bij de energiebesparingsplicht.
+Energiebesparingsplichtige bedrijven of
+instellingen moeten eens per vier jaar rapporteren aan het bevoegd gezag welke
+energiebesparende maatregelen zij hebben uitgevoerd en welke nog gepland zijn.
+Kerngroep Energiebesparingsakkoord
+De Kerngroep Energiebesparingsakkoord bereidt de Werkgroep Energiebesparingsakkoord voor.
+De Kerngroep bestaat uit vertegenwoordigers van de vier omgevingsdiensten en ca. vier
+gemeenten uit de verschillende omgevingsdienstregio’s.
+De provincie is trekker van deze
+kerngroep.
+7
+Onderzoeksplicht
+De onderzoeksplicht verplicht bedrijven en instellingen met zeer groot energiegebruik om
+periodiek te onderzoeken welke energiebesparende maatregelen mogelijk zijn binnen het bedrijf
+en hierover te rapporteren aan het bevoegd gezag.
+Het is een verplichting uit het Besluit
+activiteiten leefomgeving (Bal).
+Een bedrijf of instelling heeft onderzoeksplicht wanneer het ≥ 10
+miljoen kWh elektriciteit of ≥ 170.000 m³ aardgas per jaar verbruikt.
+In Noord-Holland zijn dit
+activiteiten zoals staalindustrie, energie- en afvalverbrandingsinstallaties, de chemische industrie,
+beton- en asfaltcentrales, cacaoverwerking, grote datacenters en grote koel- en vrieshuizen.
+Risicogestuurde aanpak
+Een risicogestuurde aanpak is een aanpak waarbij de beschikbare capaciteit van toezicht wordt
+ingezet op bedrijven waar de grootste energiebesparing kan worden gerealiseerd.
+Door een aantal omgevingsdiensten in Noord-Holland wordt dit nu als volgt ingevuld: er wordt
+prioriteit gegeven aan:
+• zeer grootverbruikers;
+• grootverbruikers met een hoog besparingspotentieel;
+• bedrijven waarvan de naleefinformatie onvoldoende beschikbaar is;
+• bedrijven waarbij signalen van niet-naleving aanwezig zijn.
+Deze aanpak wordt in de komende periode door alle omgevingsdiensten in Noord-Holland verder
+aangescherpt en verfijnd mede op basis van landelijke ontwikkelingen1.
+UVO: Uitvoeringsovereenkomst tussen omgevingsdiensten en opdrachtgevers
+Overeenkomst van de omgevingsdiensten met hun opdrachtgevers, de gemeenten en provincie,
+waarin jaarlijks wordt vastgelegd welke structurele taken de omgevingsdienst voor een deelnemer
+van de gemeenschappelijke regeling uitvoert.
+Ook wel uitvoeringsprogramma (UP) genoemd.
+SPUK-the
+SPUK staat voor specifieke uitkering, the voor toezicht handhaving energiebesparingplicht.
+Het is
+een financiële bijdrage van het Rijk aan een provincie, gemeente of andere decentrale overheid
+voor een vooraf bepaald doel.
+Bij een SPUK gelden voorwaarden over besteding, verantwoording
+en rapportage; de ontvangende organisatie kan het geld niet inzetten voor andere taken.
+Versnellingsfase
+Fase waarin de uitvoerders van het Energiebesparingsakkoord versnelling geven aan de uitvoering
+van het toezicht en handhaving Energiebesparingsplicht bedrijven en instellingen.
+In de
+versnellingsfase zijn alle energiebesparingsplichtige bedrijven of instellingen tenminste één maal
+gecontroleerd.
+Een groot deel van de energiebesparingsplichtige bedrijven of instellingen zijn tijdens de looptijd
+van het Energiebesparingsakkoord 2022-2026 al gecontroleerd en werken er aan om aan deze
+plicht te voldoen of zij voldoen al.
+Een kleiner deel (zo’n 30% in heel Noord-Holland) is nog niet
+gecontroleerd, omdat zij nog niet bij de omgevingsdiensten bekend waren als
+energiebesparingsplichtig.
+Bij de start van dit nieuwe akkoord zijn deze bedrijven nu ook bekend.
+Deze worden in de versnellingsfase allemaal gecontroleerd, opdat alle energiebesparingsplichtige
+bedrijven of instellingen uiterlijk in 2029 voor de eerste maal op de uitvoering van de plicht zijn
+gecontroleerd.
+1 Landelijk wordt momenteel gewerkt aan de verdere ontwikkeling van een risicogestuurd model.
+Dit
+model moet meer houvast bieden bij het bepalen van prioriteiten en de inzet van de beschikbare
+capaciteit.
+Daarnaast wordt gewerkt aan een Uniform Uitvoeringsniveau (UUN) wat voor alle
+omgevingsdiensten in Nederland gaat gelden.
+Dit UUN geeft mogelijk verdere invulling aan de wijze
+waarop de risicogestuurde aanpak in de uitvoering gaat worden toegepast.
+8
+Werkgroep Data
+De werkgroep Data houdt de voortgang bij van de prestaties (output) en resultaten (outcome) van
+het Energiebesparingsakkoord en levert input aan de voortgangsrapportages.
+Verder werkt de
+werkgroep aan verbetering van de datakwaliteit, de samenwerking op datadeling en interpretatie
+van de data ten behoeve van beleidsvorming en -uitvoering.
+De werkgroep bestaat uit
+dataspecialisten en projectleiders van de provincie NH, de deelnemende gemeenten en de vier
+omgevingsdiensten.
+Werkgroep Communicatie
+De werkgroep Communicatie stelt een communicatieplan op, zorgt, indien nodig, voor
+actualisatie ervan en voert deze uit.
+De werkgroep bestaat uit een communicatiemedewerker van
+de provincie NH, de deelnemende gemeenten en de vier omgevingsdiensten en stemt af met de
+projectleiders van deze deelnemers.
+Werkgroep Energiebesparingsakkoord
+De Werkgroep Energiebesparingsakkoord zorgt voor de voortgang en bereidt het bestuurlijk
+Energiebesparingsberaad voor.
+De groep bestaat uit vertegenwoordigers van de provincie Noord-
+Holland, de deelnemende gemeenten en de vier omgevingsdiensten.
+De provincie is trekker van
+deze werkgroep.
+Werkplan
+Het Werkplan beschrijft de werkwijze die de afspraken uit het Energiebesparingsakkoord
+operationeel maakt.
+Het werkplan is als bijlage verbonden aan het Energiebesparingsakkoord.
+De
+provincie is penvoerder van het Werkplan en actualiseert deze wanneer het bestuurlijk
+Energiebesparingsberaad dit nodig acht.
+9
+2.
+Ambitie, doelen, randvoorwaarden en aanpak in twee stappen
+2.1 Ambitie
+De samenwerkende partijen hebben de ambitie dat in 2030 in Noord-Holland
+nagenoeg2 alle energiebesparingsplichtige bedrijven en instellingen aan de (tijdens de
+controle geldende3) regels voor de energiebesparingsplicht voldoen.
+Met deze ambitie willen partijen in Noord-Holland meer energiebesparing, betere
+naleving van de energiebesparingsplicht en een effectieve gezamenlijke uitvoering
+bereiken.
+2.2 Doelen
+• Hoofddoel op effect ofwel ‘outcome’ is: het Energiebesparingsakkoord Noord-
+Hollandse bedrijven en instellingen 2027-2030 heeft tot doel om
+energiebesparingsplichtige bedrijven en instellingen in Noord-Holland te laten
+voldoen aan de energiebesparingsplicht.
+• Subdoelen op prestatie ofwel ‘output’ zijn verdeeld over twee fasen:
+- Versnellingsfase: nagenoeg alle energiebesparingsplichtige bedrijven en
+instellingen zijn een eerste keer gecontroleerd op de naleving van de
+energiebesparingsplicht uiterlijk in 2029.
+- Beheerfase: de energiebesparingsplichtige bedrijven en instellingen worden
+blijvend op de naleving van de energiebesparingsplicht gecontroleerd.
+De
+controles worden in deze fase volgens de risicogestuurde aanpak uitgevoerd.
+2.3 Randvoorwaarden om deze doelen te kunnen bereiken:
+- Er is voldoende deskundige menskracht en er zijn voldoende middelen
+beschikbaar om effectief toezicht te houden, data te verwerken en te beheren en
+bedrijven en instellingen te informeren over de plichten die zij hebben om
+energiebesparende maatregelen te nemen;
+- Er zijn voldoende middelen beschikbaar om bij invoering van nieuwe wet- en
+regelgeving te kunnen zorgen voor de uitvoering/implementatie daarvan.
+- Er kan tijdig beschikt worden over de juiste en complete gegevens/data waarop
+de aanpak toezicht en handhaving kan worden gebaseerd.
+2.4 Aanpak in twee stappen
+Dit Energiebesparingsakkoord geldt voor vier jaar, maar wordt uitgevoerd in twee
+stappen: stap 1. de periode van 2027 en 2028 en stap 2. de periode van 2029 en
+2030.
+Stap 1 bestaat hoofdzakelijk uit het uitvoeren van de versnellingsfase en stap 2
+hoofdzakelijk uit de beheerfase.
+Voor de uitvoering van stap 1, in 2027 en 2028, hebben partijen bij ondertekening
+van dit akkoord duidelijk hoe de uitvoering in 2027 wordt gefinancierd én gaan zij
+met de ondertekening de inspanningsverplichting aan om voor 2028 de benodigde
+financiering organiseren.
+2 Nagenoeg, omdat het bestand aan energiebesparingsplichtige bedrijven en instellingen een
+dynamisch bestand is: voortdurend komen er bedrijven bij of gaan er af (hun energieverbruik kan
+veranderen) én omdat bedrijven en instellingen, nadat ze gecontroleerd zijn en afspraken hebben
+gemaakt met de omgevingsdienst, nog bezig zijn om te voldoen.
+3 Deze regels worden landelijk elke vier jaar aangepast, de volgende aanpassing wordt medio 2027
+verwacht.
+10
+Voor de uitvoering van stap 2, in 2029 en 2030, gaan partijen de
+inspanningsverplichting aan om uiterlijk in 2028 duidelijk te maken hoe deze stap
+wordt uitgevoerd en gefinancierd.
+Om extra impuls te kunnen geven aan de uitvoering vragen omgevingsdiensten
+subsidie aan bij de provincie, die hiervoor een regeling heeft opengesteld.
+Subsidie
+kan alleen aangevraagd worden voor de uitvoering bij gemeenten die dit akkoord
+hebben ondertekend.
+Toelichting stap 1: jaren 2027 en 2028
+1.
+De eerste stap is te zorgen dat alle energiebesparingsplichtige bedrijven en
+instellingen in Noord-Holland een eerste maal op de energiebesparingplicht zijn
+gecontroleerd.
+De vier omgevingsdiensten maken vooraf aan de ondertekening van dit akkoord aan
+de opdrachtgevende gemeenten en provincie duidelijk hoeveel bedrijven ze in stap 1
+in de versnellingsfase in 2027 en 2028 (met zo nodig uitloop naar 2029) gaan
+controleren (de bedrijven die tot op heden nog niet zijn gecontroleerd) .
+Op basis van
+deze planning wordt aan opdrachtgevers bekend gemaakt wat de totale kosten zijn,
+welke bijdrage van opdrachtgevers wordt verwacht en wat met de rijkssubsidie SPUK-
+the en de subsidie van de provincie wordt gedekt.
+Opdrachtgevers stellen per jaar hun financiële bijdrage voor het jaar erop vast.
+Vooraf aan de ondertekening van dit akkoord stellen ze in ieder geval de bijdrage
+voor het jaar 2027 vast.
+Bovendien gaan ze met de ondertekening de
+inspanningsverplichting aan om ook voor 2028 de benodigde middelen te reserveren.
+Het kan zijn dat omgevingsdiensten in stap 1 al een start maken met de beheerfase.
+Ook hiervan maken ze planning en een inschatting van de benodigde kosten en
+dekking.
+Toelichting stap 2: jaren 2029 en 2030
+2.
+De tweede stap is te zorgen dat energiebesparingsplichtige bedrijven en
+instellingen blijven voldoen aan de energiebesparingsplicht.
+De wijze van aanpak
+gaat in deze fase risicogestuurd.
+Deze stap kent op het moment van ondertekening van dit akkoord nog veel
+onzekerheden.
+Het is daarom niet goed mogelijk om op moment van ondertekening
+de benodigde financiering van deze stap te kennen en georganiseerd te hebben.
+Zo
+is nog onduidelijk wat de rijksbijdrage in deze periode zal zijn en of deze structureel
+wordt of incidenteel zal blijven.
+Ook is nog onduidelijk of er een Uniform Uitvoerings
+Niveau (UUN) voor toezicht wordt vastgesteld en hoe dit eruit komt te zien.
+Tenslotte
+worden de regels voor de Energiebesparingsplicht bijgesteld, dat gebeurt elke vier
+jaar en de volgende bijstelling is in 2027.
+De regels zijn bij ondertekening van dit
+akkoord nog niet vastgesteld.
+Het kan zijn dat in deze stap nog bedrijven volgens de versnellingsfase moeten
+worden gecontroleerd, maar de meeste controles zullen plaatsvinden volgens de
+beheerfase.
+Daarom zullen de vier omgevingsdiensten in de periode 2027-2028 beschrijven hoe
+ze in 2029 en 2030 uitvoering geven aan de beheerfase en de mogelijk uitloop van
+de versnellingsfase.
+Ze geven dan aan hoe ze de risicogestuurde aanpak vormgeven
+en hoeveel bedrijven zij gaan controleren.
+Ze maken hiervoor een planning en
+inschatting van benodigde kosten en dekking.
+11
+Tussen stap 1 en stap 2 organiseren de partijen in 2028 een bestuurlijk moment om
+de aanpak en financiering voor 2029 en 2030 met elkaar vast te stellen.
+3.
+Werkwijze
+3.1 Partijen voeren de afspraken uit volgens de organisatie en werkwijze zoals in
+het Werkplan beschreven.
+4.
+Monitoring
+4.1 Partijen monitoren de voortgang op prestatie ofwel ‘output’ (het bereiken van
+de doelen beschreven onder 2) en evalueren jaarlijks aan de hand van de
+voortgangsrapportage of de uitvoering volgens plan verloopt of dat bijstelling
+noodzakelijk is;
+4.2 Partijen spannen zich ook in om het effect ofwel de ‘outcome’ duidelijk te
+krijgen op CO2-emissiereductie; we streven ernaar om onder meer de
+landelijke CO2-rekentool, welke nog in ontwikkeling is, hiervoor in te zetten.
+4.3 Partijen verantwoorden zich per jaar financieel over ingezette middelen.
+Zie
+verder paragraaf 5.
+Middelen.
+4.4 Het bestuurlijk Energiebesparingsberaad bespreekt jaarlijks de
+voortgangsrapportage en bepaalt of de voortgang aanleiding geeft tot
+wijziging van de werkwijze en het werkplan (check: ‘doen we het goed).
+4.5 Halverwege de duur van het akkoord, voeren partijen een tussenevaluatie uit
+naar aanleiding waarvan het bestuurlijk Energiebesparingsberaad bepaalt of
+het akkoord zou moeten worden bijgesteld (check: ‘doen we het goede’).
+4.6 Partijen voeren na afloop van het akkoord een eindevaluatie uit om in ieder
+geval vast te stellen of deelnemende partijen aan de afspraken van dit
+akkoord hebben voldaan en of de doelen van het akkoord zijn bereikt.
+4.7 Partijen maken afspraken in welke vorm data en informatie waar zij toegang
+toe hebben, met elkaar gedeeld kunnen worden.
+4.8 De voortgangsrapportage wordt zoveel mogelijk in lijn gebracht (en vice
+versa) met de half- en heel jaarrapportages van de omgevingsdiensten aan
+opdrachtgevers.
+4.9 Bij aanvang van het akkoord wordt een 0-meting uitgevoerd waarin per
+omgevingsdienstregio opgenomen is: het bestand van de
+energiebesparingsplichtige bedrijven en instellingen, hoeveel daarvan zijn
+gecontroleerd en nog moeten worden gecontroleerd en de mate waarin de
+energiebesparingsplicht bij bedrijven en instellingen is uitgevoerd.
+De
+werkgroep Data biedt deze informatie in het eerste kwartaal 2027 aan de
+werkgroep Energiebesparingsakkoord aan.
+De werkgroep
+Energiebesparingsakkoord rapporteert hierover aan het eerste bestuurlijk
+Energiebesparingsberaad in 2027.
+4.10 De werkgroep Communicatie rapporteert jaarlijks aan de Werkgroep
+Energiebesparingsakkoord over de uitvoering en het bereik van de
+communicatie.
+De rapportage bevat ten minste de ingezette middelen, het
+12
+bereik van de communicatie en de inzet van gemeenten, omgevingsdiensten
+en provincie.
+Op basis hiervan bepalen partijen of bijstelling van de
+communicatie-aanpak nodig is.
+5.
+Middelen
+5.1 De kosten van de activiteiten voor de uitvoering van de wettelijke basistaak
+toezicht en handhaving energiebesparingsplicht door gemeenten en provincie
+en die voortkomen uit het Energiebesparingsakkoord worden gedekt door
+deze partijen.
+Daarnaast worden de rijksgelden via de Specifieke Uitkering
+(SPUK-the), een uitkering die omgevingsdiensten voor de uitvoering van
+toezicht en handhaving energiebesparingsplicht aanvragen, ingezet.
+5.2 De provincie Noord-Holland draagt voor de periode 2027 t/m 2030 financieel,
+in totaal vier miljoen euro, bij aan de extra impuls van uitvoering van toezicht-
+en handhaving door gemeenten, welke taak belegd is bij de
+omgevingsdiensten.
+Jaarlijks stelt de provincie, volgens een bepaald jaarritme,
+dit bedrag beschikbaar via een ‘subsidie buiten uitvoeringsregeling’.
+De
+provincie stelt per jaar per subsidieaanvrager een subsidieplafond vast.
+5.3 Omgevingsdiensten zijn de subsidieaanvrager.
+Gemeenten machtigen de
+omgevingsdienst om namens het college de gemeentelijke handelingen rond de
+subsidieaanvraag en de verantwoording daarvan te verzorgen.
+Subsidie kan
+alleen aangevraagd worden voor de uitvoering bij gemeenten die dit
+energiebesparingsakkoord hebben ondertekend.
+Per jaar dienen de
+omgevingsdiensten de subsidieaanvraag met een plan van aanpak in bij de
+provincie Noord-Holland voor het verkrijgen van deze subsidie, voor de
+uitvoering van de versnellingsfase en de beheerfase.
+De omgevingsdiensten
+dienen de subsidieaanvraag in na hierover overleg te hebben gehad met
+gemeenten.
+5.4 De verantwoording van de in 5.2 genoemde subsidie vindt plaats volgens de
+daarvoor gestelde regels die te vinden zijn op de website van de provincie.
+5.5 Gemeenten dragen minimaal 50% bij aan de te maken kosten voor de
+controles van bedrijven en organisaties volgens de doelen van dit
+Energiebesparingsakkoord.
+Deze bijdrage is exclusief SPUK-the middelen.
+5.6 Indien blijkt, dat het budget van minimaal 50% dekking vanuit gemeenten,
+SPUK-the middelen van het Rijk en subsidie vanuit de provincie NH, niet
+afdoende is om in de versnellingsfase alle energiebesparingsplichtige
+bedrijven en instellingen gecontroleerd te hebben op de dan geldende regels
+en in de beheerfase te blijven controleren op de dan geldende regels, zullen
+opdrachtgevers (gemeenten of provincie) en omgevingsdiensten afspraken
+maken over hoe deze doelen wel te realiseren.
+5.7 Gemeenten stellen hun bijdrage per jaar vast en geven hierin ook een doorkijk
+naar de jaren erop.
+5.8 Indien geraamde kosten anders uitvallen (door bijvoorbeeld inflatie of indien
+blijkt dat de werkvoorraad kleiner of groter blijkt te zijn, indien de SPUK-the
+lager uitvalt dan ingeschat) gaan omgevingsdiensten in overleg met
+13
+opdrachtgever (gemeenten of provincie) om te bepalen welke keuzes gemaakt
+dienen te worden, zonder de doelen van het akkoord geweld aan te doen.
+5.9 De provincie Noord-Holland is in principe bereid, tot zekere hoogte, eventuele
+extra kosten (bovenop wat partijen via hun regulier budget bijdragen) te
+dekken, die voortkomen uit de werkzaamheden van de werkgroep Data ten
+behoeve van de monitoring, data-analyse, data-samenwerking en input voor
+de voorgangsrapportage, tussenevaluatie en eindevaluatie.
+5.10 De provincie Noord-Holland is in principe bereid, tot zekere hoogte, eventuele
+extra kosten (bovenop wat partijen via hun regulier budget bijdragen) te
+dekken die voortkomen uit de werkzaamheden van de werkgroep
+Communicatie ten behoeve van het betrekken van bedrijven in de uitvoering
+van de energiebesparingsplichten die zij hebben, zoals het opstellen van een
+communicatiestrategie.
+5.11 De provincie Noord-Holland draagt als voorzitter de kosten voor het
+bestuurlijk overleg, van de tussen- en eindevaluatie.
+6.
+Algemene bepalingen
+6.1 De uit dit akkoord voortvloeiende verbintenissen zijn strikt juridisch gezien
+inspanningsverplichtingen voor de partijen.
+Dit akkoord is niet in rechte
+afdwingbaar.
+Partijen houden zichzelf en elkaar aan de afspraken.
+6.2 Het akkoord ondersteunt de uitvoering van deze bestaande verplichtingen en
+schept zelf geen nieuwe verplichtingen voor bedrijven en instellingen.
+6.3 Dit akkoord gaat in op 1 januari 2027 en wordt voor vier jaar aangegaan, tot
+en met 31 december 2030.
+7.
+Slotbepalingen
+Dit akkoord wordt aangehaald als: ‘Energiebesparingsakkoord Noord-
+Hollandse bedrijven en instellingen 2027-2030’.
+14
+Werkplan
+1.
+Doel werkplan
+• Het werkplan beschrijft de wijze van uitvoering van het akkoord.
+• Het beschrijft de organisatie, de rol en werkwijze per deelnemer en de wijze van de
+samenwerking in het kader van het Energiebesparingsakkoord.
+2.
+Werkwijze uitvoering Energiebesparingsakkoord
+Partijen werken in samenwerking aan het bereiken van de ambitie en doelen van het akkoord,
+volgens de aanpak in twee stappen en stáán voor het bereiken van de genoemde resultaten.
+Zij
+reserveren daarvoor de benodigde financiële middelen die in de begrotingen, kadernota’s en
+UVO’s of UP’s worden vastgelegd.
+De benodigde middelen worden jaarlijks, met een doorkijk naar de volgende jaren, door
+omgevingsdiensten berekend.
+Er zijn echter nog veel onzekerheden over de periode na 2028.
+Onzekerheden zijn onder meer:
+a. de rijksbijdrage SPUK-the voor 2029 en 2030 is nog onbekend;
+b. de regels voor 2027 t/m 2031 zijn nog niet geheel bekend;
+c. het is nog niet duidelijk hoe de risicogestuurde aanpak landelijk wordt uitgewerkt;
+d. mogelijk komt er Uniform Uitvoeringsniveau (een uitwerking waaraan het niveau van
+toezicht voor alle omgevingsdiensten moet voldoen); het Rijk onderzoekt deze
+mogelijkheid.
+Partijen komen daarom in 2028 bijeen om de aanpak voor 2029 en 2030 concreter uit te werken
+in doelen en benodigde middelen.
+Partijen werken samen volgens de in paragraaf 3 beschreven organisatiestructuur en pakken hun
+rol en taak op zoals beschreven in paragraaf 4.
+Zij zorgen voor een goede en continue bemensing
+van de organisatieonderdelen.
+Partijen dragen bij aan de opstelling van de voortgangsrapportages en eindrapportages en zijn
+transparant in het leveren van informatie.
+Omgevingsdiensten streven naar een uniforme aanpak op het gebied van toezicht en
+handhaving waarbij vergelijkbare bedrijven gelijk behandeld worden.
+Deze aanpak is in de
+handhavingsstrategie van de omgevingsdiensten vastgelegd.
+15
+3.
+Organisatiestructuur, organisatieonderdelen en taken
+4.
+Rollen en taken per partij
+Provincie Noord-Holland
+• Provincie is bevoegd gezag en opdrachtgever van de omgevingsdienst ten aanzien
+van bedrijven onder provinciaal bevoegd gezag; zij stuurt op resultaten, middelen en
+planning;
+• is voorzitter en trekker van het bestuurlijk Energiebesparingsberaad en van de
+werkgroepen;
+• is tevens partij in het akkoord en zorgt mede voor de uitvoering, monitoring en zo
+nodig bijsturing van het akkoord;
+• financiert de uitvoering van toezicht en handhaving bedrijven onder provinciaal
+bevoegd gezag;
+• stelt mogelijkheid tot subsidie beschikbaar voor het geven van een impuls aan de
+toezicht en handhaving energiebesparingsplicht bedrijven en instellingen in Noord-
+Holland van 2027-2030; zij stelt voor elk jaar het subsidieplafond per aanvrager (de
+omgevingsdienst) vast;
+• geeft heldere en juiste informatie aan bedrijven en instellingen onder provinciaal
+bevoegd gezag over de energiebesparingsplicht (meestal de onderzoeksplicht) en
+verwijst daarbij naar de informatie die bij de omgevingsdiensten hierover te vinden
+is.
+Bestuurlijk
+Energiebesparingsberaad
+Ambtelijke Werkgroep
+Kerngroep
+Werkgroep data Werkgroep
+communicatie
+Stuurt bij
+waar nodig
+Zorgt voor voortgang
+en bereidt
+bestuurlijk
+energiebesparings-
+beraad voor
+Maakt
+communicatieplan,
+zorgt voor de
+actualisatie en
+voert deze uit
+Zorgt voor data- en data-
+interpretatie,
+datasamenwerking,
+monitoring van de resultaten
+en levert informatie t.b.v.
+voortgangsrapportage
+Bereidt
+ambtelijke
+werkgroep
+voor
+16
+Gemeenten
+• Gemeenten zijn bevoegd gezag en opdrachtgever van de omgevingsdienst ten
+aanzien van bedrijven onder gemeentelijk bevoegd gezag; zij sturen op resultaten,
+middelen en planning;
+• zijn deelnemer van het Energiebesparingsakkoord en zorgen mede voor de
+uitvoering, monitoring en zo nodig bijsturing van het akkoord;
+• financieren de uitvoering van toezicht en handhaving bedrijven onder gemeentelijk
+bevoegd gezag;
+• geven heldere en juiste informatie aan bedrijven en instellingen binnen hun
+gemeente over de energiebesparingsplicht en verwijzen daarbij naar de informatie
+die bij omgevingsdiensten hierover te vinden is.
+Omgevingsdiensten
+In Noord-Holland zijn vier omgevingsdiensten werkzaam: Omgevingsdienst Noord-Holland Noord,
+Omgevingsdienst IJmond, Omgevingsdienst Noordzeekanaalgebied en Omgevingsdienst
+Flevoland en Gooi- en Vechtstreek.
+• Omgevingsdiensten zijn uitvoerder van de taken op het gebied van toezicht en
+handhaving wet- en regelgeving energiebesparingsplicht. geven heldere en juiste
+informatie aan bedrijven en instellingen binnen hun werkgebied over de
+energiebesparingsplicht.
+• werken in opdracht van gemeenten en provincie, die als bevoegd gezag bestuurlijk
+verantwoordelijk zijn.
+De uitvoering van de taken toezicht en handhaving informatie-,
+energiebesparings- en onderzoeksplicht zijn door het bevoegd gezag verplicht
+gemandateerd aan de omgevingsdiensten (basistaak).
+Binnen dat mandaat maken
+omgevingsdiensten zelf keuzes in de uitvoering.
+Het maken van beleidskeuzes is de
+verantwoordelijkheid van gemeenten en provincie;
+• stellen per jaar een plan op voor de uitvoering van de versnellingsfase en/of de
+beheerfase, bevattende:
+a. aantal te controleren bedrijven per jaar;
+b. een gemiddelde prijs van een toezichtsactiviteit (waarvan onderdeel is: eerste
+controle, hercontrole, eventueel traject van voorlopige boete, boete, en bijgaande
+juridische en communicatieve kosten ten behoeve van de controle), op basis hiervan
+de totaal te verwachten kosten per gemeente en per omgevingsdienst.
+c. de dekking van de kosten in euro’s door de gemeenten, Rijk (SPUK-the) en provincie;
+d.
+De wijze van verantwoording van de verleende subsidie.
+• Op basis van dit plan dienen zij, tijdens de looptijd van het akkoord, elk jaar tijdig
+een subsidieaanvraag bij de provincie in.
+De provincie geeft daarop, indien akkoord,
+de beschikking af.
+• verantwoorden zich na uitvoering over de besteding van de verleende subsidie
+volgens de beschikking en overige regels die daarvoor door de provincie zijn gesteld;
+deze regels zijn gepubliceerd op de website van de provincie Noord-Holland.
+• als deelnemer van het Energiebesparingsakkoord zorgen zij mede voor de uitvoering,
+monitoring en zo nodig bijsturing van het akkoord.
+Samenwerking
+De samenwerking tussen partijen van het Energiebesparingsakkoord heeft als meerwaarde dat
+partijen doelmatiger en gelijkgerichter kunnen werken.
+Dit:
+1. bevordert een gelijk speelveld voor de bedrijven en instellingen die verplicht zijn de
+energiebesparingsmaatregelen uit te voeren;
+2. verhoogt de kwaliteit van uitvoering door omgevingsdiensten, omdat zij ervaringen en
+inzichten in de wijze van toezicht en handhaving onderling delen;
+17
+3. verhoogt de effectiviteit van werken bij de deelnemende partijen, omdat deze relevante
+kennis delen, een gezamenlijke aanpak ontwikkelen en hun gegevensbeheer daartoe
+verbeteren, met gevolg dat niet elke partij een eigen aanpak hoeft te ontwikkelen;
+4. verbetert de communicatie, omdat partijen volgens dezelfde communicatiestrategie
+communiceren worden boodschappen eenduidiger, zodat deze door bedrijven en
+instellingen beter kunnen ontvangen.
+Jaarlijks wordt ook de wijze van samenwerking geëvalueerd in de voortgangsrapportage.
+5.
+Fasering en planning
+De uitvoering van dit akkoord bestaat uit twee fasen: de versnellingsfase en beheerfase.
+Versnellingsfase
+Tijdens de versnellingsfase zullen omgevingsdiensten nagenoeg alle energiebesparingsplichtige
+Noord-Hollandse bedrijven en instellingen, die nog niet zijn gecontroleerd op de
+energiebesparingsplicht, worden gecontroleerd.
+Deze fase duurt naar schatting twee jaar, en
+vindt grotendeels plaats in 2027 en 2028.
+In deze fase maken deze bedrijven een start met het nemen van maatregelen en zullen zij
+meestal binnen één jaar, maar soms ook binnen meerdere jaren aan de energiebesparingsplicht
+voldoen.
+Beheerfase
+Tijdens de beheerfase controleren de omgevingsdiensten de energiebesparingsplichtige bedrijven
+en instellingen op de naleving van de energiebesparingsplicht op basis van een risicogestuurde
+aanpak.
+Deze aanpak wordt in de komende periode, uiterlijk 2028, door de omgevingsdiensten in
+Noord-Holland opgesteld en verfijnd mede op basis van landelijke ontwikkelingen (dat zijn de
+verwachte richtlijn risicogericht toezicht en het Uniforme Uitvoeringsniveau).
+De exacte invulling van de beheerfase wordt door partijen in 2027 en 2028 verder uitgewerkt.
+Verwachte veranderingen tijdens de uitvoering
+In 2027 worden naar verwachting de regels voor de Energiebesparingsplicht aangepast.
+Vanaf het
+moment dat aan de nieuwe regels kan worden getoetst, zullen bedrijven hierop worden
+gecontroleerd.
+De rijksbijdrage in de vorm van de Specifieke Uitkering toezicht en handhaving energie (SPUK-the)
+die uitgekeerd wordt aan omgevingsdiensten ten behoeve van uitvoering van energietoezicht is in
+2026 voor 2027 en 2028 bekend gemaakt.
+Voor 2029 en 2030 is deze bijdrage nog niet bekend.
+6.
+Toezicht en handhaving
+Algemene werkwijze
+De vier omgevingsdiensten in Noord-Holland werken vanuit een gezamenlijke Noord-
+Hollandse aanpak.
+Het gezamenlijk doel is een zo gelijk mogelijk speelveld voor inwoners,
+bedrijven en overheden.
+De vier omgevingsdiensten zijn Omgevingsdienst
+Noordzeekanaalgebied (ODNZKG), Omgevingsdienst IJmond (ODIJmond),
+Omgevingsdienst Noord-Holland Noord en Omgevingsdienst Flevoland en Gooi- en
+Vechtreek (OFGV).
+Gezamenlijke onderdelen zijn onder meer bestuurlijke uitgangspunten, de
+uitgangspunten voor een risicogestuurde aanpak en de hoofdlijnen voor
+18
+vergunningverlening, toezicht en handhaving.
+Iedere omgevingsdienst vertaalt deze
+vervolgens naar eigen strategie en jaarlijkse uitvoeringsprogramma’s.
+Werkwijze per omgevingsdienst
+Uitvoering vastgelegd in uitvoeringsovereenkomsten met de gemeentelijke
+deelnemers
+De uitvoering van toezicht energiebesparingsplicht bedrijven is beschreven en vastgesteld
+in het Uitvoeringsprogramma’s (UP) of de Uitvoeringsovereenkomst (UVO) van de
+omgevingsdiensten.
+Deze en de financiering ervan worden vastgesteld door de colleges
+van B&W van de gemeenten van de betreffende omgevingsdienst.
+Subsidieaanvraag bij provincie
+Voor een bijdrage aan de uitvoering van dit akkoord vragen de omgevingsdiensten
+subsidie aan bij de provincie Noord-Holland.
+De provincie heeft voor vier jaar vier miljoen
+euro vrijgemaakt om de uitvoering van dit akkoord mede mogelijk te maken.
+Jaarlijks
+krijgen de omgevingsdiensten per omgevingsdienst een plafond mee, waaronder de
+aangevraagde subsidie moet blijven.
+Het plan van aanpak dat ten grondslag ligt aan de
+subsidieaanvraag, stellen de omgevingsdiensten op in overeenstemming met de eisen van
+de subsidieverstrekker en in afstemming met de deelnemende gemeenten van de
+betreffende omgevingsdienst.
+Uitwerking risicogestuurde aanpak
+In de versnellingsfase worden nagenoeg alle energiebesparingsplichtige bedrijven of
+instellingen die nog niet gecontroleerd zijn, gecontroleerd.
+Voor de beheerfase zal de
+aanpak risicogestuurd zijn.
+Zie verder de toelichting beheerfase onder hoofdstuk 5
+Fasering en planning.
+7.
+Data
+Goed databeheer is een wezenlijk onderdeel van dit akkoord.
+Om de voortgang te kunnen
+monitoren en te kunnen evalueren is het noodzakelijk dat gegevens bij omgevingsdiensten op
+dezelfde wijze worden bijgehouden.
+Partijen zorgen er daarom voor dat bekend is:
+- welke en hoeveel bedrijven en instellingen energiebesparingsplichtig zijn.
+Dit is een
+dynamisch bestand, want bedrijven kunnen door wisselend energieverbruik het ene
+jaar onder de drempel en het volgende jaar boven de drempel van de
+energiebesparingsplicht uitkomen of net andersom.
+NB.
+De energiebesparingsplichtige bedrijven en instellingen zullen in 2026 vrijwel alle
+bekend zijn, vanwege de overdracht van relevante data van netbeheerders aan
+omgevingsdiensten.
+Deze data zijn in 2027 nagenoeg verwerkt in de databestanden
+van de omgevingsdiensten;
+- welke en hoeveel energiebesparingsplichtige bedrijven en instellingen zijn
+gecontroleerd op de naleving van de energiebesparingsplicht;
+- welke en hoeveel bedrijven op weg zijn om te gaan voldoen aan de
+energiebesparingsplicht;
+- welke en hoeveel bedrijven voldoen aan de geldende regels energiebesparingsplicht
+(elke vier jaar worden de regels geactualiseerd).
+Partijen spannen zich in om:
+- Bij te houden welke energiebesparende maatregelen door bedrijven of instellingen
+genomen zijn en worden
+- Hieruit af te leiden hoeveel energiebesparing in m3 gas en kWh elektriciteit en CO2-
+emissie reductie hiermee wordt bereikt en bereikt gaat worden
+- De wijze van databeheer met elkaar af te stemmen, zodat gegevens kunnen worden
+vergeleken en opgeteld.
+19
+Aanpak:
+De werkgroep Data verzamelt en interpreteert data, brengt de voortgang van de prestatie
+(output) en effecten (outcome) van het Energiebesparingsakkoord in beeld, gerelateerd
+aan de in artikel 2 genoemde ambitie, doelen en resultaten.
+De werkgroep Data levert input (als grafieken of tabellen) aan de voortgangsrapportages
+die jaarlijks door de werkgroep Energiebesparingsakkoord aan het bestuurlijk
+Energiebesparingsberaad worden gepresenteerd, aan de Tussenevaluatie en Eindevaluatie.
+Na ondertekening van het Energiebesparingsakkoord geeft de werkgroep de 0-situatie van
+1 januari 2027 (of nabijgelegen datum) weer (zie artikel 4.9 van het
+Energiebesparingsakkoord).
+De 0-situatie wordt in het eerste kwartaal van 2027 aan de
+Werkgroep Energiebesparingsakkoord aangeboden, die dit vervolgens aan het bestuurlijk
+Energiebesparingsberaad aanbiedt.
+De deelnemers aan de werkgroep data zetten zich in om de datakwaliteit, het databeheer
+ten behoeve van monitoring en evaluatie te verbeteren en gaan na hoe en welke data
+hiervoor kunnen worden uitgewisseld.
+NB.
+Gegevensdeling wordt vooraf getoetst op
+wettelijke grondslag, doelbinding en bescherming van persoonsgegevens en
+bedrijfsinformatie.
+8.
+Communicatie
+Communicatie is een belangrijk onderdeel van het Energiebesparingsakkoord.
+Daarmee
+ondersteunen we het bereiken van de doelen van het akkoord: meer energiebesparing, betere
+naleving van de energiebesparingsplicht en een effectieve gezamenlijke uitvoering.
+We leggen
+daarbij de nadruk op energiecontroles en op het verplichte karakter van de
+energiebesparingsplicht.
+Communicatiedoelen
+Extern
+• Energiebesparingsplichtige bedrijven en instellingen kennen hun verplichtingen
+en begrijpen waarom deze maatregelen van belang zijn.
+• Bedrijven en instellingen weten welke acties zij moeten nemen, welke informatie
+zij moeten aanleveren en waar zij betrouwbare informatie en ondersteuning
+kunnen vinden.
+• Bedrijven en instellingen weten dat toezicht en handhaving plaatsvinden,
+begrijpen het doel en verloop van een energiecontrole en volgen noodzakelijke
+acties tijdig op.
+Intern
+• Medewerkers van provincie, gemeenten en omgevingsdiensten kennen de
+gezamenlijke doelen, kernboodschappen, hun eigen rol en de route voor vragen
+van bedrijven en instellingen.
+• De betrokken organisaties stemmen communicatie, toezicht en handhaving tijdig
+op elkaar af.
+• Bestuurders en betrokken partners ontvangen periodiek informatie over de
+voortgang, resultaten, leerpunten en aandachtspunten van de gezamenlijke
+aanpak.
+Aanpak en verantwoordelijkheden
+De werkgroep Communicatie werkt uiterlijk het vierde kwartaal van 2026 een
+20
+gezamenlijk communicatieplan voor 2027 en 2028 uit.
+Het plan vertaalt de
+communicatiedoelen naar doelgroepen, kernboodschappen, activiteiten, rollen en
+planning.
+De werkgroep stemt het plan af met de Werkgroep Energiebesparingsakkoord.
+De omgevingsdiensten verzorgen de inhoudelijke en uitvoerende communicatie over
+energiecontroles richting bedrijven en instellingen.
+Gemeenten en provincie
+ondersteunen deze communicatie vanuit hun eigen taken, kanalen en netwerken.
+De
+provincie is verantwoordelijk voor de bredere communicatie over het
+Energiebesparingsakkoord.
+De werkgroep Communicatie bewaakt de gezamenlijke
+kernboodschappen, organiseert de onderlinge afstemming en volgt de uitvoering.
+Monitoring en bijsturing
+De werkgroep stelt, als onderdeel van het communicatieplan, een meetkader vast.
+Hierin
+staan indicatoren voor de communicatie-inzet, het bereik, het gebruik van informatie en
+signalen uit de uitvoering.
+Waar mogelijk maakt de werkgroep ook de relatie zichtbaar
+tussen communicatie, de voorbereiding op energiecontroles en de opvolging door
+bedrijven en instellingen.
+De werkgroep rapporteert jaarlijks vóór 1 november aan de Werkgroep
+Energiebesparingsakkoord over de voortgang, resultaten, leerpunten en eventuele
+bijsturing.
+Zij actualiseert het communicatieplan jaarlijks op basis van de monitoring,
+ervaringen uit toezicht en handhaving en signalen van bedrijven en instellingen.
+In 2028 worden de aanpak en resultaten betrokken bij de tussenevaluatie van het
+akkoord.
+Op basis daarvan werkt de werkgroep uiterlijk het vierde kwartaal van 2028 een
+communicatieplan voor de beheerfase 2029–2030 uit.
