@@ -3,6 +3,44 @@
     "alkmaar"
   ],
   "items": {
+    "56ccf6615bc43e74bd638a65722b3e1dbee994136a524501e3f205dd69359d23": {
+      "title": "Alkmaar met elkaar: hét platform voor bewonersinitiatieven",
+      "url": "https://www.alkmaar.nl/nieuws/alkmaar-met-elkaar-het-platform-voor-bewonersinitiatieven/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-05T09:01:15+00:00",
+      "updated": "2026-11-16T10:32:59+00:00",
+      "last_change": "2026-11-16T10:32:59+00:00",
+      "hash": "",
+      "revisions": 2,
+      "doc_date": "2026-11-05",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-05",
+      "last_seen": "2026-11-16",
+      "published_at": "2026-11-05T10:33+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "Een buurtfeest, samen sporten, iets organiseren om buurtgenoten te leren kennen of een plek in de buurt fijner maken. Heeft...",
+      "missing_count": 0,
+      "text_hash": "b05c21ffceff20e3416425d1d904b0b56bdd481448478ae94e53d25f198d381d",
+      "content_checked": "2026-11-16T10:32:59+00:00",
+      "kw_sig": "4f53cda18c2b|b05c21ffceff20e3416425d1d904b0b56bdd481448478ae94e53d25f198d381d|Alkmaar met elkaar: hét platform voor bewonersinitiatieven|Een buurtfeest, samen sporten, iets organiseren om buurtgenoten te leren kennen of een plek in de buurt fijner maken. Heeft...",
+      "changes": [
+        {
+          "at": "2026-11-16T10:32:59+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Alkmaarse veteranen ontmoeten elkaar tijdens veteranenreceptie",
+            "16 november 2026"
+          ],
+          "removed": [
+            "Eurokaartje stopt op 1 januari 2027",
+            "29 oktober 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "7aa86b2caeda313824206eaa93666339295e6a3ff58d649306a27dac3c3dbd24": {
       "title": "PartsPoint Alkmaar schaalt op met 15.000 banden op voorraad",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEVxUnZtdnppNmFod190NzdQLXBSMjZnOWJOb1dUZDlhYzlTODNzREFsT0JGSWRTYlpyZGl1LUdtd05qZzBxSjBxMUJMWHM2aGJYbFVoc0U3SW9mZzBMRk1LcHhMVmN0YmpxdHA5bVJPSDRvLWhuc3g4MzFKeWpoc05QUkhBTHhFbXFSeUFR?oc=5",
@@ -4439,7 +4477,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.13 Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht Alkmaar",
       "missing_count": 0,
       "text_hash": "fc0f36a4ebe5910f672afc4c5e1fe0a224f5cbc5c22ae89b71617bf621dfd418",
-      "content_checked": "2026-11-16T04:32:14+00:00",
+      "content_checked": "2026-11-16T10:32:53+00:00",
       "kw_sig": "4f53cda18c2b|fc0f36a4ebe5910f672afc4c5e1fe0a224f5cbc5c22ae89b71617bf621dfd418|Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.13 Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht Alkmaar"
     },
     "f46ad8a7080c17f551df13cbf4f7b2338595536f902482d163070d70bb4615f0": {
@@ -4469,7 +4507,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.13 Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht Alkmaar",
       "missing_count": 0,
       "text_hash": "bab482bcba1d5c2556fc93f82ef579df3551f054a7cef1202309bb0844d18895",
-      "content_checked": "2026-11-16T04:32:14+00:00",
+      "content_checked": "2026-11-16T10:32:55+00:00",
       "kw_sig": "4f53cda18c2b|bab482bcba1d5c2556fc93f82ef579df3551f054a7cef1202309bb0844d18895|Bijlage 1. GT Collegebrief reactie op Blenheim|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.13 Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht Alkmaar"
     },
     "712c0a2d48ae6b32dad63523a1f4d69169a8c06a25ce68bb6d4478491ca7b6e3": {
@@ -4499,7 +4537,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland van 3 november 2026",
       "missing_count": 0,
       "text_hash": "70d16cc6d46e507f9a5837033f59f343458bcff07322d8362a89f3b55750a92c",
-      "content_checked": "2026-11-16T04:32:15+00:00",
+      "content_checked": "2026-11-16T10:32:56+00:00",
       "kw_sig": "4f53cda18c2b|70d16cc6d46e507f9a5837033f59f343458bcff07322d8362a89f3b55750a92c|GS Besluitenlijst 2026-11-03 OBV|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland van 3 november 2026"
     },
     "329b752001ab078416d0ad8fc5ab3993e31c51ed0075bcb896649c80d530f845": {
@@ -4529,7 +4567,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 5.2 VNG Lobbymemo",
       "missing_count": 0,
       "text_hash": "2320f69ebc2b481033a7f2c46c1d0c1ae16047ff4b2bc34d72f10400f4f064a4",
-      "content_checked": "2026-11-16T04:32:16+00:00",
+      "content_checked": "2026-11-16T10:32:58+00:00",
       "kw_sig": "4f53cda18c2b|2320f69ebc2b481033a7f2c46c1d0c1ae16047ff4b2bc34d72f10400f4f064a4|20261106 VNG Lobbymemo|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 5.2 VNG Lobbymemo"
     },
     "93560c81ffb3d242cfe084f8f0aea5cafb0a9b54b679f4ae8d4905f33977ebec": {
@@ -5970,7 +6008,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.4 Uitgebreide Wabo procedure De Rederijker (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "66c79846ba02fd14e6413616e419bec80ef7384674ab1eefe42bba0916e95e63",
-      "content_checked": "2026-11-15T10:31:58+00:00",
+      "content_checked": "2026-11-16T10:32:53+00:00",
       "kw_sig": "4f53cda18c2b|66c79846ba02fd14e6413616e419bec80ef7384674ab1eefe42bba0916e95e63|GT nw Raadsvoorstel Uitgebreide Wabo procedure De Rederijker|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 2.4 Uitgebreide Wabo procedure De Rederijker (Gijsbert van Iterson Scholten)"
     },
     "00f2d8448e424a66ac544484b5ff004e51ccc526b7c15ae426b0901fadb2c31b": {
@@ -12579,7 +12617,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 1 Besluitenlijst collegevergadering van 3 november 2026",
       "missing_count": 0,
       "text_hash": "cab9e461682e7ffba72d6dff6d96b871f8592c84c7436572c9617443085f84bd",
-      "content_checked": "2026-11-16T04:32:18+00:00",
+      "content_checked": "2026-11-16T10:33:00+00:00",
       "kw_sig": "4f53cda18c2b|cab9e461682e7ffba72d6dff6d96b871f8592c84c7436572c9617443085f84bd|Besluitenlijst Collegevergadering van 3 november 2026|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 1 Besluitenlijst collegevergadering van 3 november 2026"
     },
     "87125a21110bd2afdfabfc947cf1ad46d9fad553f8624ce1331a87bd7a5a1e9d": {
@@ -12609,7 +12647,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 2.1 Centrale Stemopneming Provinciale Staten- en Waterschapsverkiezing (PSWV) 2027 (Anja Schouten)",
       "missing_count": 0,
       "text_hash": "1ae0ca46a4516a3aaf1064b4666ecf5611fdee6ad3acd791a0ed81c68f9f01c7",
-      "content_checked": "2026-11-16T04:32:19+00:00",
+      "content_checked": "2026-11-16T10:33:01+00:00",
       "kw_sig": "4f53cda18c2b|1ae0ca46a4516a3aaf1064b4666ecf5611fdee6ad3acd791a0ed81c68f9f01c7|Collegevoorstel Centrale Stemopneming PSWS 2027|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 2.1 Centrale Stemopneming Provinciale Staten- en Waterschapsverkiezing (PSWV) 2027 (Anja Schouten)"
     },
     "15b208828e75b70f98500749f7862c46ab6d386e32fed0c4aa314464dfcfee2a": {
@@ -12639,7 +12677,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 2.2 Bezwaarprocedure windturbine Oostmijzerdijk 6 (Gijsbert van Iterson Scholten)",
       "missing_count": 0,
       "text_hash": "918f42db769b1335b4394f9c87bfa02ba5c528800b70f88c342764df61a99bb0",
-      "content_checked": "2026-11-16T04:32:19+00:00",
+      "content_checked": "2026-11-16T10:33:02+00:00",
       "kw_sig": "4f53cda18c2b|918f42db769b1335b4394f9c87bfa02ba5c528800b70f88c342764df61a99bb0|Collegevoorstel Bezwaarprocedure windturbine Oostmijzerdijk 6|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 2.2 Bezwaarprocedure windturbine Oostmijzerdijk 6 (Gijsbert van Iterson Scholten)"
     },
     "533596e1c5dd73f3391c53fbe4c4c8d6f14d36f37aeb286bff779a109f835f94": {
@@ -16980,28 +17018,6 @@
       "published_at": "2026-11-05T09:27+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Simone van der Vlught in race voor NS Publieksprijs|"
-    },
-    "56ccf6615bc43e74bd638a65722b3e1dbee994136a524501e3f205dd69359d23": {
-      "title": "Alkmaar met elkaar: hét platform voor bewonersinitiatieven",
-      "url": "https://www.alkmaar.nl/nieuws/alkmaar-met-elkaar-het-platform-voor-bewonersinitiatieven/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-11-05T09:01:15+00:00",
-      "updated": "2026-11-05T09:01:15+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "doc_date": "2026-11-05",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-05",
-      "last_seen": "2026-11-16",
-      "published_at": "2026-11-05T10:33+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "Een buurtfeest, samen sporten, iets organiseren om buurtgenoten te leren kennen of een plek in de buurt fijner maken. Heeft...",
-      "missing_count": 0,
-      "text_hash": "ca791c9a40f575af7b3803d694b8f62bb1aaefefd01f22dc40789df994897ce0",
-      "content_checked": "2026-11-16T04:32:17+00:00",
-      "kw_sig": "4f53cda18c2b|ca791c9a40f575af7b3803d694b8f62bb1aaefefd01f22dc40789df994897ce0|Alkmaar met elkaar: hét platform voor bewonersinitiatieven|Een buurtfeest, samen sporten, iets organiseren om buurtgenoten te leren kennen of een plek in de buurt fijner maken. Heeft..."
     },
     "e45930f20bf45882b96b1e309a96baa688419c6f05cc37d167e2720907485862": {
       "title": "Omgevingsvergunning regulier Niet nodig: het plaatsen van een mantelzorgwoning, Oostdijk 16, 1844 LP Driehuizen",
@@ -194359,14 +194375,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-16T10:00:51+00:00",
+        "checked": "2026-11-16T10:30:53+00:00",
         "ok": true,
         "count": 395,
         "new": 0,
         "note": "Laatste 30 dagen: 395 van 395 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-16T10:01:10+00:00",
+        "checked": "2026-11-16T10:31:36+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -194374,7 +194390,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 776 documenten bekend. Dekking: vergaderingen van 2026-09-17 t/m 2026-12-31 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-16T10:01:11+00:00",
+        "checked": "2026-11-16T10:31:42+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -194382,40 +194398,38 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-16T10:01:13+00:00",
+        "checked": "2026-11-16T10:31:44+00:00",
         "ok": true,
         "count": 10,
-        "new": 1,
+        "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-16T10:02:13+00:00",
+        "checked": "2026-11-16T10:32:44+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-16T10:02:17+00:00",
-        "ok": true,
-        "count": 77,
-        "new": 2,
-        "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
+        "checked": "2026-11-16T10:32:51+00:00",
+        "ok": false,
+        "error": "Google Nieuws gaf HTTP 503; 2 uur pauze"
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-16T10:02:24+00:00",
+        "checked": "2026-11-16T10:33:02+00:00",
         "ok": true,
-        "count": 11,
+        "count": 9,
         "errors": 0,
-        "note": "11 documenten gecontroleerd (10 pdf), 599 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 1 pdf zonder tekst deze run."
+        "note": "9 documenten gecontroleerd (8 pdf), 599 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-16T10:02:24+00:00",
+        "checked": "2026-11-16T10:33:02+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-16T10:02:24+00:00",
+        "checked": "2026-11-16T10:33:02+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -194431,7 +194445,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-16T10:00:51+00:00",
+        "checked": "2026-11-16T10:30:53+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -194439,7 +194453,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-16T10:00:51+00:00",
+        "checked": "2026-11-16T10:30:53+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -194447,7 +194461,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-16T10:00:51+00:00",
+        "checked": "2026-11-16T10:30:53+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -194455,7 +194469,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-16T10:00:51+00:00",
+        "checked": "2026-11-16T10:30:53+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -194698,7 +194712,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-11-16T10:00:51+00:00",
+        "checked": "2026-11-16T10:30:53+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -194993,7 +195007,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-11-16T09:30:43+00:00",
+        "checked": "2026-11-16T10:30:53+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -195001,7 +195015,7 @@
         "documents": 71
       },
       "76d0f4f5-e1b7-4995-b9f2-74d91963993a": {
-        "checked": "2026-11-16T09:30:43+00:00",
+        "checked": "2026-11-16T10:30:53+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-27",
@@ -195009,7 +195023,7 @@
         "documents": 1
       },
       "f339467e-beb6-47d2-9d1f-e8fd285b0283": {
-        "checked": "2026-11-16T09:30:43+00:00",
+        "checked": "2026-11-16T10:30:53+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-27",
@@ -195033,7 +195047,7 @@
         "documents": 40
       },
       "bd0b6951-d6cf-4609-9cf9-810712dbd67d": {
-        "checked": "2026-11-16T09:30:43+00:00",
+        "checked": "2026-11-16T10:30:53+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-10",
@@ -195041,7 +195055,7 @@
         "documents": 1
       },
       "d8a8b9b0-d4f7-4b40-bd69-8939700e04b6": {
-        "checked": "2026-11-16T09:30:43+00:00",
+        "checked": "2026-11-16T10:30:53+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-10",
@@ -195050,7 +195064,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-16T10:00:54+00:00"
+      "alkmaar": "2026-11-16T10:31:06+00:00"
     },
     "reports": {
       "alkmaar": {
@@ -195078,7 +195092,7 @@
       }
     },
     "media": {
-      "pause_until": "2026-11-15T17:52:04+00:00"
+      "pause_until": "2026-11-16T12:32:44+00:00"
     },
     "keywords": {
       "known": []
