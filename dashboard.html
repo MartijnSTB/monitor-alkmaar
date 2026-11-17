@@ -516,9 +516,12 @@ const nl = (s,o={day:'numeric',month:'long',year:'numeric'}) => s ? dt(s).toLoca
 const diff = (a,b) => (new Date(a)-new Date(b))/864e5;
 const hm = s => new Date(s).toLocaleTimeString('nl-NL',{hour:'2-digit',minute:'2-digit',timeZone:'Europe/Amsterdam'});
 const cap = s => s ? s[0].toUpperCase() + s.slice(1) : s;
+// Alle monitors staan op martijnstb.github.io en delen dus de browseropslag. Eigen voorvoegsel per monitor,
+// anders schuift 'laatst bekeken' van de ene monitor mee als je de andere bekijkt.
+const NS = 'alkmaar:';
 const store = {
-  get(k, d = null){ try { const v = localStorage.getItem(k); return v === null ? d : v; } catch (e) { return d; } },
-  set(k, v){ try { localStorage.setItem(k, v); } catch (e) {} },
+  get(k, d = null){ try { const v = localStorage.getItem(NS + k); return v === null ? d : v; } catch (e) { return d; } },
+  set(k, v){ try { localStorage.setItem(NS + k, v); } catch (e) {} },
 };
 
 // ---------------------------------------------------------------------------
@@ -588,19 +591,19 @@ let FIRST_VISIT = false;
 function visitBase(){
   const now = Date.now();
   try {
-    const last = Date.parse(localStorage.getItem('gm-last') || '');
-    let base = Date.parse(localStorage.getItem('gm-base') || '');
+    const last = Date.parse(localStorage.getItem(NS + 'gm-last') || '');
+    let base = Date.parse(localStorage.getItem(NS + 'gm-base') || '');
     if (!last) { base = now - 864e5; FIRST_VISIT = true; }
     else if (now - last > PAUSE || !base) base = last;
-    localStorage.setItem('gm-base', new Date(base).toISOString());
-    localStorage.setItem('gm-last', new Date(now).toISOString());
+    localStorage.setItem(NS + 'gm-base', new Date(base).toISOString());
+    localStorage.setItem(NS + 'gm-last', new Date(now).toISOString());
     return new Date(base).toISOString();
   } catch (e) { FIRST_VISIT = true; return new Date(now - 864e5).toISOString(); }
 }
 let VISIT = visitBase();
 let VISIT_MS = new Date(VISIT).getTime();
 // Bijhouden dat je kijkt: elke minuut zolang het dashboard zichtbaar is, en bij weggaan.
-const seen = () => { try { localStorage.setItem('gm-last', new Date().toISOString()); } catch (e) {} };
+const seen = () => { try { localStorage.setItem(NS + 'gm-last', new Date().toISOString()); } catch (e) {} };
 setInterval(() => { if (document.visibilityState === 'visible') seen(); }, 6e4);
 addEventListener('pagehide', seen);
 document.addEventListener('visibilitychange', () => {
@@ -617,7 +620,7 @@ function resetVisit(){
 // 'Alles gezien': vanaf nu telt alleen wat er hierna binnenkomt als nieuw.
 function markAllSeen(){
   const now = new Date().toISOString();
-  try { localStorage.setItem('gm-base', now); localStorage.setItem('gm-last', now); } catch (e) {}
+  try { localStorage.setItem(NS + 'gm-base', now); localStorage.setItem(NS + 'gm-last', now); } catch (e) {}
   VISIT = now; VISIT_MS = Date.parse(now); FIRST_VISIT = false; resetVisit();
 }
 const after = s => !!s && new Date(s).getTime() > VISIT_MS;
