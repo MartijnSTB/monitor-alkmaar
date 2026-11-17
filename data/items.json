@@ -3,6 +3,312 @@
     "alkmaar"
   ],
   "items": {
+    "3b8f5c27926b42438a75243104141cdd448a359f5f04a819efef315066a6677f": {
+      "title": "Omgevingsvergunning aangevraagd: het plaatsen van een steiger van 17-11 t/m 23-11 2026, Geestersingel 33, 1815 BA Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-535539.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-17T08:30:45+00:00",
+      "updated": "2026-11-17T08:30:45+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-17",
+      "geo": [
+        52.634856,
+        4.742935
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-17",
+        "issued": null,
+        "date": "2026-11-17"
+      },
+      "doc_date": "2026-11-17",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Geestersingel 33 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17",
+      "published_at_tried": true,
+      "published_at": "2026-11-17T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het plaatsen van een steiger van 17-11 t/m 23-11 2026, Geestersingel 33, 1815 BA Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17"
+    },
+    "dae312de6492c757970f23357603017ac892f1c1926c599e7a864c287cdbe391": {
+      "title": "Algemene plaatselijke verordening Aangevraagd: Horeca-inrichting exploitatievergunning, Le Sushi And More, Kanaalkade 54 A, 1811 LS Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-535641.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-17T08:30:45+00:00",
+      "updated": "2026-11-17T08:30:45+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-17",
+      "geo": [
+        52.633804,
+        4.747423
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-17",
+        "issued": null,
+        "date": "2026-11-17"
+      },
+      "doc_date": "2026-11-17",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "koop_type": "andere vergunning",
+      "locatie": "Kanaalkade 54 A te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17",
+      "published_at_tried": true,
+      "published_at": "2026-11-17T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Algemene plaatselijke verordening Aangevraagd: Horeca-inrichting exploitatievergunning, Le Sushi And More, Kanaalkade 54 A, 1811 LS Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17"
+    },
+    "3696d59455892eb526f81e934069ada67c377a6dd604f73941c302e8ecbc4ccf": {
+      "title": "Melding activiteit behandelen ingediend: gereed melding van het realiseren van een nieuwbouw hal, Diamantweg 7, 1812 RC Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-535332.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-17T08:30:45+00:00",
+      "updated": "2026-11-17T08:30:45+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-17",
+      "geo": [
+        52.610861,
+        4.757422
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-17",
+        "issued": null,
+        "date": "2026-11-17"
+      },
+      "doc_date": "2026-11-17",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "koop_type": "omgevingsmelding",
+      "locatie": "Diamantweg 7 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17",
+      "published_at_tried": true,
+      "published_at": "2026-11-17T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Melding activiteit behandelen ingediend: gereed melding van het realiseren van een nieuwbouw hal, Diamantweg 7, 1812 RC Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17"
+    },
+    "03938d559e15577210bd7ab82dce94004590316fef81a77a6625dec698c4124d": {
+      "title": "Omgevingsvergunning regulier Verleend: het plaatsen van een reclame uithangbord , Laat 206, 1811 EN Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-535396.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-17T08:30:45+00:00",
+      "updated": "2026-11-17T08:30:45+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-17",
+      "geo": [
+        52.631378,
+        4.744333
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-17",
+        "issued": null,
+        "date": "2026-11-17"
+      },
+      "doc_date": "2026-11-17",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Laat 206 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17",
+      "published_at_tried": true,
+      "published_at": "2026-11-17T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning regulier Verleend: het plaatsen van een reclame uithangbord , Laat 206, 1811 EN Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17"
+    },
+    "53d0ddeab1784e64ee190cd3cc8f1da6861fdea334dae8a4184ec25705e5c425": {
+      "title": "Algemene plaatselijke verordening Verleend: Horeca-inrichting exploitatievergunning, Hotel Stad en Land, Stationstraat 87, 1815 TB Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-535563.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-17T08:30:45+00:00",
+      "updated": "2026-11-17T08:30:45+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-17",
+      "geo": [
+        52.637569,
+        4.74221
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-17",
+        "issued": null,
+        "date": "2026-11-17"
+      },
+      "doc_date": "2026-11-17",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "koop_type": "exploitatievergunning",
+      "locatie": "Stationstraat 87 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17",
+      "published_at_tried": true,
+      "published_at": "2026-11-17T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Algemene plaatselijke verordening Verleend: Horeca-inrichting exploitatievergunning, Hotel Stad en Land, Stationstraat 87, 1815 TB Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17"
+    },
+    "6d1d7980552fc9eb3176ed143f25d9b87c4c50a235d8844d7fc327f3f3650283": {
+      "title": "Omgevingsvergunning aangevraagd: het plaatsen van een steiger van 7-1 t/m 8-1 2027, Koorstraat 55, 1811 GN Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-535969.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-17T08:30:45+00:00",
+      "updated": "2026-11-17T08:30:45+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-17",
+      "geo": [
+        52.631211,
+        4.743781
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-17",
+        "issued": null,
+        "date": "2026-11-17"
+      },
+      "doc_date": "2026-11-17",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Koorstraat 55 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17",
+      "published_at_tried": true,
+      "published_at": "2026-11-17T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het plaatsen van een steiger van 7-1 t/m 8-1 2027, Koorstraat 55, 1811 GN Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17"
+    },
+    "09653686831cbe69e951dbbecfe8a71db48e99c7740c4083e6092e8bedc194d1": {
+      "title": "Algemene plaatselijke verordening Verleend: Terrasvergunning, Hotel Stad en Land, Stationstraat 87, 1815 TB Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-535595.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-17T08:30:45+00:00",
+      "updated": "2026-11-17T08:30:45+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-17",
+      "geo": [
+        52.637569,
+        4.74221
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-17",
+        "issued": null,
+        "date": "2026-11-17"
+      },
+      "doc_date": "2026-11-17",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "koop_type": "andere vergunning",
+      "locatie": "Stationstraat 87 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17",
+      "published_at_tried": true,
+      "published_at": "2026-11-17T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Algemene plaatselijke verordening Verleend: Terrasvergunning, Hotel Stad en Land, Stationstraat 87, 1815 TB Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17"
+    },
+    "63b89fcd666839a6b472c8c0ca9aa557c7c5d2a79eaca61c4438bff776a90557": {
+      "title": "Algemene plaatselijke verordening Verleend: Horeca-inrichting exploitatievergunning, Shabu ToGo Sushi & Grill Alkmaar, Europaplein 50, 1825 TL Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-535538.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-17T08:30:45+00:00",
+      "updated": "2026-11-17T08:30:45+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-17",
+      "geo": [
+        52.65604,
+        4.757497
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-17",
+        "issued": null,
+        "date": "2026-11-17"
+      },
+      "doc_date": "2026-11-17",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "koop_type": "exploitatievergunning",
+      "locatie": "Europaplein 50 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17",
+      "published_at_tried": true,
+      "published_at": "2026-11-17T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Algemene plaatselijke verordening Verleend: Horeca-inrichting exploitatievergunning, Shabu ToGo Sushi & Grill Alkmaar, Europaplein 50, 1825 TL Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17"
+    },
+    "8ad8c1d00c10c40dec3a7ac494bac0c65e2c7380b13462ed98f21fc41621a16f": {
+      "title": "Algemene plaatselijke verordening Verleend: Alcoholwetvergunning, Hotel Stad en Land, Stationstraat 87, 1815 TB Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-535589.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-17T08:30:45+00:00",
+      "updated": "2026-11-17T08:30:45+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-17",
+      "geo": [
+        52.637569,
+        4.74221
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-17",
+        "issued": null,
+        "date": "2026-11-17"
+      },
+      "doc_date": "2026-11-17",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "koop_type": "andere vergunning",
+      "locatie": "Stationstraat 87 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17",
+      "published_at_tried": true,
+      "published_at": "2026-11-17T09:00+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Algemene plaatselijke verordening Verleend: Alcoholwetvergunning, Hotel Stad en Land, Stationstraat 87, 1815 TB Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-17"
+    },
     "39d82c64b2c925242b6e108a15c2877f62adb6c6ada0510b11115f59b1df2509": {
       "title": "Open dag gemeentelijke begraafplaats Westerweg",
       "url": "https://www.alkmaar.nl/nieuws/open-dag-gemeentelijke-begraafplaats-westerweg/",
@@ -1325,7 +1631,7 @@
       "excerpt": "Heeft u last van vuurwerk in uw buurt? Meld dit dan bij de gemeente Alkmaar. Met uw melding helpt u...",
       "missing_count": 0,
       "text_hash": "4c130a496155b821d61d3d92eedeed037260230ed413bbffff8f0a6405f1cc10",
-      "content_checked": "2026-11-17T02:04:22+00:00",
+      "content_checked": "2026-11-17T08:32:14+00:00",
       "kw_sig": "4f53cda18c2b|4c130a496155b821d61d3d92eedeed037260230ed413bbffff8f0a6405f1cc10|Last van vuurwerk in uw buurt? Meld het!|Heeft u last van vuurwerk in uw buurt? Meld dit dan bij de gemeente Alkmaar. Met uw melding helpt u...",
       "changes": [
         {
@@ -10365,7 +10671,7 @@
       "excerpt": "Het Dr. Schaepmanplein in het Alkmaarse Staatsliedenkwartier is flink opgeknapt. Op vrijdag 6 november opende wethouder Robert te Beest de nieuwe speelplek op het plein feestelijk.",
       "missing_count": 0,
       "text_hash": "5f1a8a79f68665ec7fed925f4d6a7205b6af689a45084849f30a8f013a8cb4ba",
-      "content_checked": "2026-11-17T02:04:25+00:00",
+      "content_checked": "2026-11-17T08:32:17+00:00",
       "kw_sig": "4f53cda18c2b|5f1a8a79f68665ec7fed925f4d6a7205b6af689a45084849f30a8f013a8cb4ba|Feestelijke opening van de nieuwe speelplek op het Dr. Schaepmanplein|Het Dr. Schaepmanplein in het Alkmaarse Staatsliedenkwartier is flink opgeknapt. Op vrijdag 6 november opende wethouder Robert te Beest de nieuwe speelplek op het plein feestelijk.",
       "changes": [
         {
@@ -16763,7 +17069,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 5.3 VNG Lobbymemo",
       "missing_count": 0,
       "text_hash": "3afb19bdad0c786b626b541b43db189c2ffe974add1a00cf6cc0cc26d0ded608",
-      "content_checked": "2026-11-17T02:04:24+00:00",
+      "content_checked": "2026-11-17T08:32:15+00:00",
       "kw_sig": "4f53cda18c2b|3afb19bdad0c786b626b541b43db189c2ffe974add1a00cf6cc0cc26d0ded608|20261030 VNG Lobbymemo|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 5.3 VNG Lobbymemo"
     },
     "4f24420cbcbf48bd81537a28d323693d7e07c50df574f2b73a62343df5fd33d7": {
@@ -196296,14 +196602,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-17T08:00:48+00:00",
+        "checked": "2026-11-17T08:30:45+00:00",
         "ok": true,
-        "count": 419,
-        "new": 0,
-        "note": "Laatste 30 dagen: 419 van 419 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 428,
+        "new": 9,
+        "note": "Laatste 30 dagen: 428 van 428 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-17T08:01:07+00:00",
+        "checked": "2026-11-17T08:31:03+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -196311,7 +196617,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 776 documenten bekend. Dekking: vergaderingen van 2026-09-18 t/m 2027-01-01 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-17T08:01:08+00:00",
+        "checked": "2026-11-17T08:31:04+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -196319,38 +196625,38 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-17T08:01:09+00:00",
+        "checked": "2026-11-17T08:31:05+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-17T08:02:09+00:00",
+        "checked": "2026-11-17T08:32:05+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-17T08:02:09+00:00",
+        "checked": "2026-11-17T08:32:05+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-17T08:02:30+00:00",
+        "checked": "2026-11-17T08:32:17+00:00",
         "ok": true,
-        "count": 19,
+        "count": 3,
         "errors": 0,
-        "note": "19 documenten gecontroleerd (19 pdf), 601 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 3 pdf zonder tekst deze run."
+        "note": "3 documenten gecontroleerd (1 pdf), 601 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-17T08:02:30+00:00",
+        "checked": "2026-11-17T08:32:17+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-17T08:02:30+00:00",
+        "checked": "2026-11-17T08:32:17+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -196366,7 +196672,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-17T08:00:48+00:00",
+        "checked": "2026-11-17T08:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -196374,7 +196680,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-17T08:00:48+00:00",
+        "checked": "2026-11-17T08:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -196382,7 +196688,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-17T08:00:48+00:00",
+        "checked": "2026-11-17T08:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -196390,7 +196696,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-17T08:00:48+00:00",
+        "checked": "2026-11-17T08:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -196633,7 +196939,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-11-17T08:00:48+00:00",
+        "checked": "2026-11-17T08:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -196928,7 +197234,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-11-17T07:31:01+00:00",
+        "checked": "2026-11-17T08:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -196936,7 +197242,7 @@
         "documents": 71
       },
       "76d0f4f5-e1b7-4995-b9f2-74d91963993a": {
-        "checked": "2026-11-17T07:31:01+00:00",
+        "checked": "2026-11-17T08:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-27",
@@ -196944,7 +197250,7 @@
         "documents": 1
       },
       "f339467e-beb6-47d2-9d1f-e8fd285b0283": {
-        "checked": "2026-11-17T07:31:01+00:00",
+        "checked": "2026-11-17T08:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-27",
@@ -196968,7 +197274,7 @@
         "documents": 40
       },
       "bd0b6951-d6cf-4609-9cf9-810712dbd67d": {
-        "checked": "2026-11-17T07:31:01+00:00",
+        "checked": "2026-11-17T08:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-10",
@@ -196976,7 +197282,7 @@
         "documents": 1
       },
       "d8a8b9b0-d4f7-4b40-bd69-8939700e04b6": {
-        "checked": "2026-11-17T07:31:01+00:00",
+        "checked": "2026-11-17T08:30:45+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-10",
@@ -196985,7 +197291,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-17T08:00:50+00:00"
+      "alkmaar": "2026-11-17T08:30:48+00:00"
     },
     "reports": {
       "alkmaar": {
