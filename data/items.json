@@ -3,6 +3,57 @@
     "alkmaar"
   ],
   "items": {
+    "d4f00aeb45150e0002ad6526f77d77549023f593c9945a2e148a41dd9bbe6d21": {
+      "title": "Feestelijke opening van de nieuwe speelplek op het Dr. Schaepmanplein",
+      "url": "https://www.alkmaar.nl/nieuws/feestelijke-opening-van-de-nieuwe-speelplek-op-het-dr-schaepmanplein/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-09T15:31:27+00:00",
+      "updated": "2026-11-19T18:02:28+00:00",
+      "last_change": "2026-11-19T18:02:28+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-11-09",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-09",
+      "last_seen": "2026-11-19",
+      "published_at": "2026-11-09T17:01+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "Het Dr. Schaepmanplein in het Alkmaarse Staatsliedenkwartier is flink opgeknapt. Op vrijdag 6 november opende wethouder Robert te Beest de nieuwe speelplek op het plein feestelijk.",
+      "missing_count": 0,
+      "text_hash": "f7aeaac2c15e2d669331f6c27171f434c4f3917a25d1eb78a7b0ce59c11b5809",
+      "content_checked": "2026-11-19T18:02:28+00:00",
+      "kw_sig": "4f53cda18c2b|f7aeaac2c15e2d669331f6c27171f434c4f3917a25d1eb78a7b0ce59c11b5809|Feestelijke opening van de nieuwe speelplek op het Dr. Schaepmanplein|Het Dr. Schaepmanplein in het Alkmaarse Staatsliedenkwartier is flink opgeknapt. Op vrijdag 6 november opende wethouder Robert te Beest de nieuwe speelplek op het plein feestelijk.",
+      "changes": [
+        {
+          "at": "2026-11-11T18:02:35+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Gratis cursus voor VvE-bestuurders: verduurzamen doet u samen",
+            "11 november 2026"
+          ],
+          "removed": [
+            "Inwoners gebied Graft-De Rijp: vul de BuurtWarmteWijzer in!",
+            "9 oktober 2026"
+          ]
+        },
+        {
+          "at": "2026-11-19T18:02:28+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Noord-Holland geeft € 4 miljoen extra voor controles op energiebesparing",
+            "19 november 2026"
+          ],
+          "removed": [
+            "Leerlingen en bewoners maken Sluiswaard groener",
+            "26 oktober 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "22e93eada8f38c864144869504466cb8c7dd634f52519c22d1457f5db570e7f1": {
       "title": "Ongeval met letsel op Noordervaart in Stompetoren",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXZ3aHViaVVmRlJzRDFCTThPTEJWRUJHLWE2MVFBZlBpd1ZlbGJ2TzZiTDRXM0JidmwwYy1VQ1E3ci02Ti1UdS05N2tpWS1CdjFxYW5RbXNrTF9xX0lVNzNLY1RhaUwyRFVGOVppcm5VYkg5Sk9NZFJFTEZBNUxDUmU2RkhwaENtNUNNMUFTa1N6YzNyMC1DRXVCa2g?oc=5",
@@ -693,7 +744,7 @@
       "excerpt": "Heeft u last van vuurwerk in uw buurt? Meld dit dan bij de gemeente Alkmaar. Met uw melding helpt u...",
       "missing_count": 0,
       "text_hash": "e23406a3025aac8ffded9b8a891352adb35f9d5615d44e6b28ed8d734a8e0394",
-      "content_checked": "2026-11-19T11:32:16+00:00",
+      "content_checked": "2026-11-19T18:02:27+00:00",
       "kw_sig": "4f53cda18c2b|e23406a3025aac8ffded9b8a891352adb35f9d5615d44e6b28ed8d734a8e0394|Last van vuurwerk in uw buurt? Meld het!|Heeft u last van vuurwerk in uw buurt? Meld dit dan bij de gemeente Alkmaar. Met uw melding helpt u...",
       "changes": [
         {
@@ -14752,44 +14803,6 @@
       "published_at": "2026-11-10T13:31+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Ongeval met letsel op Percivalstraat in Alkmaar|"
-    },
-    "d4f00aeb45150e0002ad6526f77d77549023f593c9945a2e148a41dd9bbe6d21": {
-      "title": "Feestelijke opening van de nieuwe speelplek op het Dr. Schaepmanplein",
-      "url": "https://www.alkmaar.nl/nieuws/feestelijke-opening-van-de-nieuwe-speelplek-op-het-dr-schaepmanplein/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-11-09T15:31:27+00:00",
-      "updated": "2026-11-11T18:02:35+00:00",
-      "last_change": "2026-11-11T18:02:35+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-11-09",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-09",
-      "last_seen": "2026-11-19",
-      "published_at": "2026-11-09T17:01+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "Het Dr. Schaepmanplein in het Alkmaarse Staatsliedenkwartier is flink opgeknapt. Op vrijdag 6 november opende wethouder Robert te Beest de nieuwe speelplek op het plein feestelijk.",
-      "missing_count": 0,
-      "text_hash": "5f1a8a79f68665ec7fed925f4d6a7205b6af689a45084849f30a8f013a8cb4ba",
-      "content_checked": "2026-11-19T11:32:18+00:00",
-      "kw_sig": "4f53cda18c2b|5f1a8a79f68665ec7fed925f4d6a7205b6af689a45084849f30a8f013a8cb4ba|Feestelijke opening van de nieuwe speelplek op het Dr. Schaepmanplein|Het Dr. Schaepmanplein in het Alkmaarse Staatsliedenkwartier is flink opgeknapt. Op vrijdag 6 november opende wethouder Robert te Beest de nieuwe speelplek op het plein feestelijk.",
-      "changes": [
-        {
-          "at": "2026-11-11T18:02:35+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Gratis cursus voor VvE-bestuurders: verduurzamen doet u samen",
-            "11 november 2026"
-          ],
-          "removed": [
-            "Inwoners gebied Graft-De Rijp: vul de BuurtWarmteWijzer in!",
-            "9 oktober 2026"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
     },
     "94bcf36a486bf75c066f93a2249d5a166681cb1b26962e3505c497aff4c7c0d5": {
       "title": "Vertraging door ongeval op A9 voor knooppunt Velsen, rijbanen afgesloten richting Alkmaar",
@@ -200704,14 +200717,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-19T17:30:43+00:00",
+        "checked": "2026-11-19T18:00:48+00:00",
         "ok": true,
         "count": 458,
         "new": 0,
         "note": "Laatste 30 dagen: 458 van 458 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-19T17:30:56+00:00",
+        "checked": "2026-11-19T18:01:23+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -200719,7 +200732,7 @@
         "note": "10 van 16 vergaderingen in venster bijgewerkt; 780 documenten bekend. Dekking: vergaderingen van 2026-09-20 t/m 2027-01-03 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-19T17:30:58+00:00",
+        "checked": "2026-11-19T18:01:24+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -200727,38 +200740,38 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-19T17:31:00+00:00",
+        "checked": "2026-11-19T18:01:25+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-19T17:32:00+00:00",
+        "checked": "2026-11-19T18:02:25+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-19T17:32:00+00:00",
+        "checked": "2026-11-19T18:02:25+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-19T17:32:01+00:00",
+        "checked": "2026-11-19T18:02:28+00:00",
         "ok": true,
-        "count": 1,
+        "count": 2,
         "errors": 0,
-        "note": "1 documenten gecontroleerd (0 pdf), 608 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "2 documenten gecontroleerd (0 pdf), 608 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-19T17:32:01+00:00",
+        "checked": "2026-11-19T18:02:28+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-19T17:32:01+00:00",
+        "checked": "2026-11-19T18:02:28+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -200774,7 +200787,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-19T17:30:43+00:00",
+        "checked": "2026-11-19T18:00:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -200782,7 +200795,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-19T17:30:43+00:00",
+        "checked": "2026-11-19T18:00:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -200790,7 +200803,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-19T17:30:43+00:00",
+        "checked": "2026-11-19T18:00:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -200798,7 +200811,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-19T17:30:43+00:00",
+        "checked": "2026-11-19T18:00:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -201041,7 +201054,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-11-19T17:01:08+00:00",
+        "checked": "2026-11-19T18:00:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -201049,7 +201062,7 @@
         "documents": 18
       },
       "dcc6411b-600b-4103-9480-0c96305035a4": {
-        "checked": "2026-11-19T17:01:08+00:00",
+        "checked": "2026-11-19T18:00:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-06",
@@ -201057,7 +201070,7 @@
         "documents": 67
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-11-19T17:01:08+00:00",
+        "checked": "2026-11-19T18:00:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -201065,7 +201078,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-11-19T17:01:08+00:00",
+        "checked": "2026-11-19T18:00:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -201360,7 +201373,7 @@
         "documents": 64
       },
       "42f2dcbc-b02c-4292-98ff-133fe6c4b5a7": {
-        "checked": "2026-11-19T17:01:08+00:00",
+        "checked": "2026-11-19T18:00:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-03",
@@ -201368,7 +201381,7 @@
         "documents": 1
       },
       "b5f85388-de26-4e67-be6a-3bda136604ae": {
-        "checked": "2026-11-19T17:01:08+00:00",
+        "checked": "2026-11-19T18:00:48+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-03",
@@ -201401,7 +201414,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-19T17:30:45+00:00"
+      "alkmaar": "2026-11-19T18:01:10+00:00"
     },
     "reports": {
       "alkmaar": {
