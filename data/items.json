@@ -3,6 +3,327 @@
     "alkmaar"
   ],
   "items": {
+    "56ccf6615bc43e74bd638a65722b3e1dbee994136a524501e3f205dd69359d23": {
+      "title": "Alkmaar met elkaar: hét platform voor bewonersinitiatieven",
+      "url": "https://www.alkmaar.nl/nieuws/alkmaar-met-elkaar-het-platform-voor-bewonersinitiatieven/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-05T09:01:15+00:00",
+      "updated": "2026-11-19T15:02:30+00:00",
+      "last_change": "2026-11-19T15:02:30+00:00",
+      "hash": "",
+      "revisions": 5,
+      "doc_date": "2026-11-05",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-05",
+      "last_seen": "2026-11-19",
+      "published_at": "2026-11-05T10:33+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "Een buurtfeest, samen sporten, iets organiseren om buurtgenoten te leren kennen of een plek in de buurt fijner maken. Heeft...",
+      "missing_count": 0,
+      "text_hash": "d7fd50e1b9c4d465c6bc52f57820fed5e5042c88cea504f2dad0288951f3ea1b",
+      "content_checked": "2026-11-19T15:02:30+00:00",
+      "kw_sig": "4f53cda18c2b|d7fd50e1b9c4d465c6bc52f57820fed5e5042c88cea504f2dad0288951f3ea1b|Alkmaar met elkaar: hét platform voor bewonersinitiatieven|Een buurtfeest, samen sporten, iets organiseren om buurtgenoten te leren kennen of een plek in de buurt fijner maken. Heeft...",
+      "changes": [
+        {
+          "at": "2026-11-16T10:32:59+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Alkmaarse veteranen ontmoeten elkaar tijdens veteranenreceptie",
+            "16 november 2026"
+          ],
+          "removed": [
+            "Eurokaartje stopt op 1 januari 2027",
+            "29 oktober 2026"
+          ]
+        },
+        {
+          "at": "2026-11-16T17:02:31+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "5 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
+          "added": [
+            "Last van vuurwerk in uw buurt?",
+            "Meld het!",
+            "16 november 2026"
+          ],
+          "removed": [
+            "Denk mee over gezondheid in Alkmaar",
+            "2 november 2026",
+            "Spinaker krijgt nieuw schoolgebouw met gymzaal"
+          ]
+        },
+        {
+          "at": "2026-11-17T12:02:16+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Kom in actie en stop geweld tegen vrouwen!",
+            "17 november 2026"
+          ],
+          "removed": [
+            "Alkmaar huldigt sportkampioenen",
+            "13 november 2026"
+          ]
+        },
+        {
+          "at": "2026-11-19T15:02:30+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Tentoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt",
+            "19 november 2026"
+          ],
+          "removed": [
+            "Alkmaarse veteranen ontmoeten elkaar tijdens veteranenreceptie",
+            "16 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "9c1dd58a7061a7797f7926191b56adb5325d5853806a6d42c76b8dea2dca799d": {
+      "title": "Kraanwagen rolt van Walingsdijk in Ursem, veel schade",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlhRNkVDcmh4Y1ZTV3NfOUZXR1pKYmcxTUxPYU8tTWRmT0pfNnB3Q0gxbGF4YUNhb1BURGR4UVl0eElXdkV2SkZham1MTEN6TUZEQXZCUVVIYTBlRVNwWWk2dzhJa25tVzVzeHo2ZFdjSmFrNUw4VmZ6RzhLSzRfRGNDa0YzbjVyUHVyWWw1SW0tbjN5MlVIaWpiU3V0YmdzU3RPZ0tRdXl6VUo1aHA3OEZYeDFXaUlz?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T15:02:19+00:00",
+      "updated": "2026-11-19T15:02:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Noordhollands Dagblad",
+      "media_match": "kop",
+      "last_seen": "2026-11-19",
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-19T13:04+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Kraanwagen rolt van Walingsdijk in Ursem, veel schade|"
+    },
+    "531f4c978693decbc5a1756d323bce9c52b8be9b3b720e516265a8c0d5e42eda": {
+      "title": "Kraanwagen belandt op zijn kant naast Walingsdijk in Ursem",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGhZNmpEakM2UWZhOUhiUFktWVNrTUpwUEtBekUtV3lKU1Q0RF9jNnViMG5GY0dIZTlMRjhsVmphTVgtYlM3REFQLVRLbmZMZXRFSkZ6anI5M1NuRUN0M3pxSUxRaThQWS1BcWZoRjJNblBFMmVKbnNlQl9QbFpyRnhUa256SVBQdUt4RDNGamR6UEQ5SjVCTjVEUzFDSEExRjZpb0JzblAyYlZ3MzFnbUxCMm5yZw?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T15:02:19+00:00",
+      "updated": "2026-11-19T15:02:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Nieuwsuitwestfriesland.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-19",
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-19T15:23+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Kraanwagen belandt op zijn kant naast Walingsdijk in Ursem|"
+    },
+    "1ea2cfccf1e32f2f2262010da90b5deaff996946395cd4dd5faf650eb683fa81": {
+      "title": "Kraanwagen raakt van dijk en kantelt in Ursem, bestuurder ongedeerd",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVndLQ2J5STFHZ2QxYk01WVhENFFXQ19xZ1ctUzFJcEdwX0haQ3h5bVdqVlJzQVdHd0FyTXNOSzQ2VjRmYjkydURKdkloTjFPSVEyUWlmWW16b1k5UzdqNVFLNnBuRlpIb19URE1GRjQ1RDNEWXd0a0FnUVRIemE3aTVjWWtsZ0xaY2Q5RHIyWTM0QnlubElqdmpKYWlUR244SXlCeWpfMWFGdw?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T15:02:19+00:00",
+      "updated": "2026-11-19T15:02:19+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Transport Online",
+      "media_match": "kop",
+      "last_seen": "2026-11-19",
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-19T15:28+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Kraanwagen raakt van dijk en kantelt in Ursem, bestuurder ongedeerd|"
+    },
+    "6d1f2b5ad83b979296494dcbfcf6a6258c5099dc9e7a495e085906687abac509": {
+      "title": "Dorpsraad Stompetoren tegen weer een hoogspanningslijn: “Dan minimaal eentje onder de grond”",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGJZNWY0X3F6c0hEQVJGbHVfMXlZVHhFUndZcHhhRzR0Ul9vLWRSdkhXdzRzTmlCR191dEwySXd5a1JOMDBTa3c3X0lnOWNTbUxhaVI5MHB3S2QtbGZHWFZxMTFRcmNSSVVpM1djcUxmRW5iNFZwMks1ME1JbXZ0bkdzNTZhaUxyTkhPQm5fbVdTRHNRU2JTX2VvZGZiQkpPQTlOVHc4YXR0VDFHLXZv?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T15:02:17+00:00",
+      "updated": "2026-11-19T15:02:17+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Streekstad Centraal",
+      "media_match": "kop",
+      "last_seen": "2026-11-19",
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-19T13:08+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Dorpsraad Stompetoren tegen weer een hoogspanningslijn: “Dan minimaal eentje onder de grond”|"
+    },
+    "f27578fb3da927a1ef63765462e5c081575d5bfa08ecc8ad3f28c288bc208d71": {
+      "title": "Julianapop keert terug, nieuwe hoogspanningslijn in Stompetoren en nieuw museumdirecteur",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPODBzTGRGNUpmU3gwc3pCQXNyTlZtYUNuZWFIdW1QY0VoMWFnUXhibUFqMWtGT09KczNhTm5OS2VYZUZhdzZ0eWFQN1F3YXNIZkhQdlZXQno0UUtqdHJnWURNUTVFS3QtZlN1VWNJOGRTdjhkNGI4VTc3UTMyNnh2Vnl3UWk0MWNSU01qUkN6bTJ1d1hw?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T15:02:17+00:00",
+      "updated": "2026-11-19T15:02:17+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Head Topics",
+      "media_match": "kop",
+      "last_seen": "2026-11-19",
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-19T14:14+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Julianapop keert terug, nieuwe hoogspanningslijn in Stompetoren en nieuw museumdirecteur|"
+    },
+    "1a81961636a975b79264b0600b957de67122323a951ad250e4216c5e4bb90bda": {
+      "title": "Girls Only Waterpolo Toernooi in Alkmaar krijgt tweede editie",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSERnVm9FZnVoZGplNjdRNHIyUmhMdTgxRGZSNGpaaUlXeDhBSnlJRWh4V2NHNU1mVVBkZWpJcXZ1YTV0NEp3UFo1RDBjMWF1MllRdHotdlpuaHVMaExmOUV2SEl6Y29NOVVoaGpieC1xT1dOeUk2UExvZEtyaDdqUDVqZjlndW9JUWdBWk1Ca00tWm5pM2luZUpn?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T15:02:16+00:00",
+      "updated": "2026-11-19T15:02:16+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Waterpolo.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-19",
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-19T13:45+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Girls Only Waterpolo Toernooi in Alkmaar krijgt tweede editie|"
+    },
+    "1c77e02dac3cbb7517fd687ea0ac209b23fbeb170828cf43192ce0db840213f7": {
+      "title": "Bergen wil extra opties: fuseren met Heiloo en eventueel Castricum. Alkmaar is geen partij meer",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPblhfY1BvZU9OWFg3anhvcC1OWEZ6SV9yQW11dnZoNzRfbERUamdnTWtSX2N2WkFDQ1FiaHJreHpsSmFqVEhXY0dNalFJLUhyYUNDNEJSeGZIU1RHWFBHY0FXNkM2enhsY3pvSW9ranhtekMzZWNieTFxaTFib3ZCWjNkMVZLRzh5eV9VQXhpblZ5RUpZYTFyR2MxcjlmcTVtX251X0treXgwTXFVZEJVRDFycTBINV9zV2hmY3ZULXdrSDBxZ1BfeHJoN2FCSWxQTTdydm5UTHVqbWwxbHV5V2NYQW51NVNyQW0wTnNNM0w?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T15:02:16+00:00",
+      "updated": "2026-11-19T15:02:16+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Noordhollands Dagblad",
+      "media_match": "kop",
+      "last_seen": "2026-11-19",
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-19T14:05+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Bergen wil extra opties: fuseren met Heiloo en eventueel Castricum. Alkmaar is geen partij meer|"
+    },
+    "9c994cce035300196970d9bb7409f82d6f2b3858d882774b38a6a5c45a41288f": {
+      "title": "Ongeval met letsel op Aert de Gelderlaan in Alkmaar",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSU1CYWdzTS04c1VUTUhRNUVlMjN0YjRIN3JJY2pfX21nSmFIc2tqTVV3UXYxa0JWSUk2TG9vYjFuNjdEcTJWeDJXS0FPeFdGV0EteUF2Y2RIUkF4bWhnQndBYUZYV2J4c3ZKOXJVYWdfZkJrSFRSU0YzTWJtOEtQMUROTE9qNnlzcFBaVG9yQ1pvSHV2RkJJVWpKb2VuRzA?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T15:02:16+00:00",
+      "updated": "2026-11-19T15:02:16+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "AD.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-19",
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-19T13:17+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Ongeval met letsel op Aert de Gelderlaan in Alkmaar|"
+    },
+    "8ba5da71fe7d5f31bc656896c4f226b01a6d3588019e54283dfdf17433e54ade": {
+      "title": "Buitententoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt toont het dagelijks leven van mensen met een beperking",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQkgwaGhadXJ5WTlJX19kanpGNU1QRGpjcThYNkc5cmZFZEE2Ynh3bEVrU2YtMlZIbm43eEVHZndXVk1yMGE2VzRYdnoxLTk3bERudFZKR0dpQVBNblNrUWpkbjM1cDhTck1rQ2tJbU9Wc3B5R0VKOVotR0JrZjBvNjJhaU9jZUdCbkE3VmhrQV9teWhZbDQzUnRtZEtQUTQyV2pZSExMUWxXd2s1Y3QzX3dVaEZMeERVTE9vVnFlVk81TzFMZzR2dEIyeDVvMHpEa3pwc3kxQ2xlWExKMlRDLVhqSjI2X1hoZG96enlUT0pRQ1E?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T15:02:16+00:00",
+      "updated": "2026-11-19T15:02:16+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Rodi.nl",
+      "media_match": "tekst",
+      "last_seen": "2026-11-19",
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-19T13:48+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Buitententoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt toont het dagelijks leven van mensen met een beperking|"
+    },
+    "14a0810c23f14b8e328e2afae9f38fb4b4029ca4a411a862235954b590488fa6": {
+      "title": "Parkeerdrukte in Daalmeer blijft een probleem: ‘betaald parkeren volgens het college de meest effectieve oplossing’",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTmY2aE1rQkxUdE5QdHpJUkVSVE1rQkxFbEd2amNJWUtISDRfbHctTzZYZWpvcWVyOG5kVzdQV05BQk9YMUpqNHVoM0ljT1NUY3NzUElxUXEtR2Nhc3JycjQ1REhzeGtCdkdzMHNDdWlkYlVkaVZSU3JrZHEwYTRsTi1uSkZNRWlFb1J1aXV4U3ZvWWxRSm00dDhoN2ZHb1hta0dBVTF3cE1RbFFVNWpwdWxyUVJhOUU2cTY3SWRsMzBKNEpJaGhSV18yZ1BNN0xqZjluTTg4ZDJJX2c5WERPNW45RkJ3eWZURGc?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T15:02:16+00:00",
+      "updated": "2026-11-19T15:02:16+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Rodi.nl",
+      "media_match": "tekst",
+      "last_seen": "2026-11-19",
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-19T13:37+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Parkeerdrukte in Daalmeer blijft een probleem: ‘betaald parkeren volgens het college de meest effectieve oplossing’|"
+    },
+    "1ff31ffa1d65159ff2c987cbddf436733c87e1c112cd290333a0b52d8bad4845": {
+      "title": "Alkmaar houdt 4,1 miljoen euro over voor opvang Oekraïners in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdV9sRGlrYjN5cV9jNUZDamJUa1IwQ1dtYV9LTWJCV2RfclU5c0FjQ0UycGROSURFYnJwb25qbnA5dmhlZGYySFhPWkNSdU5FOWdLaVozM1BNbUQyX284cUNjMU9qQU5lRkR4djVtbU5pbFZfbmFHV3g4VHZfU2ZUUWl2R0dudHVYVWVIZDFFX1hiQmFfOVFabjV4WnVadUY1MlJxM0dxNm0wMWN6alNqam9tanZVd0pZWmpZ?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T15:02:16+00:00",
+      "updated": "2026-11-19T15:02:16+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Streekradio Alkmaar",
+      "media_match": "kop",
+      "last_seen": "2026-11-19",
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-19T07:31+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Alkmaar houdt 4,1 miljoen euro over voor opvang Oekraïners in 2026|"
+    },
+    "298bbef3db609d772eadd84a4860ca59a4b41f387e0844eab69a328c7960b1cc": {
+      "title": "Noord-Holland geeft € 4 miljoen extra voor controles op energiebesparing",
+      "url": "https://www.alkmaar.nl/nieuws/noord-holland-geeft-e-4-miljoen-extra-voor-controles-op-energiebesparing/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T15:01:15+00:00",
+      "updated": "2026-11-19T15:01:15+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "published_at": "2026-11-19T16:54+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "De 44 gemeenten in Noord-Holland en de provincie hebben op 18 november het Energiebesparingsakkoord 2027–2030 ondertekend. Ook wethouder Odile Rasch tekende het akkoord namens gemeente Alkmaar. De 44 gemeenten willen samen zorgen dat bedrijven en instellingen zich aan de energiebesparingsplicht houden. Dat is een wettelijke plicht om energie te besparen. De provincie geeft daarom € 4 miljoen extra",
+      "missing_count": 0,
+      "text_hash": "5b41d48d9fcb70a3ef4872729c4386b716326b99a3599133b55d072cc72f2862",
+      "content_checked": "2026-11-19T15:02:21+00:00",
+      "kw_sig": "4f53cda18c2b|5b41d48d9fcb70a3ef4872729c4386b716326b99a3599133b55d072cc72f2862|Noord-Holland geeft € 4 miljoen extra voor controles op energiebesparing|De 44 gemeenten in Noord-Holland en de provincie hebben op 18 november het Energiebesparingsakkoord 2027–2030 ondertekend. Ook wethouder Odile Rasch tekende het akkoord namens gemeente Alkmaar. De 44 gemeenten willen samen zorgen dat bedrijven en instellingen zich aan de energiebesparingsplicht houden. Dat is een wettelijke plicht om energie te besparen. De provincie geeft daarom € 4 miljoen extra"
+    },
     "5330b487d9079a3cbdf9f8f18f674d134f4a4b9934619e708185d55a03a1d3af": {
       "title": "Alkmaarse veteranen ontmoeten elkaar tijdens veteranenreceptie",
       "url": "https://www.alkmaar.nl/nieuws/alkmaarse-veteranen-ontmoeten-elkaar-tijdens-veteranenreceptie/",
@@ -408,7 +729,7 @@
       "hash": "",
       "revisions": 1,
       "kind": "media",
-      "media_bron": "www.rodi.nl",
+      "media_bron": "Rodi.nl",
       "media_match": "kop",
       "last_seen": "2026-11-19",
       "doc_date": "2026-11-19",
@@ -1443,7 +1764,7 @@
       "last_seen": "2026-11-19",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-19T11:50+01:00",
+      "published_at": "2026-11-19T12:28+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Treinverkeer kort stilgelegd bij station Heiloo vanwege vechtpartij [update]|"
     },
@@ -1954,7 +2275,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 2.4 Beleidsplan Civieltechnische Kunstwerken 2027-2036 (Robert te Beest)",
       "missing_count": 0,
       "text_hash": "061a9206cfac8dbebbc1ba38487ef2660cdeff60f53458784f7e78703087bf19",
-      "content_checked": "2026-11-18T14:32:12+00:00",
+      "content_checked": "2026-11-19T15:02:23+00:00",
       "kw_sig": "4f53cda18c2b|061a9206cfac8dbebbc1ba38487ef2660cdeff60f53458784f7e78703087bf19|GT Raadsvoorstel Beleidsplan Civieltechnische kunstwerken 2027 2036|B&W Openbare besluiten college dinsdag 3 november 2026 · agendapunt 2.4 Beleidsplan Civieltechnische Kunstwerken 2027-2036 (Robert te Beest)"
     },
     "d85343a9abe84883a13e7c621ed02e7c9802a38f3dd5585f3706b38c1900c5df": {
@@ -1990,7 +2311,7 @@
       "kind": "media",
       "media_bron": "Streekstad Centraal",
       "media_match": "kop",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T02:13+01:00",
@@ -4653,72 +4974,6 @@
       "published_at": "2026-11-17T13:48+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Burgemeester plaatst camera in Lorreinenlaan na explosie en steen door ruit bij dezelfde woning|"
-    },
-    "56ccf6615bc43e74bd638a65722b3e1dbee994136a524501e3f205dd69359d23": {
-      "title": "Alkmaar met elkaar: hét platform voor bewonersinitiatieven",
-      "url": "https://www.alkmaar.nl/nieuws/alkmaar-met-elkaar-het-platform-voor-bewonersinitiatieven/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-11-05T09:01:15+00:00",
-      "updated": "2026-11-17T12:02:16+00:00",
-      "last_change": "2026-11-17T12:02:16+00:00",
-      "hash": "",
-      "revisions": 4,
-      "doc_date": "2026-11-05",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-05",
-      "last_seen": "2026-11-19",
-      "published_at": "2026-11-05T10:33+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "Een buurtfeest, samen sporten, iets organiseren om buurtgenoten te leren kennen of een plek in de buurt fijner maken. Heeft...",
-      "missing_count": 0,
-      "text_hash": "115912baddc7fff6f318a4a301b319d726aa55a0324dd25b8266de039ca8e25c",
-      "content_checked": "2026-11-19T08:44:33+00:00",
-      "kw_sig": "4f53cda18c2b|115912baddc7fff6f318a4a301b319d726aa55a0324dd25b8266de039ca8e25c|Alkmaar met elkaar: hét platform voor bewonersinitiatieven|Een buurtfeest, samen sporten, iets organiseren om buurtgenoten te leren kennen of een plek in de buurt fijner maken. Heeft...",
-      "changes": [
-        {
-          "at": "2026-11-16T10:32:59+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Alkmaarse veteranen ontmoeten elkaar tijdens veteranenreceptie",
-            "16 november 2026"
-          ],
-          "removed": [
-            "Eurokaartje stopt op 1 januari 2027",
-            "29 oktober 2026"
-          ]
-        },
-        {
-          "at": "2026-11-16T17:02:31+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "5 zin(nen) toegevoegd of aangepast, 4 verwijderd of vervangen",
-          "added": [
-            "Last van vuurwerk in uw buurt?",
-            "Meld het!",
-            "16 november 2026"
-          ],
-          "removed": [
-            "Denk mee over gezondheid in Alkmaar",
-            "2 november 2026",
-            "Spinaker krijgt nieuw schoolgebouw met gymzaal"
-          ]
-        },
-        {
-          "at": "2026-11-17T12:02:16+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Kom in actie en stop geweld tegen vrouwen!",
-            "17 november 2026"
-          ],
-          "removed": [
-            "Alkmaar huldigt sportkampioenen",
-            "13 november 2026"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
     },
     "9ef95da1ea305d9ecb7d3c333dfaa854bfe30a5853b6bfb55e75b60ec536d1f4": {
       "title": "Stroomstoring in Markenbinnen op dit moment",
@@ -11495,7 +11750,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.12 Raadsinformatiebrief Toezegging raad inzake emissieloze gemeenten",
       "missing_count": 0,
       "text_hash": "780cfd3e520e877dcdf51c197f5101954b850bc189614f01deec9d23ed1b309e",
-      "content_checked": "2026-11-19T08:44:27+00:00",
+      "content_checked": "2026-11-19T15:02:24+00:00",
       "kw_sig": "4f53cda18c2b|780cfd3e520e877dcdf51c197f5101954b850bc189614f01deec9d23ed1b309e|Raadsinformatiebrief Toezegging raad inzake emissieloze gemeenten|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.12 Raadsinformatiebrief Toezegging raad inzake emissieloze gemeenten"
     },
     "8fa4237a1e2a7a9a130577b8b205b230787fae51dee53131117de835aea70114": {
@@ -11525,7 +11780,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.13 Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht Alkmaar",
       "missing_count": 0,
       "text_hash": "fc0f36a4ebe5910f672afc4c5e1fe0a224f5cbc5c22ae89b71617bf621dfd418",
-      "content_checked": "2026-11-19T08:44:28+00:00",
+      "content_checked": "2026-11-19T15:02:24+00:00",
       "kw_sig": "4f53cda18c2b|fc0f36a4ebe5910f672afc4c5e1fe0a224f5cbc5c22ae89b71617bf621dfd418|Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.13 Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht Alkmaar"
     },
     "f46ad8a7080c17f551df13cbf4f7b2338595536f902482d163070d70bb4615f0": {
@@ -11555,7 +11810,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.13 Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht Alkmaar",
       "missing_count": 0,
       "text_hash": "bab482bcba1d5c2556fc93f82ef579df3551f054a7cef1202309bb0844d18895",
-      "content_checked": "2026-11-19T08:44:29+00:00",
+      "content_checked": "2026-11-19T15:02:25+00:00",
       "kw_sig": "4f53cda18c2b|bab482bcba1d5c2556fc93f82ef579df3551f054a7cef1202309bb0844d18895|Bijlage 1. GT Collegebrief reactie op Blenheim|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.13 Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht Alkmaar"
     },
     "712c0a2d48ae6b32dad63523a1f4d69169a8c06a25ce68bb6d4478491ca7b6e3": {
@@ -11585,7 +11840,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland van 3 november 2026",
       "missing_count": 0,
       "text_hash": "70d16cc6d46e507f9a5837033f59f343458bcff07322d8362a89f3b55750a92c",
-      "content_checked": "2026-11-19T08:44:30+00:00",
+      "content_checked": "2026-11-19T15:02:27+00:00",
       "kw_sig": "4f53cda18c2b|70d16cc6d46e507f9a5837033f59f343458bcff07322d8362a89f3b55750a92c|GS Besluitenlijst 2026-11-03 OBV|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland van 3 november 2026"
     },
     "329b752001ab078416d0ad8fc5ab3993e31c51ed0075bcb896649c80d530f845": {
@@ -11615,7 +11870,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 5.2 VNG Lobbymemo",
       "missing_count": 0,
       "text_hash": "2320f69ebc2b481033a7f2c46c1d0c1ae16047ff4b2bc34d72f10400f4f064a4",
-      "content_checked": "2026-11-19T08:44:32+00:00",
+      "content_checked": "2026-11-19T15:02:28+00:00",
       "kw_sig": "4f53cda18c2b|2320f69ebc2b481033a7f2c46c1d0c1ae16047ff4b2bc34d72f10400f4f064a4|20261106 VNG Lobbymemo|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 5.2 VNG Lobbymemo"
     },
     "93560c81ffb3d242cfe084f8f0aea5cafb0a9b54b679f4ae8d4905f33977ebec": {
@@ -30376,12 +30631,12 @@
       "hash": "",
       "revisions": 1,
       "kind": "media",
-      "media_bron": "www.rodi.nl",
+      "media_bron": "Rodi.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-01",
-      "doc_date": "2026-10-30",
+      "last_seen": "2026-11-19",
+      "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-10-30T22:59+01:00",
+      "published_at": "2026-11-19T13:01+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Intocht Sinterklaas Oudorp|"
     },
@@ -200369,14 +200624,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-19T14:30:41+00:00",
+        "checked": "2026-11-19T15:00:54+00:00",
         "ok": true,
         "count": 458,
         "new": 0,
         "note": "Laatste 30 dagen: 458 van 458 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-19T14:31:02+00:00",
+        "checked": "2026-11-19T15:01:12+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -200384,7 +200639,7 @@
         "note": "10 van 16 vergaderingen in venster bijgewerkt; 780 documenten bekend. Dekking: vergaderingen van 2026-09-20 t/m 2027-01-03 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-19T14:31:03+00:00",
+        "checked": "2026-11-19T15:01:14+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -200392,38 +200647,40 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-19T14:31:04+00:00",
+        "checked": "2026-11-19T15:01:15+00:00",
         "ok": true,
         "count": 10,
-        "new": 0,
+        "new": 1,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-19T14:32:04+00:00",
+        "checked": "2026-11-19T15:02:15+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-19T14:32:04+00:00",
+        "checked": "2026-11-19T15:02:20+00:00",
         "ok": true,
-        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
+        "count": 57,
+        "new": 11,
+        "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-19T14:32:08+00:00",
+        "checked": "2026-11-19T15:02:30+00:00",
         "ok": true,
-        "count": 2,
+        "count": 8,
         "errors": 0,
-        "note": "2 documenten gecontroleerd (2 pdf), 607 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 1 pdf zonder tekst deze run."
+        "note": "8 documenten gecontroleerd (6 pdf), 608 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-19T14:32:08+00:00",
+        "checked": "2026-11-19T15:02:30+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-19T14:32:08+00:00",
+        "checked": "2026-11-19T15:02:30+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -200439,7 +200696,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-19T14:30:41+00:00",
+        "checked": "2026-11-19T15:00:54+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -200447,7 +200704,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-19T14:30:41+00:00",
+        "checked": "2026-11-19T15:00:54+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -200455,7 +200712,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-19T14:30:41+00:00",
+        "checked": "2026-11-19T15:00:54+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -200463,7 +200720,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-19T14:30:41+00:00",
+        "checked": "2026-11-19T15:00:54+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -200706,7 +200963,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-11-19T14:00:50+00:00",
+        "checked": "2026-11-19T15:00:54+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -200714,7 +200971,7 @@
         "documents": 18
       },
       "dcc6411b-600b-4103-9480-0c96305035a4": {
-        "checked": "2026-11-19T14:00:50+00:00",
+        "checked": "2026-11-19T15:00:54+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-06",
@@ -200722,7 +200979,7 @@
         "documents": 67
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-11-19T14:00:50+00:00",
+        "checked": "2026-11-19T15:00:54+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -200730,7 +200987,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-11-19T14:00:50+00:00",
+        "checked": "2026-11-19T15:00:54+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -201025,7 +201282,7 @@
         "documents": 64
       },
       "42f2dcbc-b02c-4292-98ff-133fe6c4b5a7": {
-        "checked": "2026-11-19T14:00:50+00:00",
+        "checked": "2026-11-19T15:00:54+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-03",
@@ -201033,7 +201290,7 @@
         "documents": 1
       },
       "b5f85388-de26-4e67-be6a-3bda136604ae": {
-        "checked": "2026-11-19T14:00:50+00:00",
+        "checked": "2026-11-19T15:00:54+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-03",
@@ -201066,7 +201323,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-19T14:30:45+00:00"
+      "alkmaar": "2026-11-19T15:00:57+00:00"
     },
     "reports": {
       "alkmaar": {
