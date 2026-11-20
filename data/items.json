@@ -3,6 +3,85 @@
     "alkmaar"
   ],
   "items": {
+    "298bbef3db609d772eadd84a4860ca59a4b41f387e0844eab69a328c7960b1cc": {
+      "title": "Noord-Holland geeft € 4 miljoen extra voor controles op energiebesparing",
+      "url": "https://www.alkmaar.nl/nieuws/noord-holland-geeft-e-4-miljoen-extra-voor-controles-op-energiebesparing/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T15:01:15+00:00",
+      "updated": "2026-11-20T17:02:19+00:00",
+      "last_change": "2026-11-20T17:02:19+00:00",
+      "hash": "",
+      "revisions": 2,
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-19",
+      "last_seen": "2026-11-20",
+      "published_at": "2026-11-19T16:54+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "De 44 gemeenten in Noord-Holland en de provincie hebben op 18 november het Energiebesparingsakkoord 2027–2030 ondertekend. Ook wethouder Odile Rasch tekende het akkoord namens gemeente Alkmaar. De 44 gemeenten willen samen zorgen dat bedrijven en instellingen zich aan de energiebesparingsplicht houden. Dat is een wettelijke plicht om energie te besparen. De provincie geeft daarom € 4 miljoen extra",
+      "missing_count": 0,
+      "text_hash": "56ff46dfbc20c6a16c0f0105362604695b3a7dfe8417a8c194d72a4588055b01",
+      "content_checked": "2026-11-20T17:02:19+00:00",
+      "kw_sig": "4f53cda18c2b|56ff46dfbc20c6a16c0f0105362604695b3a7dfe8417a8c194d72a4588055b01|Noord-Holland geeft € 4 miljoen extra voor controles op energiebesparing|De 44 gemeenten in Noord-Holland en de provincie hebben op 18 november het Energiebesparingsakkoord 2027–2030 ondertekend. Ook wethouder Odile Rasch tekende het akkoord namens gemeente Alkmaar. De 44 gemeenten willen samen zorgen dat bedrijven en instellingen zich aan de energiebesparingsplicht houden. Dat is een wettelijke plicht om energie te besparen. De provincie geeft daarom € 4 miljoen extra",
+      "changes": [
+        {
+          "at": "2026-11-20T17:02:19+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "8 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Bewoners maken samen hun voortuinen groener",
+            "20 november 2026",
+            "Wilt u niets missen?"
+          ],
+          "removed": [
+            "Alkmaar Aardgasvrij 2050: wat vindt u belangrijk?",
+            "28 oktober 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "4d4da0c9e6577ba8dd239919aeefa4480217f3058d14edd8fc36f23450fe325e": {
+      "title": "Jeugdzorg in Alkmaar: 11 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 61,5 miljoen euro uit",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVjhYNkdQb1h5cldFd01HemVsLVZ1UkFDR0kwNnJRb00wenVPM2k3WjBPTEg5dWxRMVZKN3RROTNSSnZvbVRKRHlsWTVoT2g2WU4tUjB0YVhIZlBLS3NmNnJPRldZNTZiMERvWHlHMGlBTEZ2b1JNek9ZNF9TaDZRUTJialpQUU9Db1I3c0M3LWlnUTYzRUFBMGRaLVdVRW1NUE44NjJjUEFlV0R1NXRCWGJYRGZ3NDR5b01UNm5SdDFWekROeV93U2xQMmNVOXBHR2dTVzNaSEUzUEpwN1dobTBsMnM?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-20T17:02:13+00:00",
+      "updated": "2026-11-20T17:02:13+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "AD.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-20",
+      "doc_date": "2026-11-20",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-20T17:29+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Jeugdzorg in Alkmaar: 11 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 61,5 miljoen euro uit|"
+    },
+    "17242e1face61b2ff63c2ec062b93e52ec1e82e4404899760559f0478db25751": {
+      "title": "Grote rommelmarkt in Sportpaleis Alkmaar 🗓",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMm9LMmVOYl9vTlgwTEpJWF9yUGZUeTFacV85MVdENTZaV2VWam5meDlZSHVHd2ZZV2taemVLZGNXNGRjUmhsZ3k4QU9LMk1tSnlCUDU2Z2t3Z2pDYm5YaTZBal9FUTBlX1RSWDg1UzFVVi1Ba1ZDLWVMc1Z4TGdGdWtkRkpuQTI5?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-20T17:02:13+00:00",
+      "updated": "2026-11-20T17:02:13+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Streekstad Centraal",
+      "media_match": "kop",
+      "last_seen": "2026-11-20",
+      "doc_date": "2026-11-20",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-20T15:54+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Grote rommelmarkt in Sportpaleis Alkmaar 🗓|"
+    },
     "931e9324aac7c796dc164d8037100e72082f2b7d95440eef9598cec159692ec9": {
       "title": "Schaatsen op het Waagplein in Alkmaar: ijsbaan geopend tijdens wintermaanden",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkdVU0tPalo3dVVzeFpuVXlidUNfVHBDXzQ2RFdTREZNWE1pd1QxYXo4OXlCWFYzcE9sQlZqaFlrMGMwRjZPdjZRMDBWZDhPaWlGSU85Umk1eGIzR09jMVNyUnR4LXpwcXZYN1RHU05obndiY2VILWZSOHdUci16WU9UT1VzTmlITlFURzZEQkdsRXBaLTZfNHdGSUlWb0t0NmNMU0t2RkJOY2N1Z21XYw?oc=5",
@@ -5299,28 +5378,6 @@
       "published_at": "2026-11-19T07:31+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Alkmaar houdt 4,1 miljoen euro over voor opvang Oekraïners in 2026|"
-    },
-    "298bbef3db609d772eadd84a4860ca59a4b41f387e0844eab69a328c7960b1cc": {
-      "title": "Noord-Holland geeft € 4 miljoen extra voor controles op energiebesparing",
-      "url": "https://www.alkmaar.nl/nieuws/noord-holland-geeft-e-4-miljoen-extra-voor-controles-op-energiebesparing/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-11-19T15:01:15+00:00",
-      "updated": "2026-11-19T15:01:15+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "doc_date": "2026-11-19",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-19",
-      "last_seen": "2026-11-20",
-      "published_at": "2026-11-19T16:54+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "De 44 gemeenten in Noord-Holland en de provincie hebben op 18 november het Energiebesparingsakkoord 2027–2030 ondertekend. Ook wethouder Odile Rasch tekende het akkoord namens gemeente Alkmaar. De 44 gemeenten willen samen zorgen dat bedrijven en instellingen zich aan de energiebesparingsplicht houden. Dat is een wettelijke plicht om energie te besparen. De provincie geeft daarom € 4 miljoen extra",
-      "missing_count": 0,
-      "text_hash": "5b41d48d9fcb70a3ef4872729c4386b716326b99a3599133b55d072cc72f2862",
-      "content_checked": "2026-11-20T10:32:24+00:00",
-      "kw_sig": "4f53cda18c2b|5b41d48d9fcb70a3ef4872729c4386b716326b99a3599133b55d072cc72f2862|Noord-Holland geeft € 4 miljoen extra voor controles op energiebesparing|De 44 gemeenten in Noord-Holland en de provincie hebben op 18 november het Energiebesparingsakkoord 2027–2030 ondertekend. Ook wethouder Odile Rasch tekende het akkoord namens gemeente Alkmaar. De 44 gemeenten willen samen zorgen dat bedrijven en instellingen zich aan de energiebesparingsplicht houden. Dat is een wettelijke plicht om energie te besparen. De provincie geeft daarom € 4 miljoen extra"
     },
     "7d0886359536605f4c09a729103d028418e9f857d75b58e98cd515eb8276989a": {
       "title": "GT Raadsvoorstel Audiovisuele middelen raadzaal",
@@ -15147,7 +15204,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.12 Raadsinformatiebrief Toezegging raad inzake emissieloze gemeenten",
       "missing_count": 0,
       "text_hash": "780cfd3e520e877dcdf51c197f5101954b850bc189614f01deec9d23ed1b309e",
-      "content_checked": "2026-11-20T10:32:26+00:00",
+      "content_checked": "2026-11-20T17:02:20+00:00",
       "kw_sig": "4f53cda18c2b|780cfd3e520e877dcdf51c197f5101954b850bc189614f01deec9d23ed1b309e|Raadsinformatiebrief Toezegging raad inzake emissieloze gemeenten|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.12 Raadsinformatiebrief Toezegging raad inzake emissieloze gemeenten"
     },
     "8fa4237a1e2a7a9a130577b8b205b230787fae51dee53131117de835aea70114": {
@@ -15177,7 +15234,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.13 Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht Alkmaar",
       "missing_count": 0,
       "text_hash": "fc0f36a4ebe5910f672afc4c5e1fe0a224f5cbc5c22ae89b71617bf621dfd418",
-      "content_checked": "2026-11-20T10:32:27+00:00",
+      "content_checked": "2026-11-20T17:02:21+00:00",
       "kw_sig": "4f53cda18c2b|fc0f36a4ebe5910f672afc4c5e1fe0a224f5cbc5c22ae89b71617bf621dfd418|Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.13 Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht Alkmaar"
     },
     "f46ad8a7080c17f551df13cbf4f7b2338595536f902482d163070d70bb4615f0": {
@@ -15207,7 +15264,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.13 Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht Alkmaar",
       "missing_count": 0,
       "text_hash": "bab482bcba1d5c2556fc93f82ef579df3551f054a7cef1202309bb0844d18895",
-      "content_checked": "2026-11-20T10:32:27+00:00",
+      "content_checked": "2026-11-20T17:02:22+00:00",
       "kw_sig": "4f53cda18c2b|bab482bcba1d5c2556fc93f82ef579df3551f054a7cef1202309bb0844d18895|Bijlage 1. GT Collegebrief reactie op Blenheim|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 4.13 Raadsinformatiebrief Reactie op brief Blenheim Advocaten - Vereniging Werkgroep Erfpacht Alkmaar"
     },
     "712c0a2d48ae6b32dad63523a1f4d69169a8c06a25ce68bb6d4478491ca7b6e3": {
@@ -15237,7 +15294,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland van 3 november 2026",
       "missing_count": 0,
       "text_hash": "70d16cc6d46e507f9a5837033f59f343458bcff07322d8362a89f3b55750a92c",
-      "content_checked": "2026-11-20T10:32:28+00:00",
+      "content_checked": "2026-11-20T17:02:23+00:00",
       "kw_sig": "4f53cda18c2b|70d16cc6d46e507f9a5837033f59f343458bcff07322d8362a89f3b55750a92c|GS Besluitenlijst 2026-11-03 OBV|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland van 3 november 2026"
     },
     "329b752001ab078416d0ad8fc5ab3993e31c51ed0075bcb896649c80d530f845": {
@@ -15267,7 +15324,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 5.2 VNG Lobbymemo",
       "missing_count": 0,
       "text_hash": "2320f69ebc2b481033a7f2c46c1d0c1ae16047ff4b2bc34d72f10400f4f064a4",
-      "content_checked": "2026-11-20T10:32:29+00:00",
+      "content_checked": "2026-11-20T17:02:25+00:00",
       "kw_sig": "4f53cda18c2b|2320f69ebc2b481033a7f2c46c1d0c1ae16047ff4b2bc34d72f10400f4f064a4|20261106 VNG Lobbymemo|B&W Openbare besluiten college dinsdag 10 november 2026 · agendapunt 5.2 VNG Lobbymemo"
     },
     "93560c81ffb3d242cfe084f8f0aea5cafb0a9b54b679f4ae8d4905f33977ebec": {
@@ -203678,14 +203735,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-20T16:30:44+00:00",
+        "checked": "2026-11-20T17:00:58+00:00",
         "ok": true,
         "count": 459,
         "new": 0,
         "note": "Laatste 30 dagen: 459 van 459 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-20T16:31:01+00:00",
+        "checked": "2026-11-20T17:01:11+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -203693,7 +203750,7 @@
         "note": "10 van 17 vergaderingen in venster bijgewerkt; 820 documenten bekend. Dekking: vergaderingen van 2026-09-21 t/m 2027-01-04 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-20T16:31:02+00:00",
+        "checked": "2026-11-20T17:01:12+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -203701,40 +203758,40 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-20T16:31:04+00:00",
+        "checked": "2026-11-20T17:01:13+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-20T16:32:04+00:00",
+        "checked": "2026-11-20T17:02:13+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-20T16:32:08+00:00",
+        "checked": "2026-11-20T17:02:17+00:00",
         "ok": true,
-        "count": 60,
-        "new": 8,
+        "count": 61,
+        "new": 2,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-20T16:32:08+00:00",
+        "checked": "2026-11-20T17:02:25+00:00",
         "ok": true,
-        "count": 0,
+        "count": 6,
         "errors": 0,
-        "note": "0 documenten gecontroleerd (0 pdf), 649 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "6 documenten gecontroleerd (5 pdf), 649 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-20T16:32:08+00:00",
+        "checked": "2026-11-20T17:02:25+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-20T16:32:08+00:00",
+        "checked": "2026-11-20T17:02:25+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -203750,7 +203807,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-20T16:30:44+00:00",
+        "checked": "2026-11-20T17:00:58+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -203758,7 +203815,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-20T16:30:44+00:00",
+        "checked": "2026-11-20T17:00:58+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -203766,7 +203823,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-20T16:30:44+00:00",
+        "checked": "2026-11-20T17:00:58+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -203774,7 +203831,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-20T16:00:52+00:00",
+        "checked": "2026-11-20T17:00:58+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -204017,7 +204074,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-11-20T16:00:52+00:00",
+        "checked": "2026-11-20T17:00:58+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -204025,7 +204082,7 @@
         "documents": 18
       },
       "dcc6411b-600b-4103-9480-0c96305035a4": {
-        "checked": "2026-11-20T16:00:52+00:00",
+        "checked": "2026-11-20T17:00:58+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-06",
@@ -204033,7 +204090,7 @@
         "documents": 67
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-11-20T16:00:52+00:00",
+        "checked": "2026-11-20T17:00:58+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -204041,7 +204098,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-11-20T16:00:52+00:00",
+        "checked": "2026-11-20T17:00:58+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -204336,7 +204393,7 @@
         "documents": 64
       },
       "42f2dcbc-b02c-4292-98ff-133fe6c4b5a7": {
-        "checked": "2026-11-20T16:00:52+00:00",
+        "checked": "2026-11-20T17:00:58+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-03",
@@ -204344,7 +204401,7 @@
         "documents": 1
       },
       "b5f85388-de26-4e67-be6a-3bda136604ae": {
-        "checked": "2026-11-20T16:00:52+00:00",
+        "checked": "2026-11-20T17:00:58+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-03",
@@ -204385,7 +204442,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-20T16:30:46+00:00"
+      "alkmaar": "2026-11-20T17:01:00+00:00"
     },
     "reports": {
       "alkmaar": {
