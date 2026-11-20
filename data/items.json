@@ -3,6 +3,42 @@
     "alkmaar"
   ],
   "items": {
+    "6e8863292f57aed58a20cbc686995e2c1c3d93d6ae6f039d79ee0f62f8a3c4ee": {
+      "title": "Tentoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt",
+      "url": "https://www.alkmaar.nl/nieuws/tentoonstelling-samen-onbeperkt-vooruit-op-de-paardenmarkt/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T11:01:32+00:00",
+      "updated": "2026-11-20T19:02:23+00:00",
+      "last_change": "2026-11-20T19:02:23+00:00",
+      "hash": "",
+      "revisions": 2,
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-19",
+      "last_seen": "2026-11-20",
+      "published_at": "2026-11-19T12:40+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "Hoe is het om te leven met een beperking? En welke uitdagingen kom je tegen in het dagelijks leven? Op...",
+      "missing_count": 0,
+      "text_hash": "885d7eec70b63c6c884661c0e9a179290d94c031b35466eac8bc2d24dbceaf46",
+      "content_checked": "2026-11-20T19:02:23+00:00",
+      "kw_sig": "4f53cda18c2b|885d7eec70b63c6c884661c0e9a179290d94c031b35466eac8bc2d24dbceaf46|Tentoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt|Hoe is het om te leven met een beperking? En welke uitdagingen kom je tegen in het dagelijks leven? Op...",
+      "changes": [
+        {
+          "at": "2026-11-20T19:02:23+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "6 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
+          "added": [
+            "Wilt u niets missen?",
+            "Blijf op de hoogte!",
+            "Schrijf u nu in op onze wekelijks nieuwsbrief."
+          ],
+          "removed": []
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "713a7c23d7be2b5d3365389c10937ec7332545c6e91887e26521e088fa911beb": {
       "title": "Veel belangstelling voor bewonersavond over nieuw dorpshuis Schermerhorn",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGVXUVotS0tRcmo2N01aTmpRZ09ISFFETVljSXJxMUo1bHVmMjVlY1E3c2FDSS1MZW5ScFRIdzd3Q1FrOHJwWUZRSDJGdms2MUhKRnNDWHVsZGV1NEt6b0NVaDlKb2M3WVZhOFhmd3JWYmlGa29MeFdELTZ3NUllLU9yWXZVM1RJTm9RQzhTc252Uzhid2Zjdjl5b2tPZDlsTFFkNThRa1pzT25uVmc4Tg?oc=5",
@@ -5663,28 +5699,6 @@
       "published_at": "2026-11-19T02:58+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Nog een hoogspanningslijn in Stompetoren? \"Dan moet er minimaal één ondergronds\"|"
-    },
-    "6e8863292f57aed58a20cbc686995e2c1c3d93d6ae6f039d79ee0f62f8a3c4ee": {
-      "title": "Tentoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt",
-      "url": "https://www.alkmaar.nl/nieuws/tentoonstelling-samen-onbeperkt-vooruit-op-de-paardenmarkt/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-11-19T11:01:32+00:00",
-      "updated": "2026-11-19T11:01:32+00:00",
-      "last_change": null,
-      "hash": "",
-      "revisions": 1,
-      "doc_date": "2026-11-19",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-19",
-      "last_seen": "2026-11-20",
-      "published_at": "2026-11-19T12:40+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "Hoe is het om te leven met een beperking? En welke uitdagingen kom je tegen in het dagelijks leven? Op...",
-      "missing_count": 0,
-      "text_hash": "92e1689c72b355dfca4277f91abfa7badaf7e50ae9a64f71f448642edbd9e130",
-      "content_checked": "2026-11-20T12:32:10+00:00",
-      "kw_sig": "4f53cda18c2b|92e1689c72b355dfca4277f91abfa7badaf7e50ae9a64f71f448642edbd9e130|Tentoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt|Hoe is het om te leven met een beperking? En welke uitdagingen kom je tegen in het dagelijks leven? Op..."
     },
     "81908cf84243d4b42f53cad643d467c4329495d34efbe06395cfdf8e7aa26dd4": {
       "title": "Eerste bomen voor dorpsbos Ursem",
@@ -203755,14 +203769,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-20T18:30:42+00:00",
+        "checked": "2026-11-20T19:01:07+00:00",
         "ok": true,
         "count": 459,
         "new": 0,
         "note": "Laatste 30 dagen: 459 van 459 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-20T18:30:55+00:00",
+        "checked": "2026-11-20T19:01:19+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -203770,7 +203784,7 @@
         "note": "10 van 17 vergaderingen in venster bijgewerkt; 820 documenten bekend. Dekking: vergaderingen van 2026-09-21 t/m 2027-01-04 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-20T18:30:57+00:00",
+        "checked": "2026-11-20T19:01:20+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -203778,38 +203792,38 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-20T18:30:58+00:00",
+        "checked": "2026-11-20T19:01:21+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-20T18:31:58+00:00",
+        "checked": "2026-11-20T19:02:21+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-20T18:31:58+00:00",
+        "checked": "2026-11-20T19:02:21+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-20T18:31:59+00:00",
+        "checked": "2026-11-20T19:02:23+00:00",
         "ok": true,
         "count": 1,
         "errors": 0,
-        "note": "1 documenten gecontroleerd (1 pdf), 649 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "1 documenten gecontroleerd (0 pdf), 649 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-20T18:31:59+00:00",
+        "checked": "2026-11-20T19:02:23+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-20T18:31:59+00:00",
+        "checked": "2026-11-20T19:02:23+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -203825,7 +203839,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-20T18:30:42+00:00",
+        "checked": "2026-11-20T19:01:07+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -203833,7 +203847,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-20T18:30:42+00:00",
+        "checked": "2026-11-20T19:01:07+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -203841,7 +203855,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-20T18:30:42+00:00",
+        "checked": "2026-11-20T19:01:07+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -204387,7 +204401,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-11-20T18:00:53+00:00",
+        "checked": "2026-11-20T19:01:07+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -204395,7 +204409,7 @@
         "documents": 71
       },
       "76d0f4f5-e1b7-4995-b9f2-74d91963993a": {
-        "checked": "2026-11-20T18:00:53+00:00",
+        "checked": "2026-11-20T19:01:07+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-27",
@@ -204403,7 +204417,7 @@
         "documents": 1
       },
       "f339467e-beb6-47d2-9d1f-e8fd285b0283": {
-        "checked": "2026-11-20T18:00:53+00:00",
+        "checked": "2026-11-20T19:01:07+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-27",
@@ -204427,7 +204441,7 @@
         "documents": 41
       },
       "bd0b6951-d6cf-4609-9cf9-810712dbd67d": {
-        "checked": "2026-11-20T18:00:53+00:00",
+        "checked": "2026-11-20T19:01:07+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-10",
@@ -204435,7 +204449,7 @@
         "documents": 1
       },
       "d8a8b9b0-d4f7-4b40-bd69-8939700e04b6": {
-        "checked": "2026-11-20T18:00:53+00:00",
+        "checked": "2026-11-20T19:01:07+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-10",
@@ -204443,7 +204457,7 @@
         "documents": 43
       },
       "250bb8c3-b2a9-4eda-b56e-44f612becf26": {
-        "checked": "2026-11-20T18:00:53+00:00",
+        "checked": "2026-11-20T19:01:07+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-17",
@@ -204451,7 +204465,7 @@
         "documents": 1
       },
       "983827f6-8833-455c-80d9-c880a2263c1b": {
-        "checked": "2026-11-20T18:00:53+00:00",
+        "checked": "2026-11-20T19:01:07+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-17",
@@ -204460,7 +204474,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-20T18:30:44+00:00"
+      "alkmaar": "2026-11-20T19:01:08+00:00"
     },
     "reports": {
       "alkmaar": {
