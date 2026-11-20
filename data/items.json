@@ -3,6 +3,46 @@
     "alkmaar"
   ],
   "items": {
+    "10ca329bef63528e7221b3a2d44a9d5eef2676d566bd9e7e5beead63c6f7102b": {
+      "title": "Winterse gezelligheid tijdens de Hortus Winterdag in Alkmaar",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaC1HMGM2WXBtdS16NG9remhReF9CM1RneDZIZV9QWExVT2NjT0hQMjdaOWpEa0h0OHBkQ19IWlNodFdLcmFKd09NakU4aE5UenB1TmJ6akZUSF9FUFZmSnpidXNwQ2E4cU1OQm1ZVndrUXVFT1M4ZzlTRjk0WU9wMDkwZzhCWVJhLXNVbW4wWXVkTzdxanlSVUJXLXpJS0JINEE?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-20T00:56:00+00:00",
+      "updated": "2026-11-20T00:56:00+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Dagbladdijkenwaard.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-20",
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-19T18:04+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Winterse gezelligheid tijdens de Hortus Winterdag in Alkmaar|"
+    },
+    "8f85ca318a99009f2c7e8a58590d2be2434514924b72f888a73edc5282ea82e4": {
+      "title": "Politie vanwege winkeldiefstal op zoek naar man in omgeving van Paardenmarkt in Alkmaar",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd0dhVjdYTFRhN1lzWkZtTEpvdm54bTV4bUFWQ1EzYlNZX0dpbW05dHl0b1o4N0gwbFIzN2tNVWhVOFNNejJ3azhRbGc3Sk1KdVZwMUNWMVhjbDFOUnlBRHpwVTN3cm4ySWlGLXY1aHp0NndOYnlwOE9mcGZQMDZJR2t3Mk01Q2pUSVRydWVfZjdJaFREUTBJdkl2cGdvYlRiOUJvLUVzRFJOX1I3aEJtdlRRaDlYMHFKNmRzeQ?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-20T00:56:00+00:00",
+      "updated": "2026-11-20T00:56:00+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "BeatFM",
+      "media_match": "kop",
+      "last_seen": "2026-11-20",
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-19T19:29+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Politie vanwege winkeldiefstal op zoek naar man in omgeving van Paardenmarkt in Alkmaar|"
+    },
     "053e1943effafe698fe3e088858167419c6c5f17bd555ce7fb138746504bea78": {
       "title": "Alkmaar sluit zich aan bij Convenant Schoon en Emissieloos Bouwen",
       "url": "https://www.alkmaar.nl/nieuws/alkmaar-sluit-zich-aan-bij-convenant-schoon-en-emissieloos-bouwen/",
@@ -373,7 +413,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T22:10+01:00",
@@ -393,7 +433,7 @@
       "kind": "media",
       "media_bron": "DagjeWeg.NL",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T20:26+01:00",
@@ -413,7 +453,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T19:41+01:00",
@@ -433,7 +473,7 @@
       "kind": "media",
       "media_bron": "Headliner.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T15:11+01:00",
@@ -453,7 +493,7 @@
       "kind": "media",
       "media_bron": "Rodi.nl",
       "media_match": "tekst",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T08:34+01:00",
@@ -565,10 +605,10 @@
       "kind": "media",
       "media_bron": "NH Nieuws",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-19T18:57+01:00",
+      "published_at": "2026-11-19T09:35+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Twee gewonden bij botsing tussen drie auto’s op N243 bij Stompetoren|"
     },
@@ -585,7 +625,7 @@
       "kind": "media",
       "media_bron": "Alkmaarsdagblad.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T18:08+01:00",
@@ -605,10 +645,10 @@
       "kind": "media",
       "media_bron": "Streekstad Centraal",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
-      "doc_date": "2026-11-19",
+      "last_seen": "2026-11-20",
+      "doc_date": "2026-11-20",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-19T18:30+01:00",
+      "published_at": "2026-11-20T00:28+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Orange the World in Alkmaar 🗓|"
     },
@@ -665,10 +705,10 @@
       "kind": "media",
       "media_bron": "BeatFM",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-19T19:19+01:00",
+      "published_at": "2026-11-19T19:29+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Gratis cursus in Alkmaar voor VvE-bestuurders over verduurzamen|"
     },
@@ -685,7 +725,7 @@
       "kind": "media",
       "media_bron": "Alkmaarsdagblad.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T18:21+01:00",
@@ -705,10 +745,10 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-19T19:50+01:00",
+      "published_at": "2026-11-19T19:51+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||HAL 25 in Alkmaar groeide van een groep kunstenaars in een lege loods uit naar plek met steeds meer evenementen. ’Er zijn kinderen op het terrein opgegroeid’|"
     },
@@ -725,7 +765,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T19:12+01:00",
@@ -745,7 +785,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T10:20+01:00",
@@ -854,7 +894,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T17:02+01:00",
@@ -874,7 +914,7 @@
       "kind": "media",
       "media_bron": "112WestFriesland.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T15:50+01:00",
@@ -894,7 +934,7 @@
       "kind": "media",
       "media_bron": "Politie.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T16:59+01:00",
@@ -914,7 +954,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T16:50+01:00",
@@ -1013,7 +1053,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T13:04+01:00",
@@ -1033,7 +1073,7 @@
       "kind": "media",
       "media_bron": "Nieuwsuitwestfriesland.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T15:23+01:00",
@@ -1053,7 +1093,7 @@
       "kind": "media",
       "media_bron": "Transport Online",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T15:28+01:00",
@@ -1073,7 +1113,7 @@
       "kind": "media",
       "media_bron": "Streekstad Centraal",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T13:08+01:00",
@@ -1093,7 +1133,7 @@
       "kind": "media",
       "media_bron": "Head Topics",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T14:14+01:00",
@@ -1113,7 +1153,7 @@
       "kind": "media",
       "media_bron": "Waterpolo.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T13:45+01:00",
@@ -1133,7 +1173,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T15:03+01:00",
@@ -1153,7 +1193,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T13:17+01:00",
@@ -1455,7 +1495,7 @@
       "kind": "media",
       "media_bron": "BeatFM",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T12:32+01:00",
@@ -1589,7 +1629,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T12:09+01:00",
@@ -1629,7 +1669,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T11:07+01:00",
@@ -1649,7 +1689,7 @@
       "kind": "media",
       "media_bron": "Rodi.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T11:56+01:00",
@@ -1669,7 +1709,7 @@
       "kind": "media",
       "media_bron": "NH Nieuws",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T02:58+01:00",
@@ -1711,7 +1751,7 @@
       "kind": "media",
       "media_bron": "Provincie Noord-Holland",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T11:23+01:00",
@@ -1751,7 +1791,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T10:43+01:00",
@@ -1791,7 +1831,7 @@
       "kind": "media",
       "media_bron": "DagjeWeg.NL",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T03:25+01:00",
@@ -1811,7 +1851,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T09:40+01:00",
@@ -1831,7 +1871,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T09:40+01:00",
@@ -1851,7 +1891,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T09:40+01:00",
@@ -2599,7 +2639,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T07:25+01:00",
@@ -2639,7 +2679,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T00:13+01:00",
@@ -2659,7 +2699,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T00:13+01:00",
@@ -2679,7 +2719,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "tekst",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T12:28+01:00",
@@ -2759,7 +2799,7 @@
       "kind": "media",
       "media_bron": "Streekstad Centraal",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T18:07+01:00",
@@ -2779,7 +2819,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T19:49+01:00",
@@ -2859,7 +2899,7 @@
       "kind": "media",
       "media_bron": "Streekradio Alkmaar",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T07:34+01:00",
@@ -2919,7 +2959,7 @@
       "kind": "media",
       "media_bron": "DagjeWeg.NL",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T13:45+01:00",
@@ -2939,7 +2979,7 @@
       "kind": "media",
       "media_bron": "NH Nieuws",
       "media_match": "tekst",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T07:13+01:00",
@@ -2959,7 +2999,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T17:38+01:00",
@@ -2999,7 +3039,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T17:01+01:00",
@@ -3059,7 +3099,7 @@
       "kind": "media",
       "media_bron": "VRMG",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T12:50+01:00",
@@ -3099,7 +3139,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T08:09+01:00",
@@ -3209,7 +3249,7 @@
       "kind": "media",
       "media_bron": "BeatFM",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T12:53+01:00",
@@ -3229,7 +3269,7 @@
       "kind": "media",
       "media_bron": "Streekstad Centraal",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T02:13+01:00",
@@ -3249,7 +3289,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T13:55+01:00",
@@ -3349,7 +3389,7 @@
       "kind": "media",
       "media_bron": "Rodi.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T11:46+01:00",
@@ -3369,7 +3409,7 @@
       "kind": "media",
       "media_bron": "Nieuws.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T09:41+01:00",
@@ -3389,7 +3429,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "tekst",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T06:00+01:00",
@@ -3993,7 +4033,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T09:53+01:00",
@@ -4053,7 +4093,7 @@
       "kind": "media",
       "media_bron": "AD.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T08:09+01:00",
@@ -4333,7 +4373,7 @@
       "kind": "media",
       "media_bron": "Noordhollands Dagblad",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T06:00+01:00",
@@ -7993,7 +8033,7 @@
       "kind": "media",
       "media_bron": "Rodi.nl",
       "media_match": "tekst",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-18",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-18T10:39+01:00",
@@ -31094,7 +31134,7 @@
       "kind": "media",
       "media_bron": "Rodi.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "doc_date": "2026-11-19",
       "doc_date_label": "publicatiedatum",
       "published_at": "2026-11-19T13:01+01:00",
@@ -32505,7 +32545,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 1 Besluitenlijst collegevergadering van 27 oktober 2026",
       "missing_count": 0,
       "text_hash": "b3e7afba01479fcea53907cfa8b06711f8a566a16e77468da0b519eda957e90b",
-      "content_checked": "2026-11-19T00:32:27+00:00",
+      "content_checked": "2026-11-20T00:56:17+00:00",
       "kw_sig": "4f53cda18c2b|b3e7afba01479fcea53907cfa8b06711f8a566a16e77468da0b519eda957e90b|Besluitenlijst Collegevergadering van 27 oktober 2026|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 1 Besluitenlijst collegevergadering van 27 oktober 2026"
     },
     "510cce8209ae25dd5803f6aae199c27945375584d9298f698a54a21589352db5": {
@@ -44224,7 +44264,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "e18f14f3dce4d80c2a9947b7417ed566c2363dbfc6a08695d9b9e52fceb09d49",
-      "content_checked": "2026-11-19T00:32:34+00:00",
+      "content_checked": "2026-11-20T00:56:28+00:00",
       "kw_sig": "4f53cda18c2b|e18f14f3dce4d80c2a9947b7417ed566c2363dbfc6a08695d9b9e52fceb09d49|Raadsinformatiebrief Beantwoording technische vragen Programmabegroting 2027|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)"
     },
     "73d1e066e0a2f0dce9063371f4a9bdc6a346947dc5b74a9859a21831da52fb03": {
@@ -44254,7 +44294,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "bb9d37d91d5293e83cd5e9e8484a3387d0d1349a03fa928cc50f082bf3dd7faa",
-      "content_checked": "2026-11-19T00:32:39+00:00",
+      "content_checked": "2026-11-20T00:56:34+00:00",
       "kw_sig": "4f53cda18c2b|bb9d37d91d5293e83cd5e9e8484a3387d0d1349a03fa928cc50f082bf3dd7faa|Bijlage 1. CV Beantwoording technische vragen Programmabegroting 2027 - vragen en antwoorden|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)"
     },
     "02a55c5c354b840fb2e4b77eced2515a45d52c1e1bd254fa1abe7d8e519ea907": {
@@ -44284,7 +44324,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "dac6e7f9de36a2cf26c629744eecfab5dd175112ea699f686bdbbc722e2e0949",
-      "content_checked": "2026-11-19T00:32:39+00:00",
+      "content_checked": "2026-11-20T00:56:35+00:00",
       "kw_sig": "4f53cda18c2b|dac6e7f9de36a2cf26c629744eecfab5dd175112ea699f686bdbbc722e2e0949|Bijlage 2. CV Beantwoording technische vragen Programmabegroting 2027 - erratum|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)"
     },
     "ef261e146ebc2bf6aa4b55cfe1eef140d9c54ee94f78ccf294351ab5a417b4fd": {
@@ -44314,7 +44354,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "8fa593502e456e136c04bae18613d5d1d408d91889356d0e62ed607001df42e7",
-      "content_checked": "2026-11-19T00:32:40+00:00",
+      "content_checked": "2026-11-20T00:56:39+00:00",
       "kw_sig": "4f53cda18c2b|8fa593502e456e136c04bae18613d5d1d408d91889356d0e62ed607001df42e7|Bijlage 3. RV Programmabegroting 2027 - A Bestuurlijke hoofdlijn incl. erratum|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)"
     },
     "a3d60e5df6a0ecaa7431ea8f004a8bd4164dffc72a3fb782e9acfb554b69d3f9": {
@@ -44344,7 +44384,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "649e1fd6b1b280be7cdee9b9c0b2567529eeb95a08294558506d7e1f8d2df718",
-      "content_checked": "2026-11-19T00:32:47+00:00",
+      "content_checked": "2026-11-20T00:56:46+00:00",
       "kw_sig": "4f53cda18c2b|649e1fd6b1b280be7cdee9b9c0b2567529eeb95a08294558506d7e1f8d2df718|Bijlage 4. RV Programmabegroting 2027 - B Verplichte onderdelen incl. erratum|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)"
     },
     "e92d7c18efccd53a808ccb98683ec2d46351b9d1b4c644de307b3e0f70d7233b": {
@@ -44374,7 +44414,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "96bde1347e2ca8100381869818b5e70ffd15043dbf41e114bad45f0e8d4002b7",
-      "content_checked": "2026-11-19T00:32:48+00:00",
+      "content_checked": "2026-11-20T00:56:47+00:00",
       "kw_sig": "4f53cda18c2b|96bde1347e2ca8100381869818b5e70ffd15043dbf41e114bad45f0e8d4002b7|Bijlage 5. RV Programmabegroting 2027 - C Meerjaren Investeringsprogramma 2027-2041 incl. erratum|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)"
     },
     "6a7032e9cfafa7fdc2d984895e9083e5e5b49542e041e0f2633d75229ee90524": {
@@ -44404,7 +44444,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "99ff25e1be79168e9f7ebd8c6628be77845caffe100f7bd66313d54ff8c3bf11",
-      "content_checked": "2026-11-19T00:32:49+00:00",
+      "content_checked": "2026-11-20T00:56:49+00:00",
       "kw_sig": "4f53cda18c2b|99ff25e1be79168e9f7ebd8c6628be77845caffe100f7bd66313d54ff8c3bf11|Bijlage 6. CV Beantwoording technische vragen Programmabegroting 2027 - Infographic|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)"
     },
     "d74e71371ac2c8e41bcba9c3283d6ed67d0592c0c3b8f6337fd5a638ba6ce77f": {
@@ -152550,7 +152590,7 @@
       "kw_sig": "4f53cda18c2b|b191aeb595777c1c60d1801e6682eb14488229440b8e9370ae319b34e0cbf17e|Bijlage 1. Voortgangsrapportage Alkmaar in beweging|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 3.2 Raadsinformatiebrief Voortgangsrapportage Alkmaar in beweging",
       "missing_count": 0,
       "text_hash": "b191aeb595777c1c60d1801e6682eb14488229440b8e9370ae319b34e0cbf17e",
-      "content_checked": "2026-11-19T00:32:20+00:00"
+      "content_checked": "2026-11-20T00:56:06+00:00"
     },
     "ed9e743b871c6c0fa05f47452bca5a674ffa42ae45819d400be168e5f058a5a1": {
       "title": "Bijlage 2. Onderzoek Huiswaarderweg: 251201 Rapport Huiswaarderweg",
@@ -152580,7 +152620,7 @@
       "kw_sig": "4f53cda18c2b|4a65121688fd497b8739b20a9e64ab1f95afb1eecdc8d1ac7d924468a7e14185|Bijlage 2. Onderzoek Huiswaarderweg: 251201 Rapport Huiswaarderweg|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 3.2 Raadsinformatiebrief Voortgangsrapportage Alkmaar in beweging",
       "missing_count": 0,
       "text_hash": "4a65121688fd497b8739b20a9e64ab1f95afb1eecdc8d1ac7d924468a7e14185",
-      "content_checked": "2026-11-19T00:32:22+00:00"
+      "content_checked": "2026-11-20T00:56:08+00:00"
     },
     "ab59018098657056ec9dfef3201198ed4f7611822511f7b5f268e95e3bad6238": {
       "title": "Raadsinformatiebrief Speeltoestel Dino De Mare",
@@ -152610,7 +152650,7 @@
       "kw_sig": "4f53cda18c2b|336d10c3f711b62f8112f06598019b3d878cac9cd27ce8643e6c158a5a238430|Raadsinformatiebrief Speeltoestel Dino De Mare|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 3.3 Raadsinformatiebrief Speeltoestel Dino De Mare",
       "missing_count": 0,
       "text_hash": "336d10c3f711b62f8112f06598019b3d878cac9cd27ce8643e6c158a5a238430",
-      "content_checked": "2026-11-19T00:32:23+00:00"
+      "content_checked": "2026-11-20T00:56:09+00:00"
     },
     "0ac0a0767253c75db46555be5e0fb64d7f61915860e16d88f370a47404c4bb9b": {
       "title": "Raadsinformatiebrief Baanbreker",
@@ -152640,7 +152680,7 @@
       "kw_sig": "4f53cda18c2b|62dcbb9ae6ba5b4b368a6846eb5607e056712e7f9f157a1b1b1f6c9bb0dc3399|Raadsinformatiebrief Baanbreker|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 3.4 Raadsinformatiebrief Baanbreker",
       "missing_count": 0,
       "text_hash": "62dcbb9ae6ba5b4b368a6846eb5607e056712e7f9f157a1b1b1f6c9bb0dc3399",
-      "content_checked": "2026-11-19T00:32:23+00:00"
+      "content_checked": "2026-11-20T00:56:10+00:00"
     },
     "0ee00e5afaf42f5756dc1dfcc5e95aadd0d69eb1b02047db6c23d6f58e43e4c6": {
       "title": "Bijlage 1. Persbericht toekomst De Baanbreker Graft -210926 def",
@@ -152670,7 +152710,7 @@
       "kw_sig": "4f53cda18c2b|a0dfd9a31d2408eed6ea0ee37d4e867cf5e77e80ad4f8894365af2b887263a11|Bijlage 1. Persbericht toekomst De Baanbreker Graft -210926 def|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 3.4 Raadsinformatiebrief Baanbreker",
       "missing_count": 0,
       "text_hash": "a0dfd9a31d2408eed6ea0ee37d4e867cf5e77e80ad4f8894365af2b887263a11",
-      "content_checked": "2026-11-19T00:32:25+00:00"
+      "content_checked": "2026-11-20T00:56:15+00:00"
     },
     "7d2e33661d482efc827a978670933cec7a1fbc52c2043dad71a8d49e18a849d8": {
       "title": "Raadsinformatiebrief Toezeggingen Verkeersplan Graft de Rijp",
@@ -152700,7 +152740,7 @@
       "kw_sig": "4f53cda18c2b|ad352f439025b205c1819933c1a3cff3e10574299204add369f7c16e16f862f6|Raadsinformatiebrief Toezeggingen Verkeersplan Graft de Rijp|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 4.1 Raadsinformatiebrief Toezeggingen Verkeersplan Graft de Rijp",
       "missing_count": 0,
       "text_hash": "ad352f439025b205c1819933c1a3cff3e10574299204add369f7c16e16f862f6",
-      "content_checked": "2026-11-19T00:32:25+00:00"
+      "content_checked": "2026-11-20T00:56:16+00:00"
     },
     "5c79f712e7607c510d223f2c003f76de758df99928972a8da4e922a754f44701": {
       "title": "Raadsinformatiebrief Uitslag World Green City Awards",
@@ -152730,7 +152770,7 @@
       "kw_sig": "4f53cda18c2b|84263831a986de7b151dab04083132cbb231d1fccc447470b1f92ef7abd40d38|Raadsinformatiebrief Uitslag World Green City Awards|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 4.2 Raadsinformatiebrief Uitslag World Green City Awards",
       "missing_count": 0,
       "text_hash": "84263831a986de7b151dab04083132cbb231d1fccc447470b1f92ef7abd40d38",
-      "content_checked": "2026-11-19T00:32:27+00:00"
+      "content_checked": "2026-11-20T00:56:18+00:00"
     },
     "38668463bbd29052f2e6bbbe35a30b700945b9426ccab92d354f0bf361a71b69": {
       "title": "Raadsinformatiebrief Stand van Zaken Plan van Aanpak Rol koloniale verleden stadsbestuur Alkmaar en uitspreken erkenning",
@@ -152760,7 +152800,7 @@
       "kw_sig": "4f53cda18c2b|1c4d6d43b885f3fa18fd5436cb7db2529288d5d590d7ff80fa125555d3f36374|Raadsinformatiebrief Stand van Zaken Plan van Aanpak Rol koloniale verleden stadsbestuur Alkmaar en uitspreken erkenning|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 4.3 Raadsinformatiebrief Stand van Zaken Plan van Aanpak Rol koloniale verleden stadsbestuur Alkmaar en uitspreken erkenning",
       "missing_count": 0,
       "text_hash": "1c4d6d43b885f3fa18fd5436cb7db2529288d5d590d7ff80fa125555d3f36374",
-      "content_checked": "2026-11-19T00:32:28+00:00"
+      "content_checked": "2026-11-20T00:56:19+00:00"
     },
     "9679e781d994ad984e0a50a21465347e26f35ae9545fb634bf6d3db434eac162": {
       "title": "Raadsinformatiebrief Opening Dorpshuis De Hoeksteen",
@@ -152790,7 +152830,7 @@
       "kw_sig": "4f53cda18c2b|e23789521f278a63c639b334ed8f7c5a65b1618b8351b808068405b2e9510cac|Raadsinformatiebrief Opening Dorpshuis De Hoeksteen|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 4.4 Raadsinformatiebrief Opening Dorpshuis De Hoeksteen te Stompetoren",
       "missing_count": 0,
       "text_hash": "e23789521f278a63c639b334ed8f7c5a65b1618b8351b808068405b2e9510cac",
-      "content_checked": "2026-11-19T00:32:28+00:00"
+      "content_checked": "2026-11-20T00:56:20+00:00"
     },
     "803d6df6d597d3585066bd827e5cae0c5d31705f8140ed231a98f4d10164eaa5": {
       "title": "Bijlage 1. Flyer Dorpshuis De Hoeksteen",
@@ -152820,7 +152860,7 @@
       "kw_sig": "4f53cda18c2b||Bijlage 1. Flyer Dorpshuis De Hoeksteen|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 4.4 Raadsinformatiebrief Opening Dorpshuis De Hoeksteen te Stompetoren",
       "missing_count": 0,
       "file_hash": "78eaf6eeebb91a4a2d166e2b68a5870125294cec168c8c7db41f3e11bf7ab14d",
-      "content_checked": "2026-11-19T00:32:29+00:00"
+      "content_checked": "2026-11-20T00:56:21+00:00"
     },
     "ceaad14660e6c09a4c6fb71af2ce9f4d682c7c7fd995f0efb834760789041556": {
       "title": "Raadsinformatiebrief Toezegging aanvullende kaders voor participatie",
@@ -152850,7 +152890,7 @@
       "kw_sig": "4f53cda18c2b|d152f4ab6c9cb98efc77d42a9c4fc718a62eec7e575801d1dbccfa89766da036|Raadsinformatiebrief Toezegging aanvullende kaders voor participatie|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 4.5 Raadsinformatiebrief Toezegging aanvullende kaders voor participatie",
       "missing_count": 0,
       "text_hash": "d152f4ab6c9cb98efc77d42a9c4fc718a62eec7e575801d1dbccfa89766da036",
-      "content_checked": "2026-11-19T00:32:30+00:00"
+      "content_checked": "2026-11-20T00:56:22+00:00"
     },
     "0b64275c736ce4c4639cb50e698679c6573c29786550433e501bb239ddbf71c1": {
       "title": "Raadsinformatiebrief Voortgang omtrent aanvraag omgevingsvergunning",
@@ -152880,7 +152920,7 @@
       "kw_sig": "4f53cda18c2b|b3d9c53f1a9ece45d4548a121ba4df67254cfeea0a60fb8db7902c717b10eb6f|Raadsinformatiebrief Voortgang omtrent aanvraag omgevingsvergunning|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 4.6 Raadsinformatiebrief Voortgang omtrent aanvraag omgevingsvergunning woningbouwontwikkeling Westeinde 2 Schermerhorn",
       "missing_count": 0,
       "text_hash": "b3d9c53f1a9ece45d4548a121ba4df67254cfeea0a60fb8db7902c717b10eb6f",
-      "content_checked": "2026-11-19T00:32:30+00:00"
+      "content_checked": "2026-11-20T00:56:23+00:00"
     },
     "bf2cb3673897dd77f721a974127be7444fb826a58de61e61650c4dee4b6ab634": {
       "title": "Bijlage 1. Participatieverslag Herontwikkeling Westeinde 2 (ANO)",
@@ -152910,7 +152950,7 @@
       "kw_sig": "4f53cda18c2b|2684e631244943cd52ca2d1877129b2a336829b389e2e1a12cad8d891b6ffb43|Bijlage 1. Participatieverslag Herontwikkeling Westeinde 2 (ANO)|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 4.6 Raadsinformatiebrief Voortgang omtrent aanvraag omgevingsvergunning woningbouwontwikkeling Westeinde 2 Schermerhorn",
       "missing_count": 0,
       "text_hash": "2684e631244943cd52ca2d1877129b2a336829b389e2e1a12cad8d891b6ffb43",
-      "content_checked": "2026-11-19T00:32:31+00:00"
+      "content_checked": "2026-11-20T00:56:24+00:00"
     },
     "eccf8068325cd97a1e631cb9e320375b434997092cea778b822a4424c27e204b": {
       "title": "Raadsinformatiebrief Totstandkoming besluit canonherziening",
@@ -152940,7 +152980,7 @@
       "kw_sig": "4f53cda18c2b|f4b2332b1481fea7ebf835e024757a18d49c4a149bd50e3a7559e06e2bc7c94d|Raadsinformatiebrief Totstandkoming besluit canonherziening|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 4.7 Raadsinformatiebrief Totstandkoming besluit canonherziening",
       "missing_count": 0,
       "text_hash": "f4b2332b1481fea7ebf835e024757a18d49c4a149bd50e3a7559e06e2bc7c94d",
-      "content_checked": "2026-11-19T00:32:31+00:00"
+      "content_checked": "2026-11-20T00:56:25+00:00"
     },
     "8a3fff097953df5454806fb23e792522a9063a780410f9cb4db4ab2295e00570": {
       "title": "Raadsinformatiebrief Nadere duiding toezeggingen raadsvoorstel Spreidingswet n.a.v. commissie Sociaal 10 september",
@@ -152970,7 +153010,7 @@
       "kw_sig": "4f53cda18c2b|935438418021d12523df845696b2bd30a8f41f6457cf82cd7d93ed4dde51f542|Raadsinformatiebrief Nadere duiding toezeggingen raadsvoorstel Spreidingswet n.a.v. commissie Sociaal 10 september|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 4.8 Raadsinformatiebrief Nadere duiding toezeggingen raadsvoorstel Spreidingswet n.a.v. commissie Sociaal 10 september",
       "missing_count": 0,
       "text_hash": "935438418021d12523df845696b2bd30a8f41f6457cf82cd7d93ed4dde51f542",
-      "content_checked": "2026-11-19T00:32:32+00:00"
+      "content_checked": "2026-11-20T00:56:25+00:00"
     },
     "14d1de75f565e2d217a0ce4ac97ba57308538a8d65a5a4f760df116f4aa79b9c": {
       "title": "20260917 VNG Lobbymemo",
@@ -153000,7 +153040,7 @@
       "kw_sig": "4f53cda18c2b|c622965a24bccc51f09f8c2ff51d6cf7b8da6daa5f883659b06a2f724bd205eb|20260917 VNG Lobbymemo|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 5.1 VNG Lobbymemo",
       "missing_count": 0,
       "text_hash": "c622965a24bccc51f09f8c2ff51d6cf7b8da6daa5f883659b06a2f724bd205eb",
-      "content_checked": "2026-11-19T00:32:33+00:00"
+      "content_checked": "2026-11-20T00:56:26+00:00"
     },
     "20f8b12fb170beb836038338348759bbd5e4b0213eb785f4fbfd800148e10183": {
       "title": "GS-besluitenlijst 15 september 2026",
@@ -153030,7 +153070,7 @@
       "kw_sig": "4f53cda18c2b|99b2078880520b6bcec59cb2090d44901206d8b1a07b53c18110f09bad332ee4|GS-besluitenlijst 15 september 2026|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 5.2 Besluitenlijst Gedeputeerde Staten Noord-Holland 15 september 2026",
       "missing_count": 0,
       "text_hash": "99b2078880520b6bcec59cb2090d44901206d8b1a07b53c18110f09bad332ee4",
-      "content_checked": "2026-11-19T00:32:33+00:00"
+      "content_checked": "2026-11-20T00:56:27+00:00"
     },
     "86a2f89d6dfdf1ac99dc3cc6d084cc35f656d7a9ad191e5978f2987b2afdaf3f": {
       "title": "Brief aan PS over Update verkenning aanpak “De Veilige Kleedkamer”, inclusief afdoeningsvoorstel motie 38-2026",
@@ -153060,7 +153100,7 @@
       "kw_sig": "4f53cda18c2b|02afc4341284eb4441f5bff542a79ab4a8e7cfb5b4593cd2a27ad08116b7b8e5|Brief aan PS over Update verkenning aanpak “De Veilige Kleedkamer”, inclusief afdoeningsvoorstel motie 38-2026|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 5.3.1 Brief aan PS over Update verkenning aanpak “De Veilige Kleedkamer”, inclusief afdoeningsvoorstel motie 38-2026 (besluit 1)",
       "missing_count": 0,
       "text_hash": "02afc4341284eb4441f5bff542a79ab4a8e7cfb5b4593cd2a27ad08116b7b8e5",
-      "content_checked": "2026-11-19T00:32:34+00:00"
+      "content_checked": "2026-11-20T00:56:29+00:00"
     },
     "275a70222257681878ce3aabb0738e761ee69daad63bcc7a8e88cbcdb80fd60f": {
       "title": "Brief aan PS over Inzet Noord-Holland voor natuurherstel, stikstofvermindering en vergunningverlening",
@@ -153090,7 +153130,7 @@
       "kw_sig": "4f53cda18c2b|f19463a3e9e7b343fda404a80a5c5bc39d17041076f3ee5ccee327cb67bd11bb|Brief aan PS over Inzet Noord-Holland voor natuurherstel, stikstofvermindering en vergunningverlening|B&W Openbare besluiten college dinsdag 22 september 2026 · agendapunt 5.3.2 Brief aan PS over Inzet Noord-Holland voor natuurherstel, stikstofvermindering en vergunningverlening (besluit 13)",
       "missing_count": 0,
       "text_hash": "f19463a3e9e7b343fda404a80a5c5bc39d17041076f3ee5ccee327cb67bd11bb",
-      "content_checked": "2026-11-19T00:32:36+00:00"
+      "content_checked": "2026-11-20T00:56:30+00:00"
     },
     "0d4d5e5de5d7d42266784bfa0817f90f561c9517f0506fee7314fd7a248873c2": {
       "title": "B&W Openbare besluiten college maandag 28 september 2026",
@@ -174305,7 +174345,7 @@
       "kw_sig": "4f53cda18c2b|87da3f962468226b50b8d7d9cc8b29b6066ee4092d4acc7d184f994e3832c155|Agenda Collegevergadering van 22 september 2026|B&W Agenda dinsdag 22 september 2026 · agendapunt Agenda Collegevergadering van 22 september 2026",
       "missing_count": 0,
       "text_hash": "87da3f962468226b50b8d7d9cc8b29b6066ee4092d4acc7d184f994e3832c155",
-      "content_checked": "2026-11-19T00:32:36+00:00"
+      "content_checked": "2026-11-20T00:56:31+00:00"
     },
     "97ef5296c69afdc1c5d002ccc5a2727e01c9cdeb77b40a816bbda112f24cb310": {
       "title": "B&W Agenda maandag 28 september 2026",
@@ -201085,14 +201125,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-20T00:30:41+00:00",
+        "checked": "2026-11-20T00:53:18+00:00",
         "ok": true,
         "count": 440,
         "new": 0,
         "note": "Laatste 30 dagen: 440 van 440 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-20T00:30:56+00:00",
+        "checked": "2026-11-20T00:53:29+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -201100,7 +201140,7 @@
         "note": "10 van 16 vergaderingen in venster bijgewerkt; 780 documenten bekend. Dekking: vergaderingen van 2026-09-21 t/m 2027-01-04 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-20T00:30:57+00:00",
+        "checked": "2026-11-20T00:53:30+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -201108,38 +201148,38 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-20T00:30:59+00:00",
-        "ok": true,
-        "count": 10,
-        "new": 0,
-        "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
+        "checked": "2026-11-20T00:55:00+00:00",
+        "ok": false,
+        "error": "HTTPSConnectionPool(host='www.alkmaar.nl', port=443): Max retries exceeded with url: /nieuws/feed (Caused by NewConnectionError(\"HTTPSConnection(host='www.alkmaar.nl', port=443): Failed to establish a new connection: [Errno 101] Network is unreachabl"
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-20T00:31:59+00:00",
+        "checked": "2026-11-20T00:56:00+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-20T00:31:59+00:00",
+        "checked": "2026-11-20T00:56:04+00:00",
         "ok": true,
-        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
+        "count": 65,
+        "new": 2,
+        "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-20T00:32:48+00:00",
-        "ok": false,
-        "count": 36,
-        "errors": 1,
-        "note": "36 documenten gecontroleerd (34 pdf), 608 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "checked": "2026-11-20T00:56:49+00:00",
+        "ok": true,
+        "count": 28,
+        "errors": 0,
+        "note": "28 documenten gecontroleerd (28 pdf), 608 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 1 pdf zonder tekst deze run."
       },
       "Trefwoorden": {
-        "checked": "2026-11-20T00:32:48+00:00",
+        "checked": "2026-11-20T00:56:49+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-20T00:32:49+00:00",
+        "checked": "2026-11-20T00:56:49+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -201155,7 +201195,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-20T00:30:41+00:00",
+        "checked": "2026-11-20T00:53:18+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -201163,7 +201203,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-20T00:30:41+00:00",
+        "checked": "2026-11-20T00:53:18+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -201171,7 +201211,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-20T00:30:41+00:00",
+        "checked": "2026-11-20T00:53:18+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -201179,7 +201219,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-20T00:30:41+00:00",
+        "checked": "2026-11-20T00:53:18+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -201717,7 +201757,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-11-20T00:00:58+00:00",
+        "checked": "2026-11-20T00:53:18+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -201725,7 +201765,7 @@
         "documents": 71
       },
       "76d0f4f5-e1b7-4995-b9f2-74d91963993a": {
-        "checked": "2026-11-20T00:00:58+00:00",
+        "checked": "2026-11-20T00:53:18+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-27",
@@ -201733,7 +201773,7 @@
         "documents": 1
       },
       "f339467e-beb6-47d2-9d1f-e8fd285b0283": {
-        "checked": "2026-11-20T00:00:58+00:00",
+        "checked": "2026-11-20T00:53:18+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-27",
@@ -201757,7 +201797,7 @@
         "documents": 41
       },
       "bd0b6951-d6cf-4609-9cf9-810712dbd67d": {
-        "checked": "2026-11-20T00:00:58+00:00",
+        "checked": "2026-11-20T00:53:18+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-10",
@@ -201765,7 +201805,7 @@
         "documents": 1
       },
       "d8a8b9b0-d4f7-4b40-bd69-8939700e04b6": {
-        "checked": "2026-11-20T00:00:58+00:00",
+        "checked": "2026-11-20T00:53:18+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-10",
@@ -201773,7 +201813,7 @@
         "documents": 43
       },
       "250bb8c3-b2a9-4eda-b56e-44f612becf26": {
-        "checked": "2026-11-20T00:00:58+00:00",
+        "checked": "2026-11-20T00:53:18+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-17",
