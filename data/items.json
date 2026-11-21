@@ -3,6 +3,223 @@
     "alkmaar"
   ],
   "items": {
+    "ebe475fa11fb0e014974f56e0ae19a73d3ece16db678ddb775e5bb04edf08942": {
+      "title": "Last van vuurwerk in uw buurt? Meld het!",
+      "url": "https://www.alkmaar.nl/nieuws/last-van-vuurwerk-in-uw-buurt-meld-het/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-16T13:37:43+00:00",
+      "updated": "2026-11-21T14:32:02+00:00",
+      "last_change": "2026-11-21T14:32:02+00:00",
+      "hash": "",
+      "revisions": 6,
+      "doc_date": "2026-11-16",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-16",
+      "last_seen": "2026-11-21",
+      "published_at": "2026-11-16T15:07+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "Heeft u last van vuurwerk in uw buurt? Meld dit dan bij de gemeente Alkmaar. Met uw melding helpt u...",
+      "missing_count": 0,
+      "text_hash": "336035d5d568b23cd2e1d1ee70dc0d1a42b6bbc5ae8d0cd39854c5e70da33c87",
+      "content_checked": "2026-11-21T14:32:02+00:00",
+      "kw_sig": "4f53cda18c2b|336035d5d568b23cd2e1d1ee70dc0d1a42b6bbc5ae8d0cd39854c5e70da33c87|Last van vuurwerk in uw buurt? Meld het!|Heeft u last van vuurwerk in uw buurt? Meld dit dan bij de gemeente Alkmaar. Met uw melding helpt u...",
+      "changes": [
+        {
+          "at": "2026-11-16T20:02:44+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Alkmaar huldigt sportkampioenen",
+            "13 november 2026"
+          ],
+          "removed": [
+            "Denk mee over gezondheid in Alkmaar",
+            "2 november 2026"
+          ]
+        },
+        {
+          "at": "2026-11-17T15:02:22+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Kom in actie en stop geweld tegen vrouwen!",
+            "17 november 2026"
+          ],
+          "removed": [
+            "Alkmaar met elkaar: hét platform voor bewonersinitiatieven",
+            "5 november 2026"
+          ]
+        },
+        {
+          "at": "2026-11-19T11:32:16+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Tentoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt",
+            "19 november 2026"
+          ],
+          "removed": [
+            "Alkmaar huldigt sportkampioenen",
+            "13 november 2026"
+          ]
+        },
+        {
+          "at": "2026-11-20T19:32:30+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "6 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
+          "added": [
+            "Wilt u niets missen?",
+            "Blijf op de hoogte!",
+            "Schrijf u nu in op onze wekelijks nieuwsbrief."
+          ],
+          "removed": []
+        },
+        {
+          "at": "2026-11-21T14:32:02+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Hekelstraat tijdelijk veiligheidsrisicogebied",
+            "21 november 2026"
+          ],
+          "removed": [
+            "Alkmaarse veteranen ontmoeten elkaar tijdens veteranenreceptie",
+            "16 november 2026"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "6e8863292f57aed58a20cbc686995e2c1c3d93d6ae6f039d79ee0f62f8a3c4ee": {
+      "title": "Tentoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt",
+      "url": "https://www.alkmaar.nl/nieuws/tentoonstelling-samen-onbeperkt-vooruit-op-de-paardenmarkt/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-19T11:01:32+00:00",
+      "updated": "2026-11-21T14:32:01+00:00",
+      "last_change": "2026-11-21T14:32:01+00:00",
+      "hash": "",
+      "revisions": 3,
+      "doc_date": "2026-11-19",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-19",
+      "last_seen": "2026-11-21",
+      "published_at": "2026-11-19T12:40+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "Hoe is het om te leven met een beperking? En welke uitdagingen kom je tegen in het dagelijks leven? Op...",
+      "missing_count": 0,
+      "text_hash": "e24b116a25a6ee1cea0bae77efe6d6ffc20761e60408c9047663432f7b49a985",
+      "content_checked": "2026-11-21T14:32:01+00:00",
+      "kw_sig": "4f53cda18c2b|e24b116a25a6ee1cea0bae77efe6d6ffc20761e60408c9047663432f7b49a985|Tentoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt|Hoe is het om te leven met een beperking? En welke uitdagingen kom je tegen in het dagelijks leven? Op...",
+      "changes": [
+        {
+          "at": "2026-11-20T19:02:23+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "6 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
+          "added": [
+            "Wilt u niets missen?",
+            "Blijf op de hoogte!",
+            "Schrijf u nu in op onze wekelijks nieuwsbrief."
+          ],
+          "removed": []
+        },
+        {
+          "at": "2026-11-21T14:32:01+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Hekelstraat tijdelijk veiligheidsrisicogebied",
+            "21 november 2026"
+          ],
+          "removed": [
+            "16 november 2026",
+            "Alkmaarse veteranen ontmoeten elkaar tijdens veteranenreceptie"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
+    "678a0cc5e66ff9ce0b1c7af671d69b08a852d780082b11f5dd8176839ff20e11": {
+      "title": "Stroomstoring in Alkmaar op dit moment",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzOHA4SDYySEdkUUlwWVgyaGdOQ1RSZl9xUGk2S1lwNFh1MkJmX0g1TFN1SnVLcEFwNVNEbVRnQVlBbGZ4eWdOX3VzdUdCY1V6X2FXUkp3Ymh2bm0zbVVBcWJqNGZ1NGlJRGd3QUk5OE1RNkJOeEdEU1ZOWXFZcVE?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-21T14:31:56+00:00",
+      "updated": "2026-11-21T14:31:56+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "AD.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-21",
+      "doc_date": "2026-11-21",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-21T12:53+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Stroomstoring in Alkmaar op dit moment|"
+    },
+    "5fefd55570011c1cfe961153e42760c96c8caa105b67811975f7e2c900a56481": {
+      "title": "Alkmaarse uitgaansstraat tijdelijk veiligheidsrisicogebied na incidenten met vuurwapens",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2U3OXFYQ0lhU004cGN5MGIwa0NfWC1IdXFITDVZS0dBYk5WS085c0M2NF9vNGJCUnJoSlR4MHRKallGU25kTGE5UUtsc1U0NUVJZUFlNmpmSDhEYjVzUnZtaXQxZ3ljZnBjTlJMQjB1d0tPQkNNNktJZE5OUmJXMVZWWDVHb1pxYVpoSExSYTVnTVFLNHdQeDMxanFaczZxNW94RXZpTF9nWklWUzJxUTNxanJPcm1zOEpDLWFfeTlrcGc?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-21T14:31:56+00:00",
+      "updated": "2026-11-21T14:31:56+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "NH Nieuws",
+      "media_match": "tekst",
+      "last_seen": "2026-11-21",
+      "doc_date": "2026-11-21",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-21T13:03+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Alkmaarse uitgaansstraat tijdelijk veiligheidsrisicogebied na incidenten met vuurwapens|"
+    },
+    "f0ba0e71b626e95699fd449dbcf08f7e68336f6de62b30a8a8e4422bb593c41c": {
+      "title": "Burgemeester Schouten voert preventieve fouillering in Alkmaar in",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcnlwV25tUlJSM1VKMEwyTGVSY1ZjZENxaDY5QUxZczRNRGpEaExvaTBaYVBMbHh1N0R6WUtxenB1WmJFOVpiZ0YwVExPbDZhbFJWNDdMNnZTdnEzZ2FfOGtYLS1nbTI2aHQ4cUR2NDdkMnh5SzVXaV9VT19zOWlYUDhyLWVESWFtR2F1eFVkeGxrblRsVnhXVllR?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-21T14:31:56+00:00",
+      "updated": "2026-11-21T14:31:56+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "Head Topics",
+      "media_match": "kop",
+      "last_seen": "2026-11-21",
+      "doc_date": "2026-11-21",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-21T13:24+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Burgemeester Schouten voert preventieve fouillering in Alkmaar in|"
+    },
+    "9b94d86a36db047f5886e43dba298bdd3e9b878a3cddcbd5d7fa6bc55919edb7": {
+      "title": "Stroomstoring in Alkmaar opgelost",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OUENMSmtSQWM5bndoOElDYlg3MUx4NFBTOVpJNXViXzZUakVSOVNqMklKUnIxTC1DSkVNbnpJcXpTcmxUVHkxVVo3REJyVkdWcmpodmp5VmxJS19ITXRwNTVGQTR1Y2RNeG40a2U0Y3RRNzZjMkYtWQ?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-21T14:31:56+00:00",
+      "updated": "2026-11-21T14:31:56+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "AD.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-21",
+      "doc_date": "2026-11-21",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-21T12:53+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Stroomstoring in Alkmaar opgelost|"
+    },
     "5330b487d9079a3cbdf9f8f18f674d134f4a4b9934619e708185d55a03a1d3af": {
       "title": "Alkmaarse veteranen ontmoeten elkaar tijdens veteranenreceptie",
       "url": "https://www.alkmaar.nl/nieuws/alkmaarse-veteranen-ontmoeten-elkaar-tijdens-veteranenreceptie/",
@@ -145,7 +362,7 @@
       "hash": "",
       "revisions": 1,
       "kind": "media",
-      "media_bron": "www.rodi.nl",
+      "media_bron": "Rodi.nl",
       "media_match": "kop",
       "last_seen": "2026-11-21",
       "doc_date": "2026-11-21",
@@ -816,7 +1033,7 @@
       "hash": "",
       "revisions": 1,
       "kind": "media",
-      "media_bron": "vrmg.nl",
+      "media_bron": "VRMG",
       "media_match": "kop",
       "last_seen": "2026-11-21",
       "doc_date": "2026-11-21",
@@ -2862,117 +3079,6 @@
             "Alkmaar Aardgasvrij 2050: wat vindt u belangrijk?",
             "28 oktober 2026"
           ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "ebe475fa11fb0e014974f56e0ae19a73d3ece16db678ddb775e5bb04edf08942": {
-      "title": "Last van vuurwerk in uw buurt? Meld het!",
-      "url": "https://www.alkmaar.nl/nieuws/last-van-vuurwerk-in-uw-buurt-meld-het/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-11-16T13:37:43+00:00",
-      "updated": "2026-11-20T19:32:30+00:00",
-      "last_change": "2026-11-20T19:32:30+00:00",
-      "hash": "",
-      "revisions": 5,
-      "doc_date": "2026-11-16",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-16",
-      "last_seen": "2026-11-21",
-      "published_at": "2026-11-16T15:07+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "Heeft u last van vuurwerk in uw buurt? Meld dit dan bij de gemeente Alkmaar. Met uw melding helpt u...",
-      "missing_count": 0,
-      "text_hash": "994eff7e63fa92fc23641a4f30e9eaff50103ef85b629921e8cdb9bf83553eb6",
-      "content_checked": "2026-11-21T08:32:00+00:00",
-      "kw_sig": "4f53cda18c2b|994eff7e63fa92fc23641a4f30e9eaff50103ef85b629921e8cdb9bf83553eb6|Last van vuurwerk in uw buurt? Meld het!|Heeft u last van vuurwerk in uw buurt? Meld dit dan bij de gemeente Alkmaar. Met uw melding helpt u...",
-      "changes": [
-        {
-          "at": "2026-11-16T20:02:44+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Alkmaar huldigt sportkampioenen",
-            "13 november 2026"
-          ],
-          "removed": [
-            "Denk mee over gezondheid in Alkmaar",
-            "2 november 2026"
-          ]
-        },
-        {
-          "at": "2026-11-17T15:02:22+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Kom in actie en stop geweld tegen vrouwen!",
-            "17 november 2026"
-          ],
-          "removed": [
-            "Alkmaar met elkaar: hét platform voor bewonersinitiatieven",
-            "5 november 2026"
-          ]
-        },
-        {
-          "at": "2026-11-19T11:32:16+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Tentoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt",
-            "19 november 2026"
-          ],
-          "removed": [
-            "Alkmaar huldigt sportkampioenen",
-            "13 november 2026"
-          ]
-        },
-        {
-          "at": "2026-11-20T19:32:30+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "6 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
-          "added": [
-            "Wilt u niets missen?",
-            "Blijf op de hoogte!",
-            "Schrijf u nu in op onze wekelijks nieuwsbrief."
-          ],
-          "removed": []
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "6e8863292f57aed58a20cbc686995e2c1c3d93d6ae6f039d79ee0f62f8a3c4ee": {
-      "title": "Tentoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt",
-      "url": "https://www.alkmaar.nl/nieuws/tentoonstelling-samen-onbeperkt-vooruit-op-de-paardenmarkt/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-11-19T11:01:32+00:00",
-      "updated": "2026-11-20T19:02:23+00:00",
-      "last_change": "2026-11-20T19:02:23+00:00",
-      "hash": "",
-      "revisions": 2,
-      "doc_date": "2026-11-19",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-19",
-      "last_seen": "2026-11-21",
-      "published_at": "2026-11-19T12:40+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "Hoe is het om te leven met een beperking? En welke uitdagingen kom je tegen in het dagelijks leven? Op...",
-      "missing_count": 0,
-      "text_hash": "885d7eec70b63c6c884661c0e9a179290d94c031b35466eac8bc2d24dbceaf46",
-      "content_checked": "2026-11-21T08:02:07+00:00",
-      "kw_sig": "4f53cda18c2b|885d7eec70b63c6c884661c0e9a179290d94c031b35466eac8bc2d24dbceaf46|Tentoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt|Hoe is het om te leven met een beperking? En welke uitdagingen kom je tegen in het dagelijks leven? Op...",
-      "changes": [
-        {
-          "at": "2026-11-20T19:02:23+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "6 zin(nen) toegevoegd of aangepast, 0 verwijderd of vervangen",
-          "added": [
-            "Wilt u niets missen?",
-            "Blijf op de hoogte!",
-            "Schrijf u nu in op onze wekelijks nieuwsbrief."
-          ],
-          "removed": []
         }
       ],
       "change_type": "Tekst gewijzigd"
@@ -204371,14 +204477,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-21T14:00:50+00:00",
+        "checked": "2026-11-21T14:30:43+00:00",
         "ok": true,
         "count": 430,
         "new": 0,
         "note": "Laatste 30 dagen: 430 van 430 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-21T14:01:01+00:00",
+        "checked": "2026-11-21T14:30:54+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -204386,7 +204492,7 @@
         "note": "10 van 17 vergaderingen in venster bijgewerkt; 820 documenten bekend. Dekking: vergaderingen van 2026-09-22 t/m 2027-01-05 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-21T14:01:02+00:00",
+        "checked": "2026-11-21T14:30:55+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -204394,38 +204500,40 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-21T14:01:03+00:00",
+        "checked": "2026-11-21T14:30:56+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-21T14:02:03+00:00",
+        "checked": "2026-11-21T14:31:56+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-21T14:02:03+00:00",
+        "checked": "2026-11-21T14:32:00+00:00",
         "ok": true,
-        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
+        "count": 51,
+        "new": 4,
+        "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-21T14:02:06+00:00",
+        "checked": "2026-11-21T14:32:02+00:00",
         "ok": true,
-        "count": 3,
+        "count": 2,
         "errors": 0,
-        "note": "3 documenten gecontroleerd (3 pdf), 650 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "2 documenten gecontroleerd (0 pdf), 650 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-21T14:02:06+00:00",
+        "checked": "2026-11-21T14:32:02+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-21T14:02:06+00:00",
+        "checked": "2026-11-21T14:32:02+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -204441,7 +204549,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-21T14:00:50+00:00",
+        "checked": "2026-11-21T14:30:43+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -204449,7 +204557,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-21T14:00:50+00:00",
+        "checked": "2026-11-21T14:30:43+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -204457,7 +204565,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-21T14:00:50+00:00",
+        "checked": "2026-11-21T14:30:43+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -205003,7 +205111,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-11-21T13:30:42+00:00",
+        "checked": "2026-11-21T14:30:43+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -205011,7 +205119,7 @@
         "documents": 71
       },
       "76d0f4f5-e1b7-4995-b9f2-74d91963993a": {
-        "checked": "2026-11-21T13:30:42+00:00",
+        "checked": "2026-11-21T14:30:43+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-27",
@@ -205019,7 +205127,7 @@
         "documents": 1
       },
       "f339467e-beb6-47d2-9d1f-e8fd285b0283": {
-        "checked": "2026-11-21T13:30:42+00:00",
+        "checked": "2026-11-21T14:30:43+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-27",
@@ -205043,7 +205151,7 @@
         "documents": 41
       },
       "bd0b6951-d6cf-4609-9cf9-810712dbd67d": {
-        "checked": "2026-11-21T13:30:42+00:00",
+        "checked": "2026-11-21T14:30:43+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-10",
@@ -205051,7 +205159,7 @@
         "documents": 1
       },
       "d8a8b9b0-d4f7-4b40-bd69-8939700e04b6": {
-        "checked": "2026-11-21T13:30:42+00:00",
+        "checked": "2026-11-21T14:30:43+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-10",
@@ -205059,7 +205167,7 @@
         "documents": 43
       },
       "250bb8c3-b2a9-4eda-b56e-44f612becf26": {
-        "checked": "2026-11-21T13:30:42+00:00",
+        "checked": "2026-11-21T14:30:43+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-17",
@@ -205067,7 +205175,7 @@
         "documents": 1
       },
       "983827f6-8833-455c-80d9-c880a2263c1b": {
-        "checked": "2026-11-21T13:30:42+00:00",
+        "checked": "2026-11-21T14:30:43+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-17",
@@ -205076,7 +205184,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-21T14:00:51+00:00"
+      "alkmaar": "2026-11-21T14:30:45+00:00"
     },
     "reports": {
       "alkmaar": {
