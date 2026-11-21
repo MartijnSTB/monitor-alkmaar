@@ -3,6 +3,26 @@
     "alkmaar"
   ],
   "items": {
+    "2a6e69d99f0f7f0bbc4d731cfc494ce5e2f3525100f0eef8263d191b93d668f1": {
+      "title": "Alkmaar Actieve Uitjes op Uitjes 23 November 2026 UITagenda Activiteiten (15 x)",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5saWxkLVI3MFMzbkRGSDlwTXRlRUQyY0hPbE9fZC11UHNOWmxJZi1XTDVFUEF4M2JURFBOaWdNdmRkWk1nYmVZY2tCVFlnQWN5ZVlKaW1jOUdlbFdWaUQtNnFsekFJSDZIMTMxOE91NWgtd3MyY3hhd3hMeG4?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-21T19:31:56+00:00",
+      "updated": "2026-11-21T19:31:56+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "DagjeWeg.NL",
+      "media_match": "kop",
+      "last_seen": "2026-11-21",
+      "doc_date": "2026-11-21",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-21T18:43+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Alkmaar Actieve Uitjes op Uitjes 23 November 2026 UITagenda Activiteiten (15 x)|"
+    },
     "434821be52b61648d971c8b8369c912260e6eb85018096f53b06fe72aa6d4b3d": {
       "title": "Alkmaar Actieve Uitjes op Uitjes 24 November 2026 UITagenda Activiteiten (14 x)",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qeHkwVXgycTJrMXY0MS1HYjQzZzF5WlJaTEVISk9JMzdfRjQ0cVdxelZkdWU1NGNmTFc4cGRsMFgzV0xrWDI5UlEwcG0wYUZjV3hkQkxyWWtQSW41Zkc0eW5Ndk9XNVpXVnd1eDFkODdWMGZaTnlTNmhwR04?oc=5",
@@ -204698,14 +204718,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-21T19:00:59+00:00",
+        "checked": "2026-11-21T19:30:41+00:00",
         "ok": true,
         "count": 430,
         "new": 0,
         "note": "Laatste 30 dagen: 430 van 430 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-21T19:01:09+00:00",
+        "checked": "2026-11-21T19:30:53+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -204713,7 +204733,7 @@
         "note": "10 van 17 vergaderingen in venster bijgewerkt; 820 documenten bekend. Dekking: vergaderingen van 2026-09-22 t/m 2027-01-05 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-21T19:01:10+00:00",
+        "checked": "2026-11-21T19:30:54+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -204721,40 +204741,40 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-21T19:01:11+00:00",
+        "checked": "2026-11-21T19:30:55+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-21T19:02:11+00:00",
+        "checked": "2026-11-21T19:31:55+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-21T19:02:15+00:00",
+        "checked": "2026-11-21T19:31:59+00:00",
         "ok": true,
-        "count": 45,
-        "new": 3,
+        "count": 52,
+        "new": 1,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-21T19:02:15+00:00",
+        "checked": "2026-11-21T19:31:59+00:00",
         "ok": true,
         "count": 0,
         "errors": 0,
         "note": "0 documenten gecontroleerd (0 pdf), 650 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-21T19:02:15+00:00",
+        "checked": "2026-11-21T19:31:59+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-21T19:02:15+00:00",
+        "checked": "2026-11-21T19:31:59+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -204770,7 +204790,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-21T19:00:59+00:00",
+        "checked": "2026-11-21T19:30:41+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -204778,7 +204798,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-21T19:00:59+00:00",
+        "checked": "2026-11-21T19:30:41+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -204786,7 +204806,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-21T19:00:59+00:00",
+        "checked": "2026-11-21T19:30:41+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -205332,7 +205352,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-11-21T18:30:42+00:00",
+        "checked": "2026-11-21T19:30:41+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -205340,7 +205360,7 @@
         "documents": 71
       },
       "76d0f4f5-e1b7-4995-b9f2-74d91963993a": {
-        "checked": "2026-11-21T18:30:42+00:00",
+        "checked": "2026-11-21T19:30:41+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-27",
@@ -205348,7 +205368,7 @@
         "documents": 1
       },
       "f339467e-beb6-47d2-9d1f-e8fd285b0283": {
-        "checked": "2026-11-21T18:30:42+00:00",
+        "checked": "2026-11-21T19:30:41+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-27",
@@ -205372,7 +205392,7 @@
         "documents": 41
       },
       "bd0b6951-d6cf-4609-9cf9-810712dbd67d": {
-        "checked": "2026-11-21T18:30:42+00:00",
+        "checked": "2026-11-21T19:30:41+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-10",
@@ -205380,7 +205400,7 @@
         "documents": 1
       },
       "d8a8b9b0-d4f7-4b40-bd69-8939700e04b6": {
-        "checked": "2026-11-21T18:30:42+00:00",
+        "checked": "2026-11-21T19:30:41+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-10",
@@ -205388,7 +205408,7 @@
         "documents": 43
       },
       "250bb8c3-b2a9-4eda-b56e-44f612becf26": {
-        "checked": "2026-11-21T18:30:42+00:00",
+        "checked": "2026-11-21T19:30:41+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-17",
@@ -205396,7 +205416,7 @@
         "documents": 1
       },
       "983827f6-8833-455c-80d9-c880a2263c1b": {
-        "checked": "2026-11-21T18:30:42+00:00",
+        "checked": "2026-11-21T19:30:41+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-17",
@@ -205405,7 +205425,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-21T19:01:01+00:00"
+      "alkmaar": "2026-11-21T19:30:42+00:00"
     },
     "reports": {
       "alkmaar": {
