@@ -3,6 +3,85 @@
     "alkmaar"
   ],
   "items": {
+    "0cf0fac618d30504a35f7a871a0269fcee455ae5b4d48fc3fbfa7e13f5a381e8": {
+      "title": "Kom in actie tegen geweld tegen vrouwen!",
+      "url": "https://www.alkmaar.nl/nieuws/kom-in-actie-tegen-geweld-tegen-vrouwen/",
+      "source": "Nieuws",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-17T09:01:25+00:00",
+      "updated": "2026-11-21T09:31:55+00:00",
+      "last_change": "2026-11-21T09:31:55+00:00",
+      "hash": "",
+      "revisions": 5,
+      "doc_date": "2026-11-17",
+      "doc_date_label": "publicatiedatum",
+      "publication_date": "2026-11-17",
+      "last_seen": "2026-11-21",
+      "published_at": "2026-11-17T10:59+01:00",
+      "published_at_source": "RSS-feed",
+      "excerpt": "Geweld tegen vrouwen en meisjes moet stoppen. Daarom doet Alkmaar ook dit jaar mee met Orange the World. Dat is...",
+      "missing_count": 0,
+      "text_hash": "d201b35fc32de4ac01314c5826358ad8917f4ddacfae7b51a6afcd29a4c50261",
+      "content_checked": "2026-11-21T09:31:55+00:00",
+      "kw_sig": "4f53cda18c2b|d201b35fc32de4ac01314c5826358ad8917f4ddacfae7b51a6afcd29a4c50261|Kom in actie tegen geweld tegen vrouwen!|Geweld tegen vrouwen en meisjes moet stoppen. Daarom doet Alkmaar ook dit jaar mee met Orange the World. Dat is...",
+      "changes": [
+        {
+          "at": "2026-11-17T15:32:06+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "5 zin(nen) toegevoegd of aangepast, 5 verwijderd of vervangen",
+          "added": [
+            "Kom in actie en stop geweld tegen vrouwen!",
+            "Thema van Orange the World: ‘Met mannen en jongens’",
+            "“We vragen aandacht voor de belangrijke rol van mannen en jongens bij het stoppen van geweld tegen vrouwen en meisjes."
+          ],
+          "removed": [
+            "Kom in actie tegen geweld tegen vrouwen!",
+            "“Het thema van Orange the World is ‘Met mannen en jongens’.",
+            "We vragen aandacht voor de belangrijke rol van mannen en jongens bij het stoppen van geweld tegen vrouwen en meisjes."
+          ]
+        },
+        {
+          "at": "2026-11-19T13:02:13+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Tentoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt",
+            "19 november 2026"
+          ],
+          "removed": [
+            "Alkmaar huldigt sportkampioenen",
+            "13 november 2026"
+          ]
+        },
+        {
+          "at": "2026-11-20T14:02:24+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "7 zin(nen) toegevoegd of aangepast, 1 verwijderd of vervangen",
+          "added": [
+            "Deze activiteiten worden georganiseerd door Stichting Hilde, VROUWenKRACHT, GlobalGoalsAlkmaar, Soroptimist, BureauStennis, WomanLink, Dolle Mina Alkmaar, Alkmaar Breekt de Stilte, STAD, Het Vrije Meisje, Mare Nostrum, V",
+            "Wilt u niets missen?",
+            "Blijf op de hoogte!"
+          ],
+          "removed": [
+            "Deze activiteiten worden georganiseerd door Stichting Hilde, VROUWenKRACHT, GlobalGoalsAlkmaar, Soroptimist, BureauStennis, WomanLink, Dolle Mina Alkmaar, Alkmaar Breekt de Stilte, STAD, Het Vrije Meisje, Mare Nostrum en"
+          ]
+        },
+        {
+          "at": "2026-11-21T09:31:55+00:00",
+          "type": "Tekst gewijzigd",
+          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
+          "added": [
+            "Hekelstraat tijdelijk veiligheidsrisicogebied",
+            "21 november 2026"
+          ],
+          "removed": [
+            "16 november 2026",
+            "Alkmaarse veteranen ontmoeten elkaar tijdens veteranenreceptie"
+          ]
+        }
+      ],
+      "change_type": "Tekst gewijzigd"
+    },
     "d871c7ca41ab43283ab078b81b0fcd79e6c23be86b3fa906bc6c96ecb9a6b32e": {
       "title": "Feestelijke onthulling maquette van het grote orgel in de Grote Kerk Alkmaar",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWppWmxBclNwYTVqd3dUVFBjNExVS1RFV0NucHdYRzRraDdtTTJrdDAyemlyX1NWajg3NXVuRVBER3BzTF9nRVhKdWJhQkFtSVNaMmRNZ25Uam82cXFPX2VreU1SM0Y0c2VBOUdyVmNjNENFNlNucFFTVVhEdDcwQ3Bab3BESktlSUZzaVQ0WC1LSFRyeEVSMDJRbF8zb0lmb096ODlrbUxaank3dWc?oc=5",
@@ -3096,72 +3175,6 @@
           "removed": [
             "Alkmaar Aardgasvrij 2050: wat vindt u belangrijk?",
             "28 oktober 2026"
-          ]
-        }
-      ],
-      "change_type": "Tekst gewijzigd"
-    },
-    "0cf0fac618d30504a35f7a871a0269fcee455ae5b4d48fc3fbfa7e13f5a381e8": {
-      "title": "Kom in actie tegen geweld tegen vrouwen!",
-      "url": "https://www.alkmaar.nl/nieuws/kom-in-actie-tegen-geweld-tegen-vrouwen/",
-      "source": "Nieuws",
-      "gemeente": "alkmaar",
-      "first_seen": "2026-11-17T09:01:25+00:00",
-      "updated": "2026-11-20T14:02:24+00:00",
-      "last_change": "2026-11-20T14:02:24+00:00",
-      "hash": "",
-      "revisions": 4,
-      "doc_date": "2026-11-17",
-      "doc_date_label": "publicatiedatum",
-      "publication_date": "2026-11-17",
-      "last_seen": "2026-11-21",
-      "published_at": "2026-11-17T10:59+01:00",
-      "published_at_source": "RSS-feed",
-      "excerpt": "Geweld tegen vrouwen en meisjes moet stoppen. Daarom doet Alkmaar ook dit jaar mee met Orange the World. Dat is...",
-      "missing_count": 0,
-      "text_hash": "3712e436e003cda52c86f01fd18a8d3fe3896484bb439562088a9e0d74b52ced",
-      "content_checked": "2026-11-21T03:02:55+00:00",
-      "kw_sig": "4f53cda18c2b|3712e436e003cda52c86f01fd18a8d3fe3896484bb439562088a9e0d74b52ced|Kom in actie tegen geweld tegen vrouwen!|Geweld tegen vrouwen en meisjes moet stoppen. Daarom doet Alkmaar ook dit jaar mee met Orange the World. Dat is...",
-      "changes": [
-        {
-          "at": "2026-11-17T15:32:06+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "5 zin(nen) toegevoegd of aangepast, 5 verwijderd of vervangen",
-          "added": [
-            "Kom in actie en stop geweld tegen vrouwen!",
-            "Thema van Orange the World: ‘Met mannen en jongens’",
-            "“We vragen aandacht voor de belangrijke rol van mannen en jongens bij het stoppen van geweld tegen vrouwen en meisjes."
-          ],
-          "removed": [
-            "Kom in actie tegen geweld tegen vrouwen!",
-            "“Het thema van Orange the World is ‘Met mannen en jongens’.",
-            "We vragen aandacht voor de belangrijke rol van mannen en jongens bij het stoppen van geweld tegen vrouwen en meisjes."
-          ]
-        },
-        {
-          "at": "2026-11-19T13:02:13+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "2 zin(nen) toegevoegd of aangepast, 2 verwijderd of vervangen",
-          "added": [
-            "Tentoonstelling Samen Onbeperkt Vooruit op de Paardenmarkt",
-            "19 november 2026"
-          ],
-          "removed": [
-            "Alkmaar huldigt sportkampioenen",
-            "13 november 2026"
-          ]
-        },
-        {
-          "at": "2026-11-20T14:02:24+00:00",
-          "type": "Tekst gewijzigd",
-          "summary": "7 zin(nen) toegevoegd of aangepast, 1 verwijderd of vervangen",
-          "added": [
-            "Deze activiteiten worden georganiseerd door Stichting Hilde, VROUWenKRACHT, GlobalGoalsAlkmaar, Soroptimist, BureauStennis, WomanLink, Dolle Mina Alkmaar, Alkmaar Breekt de Stilte, STAD, Het Vrije Meisje, Mare Nostrum, V",
-            "Wilt u niets missen?",
-            "Blijf op de hoogte!"
-          ],
-          "removed": [
-            "Deze activiteiten worden georganiseerd door Stichting Hilde, VROUWenKRACHT, GlobalGoalsAlkmaar, Soroptimist, BureauStennis, WomanLink, Dolle Mina Alkmaar, Alkmaar Breekt de Stilte, STAD, Het Vrije Meisje, Mare Nostrum en"
           ]
         }
       ],
@@ -204250,14 +204263,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-21T09:00:58+00:00",
+        "checked": "2026-11-21T09:30:39+00:00",
         "ok": true,
         "count": 430,
         "new": 0,
         "note": "Laatste 30 dagen: 430 van 430 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-21T09:01:10+00:00",
+        "checked": "2026-11-21T09:30:52+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -204265,7 +204278,7 @@
         "note": "10 van 17 vergaderingen in venster bijgewerkt; 820 documenten bekend. Dekking: vergaderingen van 2026-09-22 t/m 2027-01-05 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-21T09:01:11+00:00",
+        "checked": "2026-11-21T09:30:52+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -204273,38 +204286,38 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-21T09:01:12+00:00",
+        "checked": "2026-11-21T09:30:54+00:00",
         "ok": true,
         "count": 10,
-        "new": 1,
+        "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-21T09:02:13+00:00",
+        "checked": "2026-11-21T09:31:54+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-21T09:02:14+00:00",
-        "ok": false,
-        "error": "Google Nieuws gaf HTTP 429; 2 uur pauze"
+        "checked": "2026-11-21T09:31:54+00:00",
+        "ok": true,
+        "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-21T09:02:28+00:00",
+        "checked": "2026-11-21T09:31:55+00:00",
         "ok": true,
-        "count": 10,
+        "count": 1,
         "errors": 0,
-        "note": "10 documenten gecontroleerd (8 pdf), 650 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "1 documenten gecontroleerd (0 pdf), 650 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-21T09:02:28+00:00",
+        "checked": "2026-11-21T09:31:55+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-21T09:02:28+00:00",
+        "checked": "2026-11-21T09:31:55+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -204320,7 +204333,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-21T09:00:58+00:00",
+        "checked": "2026-11-21T09:30:39+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -204328,7 +204341,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-21T09:00:58+00:00",
+        "checked": "2026-11-21T09:30:39+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -204336,7 +204349,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-21T09:00:58+00:00",
+        "checked": "2026-11-21T09:30:39+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -204344,7 +204357,7 @@
         "documents": 1
       },
       "5562858f-f829-4dac-ade9-e5d4e30eed4c": {
-        "checked": "2026-11-21T08:30:40+00:00",
+        "checked": "2026-11-21T09:30:39+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-22",
@@ -204587,7 +204600,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-11-21T08:30:40+00:00",
+        "checked": "2026-11-21T09:30:39+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -204595,7 +204608,7 @@
         "documents": 18
       },
       "dcc6411b-600b-4103-9480-0c96305035a4": {
-        "checked": "2026-11-21T08:30:40+00:00",
+        "checked": "2026-11-21T09:30:39+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-06",
@@ -204603,7 +204616,7 @@
         "documents": 67
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-11-21T08:30:40+00:00",
+        "checked": "2026-11-21T09:30:39+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -204611,7 +204624,7 @@
         "documents": 35
       },
       "1be43278-1164-4aca-b9b9-f8e2db8929ae": {
-        "checked": "2026-11-21T08:30:40+00:00",
+        "checked": "2026-11-21T09:30:39+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-22",
@@ -204906,7 +204919,7 @@
         "documents": 64
       },
       "42f2dcbc-b02c-4292-98ff-133fe6c4b5a7": {
-        "checked": "2026-11-21T08:30:40+00:00",
+        "checked": "2026-11-21T09:30:39+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-03",
@@ -204914,7 +204927,7 @@
         "documents": 1
       },
       "b5f85388-de26-4e67-be6a-3bda136604ae": {
-        "checked": "2026-11-21T08:30:40+00:00",
+        "checked": "2026-11-21T09:30:39+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-03",
@@ -204955,7 +204968,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-21T09:01:00+00:00"
+      "alkmaar": "2026-11-21T09:30:42+00:00"
     },
     "reports": {
       "alkmaar": {
