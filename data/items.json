@@ -39175,7 +39175,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 1 Besluitenlijst collegevergadering van 27 oktober 2026",
       "missing_count": 0,
       "text_hash": "b3e7afba01479fcea53907cfa8b06711f8a566a16e77468da0b519eda957e90b",
-      "content_checked": "2026-11-23T01:32:13+00:00",
+      "content_checked": "2026-11-24T02:02:27+00:00",
       "kw_sig": "4f53cda18c2b|b3e7afba01479fcea53907cfa8b06711f8a566a16e77468da0b519eda957e90b|Besluitenlijst Collegevergadering van 27 oktober 2026|B&W Openbare besluiten college dinsdag 27 oktober 2026 · agendapunt 1 Besluitenlijst collegevergadering van 27 oktober 2026"
     },
     "510cce8209ae25dd5803f6aae199c27945375584d9298f698a54a21589352db5": {
@@ -50895,7 +50895,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "e18f14f3dce4d80c2a9947b7417ed566c2363dbfc6a08695d9b9e52fceb09d49",
-      "content_checked": "2026-11-23T01:32:15+00:00",
+      "content_checked": "2026-11-24T02:02:28+00:00",
       "kw_sig": "4f53cda18c2b|e18f14f3dce4d80c2a9947b7417ed566c2363dbfc6a08695d9b9e52fceb09d49|Raadsinformatiebrief Beantwoording technische vragen Programmabegroting 2027|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)"
     },
     "73d1e066e0a2f0dce9063371f4a9bdc6a346947dc5b74a9859a21831da52fb03": {
@@ -50925,7 +50925,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "bb9d37d91d5293e83cd5e9e8484a3387d0d1349a03fa928cc50f082bf3dd7faa",
-      "content_checked": "2026-11-23T02:02:21+00:00",
+      "content_checked": "2026-11-24T02:02:31+00:00",
       "kw_sig": "4f53cda18c2b|bb9d37d91d5293e83cd5e9e8484a3387d0d1349a03fa928cc50f082bf3dd7faa|Bijlage 1. CV Beantwoording technische vragen Programmabegroting 2027 - vragen en antwoorden|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)"
     },
     "02a55c5c354b840fb2e4b77eced2515a45d52c1e1bd254fa1abe7d8e519ea907": {
@@ -50955,7 +50955,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "dac6e7f9de36a2cf26c629744eecfab5dd175112ea699f686bdbbc722e2e0949",
-      "content_checked": "2026-11-23T02:02:25+00:00",
+      "content_checked": "2026-11-24T02:02:32+00:00",
       "kw_sig": "4f53cda18c2b|dac6e7f9de36a2cf26c629744eecfab5dd175112ea699f686bdbbc722e2e0949|Bijlage 2. CV Beantwoording technische vragen Programmabegroting 2027 - erratum|B&W Openbare besluiten college dinsdag 20 oktober 2026 · agendapunt 2.9 Beantwoording technische vragen Programmabegroting 2027 (Marco Wiesehahn-Vrijman)"
     },
     "ef261e146ebc2bf6aa4b55cfe1eef140d9c54ee94f78ccf294351ab5a417b4fd": {
@@ -207753,14 +207753,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-24T01:30:41+00:00",
+        "checked": "2026-11-24T02:01:05+00:00",
         "ok": true,
         "count": 424,
         "new": 0,
         "note": "Laatste 30 dagen: 424 van 424 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-24T01:30:55+00:00",
+        "checked": "2026-11-24T02:01:22+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -207768,7 +207768,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 820 documenten bekend. Dekking: vergaderingen van 2026-09-25 t/m 2027-01-08 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-24T01:30:56+00:00",
+        "checked": "2026-11-24T02:01:24+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -207776,38 +207776,38 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-24T01:30:57+00:00",
+        "checked": "2026-11-24T02:01:25+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-24T01:31:57+00:00",
+        "checked": "2026-11-24T02:02:25+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-24T01:31:57+00:00",
+        "checked": "2026-11-24T02:02:25+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-24T01:31:57+00:00",
+        "checked": "2026-11-24T02:02:32+00:00",
         "ok": true,
-        "count": 0,
+        "count": 4,
         "errors": 0,
-        "note": "0 documenten gecontroleerd (0 pdf), 650 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "4 documenten gecontroleerd (4 pdf), 650 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-24T01:31:57+00:00",
+        "checked": "2026-11-24T02:02:32+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-24T01:31:57+00:00",
+        "checked": "2026-11-24T02:02:32+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -207823,7 +207823,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-24T01:30:41+00:00",
+        "checked": "2026-11-24T02:01:05+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -207831,7 +207831,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-24T01:30:41+00:00",
+        "checked": "2026-11-24T02:01:05+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -207839,7 +207839,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-24T01:30:41+00:00",
+        "checked": "2026-11-24T02:01:05+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -208090,7 +208090,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-11-24T01:30:41+00:00",
+        "checked": "2026-11-24T02:01:05+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -208098,7 +208098,7 @@
         "documents": 18
       },
       "dcc6411b-600b-4103-9480-0c96305035a4": {
-        "checked": "2026-11-24T01:30:41+00:00",
+        "checked": "2026-11-24T02:01:05+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-06",
@@ -208401,7 +208401,7 @@
         "documents": 1
       },
       "f339467e-beb6-47d2-9d1f-e8fd285b0283": {
-        "checked": "2026-11-24T01:00:53+00:00",
+        "checked": "2026-11-24T02:01:05+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-27",
@@ -208425,7 +208425,7 @@
         "documents": 41
       },
       "bd0b6951-d6cf-4609-9cf9-810712dbd67d": {
-        "checked": "2026-11-24T01:00:53+00:00",
+        "checked": "2026-11-24T02:01:05+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-10",
@@ -208433,7 +208433,7 @@
         "documents": 1
       },
       "d8a8b9b0-d4f7-4b40-bd69-8939700e04b6": {
-        "checked": "2026-11-24T01:00:53+00:00",
+        "checked": "2026-11-24T02:01:05+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-10",
@@ -208441,7 +208441,7 @@
         "documents": 43
       },
       "250bb8c3-b2a9-4eda-b56e-44f612becf26": {
-        "checked": "2026-11-24T01:00:53+00:00",
+        "checked": "2026-11-24T02:01:05+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-17",
@@ -208449,7 +208449,7 @@
         "documents": 1
       },
       "983827f6-8833-455c-80d9-c880a2263c1b": {
-        "checked": "2026-11-24T01:00:53+00:00",
+        "checked": "2026-11-24T02:01:05+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-17",
@@ -208458,7 +208458,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-24T01:30:43+00:00"
+      "alkmaar": "2026-11-24T02:01:07+00:00"
     },
     "reports": {
       "alkmaar": {
