@@ -3,6 +3,372 @@
     "alkmaar"
   ],
   "items": {
+    "15c6495e5eabb7c05be7d6446863d288ce5c299c716feccafb52cda579577906": {
+      "title": "Omgevingsvergunning aangevraagd: het plaatsen van 6 expositiewanden van 7-12-2026 t/m 10-3-2027, Europaweg 1, 1825 RV Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547408.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-24T10:00:49+00:00",
+      "updated": "2026-11-24T10:00:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-24",
+      "geo": [
+        52.656392,
+        4.757392
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-24",
+        "issued": null,
+        "date": "2026-11-24"
+      },
+      "doc_date": "2026-11-24",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Europaweg 1 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24",
+      "published_at_tried": true,
+      "published_at": "2026-11-24T10:34+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het plaatsen van 6 expositiewanden van 7-12-2026 t/m 10-3-2027, Europaweg 1, 1825 RV Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24"
+    },
+    "bc758e800afadaa709ea0366ac6f85c521268a6360f520bf32fe400ebf255fcb": {
+      "title": "Algemene plaatselijke verordening Verleend: Horeca-inrichting exploitatievergunning, Exploitatievergunning Bagels & Beans, Langestraat 12 A, 1811 JG Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-546930.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-24T10:00:49+00:00",
+      "updated": "2026-11-24T10:00:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-24",
+      "geo": [
+        52.630823,
+        4.749211
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-24",
+        "issued": null,
+        "date": "2026-11-24"
+      },
+      "doc_date": "2026-11-24",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "koop_type": "exploitatievergunning",
+      "locatie": "Langestraat 12 A te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24",
+      "published_at_tried": true,
+      "published_at": "2026-11-24T10:34+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Algemene plaatselijke verordening Verleend: Horeca-inrichting exploitatievergunning, Exploitatievergunning Bagels & Beans, Langestraat 12 A, 1811 JG Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24"
+    },
+    "97c98ad6aeae2268b873caf1a1f219fb1aaf017b8124e9092133cfefc9b88983": {
+      "title": "Omgevingsvergunning aangevraagd: het plaatsen van een hijskraan op 13-1-2027, Schoffelstraat 45, 1825 MB Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547664.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-24T10:00:49+00:00",
+      "updated": "2026-11-24T10:00:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-24",
+      "geo": [
+        52.664124,
+        4.758309
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-24",
+        "issued": null,
+        "date": "2026-11-24"
+      },
+      "doc_date": "2026-11-24",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Schoffelstraat 45 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24",
+      "published_at_tried": true,
+      "published_at": "2026-11-24T10:34+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het plaatsen van een hijskraan op 13-1-2027, Schoffelstraat 45, 1825 MB Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24"
+    },
+    "ceab0e9f8b70841c2c5efcba3e502fda5f61907fab246f9ff0649cfea77bfd59": {
+      "title": "Omgevingsvergunning aangevraagd: het in gebruik nemen van 2 parkeervakken van 7-12-2026 t/m 30-6-2027, ter hoogte van Jan van Scorelkade 61",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547658.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-24T10:00:49+00:00",
+      "updated": "2026-11-24T10:00:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-24",
+      "koop_dates": {
+        "available": "2026-11-24",
+        "issued": null,
+        "date": "2026-11-24"
+      },
+      "doc_date": "2026-11-24",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "ter hoogte van Jan van Scorelkade 61",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24",
+      "published_at_tried": true,
+      "published_at": "2026-11-24T10:34+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het in gebruik nemen van 2 parkeervakken van 7-12-2026 t/m 30-6-2027, ter hoogte van Jan van Scorelkade 61|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24"
+    },
+    "045693e39cd9adadb9533f471897f984e0b3732303132c0e7408b35d80ff424a": {
+      "title": "Omgevingsvergunning aangevraagd: het realiseren van een 1 CATL320 lader met een geïntegreerd energieopslagsysteem, Herenweg 109, 1822 AD Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547107.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-24T10:00:49+00:00",
+      "updated": "2026-11-24T10:00:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-24",
+      "geo": [
+        52.640633,
+        4.775198
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-24",
+        "issued": null,
+        "date": "2026-11-24"
+      },
+      "doc_date": "2026-11-24",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Herenweg 109 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24",
+      "published_at_tried": true,
+      "published_at": "2026-11-24T10:34+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het realiseren van een 1 CATL320 lader met een geïntegreerd energieopslagsysteem, Herenweg 109, 1822 AD Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24"
+    },
+    "bcf25493999457ac900b445418cb7c92051d8dce1f2579aaa9d1d3dc4da30092": {
+      "title": "Omgevingsvergunning regulier Verleend: het plaatsen van een bbq foodtruck van 1-12-26 t/m 1-12-27, Beverdam 3, 1822 AA Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547234.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-24T10:00:49+00:00",
+      "updated": "2026-11-24T10:00:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-24",
+      "geo": [
+        52.639952,
+        4.779706
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-24",
+        "issued": null,
+        "date": "2026-11-24"
+      },
+      "doc_date": "2026-11-24",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Beverdam 3 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24",
+      "published_at_tried": true,
+      "published_at": "2026-11-24T10:34+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning regulier Verleend: het plaatsen van een bbq foodtruck van 1-12-26 t/m 1-12-27, Beverdam 3, 1822 AA Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24"
+    },
+    "d9ae06611ff77377eda08766f3ddd4f2a56cf7ca672804000ea3c70ec5379c6b": {
+      "title": "Omgevingsvergunning aangevraagd: het plaatsen van een container voor het huis van 23-11 t/m 22-12-2026, C.W.Bruinvisstraat 25, 1815 XT Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547672.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-24T10:00:49+00:00",
+      "updated": "2026-11-24T10:00:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-24",
+      "geo": [
+        52.632412,
+        4.732734
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-24",
+        "issued": null,
+        "date": "2026-11-24"
+      },
+      "doc_date": "2026-11-24",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "C.W.Bruinvisstraat 25 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24",
+      "published_at_tried": true,
+      "published_at": "2026-11-24T10:34+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het plaatsen van een container voor het huis van 23-11 t/m 22-12-2026, C.W.Bruinvisstraat 25, 1815 XT Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24"
+    },
+    "2a907b5b8eebbcb315dbeb933b2ac5db2066578acec0ef7332970f540f78be32": {
+      "title": "Omgevingsvergunning aangevraagd: het maken van een depot van 1-2-2027 t/m 30-7-2027, tegenover Stalpaertstraat 42, Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-546364.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-24T10:00:49+00:00",
+      "updated": "2026-11-24T10:00:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-24",
+      "koop_dates": {
+        "available": "2026-11-24",
+        "issued": null,
+        "date": "2026-11-24"
+      },
+      "doc_date": "2026-11-24",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "tegenover Stalpaertstraat 42, Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24",
+      "published_at_tried": true,
+      "published_at": "2026-11-24T10:34+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "geo_tried": true,
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het maken van een depot van 1-2-2027 t/m 30-7-2027, tegenover Stalpaertstraat 42, Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24"
+    },
+    "d3e26f09605a2a002d480bd91eaf8046e0f7006f2d814e3701fbbf302d382d1c": {
+      "title": "Omgevingsvergunning aangevraagd: het realiseren van 1 CATL320 lader met een geïntegreerd energieopslagsysteem, Herenweg 109, 1822 AD Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547122.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-24T10:00:49+00:00",
+      "updated": "2026-11-24T10:00:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-24",
+      "geo": [
+        52.640633,
+        4.775198
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-24",
+        "issued": null,
+        "date": "2026-11-24"
+      },
+      "doc_date": "2026-11-24",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Herenweg 109 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24",
+      "published_at_tried": true,
+      "published_at": "2026-11-24T10:34+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het realiseren van 1 CATL320 lader met een geïntegreerd energieopslagsysteem, Herenweg 109, 1822 AD Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24"
+    },
+    "91c13e408b83c1aff9b82b04de574739c3050cb5dc4f0f2df928fa6f4c1f9e95": {
+      "title": "Omgevingsvergunning aangevraagd: het plaatsen van container, toiletten en bouwhek 23-11-2026 t/m 26-2-2027, Koning Willem-Alexanderlaan 3, 1815 LV Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-547661.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-24T10:00:49+00:00",
+      "updated": "2026-11-24T10:00:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-24",
+      "geo": [
+        52.62246,
+        4.73245
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-24",
+        "issued": null,
+        "date": "2026-11-24"
+      },
+      "doc_date": "2026-11-24",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "koop_type": "omgevingsvergunning",
+      "locatie": "Koning Willem-Alexanderlaan 3 te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24",
+      "published_at_tried": true,
+      "published_at": "2026-11-24T10:34+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Omgevingsvergunning aangevraagd: het plaatsen van container, toiletten en bouwhek 23-11-2026 t/m 26-2-2027, Koning Willem-Alexanderlaan 3, 1815 LV Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24"
+    },
+    "764fcf04968e31020c0f33b31a55ca2cddbc39f863c588fa56ea6f2b4eea8569": {
+      "title": "Algemene plaatselijke verordening Verleend: Terrasvergunning, Terrasvergunning Bagels & Beans, Langestraat 12 A, 1811 JG Alkmaar",
+      "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-546942.html",
+      "source": "Officiele bekendmakingen (KOOP)",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-24T10:00:49+00:00",
+      "updated": "2026-11-24T10:00:49+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "koop_version": "1|2026-11-24",
+      "geo": [
+        52.630823,
+        4.749211
+      ],
+      "geo_src": "KOOP",
+      "koop_dates": {
+        "available": "2026-11-24",
+        "issued": null,
+        "date": "2026-11-24"
+      },
+      "doc_date": "2026-11-24",
+      "doc_date_label": "publicatiedatum (KOOP)",
+      "publication_date": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "koop_type": "andere vergunning",
+      "locatie": "Langestraat 12 A te Alkmaar",
+      "publicatie": "Gemeenteblad",
+      "excerpt": "Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24",
+      "published_at_tried": true,
+      "published_at": "2026-11-24T10:34+01:00",
+      "published_at_source": "officielebekendmakingen.nl",
+      "kw_sig": "4f53cda18c2b||Algemene plaatselijke verordening Verleend: Terrasvergunning, Terrasvergunning Bagels & Beans, Langestraat 12 A, 1811 JG Alkmaar|Officiele bekendmaking; publicatiedatum (KOOP): 2026-11-24"
+    },
     "a756b27784b43ec7e56e3a6efea9c30a6365dfc01aea7f3d4d41643bfb3705c5": {
       "title": "Schot in realiseren appartementengebouw aan Kennemerstraatweg in Alkmaar",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFhmOXRFWEVVdmhkRjVYMUJfVE56aTBpYTg5dWhzdGI4THc2LUcwUmtDWmNpSnRHNWc1MmlOUEJqVXAyTzg3Q2xSZ04zN3ZTTFNCXy1faDBtUy1JTmxORlEwX1Nkak5PR01oeldBSzNjdWhFZnNvQ19sVDQzalpsQTRVZGoyV0pzVFU2clRIMy1aOFlPZkhxSnBkVHNfREV3VHE4RU1YUVA?oc=5",
@@ -5604,7 +5970,7 @@
       "excerpt": "Op donderdag 12 november werden sporters uit Alkmaar gehuldigd voor hun bijzondere prestaties. Ze wonnen Nederlandse titels en behaalden internationale...",
       "missing_count": 0,
       "text_hash": "66ba2aba49e40e0ac464a5cf13f70d3614a77dc6f282fed04a8200e5e999af04",
-      "content_checked": "2026-11-24T04:02:16+00:00",
+      "content_checked": "2026-11-24T10:03:09+00:00",
       "kw_sig": "4f53cda18c2b|66ba2aba49e40e0ac464a5cf13f70d3614a77dc6f282fed04a8200e5e999af04|Alkmaar huldigt sportkampioenen|Op donderdag 12 november werden sporters uit Alkmaar gehuldigd voor hun bijzondere prestaties. Ze wonnen Nederlandse titels en behaalden internationale...",
       "changes": [
         {
@@ -7440,7 +7806,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "ab6305bb7febda47dcb3546f459d7c39009b2fd112bed6b958af61f9d53bff1c",
-      "content_checked": "2026-11-24T03:32:30+00:00",
+      "content_checked": "2026-11-24T10:02:30+00:00",
       "kw_sig": "4f53cda18c2b|ab6305bb7febda47dcb3546f459d7c39009b2fd112bed6b958af61f9d53bff1c|Bijlage 2. AVA Bijlage 1 260528 concept verslag AVA|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)"
     },
     "8445a476ef8534d7d49466b621338dee6bbf160240f09dab800af5c697d05182": {
@@ -7470,7 +7836,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "cbd93addd643c9142306db30718c8b96432011c39cdc9ccff7bc294d1b9c9634",
-      "content_checked": "2026-11-24T03:32:31+00:00",
+      "content_checked": "2026-11-24T10:02:30+00:00",
       "kw_sig": "4f53cda18c2b|cbd93addd643c9142306db30718c8b96432011c39cdc9ccff7bc294d1b9c9634|Bijlage 3. AVA Bijlage 2 261026 Voordracht commissaris C|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)"
     },
     "335cb1adefa00c85d7f1e402ff6825957c992cbcbdaf4471425f51d5cc0c1ee2": {
@@ -7500,7 +7866,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "0d549c334378bb9424076e45a4d6faa51ef9eb96b834a2288619677f0a3e9b67",
-      "content_checked": "2026-11-24T03:32:31+00:00",
+      "content_checked": "2026-11-24T10:02:31+00:00",
       "kw_sig": "4f53cda18c2b|0d549c334378bb9424076e45a4d6faa51ef9eb96b834a2288619677f0a3e9b67|Bijlage 4. OGO Agenda 19 november 2026|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)"
     },
     "cae3bf175aac9481e3618ae33e9a0244e40c3ecf79134aa1da31264811759c11": {
@@ -7530,7 +7896,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "43a3f6f3e9477a9b793d14b12a7604fc2875a0d20fe54800201669f47ec0a21c",
-      "content_checked": "2026-11-24T03:32:32+00:00",
+      "content_checked": "2026-11-24T10:02:31+00:00",
       "kw_sig": "4f53cda18c2b|43a3f6f3e9477a9b793d14b12a7604fc2875a0d20fe54800201669f47ec0a21c|Bijlage 5. OGO Bijlage 1 - 20260528 Concept Verslag Opdrachtgeversoverleg (OGO)|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)"
     },
     "0e16ecc3be8a2fc57974a0d08dcdc2237e3a6311b4b9a7293b473f03560ba600": {
@@ -7560,7 +7926,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "57cfeccdda4e4827782867e057e406c17afe24bad522711adf3e0904bd541e1d",
-      "content_checked": "2026-11-24T03:32:34+00:00",
+      "content_checked": "2026-11-24T10:02:34+00:00",
       "kw_sig": "4f53cda18c2b|57cfeccdda4e4827782867e057e406c17afe24bad522711adf3e0904bd541e1d|Bijlage 6. OGO Bijlage 2 - 260908 Halfjaarrapportage ONHN 2026 def|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)"
     },
     "c263693f4074c9b3f12f36c89310991181e6b36b443bf8aece210021b1d54b34": {
@@ -7590,7 +7956,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "eee9ef1782d384df4d1fd578ebb7e0e45e028a0c7fcfffbba9b18ac3944e93cc",
-      "content_checked": "2026-11-24T03:32:35+00:00",
+      "content_checked": "2026-11-24T10:02:35+00:00",
       "kw_sig": "4f53cda18c2b|eee9ef1782d384df4d1fd578ebb7e0e45e028a0c7fcfffbba9b18ac3944e93cc|Bijlage 7. OGO Bijlage 3a - 260917 Exploitatiebegroting 2027 ONHN v2|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)"
     },
     "35774b872522c265ac0b82fdca7eb327a5fe39efbd2a2d81543c06020f3bd7ab": {
@@ -7620,7 +7986,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "a25326465747a92dba0e445d9e796cb0b5b67de79f789425d1175becf5376f95",
-      "content_checked": "2026-11-24T03:32:36+00:00",
+      "content_checked": "2026-11-24T10:02:35+00:00",
       "kw_sig": "4f53cda18c2b|a25326465747a92dba0e445d9e796cb0b5b67de79f789425d1175becf5376f95|Bijlage 8. OGO Bijlage 3b - Advies BOE over begroting ONHN 2027|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)"
     },
     "89b9f88f6a9db7f6305a517a5ac305531c62fb87a085bd14cecffbb3b0c9e205": {
@@ -7650,7 +8016,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "69f72b26747c57e25f2d78e586fde08b180eaf212e7f13b98475f0704af74b9d",
-      "content_checked": "2026-11-24T03:32:37+00:00",
+      "content_checked": "2026-11-24T10:02:35+00:00",
       "kw_sig": "4f53cda18c2b|69f72b26747c57e25f2d78e586fde08b180eaf212e7f13b98475f0704af74b9d|Bijlage 9. OGO Bijlage 4 -261020 Overzicht Plusopdrachten 2026 tbv OGO|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)"
     },
     "fd550e737066cb1d60cbfc1e760015adcbb0102731f62d02a5eb570211e2c0b6": {
@@ -7680,7 +8046,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "6701d180904e5a754c2e4d90241fbbd8290c4f2bec95763e876596957a869dbf",
-      "content_checked": "2026-11-24T03:32:38+00:00",
+      "content_checked": "2026-11-24T10:02:36+00:00",
       "kw_sig": "4f53cda18c2b|6701d180904e5a754c2e4d90241fbbd8290c4f2bec95763e876596957a869dbf|Bijlage 10. OGO Bijlage 5 - 260916 Overzicht Plusopdrachten 2027 tbv OGO|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)"
     },
     "68199430503308ad85d923f6050964b6170a29438f66a356f31e916362473735": {
@@ -7710,7 +8076,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "42b18af990ca4b34a80af507e3088be5232b948e106aa528a2d4b74aab9418e6",
-      "content_checked": "2026-11-24T03:32:38+00:00",
+      "content_checked": "2026-11-24T10:02:36+00:00",
       "kw_sig": "4f53cda18c2b|42b18af990ca4b34a80af507e3088be5232b948e106aa528a2d4b74aab9418e6|Bijlage 11. OGO Bijlage 6 - Oplegnotitie OGO Actieagenda MKB Dienstverlening|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)"
     },
     "ee63e19a8e2878f86ec4d59a9a1a679cb9a6f37fd1a3a2163ef5793510818739": {
@@ -7740,7 +8106,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "2e67c415d5bffed103ce57973c4eb39522ce8e30eac4b76b39660f9bc41ce08c",
-      "content_checked": "2026-11-24T03:32:39+00:00",
+      "content_checked": "2026-11-24T10:02:44+00:00",
       "kw_sig": "4f53cda18c2b|2e67c415d5bffed103ce57973c4eb39522ce8e30eac4b76b39660f9bc41ce08c|Bijlage 12. OGO Bijlage 7 - Regionale Actieagenda versie 0.9|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)"
     },
     "d4448b4f951248e4a6a1b71195a08019196e2d2ff5209a0e785fcc0a3fc4bf4e": {
@@ -7770,7 +8136,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)",
       "missing_count": 0,
       "text_hash": "1832a83b3b39e0d5c22ccb27838441573f2c00e7c3533b9c9eac19c3d55035a9",
-      "content_checked": "2026-11-24T03:32:41+00:00",
+      "content_checked": "2026-11-24T10:02:44+00:00",
       "kw_sig": "4f53cda18c2b|1832a83b3b39e0d5c22ccb27838441573f2c00e7c3533b9c9eac19c3d55035a9|Bijlage 13. OGO Bijlage 8 - Update Actieagenda najaar 2026|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 2.3 Aandeelhoudersvergadering (AVA) en Opdrachtgeversoverleg Ontwikkelingsbedrijf Noord-Holland Noord d.d. 19 november 2026 (Marco Wiesehahn-Vrijman)"
     },
     "2fa04c59642104f7f39c1d6eacb4d0cd4578790d16c12e81d3e82a7d0de7e5d2": {
@@ -7800,7 +8166,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 3.1 Beantwoording raadsvragen van BAS over Parkeerproblematiek Daalmeer (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "60ae04401a775938da49fac1c4c33570352f829b5c51b29cbc9411a8cc3e72ea",
-      "content_checked": "2026-11-24T03:32:44+00:00",
+      "content_checked": "2026-11-24T10:02:45+00:00",
       "kw_sig": "4f53cda18c2b|60ae04401a775938da49fac1c4c33570352f829b5c51b29cbc9411a8cc3e72ea|GT Beantwoording raadsvragen BAS Parkeerproblematiek Daalmeer|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 3.1 Beantwoording raadsvragen van BAS over Parkeerproblematiek Daalmeer (Marius Wiegman)"
     },
     "f438d4c1d4bc32ac66dc126bdf9c6b5626ae55b6a4dfd4b4d1803639526545ee": {
@@ -7830,7 +8196,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 3.1 Beantwoording raadsvragen van BAS over Parkeerproblematiek Daalmeer (Marius Wiegman)",
       "missing_count": 0,
       "text_hash": "d17f32f652ad4eb0e35a8381e993d6889ad2327d874baaff74515e6c34a7fc23",
-      "content_checked": "2026-11-24T03:32:44+00:00",
+      "content_checked": "2026-11-24T10:02:45+00:00",
       "kw_sig": "4f53cda18c2b|d17f32f652ad4eb0e35a8381e993d6889ad2327d874baaff74515e6c34a7fc23|Art. 42 - BAS - Parkeerproblematiek Daalmeer|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 3.1 Beantwoording raadsvragen van BAS over Parkeerproblematiek Daalmeer (Marius Wiegman)"
     },
     "bb82a6b383b895772c8430215a87a434bb2c6ff3f99e81c02c8260742120aae5": {
@@ -7860,7 +8226,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 3.2 Raadsinformatiebrief Voortgangsbrief dorpsagenda's",
       "missing_count": 0,
       "text_hash": "9e90cf2792f17d45d69ea520157ed7b466fd2da59a9166509721377071fe55ba",
-      "content_checked": "2026-11-24T03:32:45+00:00",
+      "content_checked": "2026-11-24T10:02:45+00:00",
       "kw_sig": "4f53cda18c2b|9e90cf2792f17d45d69ea520157ed7b466fd2da59a9166509721377071fe55ba|Raadsinformatiebrief Voortgangsbrief Dorpsagenda’s|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 3.2 Raadsinformatiebrief Voortgangsbrief dorpsagenda's"
     },
     "972ea7cc5f3525155ec99b3e36b3cdb0b559f681a1dea2588771a24a98bc6393": {
@@ -7890,7 +8256,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 3.3 Tussenbericht Beantwoording raadsvragen van CDA/PRO over Rekerhout: repressie en preventie in balans (Robert te Beest)",
       "missing_count": 0,
       "text_hash": "453675c11c5366af06ad8ad7726117ddaabf0adbc51feeaa3a30bed7625f4586",
-      "content_checked": "2026-11-24T03:32:45+00:00",
+      "content_checked": "2026-11-24T10:02:46+00:00",
       "kw_sig": "4f53cda18c2b|453675c11c5366af06ad8ad7726117ddaabf0adbc51feeaa3a30bed7625f4586|Tussenbericht Beantwoording raadsvragen van CDA PRO over Rekerhout: repressie en preventie|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 3.3 Tussenbericht Beantwoording raadsvragen van CDA/PRO over Rekerhout: repressie en preventie in balans (Robert te Beest)"
     },
     "98cfb92c279ad6205352f63d2490eef4dc47bb0b5c7e0f0591e80c171e128a1f": {
@@ -7920,7 +8286,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 3.3 Tussenbericht Beantwoording raadsvragen van CDA/PRO over Rekerhout: repressie en preventie in balans (Robert te Beest)",
       "missing_count": 0,
       "text_hash": "add5b50b6fa5b72c40af83b3d132f79af9330b6d40df0f2978c45bd16a1cf4fa",
-      "content_checked": "2026-11-24T03:32:47+00:00",
+      "content_checked": "2026-11-24T10:02:46+00:00",
       "kw_sig": "4f53cda18c2b|add5b50b6fa5b72c40af83b3d132f79af9330b6d40df0f2978c45bd16a1cf4fa|Art. 42 - CDA PRO - Rekerhout - repressie en preventie in balans|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 3.3 Tussenbericht Beantwoording raadsvragen van CDA/PRO over Rekerhout: repressie en preventie in balans (Robert te Beest)"
     },
     "4f8abd5865f27fcd5ac16dc4495b618a5790de2cf481ece0c82fb7fcff3a8e6c": {
@@ -7950,7 +8316,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 3.4 Raadsinformatiebrief Terugblik Europese week van de regio’s en steden",
       "missing_count": 0,
       "text_hash": "1301a69b83983ca77839fcde04f9984ae8f441904d0a1b892231fc74d0a633fb",
-      "content_checked": "2026-11-24T03:32:48+00:00",
+      "content_checked": "2026-11-24T10:02:46+00:00",
       "kw_sig": "4f53cda18c2b|1301a69b83983ca77839fcde04f9984ae8f441904d0a1b892231fc74d0a633fb|Raadsinformatiebrief Terugblik Europese week van de regio’s en steden|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 3.4 Raadsinformatiebrief Terugblik Europese week van de regio’s en steden"
     },
     "4b24fbcee47913ea1c437badfe2ea3902b1476b87d9cf4f16a60c4377006532d": {
@@ -7980,7 +8346,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 4.1 Raadsinformatiebrief Planning actualisatie Gezondheidsbeleid Alkmaar 2027–2031",
       "missing_count": 0,
       "text_hash": "2d088e2dacf35b37cdd6a9ee20eec686d18df6ce69845bf270f3be7b1f6ff4e2",
-      "content_checked": "2026-11-24T03:32:49+00:00",
+      "content_checked": "2026-11-24T10:02:47+00:00",
       "kw_sig": "4f53cda18c2b|2d088e2dacf35b37cdd6a9ee20eec686d18df6ce69845bf270f3be7b1f6ff4e2|Raadsinformatiebrief Planning actualisatie gezondheidsbeleid 2027-2031|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 4.1 Raadsinformatiebrief Planning actualisatie Gezondheidsbeleid Alkmaar 2027–2031"
     },
     "58633189fb801b521f1a27a0a6eb0cdc6a0fb55eb74dca84ad5a61ceae031a18": {
@@ -8010,7 +8376,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 4.2 Raadsinformatiebrief Uitgebreide Wabo procedure De Rederijker - aangepast raadsvoorstel",
       "missing_count": 0,
       "text_hash": "14b2d9700d0924ed5f584fa8dd5cd85c6d55374bff053d319c843268d9bb2562",
-      "content_checked": "2026-11-24T03:32:49+00:00",
+      "content_checked": "2026-11-24T10:02:47+00:00",
       "kw_sig": "4f53cda18c2b|14b2d9700d0924ed5f584fa8dd5cd85c6d55374bff053d319c843268d9bb2562|Raadsinformatiebrief Uitgebreide Wabo procedure De Rederijker - aangepast raadsvoorstel|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 4.2 Raadsinformatiebrief Uitgebreide Wabo procedure De Rederijker - aangepast raadsvoorstel"
     },
     "ba3fe62417647437af99416da1f8f19bee93e53c32fe3703bb39658ec5f22387": {
@@ -8040,7 +8406,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 4.2 Raadsinformatiebrief Uitgebreide Wabo procedure De Rederijker - aangepast raadsvoorstel",
       "missing_count": 0,
       "text_hash": "66c79846ba02fd14e6413616e419bec80ef7384674ab1eefe42bba0916e95e63",
-      "content_checked": "2026-11-24T03:32:49+00:00",
+      "content_checked": "2026-11-24T10:02:48+00:00",
       "kw_sig": "4f53cda18c2b|66c79846ba02fd14e6413616e419bec80ef7384674ab1eefe42bba0916e95e63|Bijlage 1. GT Raadsvoorstel Uitgebreide Wabo procedure De Rederijker - aangepast|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 4.2 Raadsinformatiebrief Uitgebreide Wabo procedure De Rederijker - aangepast raadsvoorstel"
     },
     "a98bd9fe5c74470fa446b110a2e0f292748862638ac874c6087a8135486ff1a2": {
@@ -8070,7 +8436,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 4.3 Raadsinformatiebrief Voorbereidingen jaarwisseling 2026–2027",
       "missing_count": 0,
       "text_hash": "0e7853ca2be68ff8140f25b05e859a122ca0232cb5296ad5a720a275a8530d5b",
-      "content_checked": "2026-11-24T03:32:50+00:00",
+      "content_checked": "2026-11-24T10:02:50+00:00",
       "kw_sig": "4f53cda18c2b|0e7853ca2be68ff8140f25b05e859a122ca0232cb5296ad5a720a275a8530d5b|Raadsinformatiebrief Voorbereidingen jaarwisseling 2026-2027|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 4.3 Raadsinformatiebrief Voorbereidingen jaarwisseling 2026–2027"
     },
     "b808c2ac9ca2efd7423b21034a2ed365ba81a13fe5f58be1d9160f2c65389e2b": {
@@ -8100,7 +8466,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 4.4 Raadsinformatiebrief - Tijdelijk cameratoezicht Lorreinenlaan",
       "missing_count": 0,
       "text_hash": "7530e5631368ba51f6eda6cec9e1d73d1c0839a8ded0972e41837fb955738288",
-      "content_checked": "2026-11-24T03:32:50+00:00",
+      "content_checked": "2026-11-24T10:02:51+00:00",
       "kw_sig": "4f53cda18c2b|7530e5631368ba51f6eda6cec9e1d73d1c0839a8ded0972e41837fb955738288|Raadsinformatiebrief Cameratoezicht Lorreinenlaan|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 4.4 Raadsinformatiebrief - Tijdelijk cameratoezicht Lorreinenlaan"
     },
     "e07a8a0fc786336407c5408ba56290bd647d0296c9fd8768c9c6da137648216d": {
@@ -8130,7 +8496,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland van 10 november 2026",
       "missing_count": 0,
       "text_hash": "99dcd1655b3bd708510c9f6515397f5379e07c55350c9e99cff615dbb40ab4b3",
-      "content_checked": "2026-11-24T03:32:51+00:00",
+      "content_checked": "2026-11-24T10:02:51+00:00",
       "kw_sig": "4f53cda18c2b|99dcd1655b3bd708510c9f6515397f5379e07c55350c9e99cff615dbb40ab4b3|GS-besluitenlijst 10 november 2026|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland van 10 november 2026"
     },
     "bf11511b0315ec1c97d4b26cefe1dd5d048365ce2df62b249414989522512975": {
@@ -8160,7 +8526,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.2.1 Besluit 1: Vaststellen concept Omgevingsvisie NH met bijbehorende concept Nota van Beantwoording",
       "missing_count": 0,
       "text_hash": "efdf9cae40a448dd1e384cb384952d4da506f506594054a4ee5330e049be73d4",
-      "content_checked": "2026-11-24T03:32:52+00:00",
+      "content_checked": "2026-11-24T10:02:52+00:00",
       "kw_sig": "4f53cda18c2b|efdf9cae40a448dd1e384cb384952d4da506f506594054a4ee5330e049be73d4|Concept Nota van Beantwoording (NvB) Omgevingsvisie Noord-Holland|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.2.1 Besluit 1: Vaststellen concept Omgevingsvisie NH met bijbehorende concept Nota van Beantwoording"
     },
     "5ff7bbcbc5d9966e8554809ad384781e79474f3da420a4bbcb5dc92d833ac77e": {
@@ -8190,7 +8556,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.2.1 Besluit 1: Vaststellen concept Omgevingsvisie NH met bijbehorende concept Nota van Beantwoording",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"Omgevingseffectrapportage Omgevingsvisie Noord-Holland.pdf\"; filename*=UTF-8''Omgevingseffectrapportage%20Omgevingsvisie%20Noord-Holland.pdf|9febf6851aad1836f85f1483721e5b9ac0155fb945d08d2915d0e8339ade5890",
-      "content_checked": "2026-11-24T03:32:53+00:00",
+      "content_checked": "2026-11-24T10:02:58+00:00",
       "kw_sig": "4f53cda18c2b||Omgevingseffectrapportage Omgevingsvisie Noord-Holland|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.2.1 Besluit 1: Vaststellen concept Omgevingsvisie NH met bijbehorende concept Nota van Beantwoording"
     },
     "4c4e479876d9ff0c3ec115c062f8f300b0de88a9544ed00df9edf7998609d498": {
@@ -8220,7 +8586,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.2.1 Besluit 1: Vaststellen concept Omgevingsvisie NH met bijbehorende concept Nota van Beantwoording",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"1a. Concept Omgevingsvisie Noord-Holland november 2026-pages-1.pdf\"; filename*=UTF-8''1a.%20Concept%20Omgevingsvisie%20Noord-Holland%20november%202026-pages-1.pdf|c79b150bd9622290bd70fa9b909ab6ed1dd7948bb30cdeeffa6c3b284e266d17",
-      "content_checked": "2026-11-24T03:32:55+00:00",
+      "content_checked": "2026-11-24T10:03:00+00:00",
       "kw_sig": "4f53cda18c2b||1a. Concept Omgevingsvisie Noord-Holland november 2026-pages-1|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.2.1 Besluit 1: Vaststellen concept Omgevingsvisie NH met bijbehorende concept Nota van Beantwoording"
     },
     "e48208e8d9ecb8124008d5e86cba829aebff37cfdf3a935762b4af044beb4223": {
@@ -8250,7 +8616,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.2.1 Besluit 1: Vaststellen concept Omgevingsvisie NH met bijbehorende concept Nota van Beantwoording",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"1b. Concept Omgevingsvisie Noord-Holland november 2026-pages-2.pdf\"; filename*=UTF-8''1b.%20Concept%20Omgevingsvisie%20Noord-Holland%20november%202026-pages-2.pdf|5f72c301197516bfa6fab9a7fd9bf4f97d327423d54c812b3462cb75523ff4ba",
-      "content_checked": "2026-11-24T04:02:09+00:00",
+      "content_checked": "2026-11-24T10:03:02+00:00",
       "kw_sig": "4f53cda18c2b||1b. Concept Omgevingsvisie Noord-Holland november 2026-pages-2|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.2.1 Besluit 1: Vaststellen concept Omgevingsvisie NH met bijbehorende concept Nota van Beantwoording"
     },
     "4f79e1b72dd50d82e0972c3e14abfac9786e91eaff79a98adcc9ff29ed4baaa4": {
@@ -8280,7 +8646,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.2.1 Besluit 1: Vaststellen concept Omgevingsvisie NH met bijbehorende concept Nota van Beantwoording",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"1c. Concept Omgevingsvisie Noord-Holland november 2026-pages-3.pdf\"; filename*=UTF-8''1c.%20Concept%20Omgevingsvisie%20Noord-Holland%20november%202026-pages-3.pdf|bd02a88bc4998c1135dc0d07db99eebfb395753ccf7388ce7e6d03b00ee94b06",
-      "content_checked": "2026-11-24T04:02:10+00:00",
+      "content_checked": "2026-11-24T10:03:04+00:00",
       "kw_sig": "4f53cda18c2b||1c. Concept Omgevingsvisie Noord-Holland november 2026-pages-3|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.2.1 Besluit 1: Vaststellen concept Omgevingsvisie NH met bijbehorende concept Nota van Beantwoording"
     },
     "d2ffe2784b8726fc6d04d265fb3f676f06dd4571760b36eb976278d5903193ab": {
@@ -8310,7 +8676,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.2.1 Besluit 1: Vaststellen concept Omgevingsvisie NH met bijbehorende concept Nota van Beantwoording",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"1d. Concept Omgevingsvisie Noord-Holland november 2026-pages-4.pdf\"; filename*=UTF-8''1d.%20Concept%20Omgevingsvisie%20Noord-Holland%20november%202026-pages-4.pdf|d696ae805f69590d23b5e497bb37a5dd9c818ad787dcc0996cbb91a1afd533a5",
-      "content_checked": "2026-11-24T04:02:12+00:00",
+      "content_checked": "2026-11-24T10:03:06+00:00",
       "kw_sig": "4f53cda18c2b||1d. Concept Omgevingsvisie Noord-Holland november 2026-pages-4|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.2.1 Besluit 1: Vaststellen concept Omgevingsvisie NH met bijbehorende concept Nota van Beantwoording"
     },
     "7eddcea5ecbbec1faa1b8983fac2eae3101d433e1a6e48edecad8a72af20ef41": {
@@ -8340,7 +8706,7 @@
       "excerpt": "B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.3 VNG Lobbymemo",
       "missing_count": 0,
       "text_hash": "69ff365f98b86f149e148d6de965e1b4f0c23952cd4f9021bf7336dc6d5b1b4e",
-      "content_checked": "2026-11-24T04:02:14+00:00",
+      "content_checked": "2026-11-24T10:03:07+00:00",
       "kw_sig": "4f53cda18c2b|69ff365f98b86f149e148d6de965e1b4f0c23952cd4f9021bf7336dc6d5b1b4e|VNG Lobbymemo|B&W Openbare besluiten college dinsdag 17 november 2026 · agendapunt 5.3 VNG Lobbymemo"
     },
     "d9c6ead2e600015dcd981dd95e3877d090c9944f63db2c8de281589f9f25964e": {
@@ -12414,7 +12780,7 @@
       "excerpt": "B&W Agenda dinsdag 17 november 2026 · agendapunt 1 Agenda Collegevergadering van 17 november 2026",
       "missing_count": 0,
       "text_hash": "df4d2deb9e14c755ef41e140f89cbbcd12cefcec9c0313df38a1b1b789b374f4",
-      "content_checked": "2026-11-24T04:02:15+00:00",
+      "content_checked": "2026-11-24T10:03:08+00:00",
       "kw_sig": "4f53cda18c2b|df4d2deb9e14c755ef41e140f89cbbcd12cefcec9c0313df38a1b1b789b374f4|Agenda Collegevergadering van 17 november 2026|B&W Agenda dinsdag 17 november 2026 · agendapunt 1 Agenda Collegevergadering van 17 november 2026"
     },
     "28df39f985d46bb21889dc333e13d8499a9e41c6f8fe10e9979fd1e2f741ff2b": {
@@ -180578,7 +180944,7 @@
       "excerpt": "B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 1 Reactie op rapport Colliers inzake grondwaarde erfpacht (Tineke Bouchier)",
       "missing_count": 0,
       "file_hash": "groot|attachment; filename=\"Bijlage 1. Advies Colliers Valuations.pdf\"; filename*=UTF-8''Bijlage%201.%20Advies%20Colliers%20Valuations.pdf|3b77a25c17ff8f9de12ce3cf46f908840dca1ab07b8d028bfeb8d986c0f478c8",
-      "content_checked": "2026-11-23T09:32:13+00:00",
+      "content_checked": "2026-11-24T10:02:23+00:00",
       "kw_sig": "4f53cda18c2b||Bijlage 1. Advies Colliers Valuations|B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 1 Reactie op rapport Colliers inzake grondwaarde erfpacht (Tineke Bouchier)"
     },
     "a7e6f59d961b4b77c061a94648f458ec005e9cd89bfee534c567bafb8aeab529": {
@@ -180608,7 +180974,7 @@
       "excerpt": "B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 1 Reactie op rapport Colliers inzake grondwaarde erfpacht (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "f77010ce1cdb4c718f8a5fcfc3c434903777125274cf0bdb486b53bab04990b3",
-      "content_checked": "2026-11-23T09:32:14+00:00",
+      "content_checked": "2026-11-24T10:02:23+00:00",
       "kw_sig": "4f53cda18c2b|f77010ce1cdb4c718f8a5fcfc3c434903777125274cf0bdb486b53bab04990b3|Bijlage 2. Uitleg residuele grondwaarde|B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 1 Reactie op rapport Colliers inzake grondwaarde erfpacht (Tineke Bouchier)"
     },
     "5cc8addf7e92dfa261dc5aa8a2a67b00f1fde725a0e845dd470ba8e93c2eb6ad": {
@@ -180638,7 +181004,7 @@
       "excerpt": "B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 1 Reactie op rapport Colliers inzake grondwaarde erfpacht (Tineke Bouchier)",
       "missing_count": 0,
       "text_hash": "cd6d9425539d49af79e714a795d34b9fbd8acf56bced195f2a78226f3d5e8d15",
-      "content_checked": "2026-11-23T09:32:17+00:00",
+      "content_checked": "2026-11-24T10:02:25+00:00",
       "kw_sig": "4f53cda18c2b|cd6d9425539d49af79e714a795d34b9fbd8acf56bced195f2a78226f3d5e8d15|Bijlage 3. Rapport KRK Advies erfpacht Alkmaar mbt Colliers rapport dd 2 okt 2026|B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 1 Reactie op rapport Colliers inzake grondwaarde erfpacht (Tineke Bouchier)"
     },
     "e0030f9360987d3e1e4aa6679b128045361d004e2c30f537f9a27e963c7cb42a": {
@@ -180668,7 +181034,7 @@
       "excerpt": "B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 2 Vervolg beantwoording raadsvragen van LA over Vervroegde canonherziening erfpacht",
       "missing_count": 0,
       "text_hash": "871578dc2cf956c17c1eae78f2d0f7e0469cf93a64d6f7ca2d5fb428896c8031",
-      "content_checked": "2026-11-23T09:32:18+00:00",
+      "content_checked": "2026-11-24T10:02:26+00:00",
       "kw_sig": "4f53cda18c2b|871578dc2cf956c17c1eae78f2d0f7e0469cf93a64d6f7ca2d5fb428896c8031|GT Vervolg beantwoording raadsvragen van LA - over vervroegde canonherziening|B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 2 Vervolg beantwoording raadsvragen van LA over Vervroegde canonherziening erfpacht"
     },
     "e0d252b30520df25917d666d8fb1a82daaade3fef97afe449131d296a7e41906": {
@@ -180698,7 +181064,7 @@
       "excerpt": "B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 2 Vervolg beantwoording raadsvragen van LA over Vervroegde canonherziening erfpacht",
       "missing_count": 0,
       "text_hash": "f77010ce1cdb4c718f8a5fcfc3c434903777125274cf0bdb486b53bab04990b3",
-      "content_checked": "2026-11-23T09:32:19+00:00",
+      "content_checked": "2026-11-24T10:02:27+00:00",
       "kw_sig": "4f53cda18c2b|f77010ce1cdb4c718f8a5fcfc3c434903777125274cf0bdb486b53bab04990b3|Toelichting residuele grondwaarde|B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 2 Vervolg beantwoording raadsvragen van LA over Vervroegde canonherziening erfpacht"
     },
     "832009b61e14271bb4f490a76373132ea8160c49e7414f9093008b13296fb427": {
@@ -180728,7 +181094,7 @@
       "excerpt": "B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 2 Vervolg beantwoording raadsvragen van LA over Vervroegde canonherziening erfpacht",
       "missing_count": 0,
       "text_hash": "0d0fb0ef649c3d9bf0348d1b68629ae350ed7b0e36d5d5f055905ca6ffe74235",
-      "content_checked": "2026-11-23T09:32:20+00:00",
+      "content_checked": "2026-11-24T10:02:27+00:00",
       "kw_sig": "4f53cda18c2b|0d0fb0ef649c3d9bf0348d1b68629ae350ed7b0e36d5d5f055905ca6ffe74235|260909 Art. 42 - LA - Inzake vervroegde canonherziening erfpacht|B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 2 Vervolg beantwoording raadsvragen van LA over Vervroegde canonherziening erfpacht"
     },
     "321461a89df3ab72cdc33bb9dfed9b8ee184d8da14601f521bd107fa6613dcdd": {
@@ -180758,7 +181124,7 @@
       "excerpt": "B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 3 Vervolg beantwoording raadsvragen van LA over Onderbouwing voor grondwaarde 600 euro per m2 bij erfpacht",
       "missing_count": 0,
       "text_hash": "341ce4d129bf64fc98b288f7324dea7a081e3abf6c3a801f58d17be9888cbc60",
-      "content_checked": "2026-11-23T09:32:22+00:00",
+      "content_checked": "2026-11-24T10:02:28+00:00",
       "kw_sig": "4f53cda18c2b|341ce4d129bf64fc98b288f7324dea7a081e3abf6c3a801f58d17be9888cbc60|GT Vervolg beantwoording raadsvragen LA Onderbouwing grondwaarde 600 euro per m2|B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 3 Vervolg beantwoording raadsvragen van LA over Onderbouwing voor grondwaarde 600 euro per m2 bij erfpacht"
     },
     "40fdcf78b82f7e68bbe5e5711cd195d0eb6051406fbfb76800d9140326afde0a": {
@@ -180788,7 +181154,7 @@
       "excerpt": "B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 3 Vervolg beantwoording raadsvragen van LA over Onderbouwing voor grondwaarde 600 euro per m2 bij erfpacht",
       "missing_count": 0,
       "text_hash": "f77010ce1cdb4c718f8a5fcfc3c434903777125274cf0bdb486b53bab04990b3",
-      "content_checked": "2026-11-23T09:32:23+00:00",
+      "content_checked": "2026-11-24T10:02:28+00:00",
       "kw_sig": "4f53cda18c2b|f77010ce1cdb4c718f8a5fcfc3c434903777125274cf0bdb486b53bab04990b3|Toelichting residuele grondwaarde|B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 3 Vervolg beantwoording raadsvragen van LA over Onderbouwing voor grondwaarde 600 euro per m2 bij erfpacht"
     },
     "0f6de3c9fc185077dae83251d22eb6300be3a88216b52dbc7be9589098b5152b": {
@@ -180818,7 +181184,7 @@
       "excerpt": "B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 3 Vervolg beantwoording raadsvragen van LA over Onderbouwing voor grondwaarde 600 euro per m2 bij erfpacht",
       "missing_count": 0,
       "text_hash": "4556034e2e0c45ddb8f768ca69e3d05dcc3d0368d25756b6e01bdda7e67bffb2",
-      "content_checked": "2026-11-23T09:32:24+00:00",
+      "content_checked": "2026-11-24T10:02:29+00:00",
       "kw_sig": "4f53cda18c2b|4556034e2e0c45ddb8f768ca69e3d05dcc3d0368d25756b6e01bdda7e67bffb2|Art. 42 - LA - Onderbouwing voor grondwaarde €600 per m2 bij erfpacht gevraagd|B&W Openbare besluiten college woensdag 7 oktober 2026 · agendapunt 3 Vervolg beantwoording raadsvragen van LA over Onderbouwing voor grondwaarde 600 euro per m2 bij erfpacht"
     },
     "40649016da72c01c3e8ab8bb112d8788c9eeabf9ae4d1ca57b9959a5adf82122": {
@@ -207834,14 +208200,14 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-24T09:30:45+00:00",
+        "checked": "2026-11-24T10:00:49+00:00",
         "ok": true,
-        "count": 424,
-        "new": 0,
-        "note": "Laatste 30 dagen: 424 van 424 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
+        "count": 435,
+        "new": 11,
+        "note": "Laatste 30 dagen: 435 van 435 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-24T09:31:04+00:00",
+        "checked": "2026-11-24T10:01:05+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
@@ -207849,7 +208215,7 @@
         "note": "10 van 15 vergaderingen in venster bijgewerkt; 820 documenten bekend. Dekking: vergaderingen van 2026-09-25 t/m 2027-01-08 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-24T09:31:06+00:00",
+        "checked": "2026-11-24T10:01:05+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -207857,38 +208223,38 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-24T09:31:07+00:00",
+        "checked": "2026-11-24T10:01:06+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-24T09:32:07+00:00",
+        "checked": "2026-11-24T10:02:06+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-24T09:32:07+00:00",
+        "checked": "2026-11-24T10:02:06+00:00",
         "ok": true,
         "note": "Google Nieuws even overgeslagen (te veel verzoeken); straks weer."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-24T09:32:07+00:00",
+        "checked": "2026-11-24T10:03:09+00:00",
         "ok": true,
-        "count": 0,
+        "count": 42,
         "errors": 0,
-        "note": "0 documenten gecontroleerd (0 pdf), 650 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "42 documenten gecontroleerd (35 pdf), 650 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
       },
       "Trefwoorden": {
-        "checked": "2026-11-24T09:32:07+00:00",
+        "checked": "2026-11-24T10:03:09+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-24T09:32:07+00:00",
+        "checked": "2026-11-24T10:03:09+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -207904,7 +208270,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-24T09:30:45+00:00",
+        "checked": "2026-11-24T10:00:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -207912,7 +208278,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-24T09:30:45+00:00",
+        "checked": "2026-11-24T10:00:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -207920,7 +208286,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-24T09:30:45+00:00",
+        "checked": "2026-11-24T10:00:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -208171,7 +208537,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "66f82c03-7aee-49c8-9507-5db1639e8cea": {
-        "checked": "2026-11-24T09:30:45+00:00",
+        "checked": "2026-11-24T10:00:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-07",
@@ -208179,7 +208545,7 @@
         "documents": 18
       },
       "dcc6411b-600b-4103-9480-0c96305035a4": {
-        "checked": "2026-11-24T09:30:45+00:00",
+        "checked": "2026-11-24T10:00:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-06",
@@ -208187,7 +208553,7 @@
         "documents": 67
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-11-24T09:00:55+00:00",
+        "checked": "2026-11-24T10:00:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -208466,7 +208832,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-11-24T09:00:55+00:00",
+        "checked": "2026-11-24T10:00:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -208474,7 +208840,7 @@
         "documents": 71
       },
       "76d0f4f5-e1b7-4995-b9f2-74d91963993a": {
-        "checked": "2026-11-24T09:00:55+00:00",
+        "checked": "2026-11-24T10:00:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-27",
@@ -208490,7 +208856,7 @@
         "documents": 64
       },
       "42f2dcbc-b02c-4292-98ff-133fe6c4b5a7": {
-        "checked": "2026-11-24T09:00:55+00:00",
+        "checked": "2026-11-24T10:00:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-03",
@@ -208498,7 +208864,7 @@
         "documents": 1
       },
       "b5f85388-de26-4e67-be6a-3bda136604ae": {
-        "checked": "2026-11-24T09:00:55+00:00",
+        "checked": "2026-11-24T10:00:49+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-03",
@@ -208539,7 +208905,7 @@
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-24T09:30:48+00:00"
+      "alkmaar": "2026-11-24T10:00:51+00:00"
     },
     "reports": {
       "alkmaar": {
