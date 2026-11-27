@@ -3,6 +3,2123 @@
     "alkmaar"
   ],
   "items": {
+    "9ab74809beecda727ef4136d8281ac618244be3111bbdf51cb9d2e421cf7f392": {
+      "title": "Noosh is nieuw op het Noordeinde: ‘Onze verpakkingen vol kruiden, noten en ander lekkers zijn groter dan in de supermarkt’",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNODFwUkllM0pEd3NsVGVtcVcyQWg3Wm9tamtnTzdzcUhCMFRjSklJOE5lZ0hIa1JDQWxXZFpwbmNsZEdaeC1XcWlCSVo4WXZqTEkwT1BEd1kzVzlabzd4NTRuMkpIMjU4WUlNNW9Kd1kxSFd5c0g0b2FxbGpDN2IxN1RTOUJQTXN5cm1HMG1BSkZfVGRweUJLdFNqTzFUSjRqVk5LY1FCcXd5Qy12eVhhSk9TaFVMQXNXUVc4Z2ZWa2hyMVZUUmUzMVJmaE9fQUVHdW5XZWFxM3kxSTh0UXNPWWRZcEtwSHJvdDJZ?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:02:13+00:00",
+      "updated": "2026-11-27T11:02:13+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "AD.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-27T11:45+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Noosh is nieuw op het Noordeinde: ‘Onze verpakkingen vol kruiden, noten en ander lekkers zijn groter dan in de supermarkt’|"
+    },
+    "92d20d9c9970e3572917d0dbac5871c62e31165736135e99682da4c8bbcadd87": {
+      "title": "Na jaren wachten groen licht voor 350 woningen Stompetoren-West",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlE5WVRaa3pxQmR2LWlPcXlmbUpSV2ctbGNXMjBCWXlqLTRManVVNDFFaGxrM0lEb3M4d2I5YVVYREVoSnI3NG1EbWJiMjNfLTFBNHZjZklWRV9XTVVZUzBEWUFaVlByZ3AxLVo5RkotZHlhUGRBMmQ3bGg1eTB0YjJWYWt3UDFrLVZ2aVFZTjVlOTJqb1pyMU9JRGs1RFFyd0xj?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:02:10+00:00",
+      "updated": "2026-11-27T11:02:10+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "NH Nieuws",
+      "media_match": "kop",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-27T11:46+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Na jaren wachten groen licht voor 350 woningen Stompetoren-West|"
+    },
+    "d76e7d5b1f3c7b0858dc76ac1c4c269b6598b86d83545f19feb2a4fa787c71cb": {
+      "title": "Alkmaar aan Zee",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GWWdJX3BaLWROck1tejdrQ2xlVzZ2ZmVuUDE2MDJ0T2Q4REZUVWNDLVplS2hJa0thbDBaT204Q3VEOWoxZlN1TGM2YTBVc2NuWk9COUZmN2dLTEhsRGtOYjFyeWNBV0U3QTNTZ3NSMHhUY1dvRmJ3?oc=5",
+      "source": "In de media",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:02:10+00:00",
+      "updated": "2026-11-27T11:02:10+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "media",
+      "media_bron": "www.rodi.nl",
+      "media_match": "kop",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-27",
+      "doc_date_label": "publicatiedatum",
+      "published_at": "2026-11-27T11:39+01:00",
+      "published_at_source": "Google Nieuws",
+      "kw_sig": "4f53cda18c2b||Alkmaar aan Zee|"
+    },
+    "c5474e89140dd410f06e423e9925fa3110f545eb46a5f08f8e288027c9f6aba1": {
+      "title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Index/39bab978-e3d4-406f-86d2-60e143ad5468",
+      "source": "Raadsportaal",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "excerpt": "",
+      "kind": "vergadering",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "last_seen": "2026-11-27",
+      "kw_sig": "4f53cda18c2b||B&W Openbare besluiten college dinsdag 24 november 2026|"
+    },
+    "70e238d5ee375a9e25c8ac7117a2391e3b74efa04705eabe836fd9c3e05575ba": {
+      "title": "Besluitenlijst collegevergadering 24 november 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=ef350c72-7aae-4a7f-978e-e1d662a018bf&agendaItemId=65c6ca60-19bc-43d4-b17f-6cd478776f0a",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "1 Besluitenlijst collegevergadering 24 november"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/ef350c72-7aae-4a7f-978e-e1d662a018bf",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "1 Besluitenlijst collegevergadering 24 november",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 1 Besluitenlijst collegevergadering 24 november",
+      "missing_count": 0,
+      "text_hash": "f6d4ad5508b30bd41df36714fa6e557cb22a08eaf45f1b390fdf1e7d9203ff8c",
+      "content_checked": "2026-11-27T11:02:15+00:00",
+      "kw_sig": "4f53cda18c2b|f6d4ad5508b30bd41df36714fa6e557cb22a08eaf45f1b390fdf1e7d9203ff8c|Besluitenlijst collegevergadering 24 november 2026|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 1 Besluitenlijst collegevergadering 24 november"
+    },
+    "c48f1093efbdd2439f54030dbf395758325419d228e257a6c62d09a892e18f41": {
+      "title": "Collegevoorstel Kadernota Veiligheid 2027-2030",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=9f7efb02-60a3-4949-91fb-d6d1c555fdcd&agendaItemId=1322d440-b965-4b19-bf8c-ba64f6260f48",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/9f7efb02-60a3-4949-91fb-d6d1c555fdcd",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "missing_count": 0,
+      "text_hash": "c5ccc8f758eaa131deda93b7f2dc9a948669b66746410af9386e2ed9dc79754b",
+      "content_checked": "2026-11-27T11:02:15+00:00",
+      "kw_sig": "4f53cda18c2b|c5ccc8f758eaa131deda93b7f2dc9a948669b66746410af9386e2ed9dc79754b|Collegevoorstel Kadernota Veiligheid 2027-2030|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+    },
+    "06295e08723f6dd9cdf20aaf92911f65f6551815e5521546cad14aa9f9d969c7": {
+      "title": "GT Raadsvoorstel Kadernota Veiligheid 2027-2030",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=a284fbeb-d317-4323-818b-173475ebb888&agendaItemId=1322d440-b965-4b19-bf8c-ba64f6260f48",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/a284fbeb-d317-4323-818b-173475ebb888",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "missing_count": 0,
+      "text_hash": "26c05eb473b9b6dcc06bf9ab34130669daca10670f21d4604ff4c7ba0896b37f",
+      "content_checked": "2026-11-27T11:02:16+00:00",
+      "kw_sig": "4f53cda18c2b|26c05eb473b9b6dcc06bf9ab34130669daca10670f21d4604ff4c7ba0896b37f|GT Raadsvoorstel Kadernota Veiligheid 2027-2030|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+    },
+    "e21d8bd52bedcc07e7a7ce8a38eccb0fbae60bca03ba64dd2ce00209ece4963c": {
+      "title": "Bijlage 1. Kadernota Veiligheid 2027-2030 (def)",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=86c47760-c61c-45b4-b41c-061095ed6013&agendaItemId=1322d440-b965-4b19-bf8c-ba64f6260f48",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/86c47760-c61c-45b4-b41c-061095ed6013",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "missing_count": 0,
+      "text_hash": "7ada4fc2a132e5602aadabfb700154d4b06b8af28322a338713ae9c563474a6d",
+      "content_checked": "2026-11-27T11:02:17+00:00",
+      "kw_sig": "4f53cda18c2b|7ada4fc2a132e5602aadabfb700154d4b06b8af28322a338713ae9c563474a6d|Bijlage 1. Kadernota Veiligheid 2027-2030 (def)|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+    },
+    "e880ecdb2f3a3ebc984ddba0902b7786a4b357cc226942530f3016874a454ace": {
+      "title": "Bijlage 2. Benchmark 2025, hoe veilig is Alkmaar",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=0bca0d44-598c-491d-8c55-b46799ee064b&agendaItemId=1322d440-b965-4b19-bf8c-ba64f6260f48",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/0bca0d44-598c-491d-8c55-b46799ee064b",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "missing_count": 0,
+      "text_hash": "ff206a2ae5c14c82fd01d68227e7ef48798dd82644654590cd1b4d20e5bed47f",
+      "content_checked": "2026-11-27T11:02:18+00:00",
+      "kw_sig": "4f53cda18c2b|ff206a2ae5c14c82fd01d68227e7ef48798dd82644654590cd1b4d20e5bed47f|Bijlage 2. Benchmark 2025, hoe veilig is Alkmaar|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+    },
+    "ffc73c1481def29f99583f91c5d3842d578272ac4e84bfdf26eb033c75706daa": {
+      "title": "Bijlage 3. Ipsos IO - benchmarknotitie VM Alkmaar 2012-2025_concept",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=7c5cec22-58d8-4d25-b228-4e9dd6ecc926&agendaItemId=1322d440-b965-4b19-bf8c-ba64f6260f48",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/7c5cec22-58d8-4d25-b228-4e9dd6ecc926",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "missing_count": 0,
+      "text_hash": "2377ae6cafde1d63c56970a0ef2428babdb5a3c90b5e1a05948822e2da75a741",
+      "content_checked": "2026-11-27T11:02:19+00:00",
+      "kw_sig": "4f53cda18c2b|2377ae6cafde1d63c56970a0ef2428babdb5a3c90b5e1a05948822e2da75a741|Bijlage 3. Ipsos IO - benchmarknotitie VM Alkmaar 2012-2025_concept|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+    },
+    "fdc8cdaf99c08344d5302f7ba127f5c37b1991a21193038af36957b0670224c7": {
+      "title": "Bijlage 4. Politiecijfers 2025",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=f6656312-e385-4d10-a544-fdda6cfcd6bb&agendaItemId=1322d440-b965-4b19-bf8c-ba64f6260f48",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/f6656312-e385-4d10-a544-fdda6cfcd6bb",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "missing_count": 0,
+      "text_hash": "d300817eada4254d35208a1eaf167b9645d695a41c5c246cf554dcbe72b2a86e",
+      "content_checked": "2026-11-27T11:02:20+00:00",
+      "kw_sig": "4f53cda18c2b|d300817eada4254d35208a1eaf167b9645d695a41c5c246cf554dcbe72b2a86e|Bijlage 4. Politiecijfers 2025|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+    },
+    "1e9ea318227d200592ec2038b9d5e5966f180aecf2e1c2361a3288b71b085c1b": {
+      "title": "Bijlage 5. Rapportage Veiligheid 2025",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=4269bab8-561d-4db6-b9a0-0178b77d8381&agendaItemId=1322d440-b965-4b19-bf8c-ba64f6260f48",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/4269bab8-561d-4db6-b9a0-0178b77d8381",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "missing_count": 0,
+      "text_hash": "550788af99650549f8642e70b456eb533f2e504698736b9f9c4d192125fc60aa",
+      "content_checked": "2026-11-27T11:02:22+00:00",
+      "kw_sig": "4f53cda18c2b|550788af99650549f8642e70b456eb533f2e504698736b9f9c4d192125fc60aa|Bijlage 5. Rapportage Veiligheid 2025|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+    },
+    "96b3e0e18b2372d4edb7ed41a101de7b40e6faa0d5172434e48fc3bb0c1a6453": {
+      "title": "Bijlage 6. Handhavingsuitvoeringsprogramma 2026 versie 1.1 (2)",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=7788a7d3-ae67-4cb4-9f75-8c237c5404bf&agendaItemId=1322d440-b965-4b19-bf8c-ba64f6260f48",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/7788a7d3-ae67-4cb4-9f75-8c237c5404bf",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "missing_count": 0,
+      "text_hash": "0f8d849623b650dd613f4a451edded45a7e010bd19766c318e8a92a4072a3509",
+      "content_checked": "2026-11-27T11:02:22+00:00",
+      "kw_sig": "4f53cda18c2b|0f8d849623b650dd613f4a451edded45a7e010bd19766c318e8a92a4072a3509|Bijlage 6. Handhavingsuitvoeringsprogramma 2026 versie 1.1 (2)|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+    },
+    "3ecd038674d9d4f5a645d23e67958e5767e04eafd9d91ff380c090e125da5041": {
+      "title": "Bijlage 7. Handboek-‘Online-Orde",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=a04ae589-e923-439c-8170-0e0b239cf29a&agendaItemId=1322d440-b965-4b19-bf8c-ba64f6260f48",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/a04ae589-e923-439c-8170-0e0b239cf29a",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)",
+      "missing_count": 0,
+      "text_hash": "21774375357fc3ff485861ee0516db2d1c0d2161b1452914e7d0c0ba328fd12f",
+      "content_checked": "2026-11-27T11:02:25+00:00",
+      "kw_sig": "4f53cda18c2b|21774375357fc3ff485861ee0516db2d1c0d2161b1452914e7d0c0ba328fd12f|Bijlage 7. Handboek-‘Online-Orde|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.1 Kadernota Veiligheid 2027-2030 (Anja Schouten)"
+    },
+    "b084e75347c21bb6c63b6db9f6b9ac6068e92d3c5ae81424450170c62ed17fd1": {
+      "title": "Collegevoorstel Afsprakenbrief Rijksvastgoedbedrijf (RVB) en gemeente uitwerking Sluiseiland",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=5f32ff19-e8c7-4733-ab9e-a78f1a86b9f9&agendaItemId=2e7db223-50a5-47e9-86eb-c6dd3725a6aa",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.2 Afsprakenbrief RVB en gemeente uitwerking Sluiseiland (Gijsbert van Iterson Scholten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/5f32ff19-e8c7-4733-ab9e-a78f1a86b9f9",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.2 Afsprakenbrief RVB en gemeente uitwerking Sluiseiland (Gijsbert van Iterson Scholten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.2 Afsprakenbrief RVB en gemeente uitwerking Sluiseiland (Gijsbert van Iterson Scholten)",
+      "missing_count": 0,
+      "text_hash": "1f54e60ca94c0cede8b43264c4c08480c33113f0143848d2c37ac81347a6e5a4",
+      "content_checked": "2026-11-27T11:02:25+00:00",
+      "kw_sig": "4f53cda18c2b|1f54e60ca94c0cede8b43264c4c08480c33113f0143848d2c37ac81347a6e5a4|Collegevoorstel Afsprakenbrief Rijksvastgoedbedrijf (RVB) en gemeente uitwerking Sluiseiland|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.2 Afsprakenbrief RVB en gemeente uitwerking Sluiseiland (Gijsbert van Iterson Scholten)"
+    },
+    "3b892500dbea142012e10f07d310bc32bb76e37b0655a8560cc663506c34421a": {
+      "title": "Collegevoorstel Vaststellen Werkwijze spuitvrije zones",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=04f68f20-6172-482f-9709-4948196a26fb&agendaItemId=96521f27-0736-4b36-8862-5d9c643eb2b0",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.3 Vaststellen Werkwijze spuitvrije zones (Gijsbert van Iterson Scholten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/04f68f20-6172-482f-9709-4948196a26fb",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.3 Vaststellen Werkwijze spuitvrije zones (Gijsbert van Iterson Scholten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.3 Vaststellen Werkwijze spuitvrije zones (Gijsbert van Iterson Scholten)",
+      "missing_count": 0,
+      "text_hash": "ea408bdfa4565c3227e65f7d5f640b33d84cc0dedd2de25ec9d1ea37118eef6d",
+      "content_checked": "2026-11-27T11:02:26+00:00",
+      "kw_sig": "4f53cda18c2b|ea408bdfa4565c3227e65f7d5f640b33d84cc0dedd2de25ec9d1ea37118eef6d|Collegevoorstel Vaststellen Werkwijze spuitvrije zones|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.3 Vaststellen Werkwijze spuitvrije zones (Gijsbert van Iterson Scholten)"
+    },
+    "ada5cdf29d52ec80a84ae80cb3ae4cc80a259631d55b8b295f7f63c631d61227": {
+      "title": "Bijlage 1. Hoe om te gaan met de spuitzone",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=b90c1820-1a46-4677-8ec5-4410fef11baa&agendaItemId=96521f27-0736-4b36-8862-5d9c643eb2b0",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.3 Vaststellen Werkwijze spuitvrije zones (Gijsbert van Iterson Scholten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/b90c1820-1a46-4677-8ec5-4410fef11baa",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.3 Vaststellen Werkwijze spuitvrije zones (Gijsbert van Iterson Scholten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.3 Vaststellen Werkwijze spuitvrije zones (Gijsbert van Iterson Scholten)",
+      "missing_count": 0,
+      "text_hash": "2f9ed0e42af69f12b6996c3311223708462bc5e7757e8da86c77141fe0e57b8f",
+      "content_checked": "2026-11-27T11:02:26+00:00",
+      "kw_sig": "4f53cda18c2b|2f9ed0e42af69f12b6996c3311223708462bc5e7757e8da86c77141fe0e57b8f|Bijlage 1. Hoe om te gaan met de spuitzone|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.3 Vaststellen Werkwijze spuitvrije zones (Gijsbert van Iterson Scholten)"
+    },
+    "257a931f4468b42c4dc74641dfff665b2698578fbcda5ec7e817ac2729525742": {
+      "title": "Bijlage 2. Raadsinformatiebrief Vaststellen Werkwijze Spuitvrije zones",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=47121eda-d0ee-42a3-9730-bf380ad5495a&agendaItemId=96521f27-0736-4b36-8862-5d9c643eb2b0",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.3 Vaststellen Werkwijze spuitvrije zones (Gijsbert van Iterson Scholten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/47121eda-d0ee-42a3-9730-bf380ad5495a",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.3 Vaststellen Werkwijze spuitvrije zones (Gijsbert van Iterson Scholten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.3 Vaststellen Werkwijze spuitvrije zones (Gijsbert van Iterson Scholten)",
+      "missing_count": 0,
+      "text_hash": "26f594d2da624e8a8fd65c657735e168d4825e044fe8bc690cf1071369a05cd6",
+      "content_checked": "2026-11-27T11:02:27+00:00",
+      "kw_sig": "4f53cda18c2b|26f594d2da624e8a8fd65c657735e168d4825e044fe8bc690cf1071369a05cd6|Bijlage 2. Raadsinformatiebrief Vaststellen Werkwijze Spuitvrije zones|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.3 Vaststellen Werkwijze spuitvrije zones (Gijsbert van Iterson Scholten)"
+    },
+    "0f22a24915a01fa2471b08ddc9faf5839bc1edbd0fb68a12de8e16bc4a060e21": {
+      "title": "Collegevoorstel Actualisatie grondstromenbeleid",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=dddc859d-92b4-4e16-bbb5-8f4a97baaf43&agendaItemId=9ade65f2-29fc-474b-966f-606ad02dbddd",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/dddc859d-92b4-4e16-bbb5-8f4a97baaf43",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "missing_count": 0,
+      "text_hash": "b51d4c4bf7c8b073a4761ba62d0c7157f1bc40eb94e79704c57df6bd1b749279",
+      "content_checked": "2026-11-27T11:02:30+00:00",
+      "kw_sig": "4f53cda18c2b|b51d4c4bf7c8b073a4761ba62d0c7157f1bc40eb94e79704c57df6bd1b749279|Collegevoorstel Actualisatie grondstromenbeleid|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+    },
+    "b78705a792be6dc7f498df9b3e6e4bb197ca7425318b37ee6a284739ac36e4fd": {
+      "title": "Raadsinformatiebrief Actualisatie Grondstromenbeleid",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=f3b18fed-c1f8-400b-b3ff-e63c68d9f9a7&agendaItemId=9ade65f2-29fc-474b-966f-606ad02dbddd",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/f3b18fed-c1f8-400b-b3ff-e63c68d9f9a7",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "missing_count": 0,
+      "text_hash": "8968102717df7deda8cdb35fc67c7b2fc70cca4fd5019978aa4506c53c63b56e",
+      "content_checked": "2026-11-27T11:02:31+00:00",
+      "kw_sig": "4f53cda18c2b|8968102717df7deda8cdb35fc67c7b2fc70cca4fd5019978aa4506c53c63b56e|Raadsinformatiebrief Actualisatie Grondstromenbeleid|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+    },
+    "339dea7bb6e2d08deacc16ffb0d3f6530f7df4cd56f43135d691665f293b156a": {
+      "title": "Bijlage 1a. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=6da42c98-0321-4206-ae5e-2e7e860b4fd5&agendaItemId=9ade65f2-29fc-474b-966f-606ad02dbddd",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/6da42c98-0321-4206-ae5e-2e7e860b4fd5",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "missing_count": 0,
+      "file_hash": "groot|attachment; filename=\"Bijlage 1a. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026.pdf\"; filename*=UTF-8''Bijlage%201a.%20Bodemkwaliteitskaart%20Regio%20Noord-Holland%20Noord%2C%20Tauw%2C%20R001-1301407HRO-V03-sss-NL%2C%2026%20juni%202026.pdf|80f51d295d474a9ef88369343c604ceabdd982db0839665c728b2d12b00eb2cf",
+      "content_checked": "2026-11-27T11:02:33+00:00",
+      "kw_sig": "4f53cda18c2b||Bijlage 1a. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+    },
+    "81d82b7b98d0065fcb5caf6b5ed0fee8a460ac03c869343295145197522c9112": {
+      "title": "Bijlage 1b. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=734d432d-20ca-432b-a458-c396d0e5e04e&agendaItemId=9ade65f2-29fc-474b-966f-606ad02dbddd",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/734d432d-20ca-432b-a458-c396d0e5e04e",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "missing_count": 0,
+      "file_hash": "groot|attachment; filename=\"Bijlage 1b. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026.pdf\"; filename*=UTF-8''Bijlage%201b.%20Bodemkwaliteitskaart%20Regio%20Noord-Holland%20Noord%2C%20Tauw%2C%20R001-1301407HRO-V03-sss-NL%2C%2026%20juni%202026.pdf|dc3a6931715811496b1b604592035a68101de4dc10318d58b86f65121ef54de8",
+      "content_checked": "2026-11-27T11:02:34+00:00",
+      "kw_sig": "4f53cda18c2b||Bijlage 1b. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+    },
+    "b8f4943480819f5739f302e079be75b10952d90525b80be1c452d62a1bed2b4b": {
+      "title": "Bijlage 1c. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=7a6ab337-2aa7-4e29-b389-8b3e24cc0f4d&agendaItemId=9ade65f2-29fc-474b-966f-606ad02dbddd",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/7a6ab337-2aa7-4e29-b389-8b3e24cc0f4d",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "missing_count": 0,
+      "file_hash": "groot|attachment; filename=\"Bijlage 1c. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026.pdf\"; filename*=UTF-8''Bijlage%201c.%20Bodemkwaliteitskaart%20Regio%20Noord-Holland%20Noord%2C%20Tauw%2C%20R001-1301407HRO-V03-sss-NL%2C%2026%20juni%202026.pdf|aa1531cd5ac61779201f353fc8539e31b7dff0d5dd5aa5a3935ab720fe26aa14",
+      "content_checked": "2026-11-27T11:02:37+00:00",
+      "kw_sig": "4f53cda18c2b||Bijlage 1c. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+    },
+    "cd9f3bae2a51a6b145f675f0ff577f688631ae40e1719567bdbee914cad1d3c5": {
+      "title": "Bijlage 1d. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=4cf2817e-3474-4383-9889-236b5bcb401c&agendaItemId=9ade65f2-29fc-474b-966f-606ad02dbddd",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/4cf2817e-3474-4383-9889-236b5bcb401c",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "missing_count": 0,
+      "file_hash": "82aebd98172020d061f2d20ba345ea6f1e96db6f9a861f24409beda6f2d743ac",
+      "content_checked": "2026-11-27T11:02:57+00:00",
+      "kw_sig": "4f53cda18c2b||Bijlage 1d. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+    },
+    "5ab8eff1611549a4c2fe1b1a450772075e9bafdc3612c74aa9244788bd038f90": {
+      "title": "Bijlage 1e. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=ede934a6-00ed-4cc0-a41e-b1ba7e20e52b&agendaItemId=9ade65f2-29fc-474b-966f-606ad02dbddd",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/ede934a6-00ed-4cc0-a41e-b1ba7e20e52b",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "missing_count": 0,
+      "file_hash": "groot|attachment; filename=\"Bijlage 1e. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026.pdf\"; filename*=UTF-8''Bijlage%201e.%20Bodemkwaliteitskaart%20Regio%20Noord-Holland%20Noord%2C%20Tauw%2C%20R001-1301407HRO-V03-sss-NL%2C%2026%20juni%202026.pdf|a6356367ccdd6cd5cb6e230f8f38a22931effad4fb58ee75aeacc3b27fb747cb",
+      "content_checked": "2026-11-27T11:02:59+00:00",
+      "kw_sig": "4f53cda18c2b||Bijlage 1e. Bodemkwaliteitskaart Regio Noord-Holland Noord, Tauw, R001-1301407HRO-V03-sss-NL, 26 juni 2026|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+    },
+    "e9eea567c125cd6c209e4543bf313882e10efb1708f2f81583283bf10e63762f": {
+      "title": "Bijlage 2. Handreiking bodembeheer Regio Noord-Holland Noord, Tauw, R002-1301407ESM-V03-sss-NL, 26 juni 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=144af7b0-2578-4a7c-a97e-11f43d013cf5&agendaItemId=9ade65f2-29fc-474b-966f-606ad02dbddd",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/144af7b0-2578-4a7c-a97e-11f43d013cf5",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "missing_count": 0,
+      "file_hash": "groot|attachment; filename=\"Bijlage 2. Handreiking bodembeheer Regio Noord-Holland Noord, Tauw, R002-1301407ESM-V03-sss-NL, 26 juni 2026.pdf\"; filename*=UTF-8''Bijlage%202.%20Handreiking%20bodembeheer%20Regio%20Noord-Holland%20Noord%2C%20Tauw%2C%20R002-1301407ESM-V03-sss-NL%2C%2026%20juni%202026.pdf|3f5dd2854d1572da54e5b9e4f9758baed69f86dc881676c29a4218d822b2b5b5",
+      "content_checked": "2026-11-27T11:03:01+00:00",
+      "kw_sig": "4f53cda18c2b||Bijlage 2. Handreiking bodembeheer Regio Noord-Holland Noord, Tauw, R002-1301407ESM-V03-sss-NL, 26 juni 2026|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+    },
+    "0278b66104057785851742a4b4f44b0a60b80199e2ae332384fc72f536fb37f2": {
+      "title": "Bijlage 3. Daadkracht Publicatie ter inzage legging Actualisatie Grondstromenbeleid",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=354a4cc4-e47d-4ca7-9b44-d1f5009204dd&agendaItemId=9ade65f2-29fc-474b-966f-606ad02dbddd",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/354a4cc4-e47d-4ca7-9b44-d1f5009204dd",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)",
+      "missing_count": 0,
+      "text_hash": "17412369471081bd153f40ad1965e9e65d6b9c274e254ec7d7d1633511cecf4d",
+      "content_checked": "2026-11-27T11:03:02+00:00",
+      "kw_sig": "4f53cda18c2b|17412369471081bd153f40ad1965e9e65d6b9c274e254ec7d7d1633511cecf4d|Bijlage 3. Daadkracht Publicatie ter inzage legging Actualisatie Grondstromenbeleid|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.4 Actualisatie grondstromenbeleid (Odile Rasch)"
+    },
+    "949f3777ec34dda74d378e21d877d36833eaa61e3b1b15e09d4a5715ac50c570": {
+      "title": "Collegevoorstel Investeringspakket Bereikbaarheid Regio Alkmaar",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=4f6e8dfe-9ccd-4195-91f8-4164e0e34f2f&agendaItemId=78039486-fa8e-4fb7-8710-0e3dd484cd83",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.5 Investeringspakket Bereikbaarheid regio Alkmaar (Marius Wiegman)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/4f6e8dfe-9ccd-4195-91f8-4164e0e34f2f",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.5 Investeringspakket Bereikbaarheid regio Alkmaar (Marius Wiegman)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.5 Investeringspakket Bereikbaarheid regio Alkmaar (Marius Wiegman)",
+      "missing_count": 0,
+      "text_hash": "0ee4d8538653aeef76fc047d1a4483e81a5283fcbc3adcc858039743a3ca1afb",
+      "content_checked": "2026-11-27T11:03:03+00:00",
+      "kw_sig": "4f53cda18c2b|0ee4d8538653aeef76fc047d1a4483e81a5283fcbc3adcc858039743a3ca1afb|Collegevoorstel Investeringspakket Bereikbaarheid Regio Alkmaar|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.5 Investeringspakket Bereikbaarheid regio Alkmaar (Marius Wiegman)"
+    },
+    "f38f6a4feb44937799bb5a40380a1dae1138b0d3dad497d3ce98099417819c93": {
+      "title": "Bijlage 1 historie Investeringspakket Bereikbaarheid Regio Alkmaar",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=18461c40-1302-44af-acc2-da9ce83e0766&agendaItemId=78039486-fa8e-4fb7-8710-0e3dd484cd83",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.5 Investeringspakket Bereikbaarheid regio Alkmaar (Marius Wiegman)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/18461c40-1302-44af-acc2-da9ce83e0766",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.5 Investeringspakket Bereikbaarheid regio Alkmaar (Marius Wiegman)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.5 Investeringspakket Bereikbaarheid regio Alkmaar (Marius Wiegman)",
+      "missing_count": 0,
+      "text_hash": "275bc13866cf5aa71f467cb170248975588fea31d05f9749666e31885e6105a1",
+      "content_checked": "2026-11-27T11:03:04+00:00",
+      "kw_sig": "4f53cda18c2b|275bc13866cf5aa71f467cb170248975588fea31d05f9749666e31885e6105a1|Bijlage 1 historie Investeringspakket Bereikbaarheid Regio Alkmaar|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.5 Investeringspakket Bereikbaarheid regio Alkmaar (Marius Wiegman)"
+    },
+    "4eaf6806313f9a7c0561caf792ceb13ee02d1c25fb4a1d033539c5f64d15ab82": {
+      "title": "Raadsinformatiebrief Investeringspakket Bereikbaarheid Regio Alkmaar",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=b321561f-57d3-447e-a1c7-9138db7850a8&agendaItemId=78039486-fa8e-4fb7-8710-0e3dd484cd83",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.5 Investeringspakket Bereikbaarheid regio Alkmaar (Marius Wiegman)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/b321561f-57d3-447e-a1c7-9138db7850a8",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.5 Investeringspakket Bereikbaarheid regio Alkmaar (Marius Wiegman)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.5 Investeringspakket Bereikbaarheid regio Alkmaar (Marius Wiegman)",
+      "missing_count": 0,
+      "text_hash": "5fa65ca64c52f4631d0edda05ecb5b34726061c3007ccd80b0f7b56b5dac35c3",
+      "content_checked": "2026-11-27T11:03:05+00:00",
+      "kw_sig": "4f53cda18c2b|5fa65ca64c52f4631d0edda05ecb5b34726061c3007ccd80b0f7b56b5dac35c3|Raadsinformatiebrief Investeringspakket Bereikbaarheid Regio Alkmaar|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.5 Investeringspakket Bereikbaarheid regio Alkmaar (Marius Wiegman)"
+    },
+    "18bbaa50c2854bc72bfec0112e4314c54d79c092a39c2f9c894c9f2f5d15bbe7": {
+      "title": "Collegevoorstel AZWA uitvoeringsagenda NHN NK 2027-2029",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=0f3f927c-8ada-48a2-8088-b7baaae54711&agendaItemId=ac4be0ce-0812-41ae-ab76-826c4a8efb56",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/0f3f927c-8ada-48a2-8088-b7baaae54711",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)",
+      "missing_count": 0,
+      "text_hash": "51af73b9f6b403829d889f43f779ea8cca3c8e024e184284b7658edc154da683",
+      "content_checked": "2026-11-27T11:03:05+00:00",
+      "kw_sig": "4f53cda18c2b|51af73b9f6b403829d889f43f779ea8cca3c8e024e184284b7658edc154da683|Collegevoorstel AZWA uitvoeringsagenda NHN NK 2027-2029|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)"
+    },
+    "ed1859e9a1bad3c45eccf2bd78797eba4dd0b9c92b08d7f5df4369fb820e6382": {
+      "title": "Bijlage 1 AZWA-Werkagenda NHN Definitieve Versie (2)",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=53e148f1-2f93-493f-912a-6ebf481e8a1a&agendaItemId=ac4be0ce-0812-41ae-ab76-826c4a8efb56",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/53e148f1-2f93-493f-912a-6ebf481e8a1a",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)",
+      "missing_count": 0,
+      "text_hash": "105713d4f556de76692f5a019ff9a2864592fa995755b6d4d0c10690a6647f1d",
+      "content_checked": "2026-11-27T11:03:06+00:00",
+      "kw_sig": "4f53cda18c2b|105713d4f556de76692f5a019ff9a2864592fa995755b6d4d0c10690a6647f1d|Bijlage 1 AZWA-Werkagenda NHN Definitieve Versie (2)|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)"
+    },
+    "fdceaecf1bbd020d8d3894d2890f6bcf375203aa3e52e5243e67ff56cedfa382": {
+      "title": "Bijlage 2 Mandaatbesluit Aanvullend Zorg- en Welzijnsakkoord Noord-Holland Noord 2027-2029 versie 15102026 855 (1)",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=a26404ab-ab3d-49e9-9607-f99b949c2f43&agendaItemId=ac4be0ce-0812-41ae-ab76-826c4a8efb56",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/a26404ab-ab3d-49e9-9607-f99b949c2f43",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)",
+      "missing_count": 0,
+      "text_hash": "8690bd95acdec88d7605c37d677d34db50ab637abaa4dfd227cd1c22315effbc",
+      "content_checked": "2026-11-27T11:03:07+00:00",
+      "kw_sig": "4f53cda18c2b|8690bd95acdec88d7605c37d677d34db50ab637abaa4dfd227cd1c22315effbc|Bijlage 2 Mandaatbesluit Aanvullend Zorg- en Welzijnsakkoord Noord-Holland Noord 2027-2029 versie 15102026 855 (1)|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)"
+    },
+    "7113e7b0b703d06ba7ff22e5cd5bb8b3bc988302935f7f54ca121a2b4e81c914": {
+      "title": "Bijlage 3 Samenwerkingsafspraken Aanvullend Zorg- en Welzijnsakkoord 2027-2029 def",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=a981f714-f50a-4f4d-b9cf-2f35562ef6f5&agendaItemId=ac4be0ce-0812-41ae-ab76-826c4a8efb56",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/a981f714-f50a-4f4d-b9cf-2f35562ef6f5",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)",
+      "missing_count": 0,
+      "text_hash": "ace4c648adcb882669fe2d0e2358bdc6ba78fe8c431461495200913973c7342a",
+      "content_checked": "2026-11-27T11:03:08+00:00",
+      "kw_sig": "4f53cda18c2b|ace4c648adcb882669fe2d0e2358bdc6ba78fe8c431461495200913973c7342a|Bijlage 3 Samenwerkingsafspraken Aanvullend Zorg- en Welzijnsakkoord 2027-2029 def|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)"
+    },
+    "8f6eb30d17f65d8a8f66c0161c429584b96f3bae44c79a0bf36be56bfb7d592b": {
+      "title": "Bijlage 4 Uitvoeringsagenda AZWA NK 2027-2029",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=5c57e392-59b4-4615-9b93-0b08d389e796&agendaItemId=ac4be0ce-0812-41ae-ab76-826c4a8efb56",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/5c57e392-59b4-4615-9b93-0b08d389e796",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)",
+      "missing_count": 0,
+      "text_hash": "292489958a3ffcad56533013951f3069c8d7bdae720f9a5515a80d949a3f5877",
+      "content_checked": "2026-11-27T11:03:09+00:00",
+      "kw_sig": "4f53cda18c2b|292489958a3ffcad56533013951f3069c8d7bdae720f9a5515a80d949a3f5877|Bijlage 4 Uitvoeringsagenda AZWA NK 2027-2029|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.6 AZWA uitvoeringsagenda NHN en NK (Robert te Beest)"
+    },
+    "161fcf3a5373385e63edc438d44c88835b9ae13e0e7f7c879c72c0bfd51674f3": {
+      "title": "Collegevoorstel Aankoop Grafterbaan 29 Graft (De Baanbreker)",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=4f79ff37-942b-4a87-b5bd-d207fea68cc7&agendaItemId=8761384e-dfcd-4679-8bd7-a5ec4d7c81bc",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.7 Aankoop Grafterbaan 29 Graft (De Baanbreker) (Tineke Bouchier)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/4f79ff37-942b-4a87-b5bd-d207fea68cc7",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.7 Aankoop Grafterbaan 29 Graft (De Baanbreker) (Tineke Bouchier)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.7 Aankoop Grafterbaan 29 Graft (De Baanbreker) (Tineke Bouchier)",
+      "missing_count": 0,
+      "text_hash": "14cb9dddba71f7a2595954698eec6e9e7c00da4a01fda3d6e4815488233880f2",
+      "content_checked": "2026-11-27T11:03:10+00:00",
+      "kw_sig": "4f53cda18c2b|14cb9dddba71f7a2595954698eec6e9e7c00da4a01fda3d6e4815488233880f2|Collegevoorstel Aankoop Grafterbaan 29 Graft (De Baanbreker)|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.7 Aankoop Grafterbaan 29 Graft (De Baanbreker) (Tineke Bouchier)"
+    },
+    "a48eae444a13bb801e74ef57bd10c67d2687a38f49a547cbd599b9ff1986d552": {
+      "title": "GT Raadsvoorstel Krediet en ontwerpbestemmingsplan Grafterbaan 29 Graft (De Baanbreker)",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=6067bf2f-4ddc-4199-87b2-48aa696e2d80&agendaItemId=8761384e-dfcd-4679-8bd7-a5ec4d7c81bc",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.7 Aankoop Grafterbaan 29 Graft (De Baanbreker) (Tineke Bouchier)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/6067bf2f-4ddc-4199-87b2-48aa696e2d80",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.7 Aankoop Grafterbaan 29 Graft (De Baanbreker) (Tineke Bouchier)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.7 Aankoop Grafterbaan 29 Graft (De Baanbreker) (Tineke Bouchier)",
+      "missing_count": 0,
+      "text_hash": "e9bd25d3302696bb629b2f0e9ad44d997017788f88a56510d17355acb22d4fee",
+      "content_checked": "2026-11-27T11:03:10+00:00",
+      "kw_sig": "4f53cda18c2b|e9bd25d3302696bb629b2f0e9ad44d997017788f88a56510d17355acb22d4fee|GT Raadsvoorstel Krediet en ontwerpbestemmingsplan Grafterbaan 29 Graft (De Baanbreker)|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.7 Aankoop Grafterbaan 29 Graft (De Baanbreker) (Tineke Bouchier)"
+    },
+    "30b3ab52660d09b2435318d8be0826fc545608e5078641cca28f3a5af978b376": {
+      "title": "Collegevoorstel AVA ROM InWest 26 november 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=a65a8f2e-3d9a-4e1d-8000-0122a396beea&agendaItemId=543edfe0-8db4-4d36-af23-d762553f0204",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/a65a8f2e-3d9a-4e1d-8000-0122a396beea",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "missing_count": 0,
+      "text_hash": "c77b4f5b6069bc919e19fe0b01ea5615ffe4f4c2028dd19f8c1f0ddd2e75d098",
+      "content_checked": "2026-11-27T11:03:11+00:00",
+      "kw_sig": "4f53cda18c2b|c77b4f5b6069bc919e19fe0b01ea5615ffe4f4c2028dd19f8c1f0ddd2e75d098|Collegevoorstel AVA ROM InWest 26 november 2026|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+    },
+    "41747de0d6dfbdf51efd8f9d65ced960585dfea0bc939179e0b779de4694985c": {
+      "title": "Bijlage 1. Agenda AVA 26 november 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=8936f94b-5565-4c29-bde6-55ce0ed587f6&agendaItemId=543edfe0-8db4-4d36-af23-d762553f0204",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/8936f94b-5565-4c29-bde6-55ce0ed587f6",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "missing_count": 0,
+      "text_hash": "e3d54866d2b79d22ffc928bbca5550c691cf48b332cad806f646bfeb46c99417",
+      "content_checked": "2026-11-27T11:03:12+00:00",
+      "kw_sig": "4f53cda18c2b|e3d54866d2b79d22ffc928bbca5550c691cf48b332cad806f646bfeb46c99417|Bijlage 1. Agenda AVA 26 november 2026|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+    },
+    "2ba517af4f1923f72e04f166bda2a5e283ebe717212d03029ac0232cf6cdba72": {
+      "title": "Bijlage 2. 3.1 Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=d1b2cbe5-5935-4df6-bc68-425504bafe87&agendaItemId=543edfe0-8db4-4d36-af23-d762553f0204",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/d1b2cbe5-5935-4df6-bc68-425504bafe87",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "missing_count": 0,
+      "text_hash": "490f4511e3633a64788d99bf12316810cc6ea31342a08d413698858bfcf423da",
+      "content_checked": "2026-11-27T11:03:14+00:00",
+      "kw_sig": "4f53cda18c2b|490f4511e3633a64788d99bf12316810cc6ea31342a08d413698858bfcf423da|Bijlage 2. 3.1 Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+    },
+    "bed71a88c7e8cde203a89292362566f918a5876a21251e0d42cc230c2b3fbaef": {
+      "title": "Bijlage 3. 3.2 Presentatie sluitende begroting 2027 + tijdslijn",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=dcbbfd32-7892-4ff6-ad79-fa5b52ae2ef5&agendaItemId=543edfe0-8db4-4d36-af23-d762553f0204",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/dcbbfd32-7892-4ff6-ad79-fa5b52ae2ef5",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "missing_count": 0,
+      "text_hash": "d3a86f387fcc6ee53283afc79e076af8a5b495d8bd5bb345d86a10375ede7346",
+      "content_checked": "2026-11-27T11:03:14+00:00",
+      "kw_sig": "4f53cda18c2b|d3a86f387fcc6ee53283afc79e076af8a5b495d8bd5bb345d86a10375ede7346|Bijlage 3. 3.2 Presentatie sluitende begroting 2027 + tijdslijn|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+    },
+    "d98ef877a4800ab4d0f14079a3adafa2d340e7267cb6f3d84700c9dcba5999d9": {
+      "title": "Bijlage 4. 4. Memo voordracht en benoeming nieuw RvC lid Theo van Stuijvenberg",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=e812d2dc-7a36-4257-9188-36f3d112f085&agendaItemId=543edfe0-8db4-4d36-af23-d762553f0204",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/e812d2dc-7a36-4257-9188-36f3d112f085",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "missing_count": 0,
+      "text_hash": "676202d8d1a02a00c54403086f01bfa7c3d88424ea7bb2d1933de1785956eedf",
+      "content_checked": "2026-11-27T11:03:15+00:00",
+      "kw_sig": "4f53cda18c2b|676202d8d1a02a00c54403086f01bfa7c3d88424ea7bb2d1933de1785956eedf|Bijlage 4. 4. Memo voordracht en benoeming nieuw RvC lid Theo van Stuijvenberg|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+    },
+    "aa972562cdf8db9a89208689d203843415fe86d38136a0cd774fda75bb11e2da": {
+      "title": "Bijlage 5. 4.1 Algemeen profiel en profiel nieuwe commissaris",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=3bbd9ebc-620a-4180-8d95-e0e137aae39a&agendaItemId=543edfe0-8db4-4d36-af23-d762553f0204",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/3bbd9ebc-620a-4180-8d95-e0e137aae39a",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "missing_count": 0,
+      "text_hash": "2d7eedfa62204771d4a78def6901f6835a11258823eb26aad0a1ba287d65d05d",
+      "content_checked": "2026-11-27T11:03:20+00:00",
+      "kw_sig": "4f53cda18c2b|2d7eedfa62204771d4a78def6901f6835a11258823eb26aad0a1ba287d65d05d|Bijlage 5. 4.1 Algemeen profiel en profiel nieuwe commissaris|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+    },
+    "bbd43165d044918cfa91cd4f5deebe117d59f8700e9d56288ebf3cde6da1bb8c": {
+      "title": "Bijlage 7. 6.1 Overzicht besluitvorming aandeelhouders InWest Regio",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=7db0c0d4-9f14-4053-996f-a6800595625f&agendaItemId=543edfe0-8db4-4d36-af23-d762553f0204",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/7db0c0d4-9f14-4053-996f-a6800595625f",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "missing_count": 0,
+      "text_hash": "e2f05c0a9c9f98c935c57725cdec1e250a7545abb2128f5ce30da5b910e5dce5",
+      "content_checked": "2026-11-27T11:03:21+00:00",
+      "kw_sig": "4f53cda18c2b|e2f05c0a9c9f98c935c57725cdec1e250a7545abb2128f5ce30da5b910e5dce5|Bijlage 7. 6.1 Overzicht besluitvorming aandeelhouders InWest Regio|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+    },
+    "8891a71f8311f9c7ae3bec47d893e56fe407ca11cc03fd5334ecf9608c66c1ca": {
+      "title": "Bijlage 8. 6.2 Overzicht besluitvorming aandeelhouders ROM InWest",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=bd772855-b37d-441b-b6bf-8c8f329029bf&agendaItemId=543edfe0-8db4-4d36-af23-d762553f0204",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/bd772855-b37d-441b-b6bf-8c8f329029bf",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "missing_count": 0,
+      "text_hash": "16e06f90aeee9090fac0da0ec2e78a99c9311583bdd03697d8afddec5249a989",
+      "content_checked": "2026-11-27T11:03:21+00:00",
+      "kw_sig": "4f53cda18c2b|16e06f90aeee9090fac0da0ec2e78a99c9311583bdd03697d8afddec5249a989|Bijlage 8. 6.2 Overzicht besluitvorming aandeelhouders ROM InWest|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+    },
+    "1223d2b0d21000ce13c256f4272a18dae03f71d29cc8fef26c6abf9daba69b48": {
+      "title": "Bijlage 9. 6.3 Concept notulen AVA 28 mei 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=3e225b1e-15f0-4dcb-9475-0ea980fecffc&agendaItemId=543edfe0-8db4-4d36-af23-d762553f0204",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/3e225b1e-15f0-4dcb-9475-0ea980fecffc",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)",
+      "missing_count": 0,
+      "text_hash": "3ccee3425374023c7dd1ce12fb4e7f800f7d0235e5866e8e3cdaffd2227cca2c",
+      "content_checked": "2026-11-27T11:03:24+00:00",
+      "kw_sig": "4f53cda18c2b|3ccee3425374023c7dd1ce12fb4e7f800f7d0235e5866e8e3cdaffd2227cca2c|Bijlage 9. 6.3 Concept notulen AVA 28 mei 2026|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 2.8 Aandeelhoudersvergadering ROM InWest 26 november 2026 (Marco Wiesehahn)"
+    },
+    "133391a100b8191104df9ca2c1c27800e41ab9c1bdf268fe24a8fc1c62f79d07": {
+      "title": "GT Beantwoording raadsvragen BAS over Extra inschrijfkosten bij huurwoningen via SVNK",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=01aba0b3-0a58-4145-aecc-ea62c1c560a8&agendaItemId=c8a06754-5e43-4890-9713-177e48656928",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.1 Beantwoording raadsvragen van BAS over Extra inschrijfkosten voor huurwoningen bij SVNK (Gijsbert van Iterson Scholten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/01aba0b3-0a58-4145-aecc-ea62c1c560a8",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.1 Beantwoording raadsvragen van BAS over Extra inschrijfkosten voor huurwoningen bij SVNK (Gijsbert van Iterson Scholten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.1 Beantwoording raadsvragen van BAS over Extra inschrijfkosten voor huurwoningen bij SVNK (Gijsbert van Iterson Scholten)",
+      "missing_count": 0,
+      "text_hash": "edf29fc8c1b5a3d958f346c2fae30c309dc3ca3b7c5c03a3c3426f69ee608cb3",
+      "content_checked": "2026-11-27T11:03:24+00:00",
+      "kw_sig": "4f53cda18c2b|edf29fc8c1b5a3d958f346c2fae30c309dc3ca3b7c5c03a3c3426f69ee608cb3|GT Beantwoording raadsvragen BAS over Extra inschrijfkosten bij huurwoningen via SVNK|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.1 Beantwoording raadsvragen van BAS over Extra inschrijfkosten voor huurwoningen bij SVNK (Gijsbert van Iterson Scholten)"
+    },
+    "ae5243e07e8134104179585a98679b2a0d5a217b816069aed7ce14998c102752": {
+      "title": "Art. 42 BAS Extra inschrijfkosten voor huurwoningen bij SVNK",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=6440d009-27a6-4eaa-9083-b9982ec28234&agendaItemId=c8a06754-5e43-4890-9713-177e48656928",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.1 Beantwoording raadsvragen van BAS over Extra inschrijfkosten voor huurwoningen bij SVNK (Gijsbert van Iterson Scholten)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/6440d009-27a6-4eaa-9083-b9982ec28234",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.1 Beantwoording raadsvragen van BAS over Extra inschrijfkosten voor huurwoningen bij SVNK (Gijsbert van Iterson Scholten)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.1 Beantwoording raadsvragen van BAS over Extra inschrijfkosten voor huurwoningen bij SVNK (Gijsbert van Iterson Scholten)",
+      "missing_count": 0,
+      "text_hash": "c51121b613629d7c3d0026a2c0dd85ac86da1f4eda07cee44cc86631fa93a9f3",
+      "content_checked": "2026-11-27T11:03:25+00:00",
+      "kw_sig": "4f53cda18c2b|c51121b613629d7c3d0026a2c0dd85ac86da1f4eda07cee44cc86631fa93a9f3|Art. 42 BAS Extra inschrijfkosten voor huurwoningen bij SVNK|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.1 Beantwoording raadsvragen van BAS over Extra inschrijfkosten voor huurwoningen bij SVNK (Gijsbert van Iterson Scholten)"
+    },
+    "1aacc33caca4584ebfdba7a53fdb7e29ef1dac0513935d801d0f1c0b3778d4b2": {
+      "title": "GT Beantwoording raadsvragen CDA en PRO Rekerhout repressie en preventie in balans",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=641bc2a2-9cb3-4ab0-a49a-a172a5a02cdf&agendaItemId=c1cfe940-1207-4cbd-a71b-4694e12ef6b3",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.2 Beantwoording raadsvragen van CDA PRO over Rekerhout: repressie en preventie in balans (Robert te Beest)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/641bc2a2-9cb3-4ab0-a49a-a172a5a02cdf",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.2 Beantwoording raadsvragen van CDA PRO over Rekerhout: repressie en preventie in balans (Robert te Beest)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.2 Beantwoording raadsvragen van CDA PRO over Rekerhout: repressie en preventie in balans (Robert te Beest)",
+      "missing_count": 0,
+      "text_hash": "bf9c1bbea3edd26e7cfa402b9cef562838873355a4c688a03048e9d0fb4acddf",
+      "content_checked": "2026-11-27T11:03:29+00:00",
+      "kw_sig": "4f53cda18c2b|bf9c1bbea3edd26e7cfa402b9cef562838873355a4c688a03048e9d0fb4acddf|GT Beantwoording raadsvragen CDA en PRO Rekerhout repressie en preventie in balans|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.2 Beantwoording raadsvragen van CDA PRO over Rekerhout: repressie en preventie in balans (Robert te Beest)"
+    },
+    "bb0ce171d31d78a620ff7ce16a2cb6bde33aaa98cfd2152dbf7571603d5c977c": {
+      "title": "Art. 42 - CDA PRO - Rekerhout - repressie en preventie in balans",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=ce71b562-4141-4dc8-b076-a9b006fec723&agendaItemId=c1cfe940-1207-4cbd-a71b-4694e12ef6b3",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.2 Beantwoording raadsvragen van CDA PRO over Rekerhout: repressie en preventie in balans (Robert te Beest)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/ce71b562-4141-4dc8-b076-a9b006fec723",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.2 Beantwoording raadsvragen van CDA PRO over Rekerhout: repressie en preventie in balans (Robert te Beest)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.2 Beantwoording raadsvragen van CDA PRO over Rekerhout: repressie en preventie in balans (Robert te Beest)",
+      "missing_count": 0,
+      "text_hash": "add5b50b6fa5b72c40af83b3d132f79af9330b6d40df0f2978c45bd16a1cf4fa",
+      "content_checked": "2026-11-27T11:03:29+00:00",
+      "kw_sig": "4f53cda18c2b|add5b50b6fa5b72c40af83b3d132f79af9330b6d40df0f2978c45bd16a1cf4fa|Art. 42 - CDA PRO - Rekerhout - repressie en preventie in balans|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.2 Beantwoording raadsvragen van CDA PRO over Rekerhout: repressie en preventie in balans (Robert te Beest)"
+    },
+    "45e53aa967c68d97c2ecc2b2de085d25a3dc2abd447925a426d22584b46584a5": {
+      "title": "GT Beantwoording raadsvragen PRO - Een goede aansluiting op nieuw vervoersbewijs voor mensen met een laag inkomen",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=bd0cc968-bd51-4e9c-9229-922296e00bf6&agendaItemId=6dcd3674-2f6f-4ef0-9db4-22032ec520a5",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.3 Beantwoording raadsvragen van PRO over Een goede aansluiting op nieuw vervoersbewijs voor mensen met een laag inkom)en (Tineke Bouchier)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/bd0cc968-bd51-4e9c-9229-922296e00bf6",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.3 Beantwoording raadsvragen van PRO over Een goede aansluiting op nieuw vervoersbewijs voor mensen met een laag inkom)en (Tineke Bouchier)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.3 Beantwoording raadsvragen van PRO over Een goede aansluiting op nieuw vervoersbewijs voor mensen met een laag inkom)en (Tineke Bouchier)",
+      "missing_count": 0,
+      "text_hash": "e69ee560fe64c54081e357b38f809d870a9194e79e177da01aeb86aa7dbfb54b",
+      "content_checked": "2026-11-27T11:03:29+00:00",
+      "kw_sig": "4f53cda18c2b|e69ee560fe64c54081e357b38f809d870a9194e79e177da01aeb86aa7dbfb54b|GT Beantwoording raadsvragen PRO - Een goede aansluiting op nieuw vervoersbewijs voor mensen met een laag inkomen|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.3 Beantwoording raadsvragen van PRO over Een goede aansluiting op nieuw vervoersbewijs voor mensen met een laag inkom)en (Tineke Bouchier)"
+    },
+    "f49fb6bda48d4229d34c61536fa44abf42614535da216470820068d593dd0d46": {
+      "title": "Art. 42 - PRO - Een goede aansluiting op nieuw vervoersbewijs voor mensen met laag inkomen",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=2516c216-1ed6-4ba7-838b-30975124d1b2&agendaItemId=6dcd3674-2f6f-4ef0-9db4-22032ec520a5",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.3 Beantwoording raadsvragen van PRO over Een goede aansluiting op nieuw vervoersbewijs voor mensen met een laag inkom)en (Tineke Bouchier)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/2516c216-1ed6-4ba7-838b-30975124d1b2",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.3 Beantwoording raadsvragen van PRO over Een goede aansluiting op nieuw vervoersbewijs voor mensen met een laag inkom)en (Tineke Bouchier)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.3 Beantwoording raadsvragen van PRO over Een goede aansluiting op nieuw vervoersbewijs voor mensen met een laag inkom)en (Tineke Bouchier)",
+      "missing_count": 0,
+      "text_hash": "823b87927169a6980b1c16b17ba03444af183796c0e77deb1a20f51dff84d0ed",
+      "content_checked": "2026-11-27T11:03:30+00:00",
+      "kw_sig": "4f53cda18c2b|823b87927169a6980b1c16b17ba03444af183796c0e77deb1a20f51dff84d0ed|Art. 42 - PRO - Een goede aansluiting op nieuw vervoersbewijs voor mensen met laag inkomen|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.3 Beantwoording raadsvragen van PRO over Een goede aansluiting op nieuw vervoersbewijs voor mensen met een laag inkom)en (Tineke Bouchier)"
+    },
+    "3a1c9a081032334258e28bfa34eb8011f9fd1d5e13b9b8539303d63be6b8d031": {
+      "title": "GT Beantwoording raadsvragen PRO Wie het kleine niet eert, is het grote niet weerd",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=1bb38116-82ff-4004-8398-9050699b942a&agendaItemId=06b03de5-a4ca-4546-8f7e-32aeddffcfb2",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.4 Beantwoording raadsvragen PRO over Wie het kleine niet eert, is het grote niet weerd (Marco Wiesehahn)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/1bb38116-82ff-4004-8398-9050699b942a",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.4 Beantwoording raadsvragen PRO over Wie het kleine niet eert, is het grote niet weerd (Marco Wiesehahn)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.4 Beantwoording raadsvragen PRO over Wie het kleine niet eert, is het grote niet weerd (Marco Wiesehahn)",
+      "missing_count": 0,
+      "text_hash": "e4d413e73caa3ebf3277b082be62fbc0b65a811f9534381344ff97f4428c37cb",
+      "content_checked": "2026-11-27T11:03:30+00:00",
+      "kw_sig": "4f53cda18c2b|e4d413e73caa3ebf3277b082be62fbc0b65a811f9534381344ff97f4428c37cb|GT Beantwoording raadsvragen PRO Wie het kleine niet eert, is het grote niet weerd|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.4 Beantwoording raadsvragen PRO over Wie het kleine niet eert, is het grote niet weerd (Marco Wiesehahn)"
+    },
+    "a491451dd29075b4269ecb3d0543755a6b5039457d5da2d1b500dd142671ea84": {
+      "title": "Art. 42 - PRO - Wie het kleine niet eert, is het grote niet weerd",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=b7035ffa-746e-4344-b954-efe4abea8cb6&agendaItemId=06b03de5-a4ca-4546-8f7e-32aeddffcfb2",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.4 Beantwoording raadsvragen PRO over Wie het kleine niet eert, is het grote niet weerd (Marco Wiesehahn)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/b7035ffa-746e-4344-b954-efe4abea8cb6",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.4 Beantwoording raadsvragen PRO over Wie het kleine niet eert, is het grote niet weerd (Marco Wiesehahn)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.4 Beantwoording raadsvragen PRO over Wie het kleine niet eert, is het grote niet weerd (Marco Wiesehahn)",
+      "missing_count": 0,
+      "text_hash": "8456280d7e78c4073d19a496d277956670e0fe95e7e27d4fe140bc408d5be096",
+      "content_checked": "2026-11-27T11:03:32+00:00",
+      "kw_sig": "4f53cda18c2b|8456280d7e78c4073d19a496d277956670e0fe95e7e27d4fe140bc408d5be096|Art. 42 - PRO - Wie het kleine niet eert, is het grote niet weerd|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.4 Beantwoording raadsvragen PRO over Wie het kleine niet eert, is het grote niet weerd (Marco Wiesehahn)"
+    },
+    "4f9af683cae8435ab31e5a5f7bb9dae35cdb7d8b9dc46c2bf84258579c0c5683": {
+      "title": "Tussenbericht beantwoording raadsvragen VVD over aanvullende vragen steekincident AZC",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=544a07df-fbee-4160-a8f7-55f38ad9f0f7&agendaItemId=f99e1aac-b8d3-49bf-9590-a2143ec06933",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.5 Tussenbericht beantwoording raadsvragen VVD - aanvullende vragen steekincident AZC (Tineke Bouchier)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/544a07df-fbee-4160-a8f7-55f38ad9f0f7",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.5 Tussenbericht beantwoording raadsvragen VVD - aanvullende vragen steekincident AZC (Tineke Bouchier)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.5 Tussenbericht beantwoording raadsvragen VVD - aanvullende vragen steekincident AZC (Tineke Bouchier)",
+      "kw_sig": "4f53cda18c2b||Tussenbericht beantwoording raadsvragen VVD over aanvullende vragen steekincident AZC|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.5 Tussenbericht beantwoording raadsvragen VVD - aanvullende vragen steekincident AZC (Tineke Bouchier)"
+    },
+    "baf995667e3f5104328a8ca1cb9fcd1fdaef875338089a67cdb9bb0f68f1b7f1": {
+      "title": "Art. 42 - VVD - Aanvullende vragen Steekincident AZC Alkmaar",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=bab02311-c74a-410b-9ccc-46906341d92f&agendaItemId=f99e1aac-b8d3-49bf-9590-a2143ec06933",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.5 Tussenbericht beantwoording raadsvragen VVD - aanvullende vragen steekincident AZC (Tineke Bouchier)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/bab02311-c74a-410b-9ccc-46906341d92f",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.5 Tussenbericht beantwoording raadsvragen VVD - aanvullende vragen steekincident AZC (Tineke Bouchier)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.5 Tussenbericht beantwoording raadsvragen VVD - aanvullende vragen steekincident AZC (Tineke Bouchier)",
+      "kw_sig": "4f53cda18c2b||Art. 42 - VVD - Aanvullende vragen Steekincident AZC Alkmaar|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.5 Tussenbericht beantwoording raadsvragen VVD - aanvullende vragen steekincident AZC (Tineke Bouchier)"
+    },
+    "cce8a7121f6ea2c8d782f90e515057623cdbc7675f02ff09eb70919085084afa": {
+      "title": "GT Voorstel afdoening Motie uitbreiding vlaggenprotocol gemeente Alkmaar",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=a953c3e6-dbc5-4a9a-a012-442819e98800&agendaItemId=1e9fc2ce-0c73-40fe-bbf5-a9f7d22fb095",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.6 Voorstel afdoening motie uitbreiding vlaggenprotocol gemeente Alkmaar (Robert te Beest)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/a953c3e6-dbc5-4a9a-a012-442819e98800",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.6 Voorstel afdoening motie uitbreiding vlaggenprotocol gemeente Alkmaar (Robert te Beest)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.6 Voorstel afdoening motie uitbreiding vlaggenprotocol gemeente Alkmaar (Robert te Beest)",
+      "kw_sig": "4f53cda18c2b||GT Voorstel afdoening Motie uitbreiding vlaggenprotocol gemeente Alkmaar|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.6 Voorstel afdoening motie uitbreiding vlaggenprotocol gemeente Alkmaar (Robert te Beest)"
+    },
+    "7f45a8461e059dd16a2c5967b87368d61415dc15950eaa760902c96ca4d32d6a": {
+      "title": "240919 15-M-1 Motie Vreemd - OPA BAS SPA - Uitbreiding vlaggenprotocol - aangenomen",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=8274dbca-e1be-41bc-a3e9-fc191d15e020&agendaItemId=1e9fc2ce-0c73-40fe-bbf5-a9f7d22fb095",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.6 Voorstel afdoening motie uitbreiding vlaggenprotocol gemeente Alkmaar (Robert te Beest)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/8274dbca-e1be-41bc-a3e9-fc191d15e020",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.6 Voorstel afdoening motie uitbreiding vlaggenprotocol gemeente Alkmaar (Robert te Beest)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.6 Voorstel afdoening motie uitbreiding vlaggenprotocol gemeente Alkmaar (Robert te Beest)",
+      "kw_sig": "4f53cda18c2b||240919 15-M-1 Motie Vreemd - OPA BAS SPA - Uitbreiding vlaggenprotocol - aangenomen|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.6 Voorstel afdoening motie uitbreiding vlaggenprotocol gemeente Alkmaar (Robert te Beest)"
+    },
+    "4548675d18ab1c2d13851925722a18cb65bb1dcc242c9187b90dd965d83e3f9a": {
+      "title": "GT voorstel afdoening Motie Senioren verdienen een stem breng het Seniorenpanel Alkmaar weer bijeen.",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=c230a632-94f6-4253-ba27-fb8d57a37d5e&agendaItemId=dcbbc919-a3ba-4958-b408-dfb6a81c1a47",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.7 Voorstel afdoening motie Seniorenpanel (Robert te Beest)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/c230a632-94f6-4253-ba27-fb8d57a37d5e",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.7 Voorstel afdoening motie Seniorenpanel (Robert te Beest)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.7 Voorstel afdoening motie Seniorenpanel (Robert te Beest)",
+      "kw_sig": "4f53cda18c2b||GT voorstel afdoening Motie Senioren verdienen een stem breng het Seniorenpanel Alkmaar weer bijeen.|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.7 Voorstel afdoening motie Seniorenpanel (Robert te Beest)"
+    },
+    "9365f1ea99c357ab3f2156f501a50bcb3f0c751e209ebbd6a8b13c903d89486c": {
+      "title": "261102 5-M-4 Motie - SPA OPA SQ - Seniorenpanel - aangenomen",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=ed13b094-a90b-42cd-b691-fe877b892e19&agendaItemId=dcbbc919-a3ba-4958-b408-dfb6a81c1a47",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "3.7 Voorstel afdoening motie Seniorenpanel (Robert te Beest)"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/ed13b094-a90b-42cd-b691-fe877b892e19",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "3.7 Voorstel afdoening motie Seniorenpanel (Robert te Beest)",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.7 Voorstel afdoening motie Seniorenpanel (Robert te Beest)",
+      "kw_sig": "4f53cda18c2b||261102 5-M-4 Motie - SPA OPA SQ - Seniorenpanel - aangenomen|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 3.7 Voorstel afdoening motie Seniorenpanel (Robert te Beest)"
+    },
+    "28fc5705e4135a7af176172039328358938a212adc17d83365dd885a9e6dd888": {
+      "title": "Raadsinformatiebrief tussenbericht toezegging nog niet bestede SPUK-middelen",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=ccb4d281-3d52-4984-ac84-a94644ed71a6&agendaItemId=10ae9e74-f4a5-444c-a1db-20356e4dad0a",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "4.1 Raadsinformatiebrief tussenbericht toezegging nog niet bestede SPUK-middelen"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/ccb4d281-3d52-4984-ac84-a94644ed71a6",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "4.1 Raadsinformatiebrief tussenbericht toezegging nog niet bestede SPUK-middelen",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.1 Raadsinformatiebrief tussenbericht toezegging nog niet bestede SPUK-middelen",
+      "kw_sig": "4f53cda18c2b||Raadsinformatiebrief tussenbericht toezegging nog niet bestede SPUK-middelen|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.1 Raadsinformatiebrief tussenbericht toezegging nog niet bestede SPUK-middelen"
+    },
+    "3b1dbf2ea6bcdc3d936f449b5ac6dfc6955f0877a186af25dfba96c12855d61b": {
+      "title": "Raadsinformatiebrief raadvoorstel Audiovisuele middelen raadzaal correctie bedrag",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=a4e8caa2-7ad7-4cb9-8c65-cd3d5fd92454&agendaItemId=24ebbb7f-24bc-4da4-9e3f-4efc2a61e3c1",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "4.2 Raadsinformatiebrief raadvoorstel Audiovisuele middelen raadzaal correctie bedrag"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/a4e8caa2-7ad7-4cb9-8c65-cd3d5fd92454",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "4.2 Raadsinformatiebrief raadvoorstel Audiovisuele middelen raadzaal correctie bedrag",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.2 Raadsinformatiebrief raadvoorstel Audiovisuele middelen raadzaal correctie bedrag",
+      "kw_sig": "4f53cda18c2b||Raadsinformatiebrief raadvoorstel Audiovisuele middelen raadzaal correctie bedrag|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.2 Raadsinformatiebrief raadvoorstel Audiovisuele middelen raadzaal correctie bedrag"
+    },
+    "19777ca9e9bc8b9e5f4097bf867a64e9829c776af87842d82bbcb9ac2d0f7c0d": {
+      "title": "Raadsvoorstel Audiovisuele middelen raadzaal gewijzigd",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=b90ae1a7-7c8b-445d-a076-5c7e7c65f02b&agendaItemId=24ebbb7f-24bc-4da4-9e3f-4efc2a61e3c1",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "4.2 Raadsinformatiebrief raadvoorstel Audiovisuele middelen raadzaal correctie bedrag"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/b90ae1a7-7c8b-445d-a076-5c7e7c65f02b",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "4.2 Raadsinformatiebrief raadvoorstel Audiovisuele middelen raadzaal correctie bedrag",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.2 Raadsinformatiebrief raadvoorstel Audiovisuele middelen raadzaal correctie bedrag",
+      "kw_sig": "4f53cda18c2b||Raadsvoorstel Audiovisuele middelen raadzaal gewijzigd|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.2 Raadsinformatiebrief raadvoorstel Audiovisuele middelen raadzaal correctie bedrag"
+    },
+    "59c5eabde9de627048a7072d2211fbffc60b768c3f1017ec43dc4623be91bb79": {
+      "title": "Raadsinformatiebrief Aanwijzingsbesluit Veiligheidsrisicogebied Hekelstraat",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=d87ff04c-430d-4a1b-9068-06bf9397be28&agendaItemId=35f5da41-fdad-4fd1-813e-2b18b3347692",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "4.3 Raadsinformatiebrief Aanwijzingsbesluit Veiligheidsrisicogebied Hekelstraat"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/d87ff04c-430d-4a1b-9068-06bf9397be28",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "4.3 Raadsinformatiebrief Aanwijzingsbesluit Veiligheidsrisicogebied Hekelstraat",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.3 Raadsinformatiebrief Aanwijzingsbesluit Veiligheidsrisicogebied Hekelstraat",
+      "kw_sig": "4f53cda18c2b||Raadsinformatiebrief Aanwijzingsbesluit Veiligheidsrisicogebied Hekelstraat|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.3 Raadsinformatiebrief Aanwijzingsbesluit Veiligheidsrisicogebied Hekelstraat"
+    },
+    "92c6224ac35585650d42608a5484992dc3b672f84fb9f2f80b46789ba6c355d3": {
+      "title": "Aanwijzingsbesluit Veiligheidsrisicogebied Hekelstraat november 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=f4083352-6102-4a33-91c5-24356d3dccbb&agendaItemId=35f5da41-fdad-4fd1-813e-2b18b3347692",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "4.3 Raadsinformatiebrief Aanwijzingsbesluit Veiligheidsrisicogebied Hekelstraat"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/f4083352-6102-4a33-91c5-24356d3dccbb",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "4.3 Raadsinformatiebrief Aanwijzingsbesluit Veiligheidsrisicogebied Hekelstraat",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.3 Raadsinformatiebrief Aanwijzingsbesluit Veiligheidsrisicogebied Hekelstraat",
+      "kw_sig": "4f53cda18c2b||Aanwijzingsbesluit Veiligheidsrisicogebied Hekelstraat november 2026|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.3 Raadsinformatiebrief Aanwijzingsbesluit Veiligheidsrisicogebied Hekelstraat"
+    },
+    "958041406679b4a2975aa0b511cbfe0b9fcfd61257c8245cf8831efcb909cd35": {
+      "title": "Raadsinformatiebrief Terugkoppeling veiligheidsrisicogebied Hekelstraat",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=325e4ceb-6eaf-4b79-986c-a8c63e51f0d5&agendaItemId=ce25aa58-0c92-4e89-b3f9-996899b087f5",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "4.4 Raadsinformatiebrief Terugkoppeling veiligheidsrisicogebied Hekelstraat"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/325e4ceb-6eaf-4b79-986c-a8c63e51f0d5",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "4.4 Raadsinformatiebrief Terugkoppeling veiligheidsrisicogebied Hekelstraat",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.4 Raadsinformatiebrief Terugkoppeling veiligheidsrisicogebied Hekelstraat",
+      "kw_sig": "4f53cda18c2b||Raadsinformatiebrief Terugkoppeling veiligheidsrisicogebied Hekelstraat|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.4 Raadsinformatiebrief Terugkoppeling veiligheidsrisicogebied Hekelstraat"
+    },
+    "da09cca3c3277a0d1a209de276b0841e8f814797171eb7dd196ac628a4b874cd": {
+      "title": "Raadsinformatiebrief Startopdracht Kwakelkade / Hoornse Vaart",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=85fafc30-47a9-49a5-b4b3-19a7cfa63cd6&agendaItemId=80592a3f-a503-4a8b-9ca2-38921c4117a1",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "4.5 Raadsinformatiebrief Startopdracht Kwakelkade/ Hoornse Vaart"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/85fafc30-47a9-49a5-b4b3-19a7cfa63cd6",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "4.5 Raadsinformatiebrief Startopdracht Kwakelkade/ Hoornse Vaart",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.5 Raadsinformatiebrief Startopdracht Kwakelkade/ Hoornse Vaart",
+      "kw_sig": "4f53cda18c2b||Raadsinformatiebrief Startopdracht Kwakelkade / Hoornse Vaart|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 4.5 Raadsinformatiebrief Startopdracht Kwakelkade/ Hoornse Vaart"
+    },
+    "13e7f75efe0a4d6ffcf965e17b83da6219a7eb17d46c06c01159bef19d5b11a2": {
+      "title": "GS-besluitenlijst 17 november 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=4c84fb57-a7a4-4d1a-97ba-7807a9b6fe33&agendaItemId=9960f241-964c-43d3-b3dc-e8db63e6451a",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/4c84fb57-a7a4-4d1a-97ba-7807a9b6fe33",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland",
+      "kw_sig": "4f53cda18c2b||GS-besluitenlijst 17 november 2026|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.1 Besluitenlijst Gedeputeerde Staten Noord-Holland"
+    },
+    "28d600c9f3c0713118435fd601ec4b7065882759a8bafd7b1b73128a805dc029": {
+      "title": "Brief aan PS over Participatieaanpak bij het Programma Natuurherstel en Stikstofvermindering",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=b6035c82-8a44-40b3-a565-3429f243339c&agendaItemId=fdc8d44a-f8f2-43b3-a017-8bca3766af7e",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "5.2.1 Besluit 3: Participatieaanpak bij het Programma Natuurherstel en Stikstofvermindering"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/b6035c82-8a44-40b3-a565-3429f243339c",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "5.2.1 Besluit 3: Participatieaanpak bij het Programma Natuurherstel en Stikstofvermindering",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.2.1 Besluit 3: Participatieaanpak bij het Programma Natuurherstel en Stikstofvermindering",
+      "kw_sig": "4f53cda18c2b||Brief aan PS over Participatieaanpak bij het Programma Natuurherstel en Stikstofvermindering|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.2.1 Besluit 3: Participatieaanpak bij het Programma Natuurherstel en Stikstofvermindering"
+    },
+    "65b0b27685d1842206fab70e76e3d23a21c9abb7966b01f73083aab00b7e5e1d": {
+      "title": "Participatieplan Programma Natuurherstel en Stikstofvermindering",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=492c4b3e-557c-4014-a92e-8f814669b99e&agendaItemId=fdc8d44a-f8f2-43b3-a017-8bca3766af7e",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "5.2.1 Besluit 3: Participatieaanpak bij het Programma Natuurherstel en Stikstofvermindering"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/492c4b3e-557c-4014-a92e-8f814669b99e",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "5.2.1 Besluit 3: Participatieaanpak bij het Programma Natuurherstel en Stikstofvermindering",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.2.1 Besluit 3: Participatieaanpak bij het Programma Natuurherstel en Stikstofvermindering",
+      "kw_sig": "4f53cda18c2b||Participatieplan Programma Natuurherstel en Stikstofvermindering|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.2.1 Besluit 3: Participatieaanpak bij het Programma Natuurherstel en Stikstofvermindering"
+    },
+    "57abe6db02a645316b98f3f8f45a3e8f90269b0019fd687b80b3f5fc9f7c5562": {
+      "title": "Brief aan PS over Dashboard Klimaat & Energie in Noord-Holland - Update 2026",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=c27efdad-4b2a-4bd8-821a-1ccb0457b9aa&agendaItemId=d97b66fc-ce2b-44ab-b522-bee872dc5cbe",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "5.2.2 Besluit 6: Dashboard Klimaat & Energie, update 2026"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/c27efdad-4b2a-4bd8-821a-1ccb0457b9aa",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "5.2.2 Besluit 6: Dashboard Klimaat & Energie, update 2026",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.2.2 Besluit 6: Dashboard Klimaat & Energie, update 2026",
+      "kw_sig": "4f53cda18c2b||Brief aan PS over Dashboard Klimaat & Energie in Noord-Holland - Update 2026|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.2.2 Besluit 6: Dashboard Klimaat & Energie, update 2026"
+    },
+    "4f5e70c69539664f5f0a37a894b3ab6f0b3f047234fbec864238030f58808a59": {
+      "title": "Brief aan PS over Verbreding sponsoring sportevenementen 2027",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=59b08fd4-d894-494d-a1e4-029f5f9f8b6e&agendaItemId=11a568eb-70a6-4fae-a3d4-b5e1eeade601",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "5.2.3 Besluit 9: Verbreding sponsoring sportevenementen 2027"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/59b08fd4-d894-494d-a1e4-029f5f9f8b6e",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "5.2.3 Besluit 9: Verbreding sponsoring sportevenementen 2027",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.2.3 Besluit 9: Verbreding sponsoring sportevenementen 2027",
+      "kw_sig": "4f53cda18c2b||Brief aan PS over Verbreding sponsoring sportevenementen 2027|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.2.3 Besluit 9: Verbreding sponsoring sportevenementen 2027"
+    },
+    "5bea2f304d8d02625a9b4146d7497842f728b9fe5c74d35f793d6c68d56f1af0": {
+      "title": "Verruiming Uitgangspunten evenementensponsoring 2027",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=101d5a2b-bc25-4b8d-a7f0-ddf534d32fe6&agendaItemId=11a568eb-70a6-4fae-a3d4-b5e1eeade601",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "5.2.3 Besluit 9: Verbreding sponsoring sportevenementen 2027"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/101d5a2b-bc25-4b8d-a7f0-ddf534d32fe6",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "5.2.3 Besluit 9: Verbreding sponsoring sportevenementen 2027",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.2.3 Besluit 9: Verbreding sponsoring sportevenementen 2027",
+      "kw_sig": "4f53cda18c2b||Verruiming Uitgangspunten evenementensponsoring 2027|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.2.3 Besluit 9: Verbreding sponsoring sportevenementen 2027"
+    },
+    "067e7ac8e8bb8b5ba6acd858066c8bd8d477b77452e5c9abee2d891c0cc85891": {
+      "title": "20261120 VNG Lobbymemo",
+      "url": "https://alkmaar.bestuurlijkeinformatie.nl/Agenda/Document/39bab978-e3d4-406f-86d2-60e143ad5468?documentId=648927b0-05a4-4a1e-aadb-7accf798dce8&agendaItemId=ff909fb7-8610-45a5-ace0-ba3157527fe4",
+      "source": "Raadsstukken",
+      "gemeente": "alkmaar",
+      "first_seen": "2026-11-27T11:00:58+00:00",
+      "updated": "2026-11-27T11:00:58+00:00",
+      "last_change": null,
+      "hash": "",
+      "revisions": 1,
+      "kind": "raadsdocument",
+      "meetings": [
+        {
+          "date": "2026-11-24",
+          "meeting": "B&W Openbare besluiten college dinsdag 24 november 2026",
+          "agendapunt": "5.3 VNG Lobbymemo"
+        }
+      ],
+      "file_url": "https://alkmaar.bestuurlijkeinformatie.nl/Document/View/648927b0-05a4-4a1e-aadb-7accf798dce8",
+      "doc_date": "2026-11-24",
+      "doc_date_label": "vergaderdatum",
+      "meeting_title": "B&W Openbare besluiten college dinsdag 24 november 2026",
+      "agendapunt": "5.3 VNG Lobbymemo",
+      "last_seen": "2026-11-27",
+      "excerpt": "B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.3 VNG Lobbymemo",
+      "kw_sig": "4f53cda18c2b||20261120 VNG Lobbymemo|B&W Openbare besluiten college dinsdag 24 november 2026 · agendapunt 5.3 VNG Lobbymemo"
+    },
     "b1e375364189b170dc5292ee0b94fb623dffc9b0205c493128c3e32fca291ec7": {
       "title": "Vuurwapen aangetroffen in auto Alkmaar, vier aanhoudingen",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzdiZm5rVVpSdGdVcWNkeDZpcWV1MElOS2NPMXNNekJuanVkUGRFOFBRdlMyTHA4WDN2NUhvazAwOTZDdXJxb283OEVnalZKQmdLVGpwcDlLMnZsTW9ER1pJbUZRZGpEbnZEWmVxWGVBUHp1WU0xZzRsTzZyYWlVTHN3Nmc3OGFWcW1fQkxNN2x1eUxSOG5iZDhZYWhpX0FyVzBMa0Q0dDc0anI1WXJXNGRIT2J0LXNjeW0ta1hB?oc=5",
@@ -1588,7 +3705,7 @@
       "kw_sig": "4f53cda18c2b||Voor het eerst in jaren staat er weer een ijsbaan met écht ijs op het Waagplein in Alkmaar|"
     },
     "6a697696f1747843b8b301cdb0d42163ceec6df4ea1f14c4fcbdf3615cb7ea20": {
-      "title": "Marco Borsato terug in AFAS: Alkmaar valt erover uiteen",
+      "title": "Van ’een mooi nieuw begin’ tot ’hoe haal je het in je harses’: Alkmaar zeer verdeeld over mogelijke terugkeer Marco Borsato",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOT3ZJUjlleXZaZ3pvbDZ6Rk54Q1JqWFN5dXAtbzl1a2pXY1dYdC11Mzl5QTV4UmcxYXdJcjVZQ2VnTjJQb3VEUHhhbFVZMVE4T0J3V0sySXBoWHk2eks4M0tWbm9NOHNjelZ3cGpOek5CV0d5bFE5bVpOcGhQd0Y2SXBnMmtFUEQxcFJFc1BTTlVlX29FZWlUR0paUjk2MUxhSGtPR1ZsSGxvZnZEb003dWhWN2RMTUpyZ3lzUFdXU1ZFSXRYanBMcHhmZ3VMWV9RLWhtUVVmMmxqZUlWdkR6dEk2X1lmY3laWFdONkFteWlzSDFLdEYtRjZjYmlBQ2xFN2c?oc=5",
       "source": "In de media",
       "gemeente": "alkmaar",
@@ -1603,9 +3720,9 @@
       "last_seen": "2026-11-27",
       "doc_date": "2026-11-26",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-26T23:25+01:00",
+      "published_at": "2026-11-26T15:25+01:00",
       "published_at_source": "Google Nieuws",
-      "kw_sig": "4f53cda18c2b||Marco Borsato terug in AFAS: Alkmaar valt erover uiteen|"
+      "kw_sig": "4f53cda18c2b||Van ’een mooi nieuw begin’ tot ’hoe haal je het in je harses’: Alkmaar zeer verdeeld over mogelijke terugkeer Marco Borsato|"
     },
     "e3ffc52aad4f07d635e937f4b52f7931a3258da4cdb1913ca379e82b3e07a69f": {
       "title": "Alkmaars muziektheatergezelschap Scala te zien in RTL-programma Hitster",
@@ -3110,10 +5227,10 @@
       "kind": "media",
       "media_bron": "Rodi.nl",
       "media_match": "kop",
-      "last_seen": "2026-11-26",
-      "doc_date": "2026-11-24",
+      "last_seen": "2026-11-27",
+      "doc_date": "2026-11-27",
       "doc_date_label": "publicatiedatum",
-      "published_at": "2026-11-24T14:17+01:00",
+      "published_at": "2026-11-27T10:07+01:00",
       "published_at_source": "Google Nieuws",
       "kw_sig": "4f53cda18c2b||Tekort aan scheidsrechters baart voetbalclubs uit regio Alkmaar zorgen: ‘Zonder hen geen wedstrijden’|"
     },
@@ -212538,22 +214655,22 @@
   "status": {
     "alkmaar": {
       "Officiele bekendmakingen (KOOP)": {
-        "checked": "2026-11-27T10:30:47+00:00",
+        "checked": "2026-11-27T11:00:55+00:00",
         "ok": true,
         "count": 452,
         "new": 0,
         "note": "Laatste 30 dagen: 452 van 452 opgehaald. Dekking: Volledig vanaf 2026-01-01. Ouder dan 2026-01-01 wordt niet opgehaald."
       },
       "Raadsstukken": {
-        "checked": "2026-11-27T10:31:09+00:00",
+        "checked": "2026-11-27T11:01:08+00:00",
         "ok": true,
         "count": 10,
-        "new": 0,
+        "new": 70,
         "error": null,
-        "note": "10 van 16 vergaderingen in venster bijgewerkt; 822 documenten bekend. Dekking: vergaderingen van 2026-09-28 t/m 2027-01-11 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
+        "note": "10 van 17 vergaderingen in venster bijgewerkt; 892 documenten bekend. Dekking: vergaderingen van 2026-09-28 t/m 2027-01-11 (B&W Agenda, B&W Openbare besluiten college). Oudere vergaderingen niet."
       },
       "Raadsportaal-overzichten": {
-        "checked": "2026-11-27T10:31:10+00:00",
+        "checked": "2026-11-27T11:01:08+00:00",
         "ok": true,
         "count": 0,
         "new": 0,
@@ -212561,40 +214678,40 @@
         "note": "Overzichten van het raadsportaal (totaal in het portaal: Openbare besluitenlijsten B&W 0). Elke run de 50 nieuwste per overzicht; één keer per dag alles vanaf 2026-01-01. Beantwoorde raadsvragen worden als wijziging gemeld. Bijlagen zelf worden (nog) niet inhoudelijk gevolgd."
       },
       "Nieuws": {
-        "checked": "2026-11-27T10:31:11+00:00",
+        "checked": "2026-11-27T11:01:10+00:00",
         "ok": true,
         "count": 10,
         "new": 0,
         "note": "RSS-feed van de gemeentesite: de 10 nieuwste berichten. Oudere berichten niet."
       },
       "Raadsinformatie (ORI)": {
-        "checked": "2026-11-27T10:32:11+00:00",
+        "checked": "2026-11-27T11:02:10+00:00",
         "ok": false,
         "error": "HTTPSConnectionPool(host='api.openraadsinformatie.nl', port=443): Max retries exceeded with url: /v1/elastic/ori_alkmaar_*/_search (Caused by NewConnectionError(\"HTTPSConnection(host='api.openraadsinformatie.nl', port=443): Failed to establish a new "
       },
       "In de media": {
-        "checked": "2026-11-27T10:32:15+00:00",
+        "checked": "2026-11-27T11:02:14+00:00",
         "ok": true,
-        "count": 81,
-        "new": 1,
+        "count": 77,
+        "new": 3,
         "note": "Google Nieuws, artikelen van de laatste 3 dagen over Alkmaar, De Rijp, Driehuizen, Graft, Grootschermer, Koedijk, Markenbinnen, Noordeinde, Oost-Graftdijk, Oterleek, Oudorp, Schermerhorn, Starnmeer, Stompetoren, Ursem, West-Graftdijk, Zuidschermer. Telt mee als de plaats in de kop staat, of als een regionaal medium hem in de tekst noemt."
       }
     },
     "algemeen": {
       "Documentcontrole": {
-        "checked": "2026-11-27T10:32:15+00:00",
+        "checked": "2026-11-27T11:03:32+00:00",
         "ok": true,
-        "count": 0,
+        "count": 50,
         "errors": 0,
-        "note": "0 documenten gecontroleerd (0 pdf), 652 gevolgd (alle gemeenten), 0 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer."
+        "note": "50 documenten gecontroleerd (45 pdf), 722 gevolgd (alle gemeenten), 23 wachten nog. Controle: stukken tot 14 dagen oud elke 6 uur, tot 60 dagen dagelijks, tot 180 dagen wekelijks, ouder maandelijks. Wijzigingen worden per zin getoond; de eerste controle is een nulmeting. Pdf’s zonder leesbare tekst (scans) en grote bestanden: alleen te zien dát ze veranderden. Bij raadsvragen en informatienota’s worden ook de bijlagen gelezen (bijv. de antwoordbrief). KOOP-bekendmakingen via hun versienummer. 1 pdf zonder tekst deze run."
       },
       "Trefwoorden": {
-        "checked": "2026-11-27T10:32:15+00:00",
+        "checked": "2026-11-27T11:03:32+00:00",
         "ok": true,
         "note": "Nog geen trefwoorden ingesteld (trefwoorden.txt). Deze run 0 stukken doorzocht, 0 nieuwe treffer(s). Gezocht wordt in titel, omschrijving en de volledige tekst van pdf’s, pagina’s en bijlagen."
       },
       "Meldingen": {
-        "checked": "2026-11-27T10:32:15+00:00",
+        "checked": "2026-11-27T11:03:32+00:00",
         "ok": true,
         "note": "Pushmeldingen niet ingesteld (geheim NTFY_TOPIC ontbreekt). Dagelijkse e-mail niet ingesteld (geheimen MAIL_USER en MAIL_APP_PASSWORD ontbreken).",
         "error": null
@@ -212610,7 +214727,7 @@
     },
     "meetings": {
       "170604ef-321c-4dd4-b448-72939e18b362": {
-        "checked": "2026-11-27T10:30:47+00:00",
+        "checked": "2026-11-27T11:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-20",
@@ -212618,7 +214735,7 @@
         "documents": 1
       },
       "68637b20-8a26-4252-9b11-458e7128428e": {
-        "checked": "2026-11-27T10:30:47+00:00",
+        "checked": "2026-11-27T11:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-06",
@@ -212626,7 +214743,7 @@
         "documents": 1
       },
       "e9c1acea-0a16-4144-ad2d-95bf5921b010": {
-        "checked": "2026-11-27T10:30:47+00:00",
+        "checked": "2026-11-27T11:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-09-28",
@@ -212893,7 +215010,7 @@
         "documents": 67
       },
       "3ce315bc-6cf8-4beb-a4c4-875e9d7bdd20": {
-        "checked": "2026-11-27T10:00:55+00:00",
+        "checked": "2026-11-27T11:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-09-28",
@@ -213172,7 +215289,7 @@
         "label": "dinsdag 6 januari 2026"
       },
       "a20aa4f9-d62a-47ac-838c-e215c3c93652": {
-        "checked": "2026-11-27T10:00:55+00:00",
+        "checked": "2026-11-27T11:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-10-20",
@@ -213180,7 +215297,7 @@
         "documents": 71
       },
       "76d0f4f5-e1b7-4995-b9f2-74d91963993a": {
-        "checked": "2026-11-27T10:00:55+00:00",
+        "checked": "2026-11-27T11:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-10-27",
@@ -213196,7 +215313,7 @@
         "documents": 64
       },
       "42f2dcbc-b02c-4292-98ff-133fe6c4b5a7": {
-        "checked": "2026-11-27T10:00:55+00:00",
+        "checked": "2026-11-27T11:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-03",
@@ -213204,7 +215321,7 @@
         "documents": 1
       },
       "b5f85388-de26-4e67-be6a-3bda136604ae": {
-        "checked": "2026-11-27T10:00:55+00:00",
+        "checked": "2026-11-27T11:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Openbare besluiten college",
         "date": "2026-11-03",
@@ -213244,16 +215361,24 @@
         "documents": 40
       },
       "27f30b34-b856-4ee3-ab56-d1a4c3a9d4f3": {
-        "checked": "2026-11-27T10:00:55+00:00",
+        "checked": "2026-11-27T11:00:55+00:00",
         "gemeente": "alkmaar",
         "type": "B&W Agenda",
         "date": "2026-11-24",
         "label": "dinsdag 24 november 2026",
         "documents": 1
+      },
+      "39bab978-e3d4-406f-86d2-60e143ad5468": {
+        "checked": "2026-11-27T11:00:55+00:00",
+        "gemeente": "alkmaar",
+        "type": "B&W Openbare besluiten college",
+        "date": "2026-11-24",
+        "label": "dinsdag 24 november 2026",
+        "documents": 70
       }
     },
     "meetings_listed": {
-      "alkmaar": "2026-11-27T10:30:49+00:00"
+      "alkmaar": "2026-11-27T11:00:57+00:00"
     },
     "reports": {
       "alkmaar": {

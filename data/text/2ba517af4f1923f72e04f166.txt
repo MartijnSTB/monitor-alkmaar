@@ -1,0 +1,751 @@
+Meerjaren StrategischBedrijfsplan ROM MRA-NHN
+aTite.1
+Eindversie 4.3 8 juni 2021
+Meerjaren StrategischBedrijfsplan ROM MRA-NHN
+| 2 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Deel I: Bestuurlijke hoofdlijnen 5
+H1 | De aanleiding 6
+H2 | De uitdaging 72.1 Een dubbele opgave: economie en klimaat 72.2 Er missen in de MRA en NHN onderdelen in het ecosysteem 72.3 Door het ontbreken van een ROM, kunnen we de NationaleenEuropese herstelmiddelen niet maximaal benutten vooronze regio 8
+H3 | De voorgestelde oplossing 83.1 Oprichting van de ROM MRA-NHN 83.2 Kostenefficiënt investeren, juist in tijden vandruk op de publiekebegrotingen 93.3 Bewezen effectieve aanpak met uitvoeringskracht 9
+H4 | Publiek belang en governance 9
+H5 | De positionering 11
+H6 | De financiële aspecten van de ROM 126.1 Fondskapitaal 126.2 Exploitatiekosten 13
+Deel II: Uitgewerkt bedrijfsplan 14
+H1 | Inleiding 15
+H2 | Scope voor de ROM 162.1 Doelstelling ROM MRA-NHN 162.2 Inhoudelijke focus 162.3 Financiële focus op tickets tussen € 0,3 miljoenen € 5 miljoen 192.4 Focus op Technology Readiness Levels 6-9 19
+H3 | Werking van het Ontwikkelingsonderdeel 203.1 De ROM MRA-NHN binnen het regionale ecosysteem 203.2 Aansluiten bij de knelpunten van ondernemers 213.3 Focus op het versnellen van de stappen in hetontwikkelproces 223.4 Bieden van toegevoegde waarde aan ondernemers 22
+H4 | Werking van het Investeringsonderdeel 23
+| 3 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+4.1 De ‘economics’ van een fonds 234.2 Financieringsvraag vanuit het bedrijfsleven 244.3 Financieringsaanbod vanuit de ROM-fondsen 244.4 Herinvesterings- en exitstrategie 264.5 Looptijd, rendement en risico 27
+H5 | Werking van het onderdeel voor Rijksregelingen 285.1 De rol van de ROM bij Rijksregelingen 285.2 Een programmagestuurde uitvoering 285.3 Uitvoering bestaande rijksregelingen 29
+H6 | Organisatie en taken 296.1 Organisatie op hoofdlijnen 296.2 Taken directie en staf 306.3 Taken Ontwikkelingsonderdeel 306.4 Taken Investeringsonderdeel 316.5 Overzicht formatie 33
+H7 | Governance 347.1 De governance op hoofdlijnen 347.2 Algemene Vergadering van Aandeelhouders 367.3 Raad van Commissarissen 377.4 Directeur-bestuurder 387.5 Investeringscommissie 387.6 Governance voor de exploitatiebijdrage 397.7 Regionale samenwerkingspartners 40
+H8 | Begroting 418.1 Uitwerking per onderdeel 418.2 Waardering van het fonds 42
+Bijlagen 44Bijlage 1 | Toelichting TRL-levels 45Bijlage 2 | Toelichting aannames meerjarenbegroting 46
+Colofon 47
+| 4 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Deel I:Bestuurlijkehoofdlijnen
+| 5 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+H1 | De aanleiding
+De Metropoolregio Amsterdam (MRA) en de regio Noord-HollandNoord (NHN) zijn samengoed voor meer dan 25% van de nationale economie.Maar, de regio staat - mede alsgevolg van de COVID-19-uitbraak - voor grote economischeuitdagingen.
+De impact vanCorona op de economie van de MRA en NHN is groot.De provincie Noord-Holland heeft eeneconomische terugval van meer dan 5% (CBS, 2020).Landelijk is de krimp circa 4,4%.
+Metname de MRA kent een groot aantal sectoren die getroffenzijn door de gevolgen van deCOVID-19-pandemie.
+Het gaat hier met name om verkeeren vervoer (vooral de luchtvaart),internationale handel en detailhandel, zakelijke dienstverlening,toerisme en horeca, en deflexibele schil van de arbeidsmarkt.
+Zo’n 28% vande banen in de MRA staat onder druk(SEO, 2020).
+Maar ook in de regio NHN staat de werkgelegenheidals gevolg van Corona(fors) onder druk.
+Naast de huidige economische crisis, is er de opgaveom versneld uitvoering te geven aan deenergietransitie en de transitie naar de circulaireeconomie.
+De realisatie en financiering vandeze transitieopgaven zijn niet eenvoudig.
+Van deoude lineaire economie naar de nieuweemissievrije en circulaire economie.
+Deze nieuwe marktheeft een hoge maatschappelijkeurgentie, maar kent vanuit een traditioneel businesscaseperspectiefeen hoog risico, eenrelatief laag financieel rendement en een lange doorlooptijd.De huidige economische crisis ende noodzaak van een groene transitie vragen om eenaanpak om maatregelen te nemenwaarmee de economie gestimuleerd wordt om enerzijdsbanen te behouden en anderzijdsnieuwe duurzame werkgelegenheid te creëren.
+Vanwege deze dubbele opgave hebben de overheden inde MRA en NHN het initiatief genomenvoor de oprichting van een Regionale OntwikkelingsMaatschappij (ROM).
+In een eerder stadiumis binnen het platform Economie van de MRA en hetBestuurlijk Afstemmingsoverleg van deregio NHN gesproken over oprichting van Invest-MRA.De coronacrisis en de ervaringen met deuitvoering van Rijksregelingen, zoals de Corona-OverbruggingsLening(COL) zijn aanleidinggeweest om Invest-MRA door te ontwikkelen tot eenROM.
+Mede omdat geen van hetbestaande instrumentarium of de bestaande organisatiesbinnen het regionale ecosysteem deverbindende rol van de ROM op zich kan nemen.
+Bij de doorontwikkeling wordt intensiefsamengewerkt met het ministerie van Economische Zakenen Klimaat (EZK).
+ROM MRA-NHN
+1
+(ROM) completeert in het geografischgebied van de MRA en NHN oponderscheidende taken het palet van ROM's in Nederland.Zij completeert daarnaastook het regionale ecosysteem waar bestaande partijenmet een uitstekend trackrecordtaken uitvoeren die elders door ROM's worden uitgevoerd.Deze partners zijn bijvoor-beeld Amsterdam In Business (AIB), de Amsterdam EconomicBoard (de Board), hetOntwikkelingsbedrijf Noord-Holland Noord (ONHN), alsmedeandere gevestigdeinvesteringsfondsen.
+De ROM HORIZON en de ROM RegioUtrecht hebben een rol voor degemeenten Almere en Lelystad, respectievelijk de Gooi-en Vechtstreek.
+1
+Vooralsnog is dit de werktitel.
+| 6 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+De ROM MRA-NHN ambieert in dit speelveld een gewaardeerde en gelijkwaardige partnerte zijn.
+Zij zal initiatief nemen indien blijkt dat taakvelden in de MRA en NHN onvoldoendeafgedekt zijn en gezamenlijk met partners zorg dragenvoor invulling ofwel beteresamenwerking.
+Dit initiatief zal in het teken staanvan verbinding zoeken met en tussenpartners, bruggen bouwen en (in overleg) zelf inrichten.Zo wordt versnippering vanuit hetperspectief van de ondernemers voorkomen.
+Eenzelfdepartnerschap wordt ingericht metde in Flevoland gelegen gemeenten in de MRA, de provincieFlevoland en de ROM RegioUtrecht en HORIZON.
+Door medewerkers van de ROM enhaar partners in hun dagelijksewerkuitvoering aan elkaar te binden, is deze samenwerkinguitdrukkelijk geen papierensamenwerking, maar één die in het werkveld daadwerkelijkgevoeld wordt.
+Zo zullen onzebusiness developers een breed werkveld bedienen metpartners en kunnen investerings-oplossingen door de ROM in aanvulling op aanbod vanpartners worden ontwikkeld.
+Het belang in een notendopMet de oprichting van de ROM maakt de regio een grotesprong voorwaarts bij het structureelstimuleren van een duurzame regionale economie.
+(Innovatief)MKB en ondernemers in deenergietransitie en de circulaire economie krijgentoegang tot ondersteuning die zij door hetontbreken van een ROM nog niet konden krijgen.
+Endie in het licht van de dubbele opgaveurgenter is dan ooit.
+Met de ROM komt tot wel € 160miljoen aan fondskapitaal beschikbaarén wordt de regio aangesloten op het landelijke ROM-netwerk.Dit netwerk vormt eenbelangrijke schakel bij het ontsluiten van (herstel)middelenvanuit Europa, het Rijk enInvest-NL.
+De ROM vult aan op én versterkt het bestaandefijnmazige ecosysteem.
+De ROMvormt daarmee de missende en verbindende schakel inhet ecosysteem.
+H2 | De uitdaging
+2.1 Een dubbele opgave: economie en klimaatDe opgave in de MRA en NHN, als het gaat om het klimaatakkoorden de omslag naar eennieuwe duurzame economie, is enorm.
+Het verlagen vande hoge regionale ecologischefootprint is een gemeentegrensoverschrijdende opgavedie vraagt om grote investeringen.Deze opgave staat door de huidige economische crisisonder druk en vraagt om een nieuweimpuls aan regionale en interregionale samenwerking.Met bereidheid om over de eigengemeentegrenzen heen te kijken en gezamenlijk te investerenin economisch herstel én in degrote transitieopgaven op energie en circulair.
+2.2 Er missen in de MRA en NHN onderdelen in het ecosysteemRegio’s in het hele land spelen in op de dubbele opgave.Dat doen zijdoor te zorgen voor een sterk regionaal ecosysteemvoor duurzameeconomische ontwikkeling.
+In onze regio is het ecosysteemfijnmazigingevuld, maar we missen als enige regio in Nederlandeen organisatiedie investeringen en business development aan elkaarkoppelt voor dehele MRA en NHN.
+| 7 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Het huidige ecosysteem is, mede door het ontbrekenvan voldoende investeringskapitaal voorMKB-bedrijven, zoals blijkt uit recent kapitaalmarktonderzoek,maar beperkt in staat omdaadkrachtig in te spelen op de dubbele opgave.
+Derecente ervaringen met de uitvoeringvan rijksregelingen, zoals bijvoorbeeld de COL, latendat nog eens extra zien.
+De uitdaging isom daadkracht te vergroten met behoud van het diverseen fijnmazige ecosysteem.
+2.3 Door het ontbreken van een ROM, kunnen we de Nationaleen Europeseherstelmiddelen niet maximaal benutten voor onze regioDe Rijksoverheid en de Europese Unie (EU) richtenhun middelen nadrukkelijk op hetbestrijden van de dubbele opgave.
+Het EU Recoveryfund, het nationale Groeifonds enhet Noodpakket banen en economie zijn daar voorbeeldenvan.
+Ook Invest-NL kan met zijninnovatiekracht en investerend vermogen van € 1,7miljard een vliegwiel vormen voor deomvorming naar een sterke, groene en schone economie.In andere regio’s vervult de ROMeen cruciale rol in het verbinden van deze nationalemiddelen aan projecten van ondernemersin de regio.
+In dat kader heeft het Rijk ook miljoenenaan kapitaalversterking beschikbaargesteld voor de Nederlandse ROM’s.
+Als enige regioin Nederland beschikken wij niet over eenROM die deze rol kan vervullen.
+H3 | De voorgestelde oplossing
+3.1 Oprichting van de ROM MRA-NHNDit bedrijfsplan voorziet in de oprichting van eenprivaatrechtelijke construct met als naamROM MRA-NHN.
+De doelstelling van de ROM is om binnenhet werkgebied bij te dragen aanhet versterken van regionale economie en daarnaastaan het realiseren van detransitieopgaven op energie en aan circulariteit.Om deze doelstellingen te behalen, is ervoorgekozen om onder de ROM twee (dochter)vennootschappente hangen, waarin tweerevolverende fondsen worden gehuisvest.
+Een MKB-fondsmet een beoogd doelkapitaal vancirca € 60 miljoen (gericht op versterking van desolvabiliteit van het MKB en investeringenin economisch herstel in de provincie Noord-Hollandexclusief de Gooi & Vechtstreek) en eenTransitiefonds met een beoogd doelkapitaal van circa€ 100 miljoen (gericht op de grotemaatschappelijke transities in de MRA en NHN).
+Defocus is gefundeerd in de (economische)ambities uit de MRA Agenda 2.0 en het Ambitiedocument2040 voor NHN én sluit aan op hetmissiegedreven topsectoren en innovatiebeleid vande rijksoverheid.
+Vanuit deze focus biedtde ROM een antwoord op de hiervoor beschreven uitdagingen:1.
+Inspelen op de dubbele opgave: ondersteunen van (innovatief)MKB én versnellingvan de groene transitieopgaven door inzet van menskracht,netwerk en middelen.2.
+De ontbrekende elementen in het ecosysteem wordeningevuld door de ROM en haarbeschikbare fondskapitaal van circa € 160 miljoen(inclusief rijksbijdrage), het creërenvan een thuisbasis voor de uitvoering van Rijksregelingenén het versterken vanbusiness development in de regio en samenwerking inhet ecosysteem.3.
+Aantrekken (herstel)middelen van de EU, het Rijk enInvest-NL.
+| 8 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Met de focus op (innovatief) MKB en de transitieopgaven geeft de ROM vanuit de regionalecontext mede invulling aan het missiegedreven topsectoren-en innovatiebeleid van derijksoverheid.
+De ROM vormt de verbindende schakel tussen het EZK-beleid en het regionaaleconomisch beleid.
+3.2 Kostenefficiënt investeren, juist in tijden vandruk op de publiekebegrotingenDe dubbele opgave vraagt sowieso een grote investering.De ROM draagt eraan bij om dezeinvesteringen slimmer tot stand te brengen.
+Door metprivaat geld een hefboom te creërenop publieke middelen van de ROM (multiplier).
+Elkuur en elke euro die de ROM steekt in eenpropositie wordt in veelvoud gematcht door privateuren en euro’s.
+De ROM zal daarmee eendirecte financiële hefboom van (minimaal) 4x genereren.Elke euro van de ROM leidtdaarmee tot gemiddeld 4 euro’s geïnvesteerd in deregionale economie.
+Het indirecte effectdoor afgeleide en vervolginvesteringen is substantieel hoger.
+Door te werken met eeninvesterings- fonds voor ondernemers, in plaats vansubsidie aan ondernemers, krijgt deROM haar geïnvesteerde euro’s op termijn in principeweer terug.
+3.3 Bewezen effectieve aanpak met uitvoeringskrachtOok in andere landen wordt intensief gewerkt met National and Regional Promotional Banks(zoals de ROM).
+Uit de evaluatie van NIA (voorlopervan Invest-NL) bleek dat juist decombinatie van investeringen en business developmenteen voorwaarde is voor succes.
+Ookvrijwel alle andere regio's in Nederland kiezen voorde combinatie van investeren en businessdevelopment met een ROM.
+De ROM MRA-NHN sluit aanbij deze bewezen en effectieveaanpak, maar levert maatwerk door lean-en-mean inte voegen binnen het bestaande enkrachtige regionale ecosysteem.
+De ROM kiest hierbij positie als versterkend en verbindendbinnen het bestaande ecosysteem en zal door het sluitenvan samenwerkingsovereenkomsten/een samenwerkingsakkoord met partijen hieraan invullinggeven.
+Hierbij gaat het in iedergeval om AIB, ONHN en de Board, het innovatiefondsNoord-Holland, ParticipatiefondsDuurzame Economie Noord-Holland (PDENH) en AmsterdamseKlimaat en Energiefonds (AKEF)en de ROM Regio Utrecht en HORIZON.
+Een transparantaanbod aan ondernemers is hierbijuitdrukkelijk het doel.
+H4 | Publiek belang en governance
+De voorgestelde marktinterventie vraagt, mede vanuithet staatssteunkader, een constructop afstand van de overheid die intensief kan samenwerkenmet ondernemers.
+Hierbij is ereen onderscheid tussen de investeringsactiviteitendie echt op afstand staan en deontwikkelactiviteiten waarvoor de overheden een exploitatiebijdragebeschikbaar stellen.
+Ditwordt ook herkend in andere regio’s en landen.
+Omdie reden kiezen zij er ook voor om deROM-taken onder te brengen in een construct op afstandvan de overheid.
+Ookinternationaal is het een beproefd concept.
+| 9 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+De deelnemende regionale partijen (provincie, STAKNHN, individuele MRA-gemeenten)worden aandeelhouder in de ROM Regio bv, die op haarbeurt enig aandeelhouder is in hetTransitiefonds.
+De ROM Regio bv is samen met het Rijkaandeelhouder van de ROM bv, deenig aandeelhouder van het MKB-fonds.
+De regionale partijen nemen deel in de ROM Regio bvdoor middel van het beschikbaarstellen van kapitaal voor de versterking van de (boven)regionalesamenwerking.
+Alsaandeelhouders van de ROM Regio bv bepalen zij inde Algemene Vergadering vanAandeelhouders (AVA) van de ROM Regio bv getrapt deregionaal strategische koers die zijvoor ogen hebben voor de ROM.
+Naar rato van kapitaalinbrengkrijgen de partijen stemrechtin de AVA van de ROM Regio bv.
+Hierbij geldt in principedat besluiten genomen worden meteen gewone meerderheid (50+1).
+Voorts geldt dat depositie van kleine aandeelhouders inde ROM Regio bv aanvullend wordt beschermd.
+Om recht te doen aan de stem van de regio enerzijdsen anderzijds het behouden van eenoverzichtelijke ROM-structuur, krijgt de ROM bv tweegrote aandeelhouders: ROM Regio bven het Rijk.
+Ook voor de ROM bv geldt dat partijennaar rato van kapitaalinbreng stemrechtkrijgen in de AVA.
+Een afgevaardigde van de ROM Regiobv zal in de AVA van de ROM bv debelangen van haar aandeelhouders behartigen en vertegenwoordigen.
+Majeure besluiten, zoals gedefinieerd in de statuten,kunnen door de AVA van de ROM bvslechts worden genomen met tweederde meerderheid ineen vergadering waarbij het gehelekapitaal is vertegenwoordigd.
+Dit betekent in de praktijkdat zowel ROM Regio bv als het Rijkakkoord moeten zijn bij majeure besluiten.
+| 10 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+De overheden kiezen ervoor om bij de start van deROM fondskapitaal beschikbaar te stellen.Op basis van separaat vast te stellen bestuursovereenkomstentussen de deelnemendepartijen in de ROM bv en de ROM Regio bv worden demiddelen verdeeld over het MKB-fondsen het Transitiefonds.
+Daarbij worden ook eisen vastgelegdinzake de revolverendheid vanbeide fondsen en de eindigheid van het Transitiefonds.De governance is nader uitgewerkt indeel II.
+Met de oprichting van de ROM maken de samenwerkendeoverheden duidelijk dat zijvertrouwen hebben in de noodzakelijke publiek-privatesamenwerking.
+Door risicodragend teparticiperen in de fondsen, tonen de overheden bovendienhun vertrouwen in de ontwik-keling naar een volwassen markt voor de energietransitieen circulaire economie en decruciale rol van het (innovatieve) MKB in de regionaleeconomie.
+Hiermee stimuleren zijprivate partijen om actief te worden op deze marktin ontwikkeling én dragen zij eraan bij datherstelmiddelen van de EU, het Rijk en Invest-NL ooklanden in de MRA en NHN.
+H5 | De positionering
+De ROM sluit aan op het bestaande fijnmazige en effectieveecosysteem in de MRA en NHN.De ROM respecteert daarmee de bestaande en succesvolletaak- en rolverdeling tussenpartners zoals de Board, ONHN, AIB, Amsterdam Trade& Innovatie (AT&I) én de ROM’s inaangrenzende regio’s, met name HORIZON en ROM RegioUtrecht.
+De ROM voegt uitvoeringskracht en expertise toe opdie onderdelen die nu nog missen ofonvoldoende sterk zijn.
+Het doel is een heldere entransparante toegang te realiseren voor deMKB-ondernemers die met hun vragen niet in een doolhofvan aanbieders mogen verzanden,maar geholpen moeten worden met hun vraag.
+Het Transitiefondsricht zich daarbij op dehele MRA en regio NHN.
+Het MKB-fonds richt zich bij de start op de provincie Noord-Hollandexclusief de Gooi en Vechtstreek (die voor wat betrefthet MKB-fonds reeds is aangesloten bijde ROM Utrecht).
+De ROM zal haar expertise inzetten, maar ook nietaarzelen de verbinding te leggen met haarpartners, indien de oplossing voor de ondernemer gelegenis in hun expertise/aanbod of dezein gezamenlijkheid met elkaar moet worden aangeboden.Dit is weergegeven in onderstaandschema:
+| 11 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+De focus van de ROM ligt op het opwerken en financierenvan proposities, maar de ROM zalook eerder in de keten optreden als de andere partnersin het ecosysteem daar niet actief zijn.De oprichting van de ROM is daarmee aanvullend ophet werk van de verschillende partijen inhet ecosysteem.
+Zo kan de ROM opvolging geven aaninitiatieven die voortkomen uit denetwerk- en aanjaagfunctie van de Board, ONHN of AIBen kunnen AIB en ONHN debeschikbare fondsmiddelen inzetten als extra argumentbij het aantrekken van buitenlandsebedrijven (waarmee de ROM bijdraagt aan de acquisitiedoelstellingen).De ROM heeftaanvullend de opdracht om de samenwerking tussen departijen te stimuleren.
+Ook kunnen optermijn aanvullende taken worden toegevoegd aan deROM.
+In een samenwerkingsakkoorden/of samenwerkingsovereenkomsten leggen de partijenin het ecosysteem vast hoe zij ingezamenlijkheid de dienstverlening aan de ondernemersoptimaliseren en versnipperingkunnen tegengaan.
+Dit kan betekenen dat de ROM bijvoorbeeldop termijninternationaliseringstaken op zich zal nemen die nietdoor de andere partijen in hetecosysteem opgepakt (kunnen) worden.
+Zo wordt geborgddat alle ROM-taken binnen hetecosysteem effectief en samenhangend belegd zijn.Aanvullend wordt ook gekeken hoekennisinstellingen aan kunnen sluiten op de ROM énin hoeverre het fondsenlandschap inNoord-Holland verder vereenvoudigd kan worden, waarbij in ieder geval gekeken worden naarPDENH en het Innovatiefonds Noord-Holland.
+H6 | De financiële aspecten van de ROM
+6.1 FondskapitaalAlle partijen in het MRA-samenwerkingsverband en allegemeenten in NHN wordenuitgenodigd om, samen met het EZK, te participerenin de ROM.
+Hierbij is het van belang datde ROM’s elkaar niet beconcurreren in dezelfde regio’s,noch dezelfde aandeelhouders hebben,maar complementair aan elkaar en gezamenlijk opererenin het ecosysteem.
+Inzet is dat elkepartij een eigen afweging maakt om al dan niet teparticiperen.
+Het Rijk ondersteunt enonderschrijft de ROM-vorming via een aandeelhouderschapin de ROM bv en daarmee indirectin het MKB-fonds.
+| 12 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+De kapitaalinleg wordt ingezet ten behoeve van twee fondsen: het MKB-fonds met eenbeoogd doelkapitaal van € 60 miljoen en het Transitiefondsmet een beoogd doelkapitaal van€ 100 miljoen.
+De participatie van de regionale partnersgaat in eerste instantie naar hetTransitiefonds.
+De rijksbijdrage gaat volledig naarhet MKB-Fonds.
+In debestuursovereenkomst leggen de beoogde aandeelhoudersin de ROM bv, de ROM Regio bven/of de ROM-dochters, voorafgaand aan oprichting,vast welke kapitaalbijdrage zij zullenleveren en hoe de verdeling over de fondsen wordtgeregeld.
+6.2 ExploitatiekostenVoor de ontwikkelactiviteiten ontvangt de ROM MRA-NHNeen exploitatiebijdrage.
+De ROMkent daarbij een ingroeimodel.
+Zo zullen niet allemedewerkers vanaf dag 1 in dienst zijn bijde ROM bv.
+De uitvoering van alle taken zoals beschrevenin dit bedrijfsplan vragen eenjaarlijkse exploitatiebijdrage van circa € 2,8 miljoenper jaar.
+Dit gaat om de voorzieneorganisatie op volle sterkte in 2023.
+In de 1,5 jaardaarnaartoe kent de exploitatie eeningroeimodel.
+Insteek is dat alle partijen in de MRA via het MRA-samenwerkingsverbandplus alle gemeentenin de regio NHN en het Rijk bijdragen aan de exploitatiekosten.In de bestuursovereenkomstleggen partijen voorafgaand aan de oprichting de exactehoogte van de exploitatiebijdragevast.
+| 13 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Deel II:Uitgewerktbedrijfsplan
+| 14 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+H1 | Inleiding
+De overheden in de MRA en NHN hebben in samenwerkingmet EZK besloten tot deoprichting van de ROM.
+Deze ROM stelt de partijenbeter in staat om, gelet op deeconomische crisis en de klimaatcrisis, de regionaleeconomie toekomstbestendig te maken.Dit bedrijfsplan beschrijft hoe deze ROM wordt vormgegeven.Dit bedrijfsplan bouwt voort opde ervaring van andere regio’s die al een ROM hebbenen levert vooral maatwerk dat passendis bij de opgave van de MRA en NHN.
+Onze regio kenteen fijnmazig en effectief ecosysteemvoor bedrijfsondersteuning.
+De ROM vult hierop aanén vormt zo de sluitsteen in het geheleecosysteem.
+De ROM wordt vormgegeven als een privaatrechtelijkconstruct (besloten vennootschappenmet beperkte aansprakelijkheid).
+De ROM levert bedrijfsondersteuningin de vorm vanontwikkelen (business development), investeren (mettwee fondsen).
+De uitvoering vanbestaande taken op het gebied van internationaliseringvan het MKB en internationaleacquisitie worden niet belegd bij de ROM.
+Dit blijftde verantwoordelijkheid van AIB,Amsterdam Trade & Innovatie en ONHN.
+De dienstverleningaan bedrijven vanuit de ROMwordt door AIB en ONHN, met ondersteuning van de ROM,actief onder de aandacht gebrachtbij (innovatief) MKB, start- en scale-ups als vestigingsfactorvoor nieuwe bedrijven.
+In desamenwerkingsafspraken met AIB wordt aanvullend vastgelegdhoe de partijen dieverantwoordelijk zijn voor de uitvoering van de internationaliseringstakenen via de ROMeenduidig rapporteren richting het Rijk over het behalenvan de relevante KPI’s.
+Dit isweergegeven in onderstaande schema.
+Voor de uitvoering van de taak investeren krijgt deROM twee fondsen: één fonds gericht op(innovatief) MKB en één fonds voor de energietransitieen de circulaire economie.
+Degemeenten in de MRA en NHN, de provincie Noord-Hollanden het EZK stellen kapitaalbeschikking voor de ROM bv, ROM Regio bv en daarmeeaan de fonds-dochter(s).
+| 15 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+H2 | Scope voor de ROM
+2.1 Doelstelling ROM MRA-NHNDe ROM ondersteunt ondernemingen via business developmentprogramma’s en/of financiertondernemingen.
+De doelstelling van de ROM is om binnenhet werkgebied bij te dragen aanhet versterken van regionale economie en aan het realiserenvan de transitieopgaven openergie en aan circulariteit.
+Om deze doelstellingte realiseren ondersteunt de ROMondernemingen.
+De COVID-19-pandemie heeft grote gevolgen voor degezondheid van de Nederlandsebevolking, onze samenleving en economie.
+Duidelijkis dat de economische gevolgen vande pandemie langer bij ons zullen blijven.
+De rijksoverheidheeft daarom een noodpakketbanen en economie beschikbaar gesteld.
+Daarin wordtook gewezen op het belang vaninvesteringen door en groei van start-ups en scale-ups.Zij creëren immers een belangrijkdeel van de nieuwe werkgelegenheid.
+Daartoe stelthet Rijk onder meer € 150 miljoenbeschikbaar om het fondsvermogen van de RegionaleOntwikkelingsmaatschappijen(ROM’s) te versterken.
+De regio kan voor circa € 30miljoen aanspraak maken op dezemiddelen die worden ingezet ten behoeve van het MKB-Fonds.Hiervoor wordt een-op-eencofinanciering van de regio gevraagd.Kader | Toelichting noodpakket banen en economie
+In 2020 is Invest-NL opgericht: een nieuwe nationaleontwikkelings- eninvesteringsinstelling.
+Dit is de organisatie vanhet Rijk voor ontwikkeling en financieringvan maat- schappelijke transities.
+Het is een privaatrechtelijkerechtspersoon met eeneigen investeringsvermogen van € 1,7 miljard.
+Invest-NLgaat bijdragen aan hetfinancieren van maatschappelijke transitie-opgavendoor middel van eigen investeringen inbedrijfsmatige projecten.
+Invest-NL geeft daarnaastmeer toegang tot Europese fondsen.Invest-NL werkt intensief samen met de ROM’s.
+De ROMtreedt toe tot het landelijkeROM-netwerk én vormt voor onze regio de toegang totInvest-NL.Kader | Toelichting Invest-NL
+2.2 Inhoudelijke focusDe ROM versterkt de economische structuur van de MRAen de regio NHN.
+Hierbij wordteen onderscheid gemaakt in de inhoudelijke focus op(innovatief) MKB en de focus openergietransitie en de transitie naar de circulaireeconomie.
+Op deze beide inhoudelijkefocuspunten geeft de ROM vanuit de regionale contextinvulling aan het missiegedreventopsectoren- en innovatiebeleid van de Rijksoverheiddat zich richt op:● Energietransitie en Duurzaamheid.● Landbouw, Water en Voedsel.● Gezondheid en Zorg.● Veiligheid.
+| 16 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Het MKB-fonds richt zich geografisch op de provincieNoord-Holland, exclusief de Gooi enVechtstreek.
+Het Transitiefonds richt zich op de geheleMRA en NHN.
+Voor eventueletoekomstige taken wordt per geval bepaald wat de geografischefocus wordt.
+Focus op (innovatief) MKBEconomisch zijn de MRA en NHN sterk aan elkaar verbonden.De MRA zet in op hetversterken van de internationale positie als economischetopregio met hoge leefkwaliteit.NHN biedt mogelijkheden voor mensen en ondernemersdie ruimte zoeken met hogeleefkwaliteit in de nabijheid van de Randstad.
+Insamenhang staan de regio’s voor urgente,grote en complexe opgaven.
+Daardoor komt de concurrentiepositieen de leefkwaliteit onderdruk te staan.
+Dat geldt ook voor het welvaarts- enwelzijnsniveau van de mensen die in deMRA en NHN wonen en werken.
+In het verlengde van deCOVID-19-pandemie is er eenurgente opgave om de solvabiliteit van het MKB teversterken en met investeringen de weguit de crisis te versnellen.
+De sectorstructuur van de MRA en NHN is breed.
+Degediversifieerde economische structuurheeft de afgelopen jaren ook een nadrukkelijke vernieuwingondergaan door een omvangrijk,innovatief en levendig ‘start-up-klimaat’ en de toetredingvan meer buitenlandse bedrijven.Door de huidige economische crisis staat de regionaleeconomie echter sterk onder druk.
+DeROM wil het brede MKB verder ondersteunen.
+De MRA Agenda 2.0 wil werk maken van een veerkrachtige,inclusieve en schoneMRA-economie.
+Internationaal blinkt de MRA uit ineen hoogwaardige diensteneconomieen aantrekkelijke stedelijke voorzieningen en de regiokenmerkt zich door een sterkespecialisatie increatieve industrie, financiële enzakelijke dienstverlening, tech,life sciences & health en hoogwaardige logistiek.
+De positie van Amsterdam alsinternationale datahub, Schiphol en de haven spelenhierbij een cruciale rol.
+Daarnaastkent de MRA een sterke maak- en onderhoudsindustrie.
+Kader | Toelichting economische focus MRA Agenda 2.0
+Het Ambitiedocument 2040 positioneert NHN als eengezonde regio met een krachtigfundament.
+Economisch richt de regio zich opagri& food, water, (duurzame) energieen toerisme.Door de intensieve samenwerking tussenbedrijfsleven en kennisinstellingenen onderwijs wil de regio NHN inspelen op de vraagvan het bedrijfsleven.
+Kader | Toelichting economische focus Ambitiedocument2040
+In het verlengde van de economische agenda’s voorde regio MRA en NHN zien we een sterkeaanwezigheid van de volgende sectoren:1.
+High-Tech inclusief digitaal.2.
+Life sciences & health.3.
+Agri-food inclusief tuinbouw.4.
+Creatieve industrie.
+| 17 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+5.
+Financiële en zakelijke dienstverlening.6.
+Hoogwaardige logistiek.7.
+Water.8.
+Maak- en onderhoudsindustrie.
+Hier zien we de primaire relatie met missiegedreventopsectoren- en innovatiebeleid van deRijksoverheid op: ‘Landbouw, Water en Voedsel’, ‘Gezondheiden Zorg’ en ‘Veiligheid’.
+2
+Van ondernemingen die vragen om ondersteuning wordtverwacht dat ze op gepaste wijzeondernemen met oog voor mens en milieu.
+Daarom geldtals uitgangspunt dat de ROMvoornamelijk die ondernemingen ondersteunt die deenergietransitie en de transitie naar decirculaire economie niet schaden (do-no-harm-principe).Bedrijven die primair actief zijn ophet gebied van (duurzame) energie of de circulaireeconomie worden doorverwezen naar hetTransitiefonds (en visa versa).
+Focus op energietransitie en de transitie naar decirculaire economieDe klimaatambities uit Parijs betekenen volgens hetPlanbureau voor de Leefomgeving (PBL)dat vooral het energiesysteem ingrijpend moet wordenveranderd, ook in Nederland.
+Deuitstoot van broeikasgassen moet in de periode tot2050 vergaand worden verminderd.
+De circulaire economie is een economisch systeem datbedoeld is om de herbruikbaarheidvan producten en (fossiele) grondstoffen te maximaliserenen waardevernietiging teminimaliseren.
+Dit is anders dan in het huidige lineairesysteem, waarin grondstoffen wordenomgezet in producten die aan het einde van hun levensduurworden vernietigd.
+Binnen de voorgaande kwalitatieve definitie van deenergietransitie en circulaire economiespecialiseert de ROM zich, wat betreft de transitieopgavengefinancierd door hetTransitiefonds, op zeven duurzame technologievelden.De technologievelden zijn gebaseerdop de centrale technieken zoals deze aan bod komenin de klimaattafels:1.
+Hergebruik materialen: benutten restmaterialen waarmeehet aanboren van nieuwematerialen voorkomen wordt.2.
+Groene grondstoffen: benutten van groene (biobased)grondstoffen die afbreekbaarzijn of hergebruikt kunnen worden.3.
+CO2 als grondstof: inzet van opgewerkte CO2 als grondstofvoor nieuweproductieprocessen.4.
+Duurzame elektriciteit: opwekken, opslaan en distribuerenvan duurzame energiezonder CO2-uitstoot.
+3
+5.
+Duurzame warmte (inclusief geothermie): onttrekken,opslaan en distribueren vanduurzame warmte zonder additionele CO2-uitstoot.
+3
+In het investeringsreglement wordt bio-massa uitgesloten.
+2
+Bijvoorbeeld op basis van signalen vanuit de Board,die een agendasettende rol heeft voor de MRA, kandespecialisatie op termijn worden bijgesteld.
+| 18 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+6.
+Alternatieve brandstof/gassen: ontwikkelen, opslaan en distribueren van alternatievebrandstoffen zoals waterstof (H2) en synthetische-kerosine.7.
+Verhogen efficiency/besparing: alle maatregelen diebijdragen aan een substantiëleverlaging van CO2-uitstoot.
+Hier zien we de primaire relatie met missiegedreventopsectoren en innovatiebeleid van derijksoverheid op de missie: ‘Energietransitie en Duurzaamheid’.
+2.3 Financiële focus op tickets tussen € 0,3 miljoenen € 5 miljoenVia haar twee fondsen ondersteunt de ROM ondernemingenmet leningen of participaties.
+Ditkunnen individuele bedrijven of consortia zijn.
+DeROM richt zich daarbinnen op het realiserenen/of het financieren van een levensvatbaar bedrijfsplan.Dit wordt de ‘propositie’ genoemd.
+De meeste proposities zullen een financiële vraaghebben.
+Dit noemen we de tickets.
+In decontext van dit bedrijfsplan gaat het bij de ticketsom de gevraagde bijdrage van de ROM ende nog op de markt te financieren bijdrage.
+In de MRA en NHN is al veel ondersteuning en financieringvoor kleinere tickets.
+Op landelijkniveau is er met Invest-NL veel ondersteuning en financieringvoor grote tickets.
+De ROMricht zich op het tussenliggende gebied van € 0,3miljoen tot € 5 miljoen waarvoor in de MRAen NHN nog maar beperkte ondersteuning en financieringaanwezig is.
+4
+Ondanks dat deafgelopen jaren het aanbod aan fondsmiddelen is gegroeid,blijkt uit recentkapitaalmarktonderzoek dat het investeringstekortdesondanks is toegenomen.
+DeCOVID19-pandemie versterkt dit effect.
+Voor het Transitiefonds geldt als aanvullende eisdat de bestaande fondsen AKEF en PDENHhet primaat krijgen voor tickets tot € 2 miljoen.Als deze fondsen bepaalde proporties nietkunnen of willen ondersteunen, komt het Transitiefondsin beeld.
+Het MKB-fonds zal voorgrotere tickets en tickets groter dan € 5 miljoende samenwerking zoeken met de overigeROM’s of Invest-NL.
+Als er in dit bedrijfsplan gesprokenwordt over de tickets, gaat het overde financieringsbijdrage van de ROM (of de bijdrageopgehaald kan worden op de privatemarkt).
+2.4 Focus op Technology Readiness Levels 6-9In lijn met de uitgevoerde marktverkenning richt deROM zich in de basis op hetondersteunen of financieren van groei en op (grootschalige)toepassingen.
+Het draait hierbijom het commercialiseren van in concept bewezen technologieën.De ROM richt zich daarbij opde TRL levels 6 tot en met 9.
+Zie bijlage 1 voor toelichtingop TRL-levels.
+4
+Voor het transitiefonds geldt dat 90% aangewend moetworden voor tickets boven de € 2 miljoen.
+| 19 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Daarmee begint de ondersteuning van de ROM bij proposities die hun haalbaarheid hebbenbewezen in een testopstelling die lijkt op een operationeleomgeving (of proposities die daardicht tegenaan zitten).
+Er wordt vanuit de ROM in principe geen ondersteuning geboden aanproposities die hun marktintroductie hebben afgerond,tenzij dat binnen de scope vaneventuele rijksregelingen valt.Binnen deze technologische scope vallen bijvoorbeeldhet investeren in de opwekking eninfrastructuur voor (groene) waterstof, de opschalingvan technieken voor het omzetten vanplastics in nieuwe grondstoffen en de ontwikkelingvan een grootschalige installatie voorbioraffinage.
+Buiten de scope valt bijvoorbeeld deaanleg van reguliere zonneparken waarbijmarktintroductie reeds volledig heeft plaatsgevonden.
+H3 | Werking van het Ontwikkelingsonderdeel
+3.1 De ROM MRA-NHN binnen het regionale ecosysteemDe ROM moet eraan bijdragen dat proposities wordenopgewerkt tot plannen die marktgereedzijn.
+Dit noemt men ook wel business development waartoede ROM een netwerk onderhoudten verbinding legt tussen bestaande netwerken.
+Centraal staan het ondersteunen van deontwikkeling van goede proposities voor het MKB-fondsen Transitiefonds en het uitvoerenvan nationale programma’s, zoals het Investor ReadinessProgramma in gezamenlijkheid metde andere ROM’s.
+Daarnaast wordt uitvoering gegevenaan rijksregelingen, waarvoor de ROMeen exploitatiesubsidie ontvangt.
+In deze combinatievult de ROM zowel een witte vlek in hetlandelijke ecosysteem als in het regionale ecosysteem.
+Met de introductie van de ROM voor de regio MRA enNHN beschikken alle regio’s inNederland over een ROM die als regionale counterpartvoor het Rijk en Invest-NLfunctioneert.
+Binnen de MRA en NHN ontbreekt dezeorganisatie op dit moment metuitzondering van deelgebied Flevoland en deels deGooi en Vechtstreek.
+Hiermee vormt deROM onder andere de missing link in de opwerking enfinanciering van bedrijfsmatigeinitiatieven binnen MRA en NHN naar Invest-NL-waardigeproposities, (herstel)middelen vanhet Rijk en de EU.
+| 20 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+De ROM wordt zo ingericht dat het de verbindingen tussen de verschillende organisaties inhet ecosysteem versterkt.
+De ROM begint waar de partijenin het huidige ecosysteemstoppen met hun ondersteuning.
+Hiermee houden de MRAen NHN vast aan het bestaande enhoogwaardige netwerkmodel binnen het ecosysteem.
+Aanvullendkrijgt de ROM een opdrachtom samenwerking te stimuleren.Ook kunnen op termijn taken worden toegevoegd aande ROM.
+Door middel van een samen-werkingsakkoord en/of samenwerkingsovereenkomstenmaken de partijen nadere afsprakenover hoe zij in samenhang de ondersteuning aan ondernemerskunnen versterken.Eenduidige communicatie en transparante toegang tothet gehele ecosysteem voorondernemers is daarbij een belangrijk thema.
+3.2 Aansluiten bij de knelpunten van ondernemersHet Ontwikkelingsonderdeel opereert, net als de geheleROM, marktgedreven (op basis vanvragen vanuit het bedrijfsleven).
+Ondernemers diewerken aan de innovatieve projecten of detransitieopgaven hebben te maken met een scala aanniet-financiële barrières.
+Voorbeeldendaarvan zijn:● Inzicht in technologische mogelijkheden.● Inzicht in economische haalbaarheid.● Vinden en binden van kennispartners en technologie-leveranciers.● Matchmaking met potentiële klanten en toeleveranciers.● Beschikbaarheid van (demonstratie) locaties.● Toegang tot buitenlandse markten en netwerken.
+De business developers van de ROM ondersteunen opbovenstaande punten vanaf hetmoment dat deze ondersteuning niet langer gebodenkan worden door partijen in hetbestaande ecosysteem.
+De business developers dragenook bij aan de doorgeleiding naarprivate investeerders door het toetsen van innovatiesop technische en commerciëlehaalbaarheid.
+De ROM adviseert en begeleidt ondernemersom hun plannen uitvoerbaaren financierbaar te maken.
+Binnen het Ontwikkelingsonderdeel richt een aantal businessdevelopers zich expliciet op het (innovatieve) MKBen een deel richt zich op de transitie-opgaven.
+Elke focus vraagt zijn eigen sectorexpertise.
+Voorbeeld project vanuit de transitieopgave
+Een voorbeeld is het omzetten van afval in nieuwegrondstoffen.
+Een groot deel van hetNederlandse afvalplastic is namelijk nog niet recyclebaar.Op kleine schaal bestaanverschillende pilots om plastics om te zetten in grondstoffenvoor nieuwe plastic productenof voor ander productieprocessen.
+De businesscasevoor opschaling hiervan op industriëleschaal ontbreekt.
+Hierbij kan gedacht worden aan hetomzetten van niet-recycleerbareafvalplastics in noodzakelijke grondstoffen voor degroene chemische industrie.
+Voor hetorganiseren van deze opschaling moeten consortia gebouwdworden en dienen stevigeinvesteringen te worden gedaan (waarbij de ROM kanondersteunen in het traject naarbusinesscase en de daaropvolgende financiering).
+| 21 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+3.3 Focus op het versnellen van de stappen in het ontwikkelprocesBinnen de scope draagt de ROM eraan bij dat propositiessneller van idee tot realisatiekunnen worden gebracht.
+Om hun proposities naar demarkt te brengen, doorlopenondernemers globaal vijf stappen, weergegeven in navolgendschema.
+De kracht van de ontwikkelactiviteiten zit in de ontwikkelkracht,het organiserend vermogenen de ecosysteemversterking.
+Het werk van de businessdevelopers richt zich, gelet opvraaggestuurde benadering, met name op de knelpuntenin de overgang van debusinesscase- naar de uitvoeringsfase.
+De andere fasenworden primair door het bestaandeecosysteem ondersteund.
+In aanvulling óp - en in goede afstemming mét - departners wordt in het ecosysteemondersteuning geboden bij knelpunten in de voorafgaandeovergang van de plan- naarde businesscasefase:● Van plan- naar businesscasefase.
+In deze stap is hetproject nader uitgewerkt.Specifieke opdrachten worden uitgezet, bijvoorbeeldvoor ontbrekende technischekennis of marktonderzoek.
+Hiermee geven de betrokkenpartijen aan zich in te zullenzetten om toe te werken naar een businesscase.
+Debusiness developers van de ROMtoetsen, voor zover bestaande partners in het ecosysteemdat niet op kunnen pakken,de businesscase op financiële en technische haalbaarheiden adviseren of het project-consortium zo nodig versterkt moet worden op weg naarfinanciële haalbaarheid.● Van businesscase- naar uitvoeringsfase.
+Om van eenfinancierbare businesscase tekunnen spreken, moet het voorstel aan een aantal criteriavoldoen.
+De financiële,commerciële en operationele haalbaarheid moet op hoofdlijnenzijn aangetoond en deonderlinge afspraken (risico’s en verantwoordelijkheden)tussen partijen moeten inbeeld zijn.
+Dit is het fundament voor demonstraties(op grote schaal).
+De ROMbusiness developers versnellen deze laatste stap naarmarktintroductie.
+3.4 Bieden van toegevoegde waarde aan ondernemersMedewerkers van het Ontwikkelingsonderdeel leggennieuwe verbindingen.
+Doortechnologieproviders of leveranciers van grondstoffengezamenlijk te koppelen aan een initieelconsortium (business-to-business).
+Of door verschillendefinanciële partijen bij elkaar tebrengen op weg naar een sluitende businesscase.
+Debusiness developers van de ROMfungeren als katalysator, nadat het bedrijfslevenheeft aangegeven kansen te zien ofmogelijkheden te willen onder- zoeken.
+Deze vraagsturingis essentieel om vroegtijdig tetoetsen of de inzet van de ROM van toegevoegde waardeis.
+Is er een behoefte die wordtingevuld?
+Zijn er afnemers of klanten?
+Wordt er meerwaardegegenereerd?
+| 22 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Alleen wanneer het bedrijfsleven de kar wil trekken kan de ROM zinvol ondersteuning bieden inde vorm van business development op die onderdelendie nog niet worden aangeboden in hetecosysteem.
+Internationale bedrijven hebben in 2019 gezorgd vooreen groei van duizenden banen inde MRA en NHN.
+In 2019 openden meer dan 165 nieuweinternationale bedrijven eenvestiging in onze regio (cijfers AIB en ONHN in samenwerkingmet NFIA).
+Uit deze cijfersblijkt dat de regio, los van Corona, succesvol isin het aantrekken van buitenlandsebedrijven en het ondersteunen van internationaliseringvan het (innovatief) MKB.
+Dezesuccesvolle praktijk willen we behouden.
+Het is daaromniet noodzakelijk dat de ROM eenuitvoerende taak krijgt op het gebied van internationaleacquisitie en internationaliseringvan het (innovatief) MKB.
+Wereldwijd blijven AIB enONHN onze regio promoten en leggenze contact met bedrijven die bij ons innovatieve ecosysteempassen.
+De ROM krijgt eenliaisonfunctionaris die zorgt voor effectieve samenwerkingtussen de ROM en deverantwoordelijke organisaties voor internationaleacquisitie en internationalisering vanhet (innovatief) MKB.
+De ROM zal zich proactief inzettenom de gebieden die op ditmoment niet of niet voldoende worden ondersteund aante wijzen en te komen tot eenpassend (samenwerkings)systeem waarbij de acquisitieactiviteiten(mede) van de ROMgelijk zijn aan de acquisitie en internationaliseringstakendie door de andere ROM’s wordenuitgevoerd.
+Kader | Internationale acquisitie door AIB en ONHN
+H4 | Werking van het Investeringsonderdeel
+4.1 De ‘economics’ van een fondsDe fondsen zijn een belangrijk speciaal onderdeel van de ROM.
+De fondsen worden ingezetom zowel een maatschappelijke als een financiële doelstellingte bereiken:● Maatschappelijke doelstelling: voor de ROM is de maatschappelijkedoelstelling hetondersteunen van regionale economie enerzijds en deenergietransitie en de transitienaar een circulaire economie anderzijds.● Financiële doelstelling: De ROM-fondsen hebben alsfinanciële doelstelling om(minimaal) revolverend te zijn.
+Het fondsbeheer vanbeide fondsen dient daarbinnengedekt te worden.
+Voor het MKB-fonds wordt ingezetop 100% revolverendheid(inclusief inflatiecorrectie) en voor het transitiefondsop nominale revolverendheid(exclusief inflatiecorrectie gelet op de aanvullendemaatschappelijke doelstelling vandit fonds).
+De maatschappelijke en financiële doelstellingen dienenals input voor het vast te stelleninvesteringsreglement.
+De AVA van de ROM bv, bestaandeuit een afgevaardigde vanuit deROM Regio bv en het Rijk stelt het investeringsreglementin haar eerste AVA vast.
+Diestrategie zal, met het oog op de gewenste risicospreiding,per fonds kaders stellen aan deomvang en aard van de investeringen.
+| 23 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+De twee fondsen hebben een vergelijkbare scope als het gaat om het aanbod vanfinancieringsmogelijkheden, ticketsize en geografischescope.
+Het verschil zit in deinhoudelijke focus.
+Dit werken wij hieronder naderuit.
+4.2 Financieringsvraag vanuit het bedrijfslevenDe ROM-fondsen ondersteunen verschillende soortenbedrijven.
+De bedrijven kunnen hetfondsbeheer direct benaderen, doorverwezen wordendoor andere fondsen of aangedragenworden door de business developers van de ROM.
+DeROM onderscheidt vier soortentypologieën van bedrijven.
+Deze zijn hieronder indicatiefsamengevat (waarbij ookcombinaties tussen de typologieën mogelijk zijn).
+In de MRA en NHN is een duidelijke behoefte aan aanvullendeinnovatiefinanciering voor hetMKB in de topsectoren.
+Het investeringsgat wordt geraamdop minimaal € 60 miljoen perjaar in de periode 2020-2030.
+Het investeringsgatis de onbalans tussen vraag vanuit deverschillende type bedrijven en aanbod van kapitaal uit de verschillende regionale fondsen.Het gat is 16,3% groter geworden (ERAC, 2020).
+De investeringsopgave voor de energietransitie ende transitie naar de circulaire economiegaat verder dan de behoefte aan innovatiefinancieringvoor het MKB zoals hierbovenbeschreven.
+In 2020 heeft het PBL de nationale kostenberekend voor het realiseren van degecombineerde doelstellingen uit het Klimaatakkoord(2019) en het Energieakkoord (2013).De totale nationale kosten bedragen circa € 3 miljardper jaar (PBL, 2020).
+Naar rato van hetBNP gaat het voor de MRA en NHN om circa € 750 miljoenper jaar oftewel € 7,5 miljard overde periode 2020-2030.
+Een substantieel deel moet komenvanuit private initiatieven dieonvoldoende toegang hebben tot kapitaal.
+4.3 Financieringsaanbod vanuit de ROM-fondsenMet een MKB-fonds van € 60 miljoen en een Transitiefondsvan circa € 100 miljoen zal hetinvesteringsgat voor MKB in topsectoren worden gedekt.Ook met de bijdrage van hetTransitiefonds wordt een goede stap gezet in de ondersteuningvan duurzame entransitie-initiatieven.
+| 24 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+De tickets van de ROM liggen tussen de € 0,3 miljoen en € 5 miljoen.
+De financiering moetgericht zijn op ontwikkeling en groei van het bedrijf.De financiering mag niet leiden totuitkeringen aan bestaande aandeelhouders of herfinancieringvan eerdere financiers.
+De ROM opereert altijd samen met andere (financiële)partijen en of andere (impact)investeerders.
+Hierbij biedt zij eigen vermogen en(achtergestelde) leningen (inclusief assetbased finance en converteerbare leningen).
+Bij hetverstrekken van eigen vermogen aanondernemingen neemt de ROM alleen minderheidsbelangen(maximaal 49,9%).
+Hieronderzijn de belangrijke kenmerken weergegeven.Beschrijving Zeggenschap Looptijd
+Lening(seniordebt)
+● Vorm van vreemdvermogen waarbij deleningnemer zeker-heden afgeeft aan deleningverstrekker● Verstrekker heeft daar-mee recht tot uitwin-ning van het onderpandwanneer de lening-nemer in gebreke blijft
+● Senior debt-investeerders hebbengeen zeggenschapin een onderneming,tenzij hiervoor bepaalderechten zijn opgenomenin de convenanten vande lening
+● De looptijd vansenior debt isafhankelijk vande specifiekeafspraken gemaakttussen de geldver-strekker en deonderneming
+Achter-gesteldelening(juniordebt)*
+● Vorm van vreemdvermogen waarbij deverstrekker achter-gesteld is ten opzichtevan andere (senior)financiers bij betaling vanrente en aflossing enuitnutting van zeker-heden
+● Junior debt-investeerders hebbengeen zeggenschapin een onderneming,tenzij hiervoor bepaalderechten zijn opgenomenin de convenanten
+● (Middel)langelooptijd met weinigtot geen afbetalinggedurende de loop-tijd.
+In het alge-meen wordt ertussentijds nietafgelost op dehoofdsom
+Eigenvermogen(Equity)
+● Bestaat uit de investe-ring van aandeelhouders● Aandeelhouders wordenals laatste terugbetaaldbij een faillissement,maar delen mee in eenpotentiële upside bij exit(of winsten bij verkoop)
+● De houders van heteigen vermogen (aan-delen) van een bedrijfbezitten het eigen-domsrecht van eenonderneming en daar-mee ook de zeggen-schap
+● Voor eigenvermogen geldteen onbeperktelooptijd of totmoment vanverkoop of liqui-datie van de onder-neming.
+Hierdoorwordt het ookgezien als perma-nent vermogen
+* er kunnen ook converteerbare leningen worden verstrekt.
+| 25 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Het MKB-fonds richt zich op het brede MKB (zoals beschrevenin hoofdstuk 2).
+Bedrijven metproposities die zich primair richten op de energietransitieof de transitie naar de circulaireeconomie worden doorverwezen naar het Transitiefonds(en visa versa).
+Bedrijven dieaanspraak maken op financiering uit het Transitiefondsmoeten ook hun maatschappelijkeimpact aantonen (uitgangspunt is 10% meer impact danopkopen van EU ETS
+5
+).
+Naar detoekomst toe kan ook gewerkt worden met een nog opte stellen impactkader met ambitieuzeen meetbare impactdoelen op het gebied van circulariteiten energietransitie.
+Propositieszullen dan worden getoetst op de bijdrage aan dezedoelen.
+4.4 Herinvesterings- en exitstrategieDe fondsmanagent stuurt actief op exits bij de portfoliobedrijven.Bij de initiële investerings-beslissing wordt onderbouwd dat de propositie, geletop de businesscase, goed te verkopenis.
+Bij participaties moet met de co-investeerdersop voorhand de gewenste exitstrategieworden vastgelegd.
+Tegen het einde van de overeengekomenlooptijd biedt het fonds zijnparticipatie te koop aan.
+Hierbij borgt het fondsbeheervoldoende flexibiliteit bij het bepalenvan het verkoopmoment.
+In het geval van financierenwordt het rendement bepaald door derente en aflossing (en eventuele tussentijdse herfinancieringen).Leningen hebben eenaflossingsschema voor terugbetaling van de hoofdsom.Bij het verstrekken van leningenkijkt het fondsbeheer per geval in hoeverre er incentivesingebouwd kunnen worden omvervroegde terugbetaling te stimuleren.
+Op het MKB-fonds is de algemene aandeelhoudersinstructievoor ROM’s (zoals opgenomen alsbijlage bij de bestuursovereenkomst) van toepassing.Voor het Transitiefonds geldt dat hetvalt binnen de kaders van de IR en de besluiten vande AVA.
+Uitgangspunt is om iedere 4 à5 jaar de voortgang van de fondsen inclusief herfinancierings-en exitstrategie opfondsniveau te evalueren.
+6
+Hierbij zijn twee alternatievestrategieën voorzien:● De keuze om het beschikbare vermogen na (tussentijdse)exits te herinvesteren in lijnmet de doelstellingen uit het investeringsregelement.Dit leidt tot een verlenging van deinvesterings- en fondsperiode.● De keuze om gerealiseerd rendement uit te keren aande aandeelhouders én afbouw vanbeschikbare fondskapitaal.
+Na vrijgave van rendementen (delen van) het fondskapitaalkunnen de gerevolveerde middelen door de aandeelhoudersopnieuw worden ingezetvoor eigen maatschappelijke opgaven.
+Bij de exitswordt geborgd dat het fonds blijftbeschikken over voldoende vrije ruimte om het managementvan de portefeuille goed tekunnen uitvoeren (gericht op de doelstelling van minimalerevolverendheid en het strevennaar market rate of return).
+6
+De eerste evaluatie zal minimaal na 4 jaar plaatsvinden(i.v.m. de gemaakte afspraken inzake deexploitatiebijdrage van de regionale partners voorde periode van 4 jaar; overwogen wordt om daarnaaan te sluitenbij de 5 jaarlijkse evaluatieperiode die de andereROM’s hanteren).
+5
+Het Europese systeem voor emissiehandel is het eerstegrote systeem voor het verhandelen van uitstootrechtenvan broeikasgassen in de wereld, en is ook de grootste.Het trad in 2005 in werking om de opwarming van deaardetegen te gaan.
+| 26 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+In ieder geval tot de eerste evaluatie (maximaal 6 jaar) zullen de fondsen geen dividenduitkeren.
+Het MKB-fonds en het Transitiefonds hanterenelk een andere exit-strategie:● Het MKB-fonds is gericht op instandhouding.
+Het fondsbeheervan het MKB-fonds kanrendementen binnen het revolverende karakter continuherinvesteren in nieuweproposities binnen de kaders van het investeringsregelement.Bij rendement bovenhet revolverende karakter (inclusef inflatiecorrectie)bestaat de mogelijkheid omdividend uit te keren aan de aandeelhouders. [nee,tenzij-principe]● Het Transitiefonds is erop gericht dat de aandeelhoudersaan het eind van de looptijdhun investering minimaal nominaal terugontvangen.Na een investeringsperiode van10 jaar zal het fondsbeheer de portefeuille in dedaaropvolgende 15 jaar geleidelijkafbouwen of inzetten op verkoop van de resterendeportefeuille; deze periode kan met5 jaar verlengd worden.
+Bij rendement boven het nominaal revolverende karakterwordt de aandeelhouders voorgesteld om over te gaantot dividenduitkering, binnende wettelijke voorschriften inzake dividenduitkering.[Ja, tenzij-principe]
+4.5 Looptijd, rendement en risicoHet fondsbeheer streeft naar de realisatie van eenmarket rate of return, waarbij rekeningwordt gehouden met de hogere risico’s en/of de langeredoorlooptijd die de ROM-fondsenhanteren ten opzichte van marktpartijen.
+Dit kenthet volgende onderscheid tussen de tweefondsen:● Het MKB-fonds kent op basis van de exitstrategie eencyclus van 10 à 14 jaar.
+Dit isde periode waarin het gecommitteerde vermogen wordtgeïnvesteerd in proposities énalle initiële proposities leiden tot een succesvolleexit of beëindiging.
+Na eensuccesvolle exit kan het vrijgekomen kapitaal opnieuwgeïnvesteerd worden in nieuweproposities binnen de scope van het proces.
+Bijvoorbeeldbij fondskosten van 1,5%van het gecommitteerde kapitaal en een inflatie van1,5% dient het MKB-fondsminimaal een rendement te realiseren van 3% per jaar.Op propositieniveau hanteerthet fondsbeheer de rendement- en risicomatrix conformde algemene aandeelhouders-instructie als uitgangspunt.● Het Transitiefonds kent een looptijd van 25 jaar.Dat is de periode waarin het fondszich moet terugverdienen en de kapitaalinleg wordtuitgekeerd aan deaandeelhouders.
+Hierbij wordt uitgegaan van een investeringsperiodevan circa 10jaar.
+Dat is de periode waarbinnen de investeringenworden gedaan.
+Hierna resteertnog 15 jaar voor beheer van de portefeuille (immers,ook voor financiering die in hetlaatste investeringsjaar worden versterkt, geldt demaximale looptijd van 15 jaar).
+In de bestuursovereenkomst worden afspraken gemaaktinzake het moment waaroppartijen de daadwerkelijke kapitaalstorting moetendoen om zeker te stellen dat de ROMhaar investeringstaken effectief kan uitvoeren.
+De ervaringen van andere ROM’s tonen aan dat revolverendheidvan de brede MKB-fondsenhaalbaar is.
+De uitgevoerde financiële analyse voorhet Transitiefonds toont tevens aan datnominale revolverendheid van dit fonds ook haalbaaris.
+| 27 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Dit blijkt uit het basisscenario en diverse conservatieve scenario’s.
+In het meest negatievescenario, dat is doorgerekend tijdens ‘botsproeven’, is sprake van een revolverendheid van85%.
+Naarmate het fonds aanvullende risico’s accepteertom haar maatschappelijkedoelstelling te realiseren, zal het financiële rendementdalen.
+In de door de aandeelhoudersvast te stellen investeringsregelementen worden dedefinitieve kaders voor de allocatie vanmiddelen bepaald.
+Hierbij geldt het streven naar revolverendheid(100%) voor het MKB-fondsen, gelet op het risicoprofiel, nominale revolverendheidvoor het Transitiefonds als onder-grens voor het investeringsregelement.
+Het rendement op fondsniveau kan niet een-op-een wordendoorgeschoven naar deindividuele investeringen binnen de fondsen.
+Het benodigderendement op een investering isafhankelijk van het onderliggende risicoprofiel ende kans dat een investering verloren gaat.Mislukkingen en successen zullen elkaar binnen hetfonds moeten compenseren.
+Daarbij dientiedere individuele investering wel een positieve businesscaseen rendementsverwachting tehebben.
+H5 | Werking van het onderdeel voorRijksregelingen
+5.1 De rol van de ROM bij RijksregelingenHet Rijk kan voor specifieke economische uitdagingenspecifieke regelingen inzetten diebedrijven en ondernemers direct ondersteunen.
+Dezeregelingen hebben in principe eentijdelijk karakter (looptijd van een aantal jaren).De dekking van de uitvoeringskosten wordtgeregeld per regeling en in principe gedekt door derijksoverheid.
+Deze regelingen worden soms landelijk uitgevoerd,maar steeds vaker wordt gekeken naarde regio’s voor de uitvoering.
+Nu Nederland een bijnalandsdekkend netwerk van ROM’sheeft, zijn deze uitgegroeid tot eerste aanspreekpuntvoor de regionale uitvoering vaneconomische rijksregelingen.
+De COL is een voorbeeldvan een dergelijk regeling die mede opinitiatief van de ROM’s door het Rijk bij hen is belegd.De ROM krijgt de centrale taak bijcoördinatie en uitvoering van nieuwe regelingen dievragen om een decentrale uitvoering inde MRA en NHN.
+5.2 Een programmagestuurde uitvoeringHet onderdeel voor rijksregelingen krijgt een kernteamdat coördinatie voert op de lopendeCOL-regeling én de afstemming met EZK over nieuweregelingen voert.
+Vanuit dit kernteamkunnen per regeling snel deskundige en toegewijdeproject- of programmateams ingerichtworden voor de uitvoering van nieuwe regelingen.
+Debemensing wordt per regeling op maatsamengesteld uit experts van het Ontwikkelings- enInvesteringsonderdeel, en/of insamenwerking met andere partijen in het innovatie-ecosysteem.Door de coördinatie vannieuwe rijksregelingen bij de ROM te beleggen krijgenondernemers één aanspreekpunt.Dit vraagt nauwe samenwerking met de ROM Regio Utrechten HORIZON.
+| 28 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+5.3 Uitvoering bestaande rijksregelingenOp dit moment lopen er twee rijksregelingen die gerichtzijn op ondernemers die decentraalworden uitgevoerd.
+Het gaat om de uitvoeringsregelingsubsidie MKB innovatiestimuleringtopsectoren Noord-Holland (MIT) die wordt uitgevoerddoor de provincie Noord-Holland énde Corona-OverbruggingsLening (COL) die wordt uitgevoerddoor een alliantie van een grootaantal partijen én waarbij het beheer is belegd bij het Innovatiefonds Noord-Holland metondersteuning van InnovationQuarter.
+De MIT-regelingis in 2020 gesloten voor aanvragen.De COL-regeling is opengesteld tot en met 30 juni 2021.
+Voor zover deze regelingen na deoprichting van de ROM openstaan voor nieuwe aanvragen,voorziet de ROM in een centraal(digitaal) loket voor aanvragen.
+Dit is overigensniet voorzien op dit moment.
+Het technischbeheer en de uitvoering blijven in eerste instantieliggen bij de bestaande partners in hetecosysteem om zo de dienstverlening naar de ondernemerste waarborgen.
+In de periode1 juli 2021 tot 1 januari 2022 worden hier definitieveafspraken over gemaakt.
+H6 | Organisatie en taken
+6.1 Organisatie op hoofdlijnenAlle medewerkers komen in dienst bij de ROM bv.
+Deopbouw is als volgt:● Directie en staf zijn verantwoordelijk voor de aansturingen ondersteuning van deROM als geheel.● Ontwikkelingsonderdeel.
+Dit onderdeel van de ROM ondersteunt(consortia van)bedrijven bij het aanscherpen en completeren van hunbusinesscase.
+Dit noemen wehet opwerken van proposities of business development.Om deze rol te vervullenbeheert de ROM daartoe, in samenwerking met anderepartijen in het ecosysteem,een stevig netwerk.
+Uit praktische overwegingen wordtde afstemming met AIB enONHN voor de internationale acquisitie én het kernteamvoor de rijksregelingen inprincipe ondergebracht bij het Ontwikkelingsonderdeel.● Investeringsonderdeel.
+Dit onderdeel van de ROM biedtfinanciering (leningen enparticipaties) voor MKB-bedrijven binnen de regionaleeconomische prioriteiten énbinnen de transitieopgaven.
+De ROM-fondsen wordenbeheerd vanuit het
+| 29 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Investeringsonderdeel.
+De onderliggende fondsen zijn revolverend, wat betekent datde investeringen worden terugbetaald; er is dus geensprake van subsidie, maar vandeelneming en investering in technieken.
+Op deze maniersteunt de ROM depraktische ontwikkeling van technieken die niet voldoendefinanciering op kunnenhalen in de markt.
+De twee onderdelen hebben elk een zelfstandige rol en verantwoordelijkheid.
+Bij deintake van een propositie wordt expliciet gemaaktvanuit welk perspectief (ontwikkelenof investeren) de ROM betrokken is én wordt getoetstof niet één van de partners in hetecosysteem de gevraagde ondersteuning kan bieden.Dit geeft duidelijkheid voor deondernemer.
+6.2 Taken directie en stafDe directie en staf bestaat uit een directeur-bestuurdermet een controller, een senior jurist,een directiesecretaris en het office management voorde hele organisatie.
+Directie en stafwaarborgen de samenhang binnen de ROM en zijn verantwoordelijkvoor de dagelijksesturing en de afstemming met aandeelhouders, commissarissenen subsidiënten.
+De ROMschakelt aanvullende ondersteunende diensten (ICT/automatisering,communicatie enspecialistisch juridisch advies) waar mogelijk invia één van de partners in het ecosysteem.Diensten die de partners in het ecosysteem niet kunnenleveren, zal de ROMinhuren/aanbesteden met het daarvoor beschikbare werkbudget.
+6.3 Taken OntwikkelingsonderdeelHet Ontwikkelingsonderdeel richt zich op de geheleMRA en NHN.
+De business developers vandit onderdeel ondersteunen (consortia van) bedrijven.Taken van de business developers zijnonder andere:● Het vergaren en delen van kennis en expertise, bijvoorbeeldinzake het optimaliserenvan de bestaande financieringsinstrumenten(mix), hetmee-ontwerpen en hetmee-ontwikkelen van nieuwe financieringsconceptenen businessmodellen waarbijwordt samengewerkt met het Investeringsonderdeel.● Het verzorgen van verbindingen met nationale en regionalespelers op het gebied vaninvesteren en ontwikkelen, zoals het netwerk van collega-ROM’s.Maar ook: Invest-NL,de Europese Investeringsbank en de regionale partnersin de MRA en NHN, zoalsbijvoorbeeld de Board (die een belangrijke rol heeftbij het identificeren van propositiesén veranderingen in de markt voor de energietransitieen circulaire economie) hetONHN (identificeren en internationaliseren) en bijvoorbeeldAIB (internationaliseren).● Voorlichting en advies over een projectontwerp, bijvoorbeeldinzakeconsortiumpartners, inhoudelijke focus en te volgenprocesstappen.
+● Toetsing, beoordeling en begeleiding, bijvoorbeeldhet verzorgen van een globale toetsop economische en technische haalbaarheid en het biedenvan ondersteuning bij hetformuleren van financiële behoeften (het bepalen vande benodigde investeringen,kosten, raming van de opbrengsten en het identificerenvan risico’s, zodat een
+| 30 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+passende financieringsstructuur door het Investeringsonderdeel kan wordenontworpen).
+Bij de uitvoering van deze taken ligt de focus opknelpunten in de overgang vanbusinesscasefase naar realisatiefase.
+De ROM werktalleen aan knelpunten voor dieproposities die de markt niet zelfstandig oppakt enwaarvoor er geen andere regelingen ofoplossingen zijn.
+Tegelijkertijd moet er een rendementsverwachtingzijn, zij het op langeretermijn dan gebruikelijk is in de markt of met meerrisico.
+Een groot deel van de leadgeneratie en identificatievan knelpunten ligt bij de partners in hetecosysteem zoals PIM NH en ONHN en vanuit de activiteitenen netwerken van de Board.
+Nahun initiële ondersteuning kunnen de business developersde laatste push geven op weg naarhet winnende consortium of financial closing in samenwerkingmet de ROM-fondsen.
+Businessdevelopers kunnen ook in de initiële fase al geraadpleegdworden door de partners.
+Dewerkzaamheden tussen partners worden bij voorkeurin ‘onderlinge nabijheid’ georganiseerd.
+Gelet op deze voorselectie ligt de conversie van leadnaar project relatief hoog.
+In debeginperiode van de ROM ligt de nadruk op intakes,in de jaren daarna op ontwikkelen.
+Naopname in het portfolio zal een business developerde initiatiefnemers actief ondersteunen bijhet uitwerken van hun projectvoorstel.
+Het ontwikkelonderdeel dient volledig te worden gefinancierduit de exploitatiebijdrage van desubsidiënten.
+6.4 Taken InvesteringsonderdeelDe fondsen richten zich op die proposities waarineen directe financieringsbehoefte isgeformuleerd.
+Deze kunnen naar voren komen uit delijn van het Ontwikkelingsonderdeel,maar het kan ook zijn dat initiatiefnemers ze zelfstandigformuleren.
+Proposities uit de lijnvan de Ontwikkelingsonderdeel doorlopen dezelfde intakeals alle andere proposities.
+HetInvesteringsonderdeel van de ROM richt zich op individueleondernemingen of consortia.De ROM heeft tot taak om voor eigen rekening en risicofinanciering te verstrekken aan:● Ondernemingen of consortia die hun bedrijfsprocessen/bedrijfsvoeringwillenoptimaliseren en daarmee een bijdrage leveren aanhet realiseren vanmaatschappelijke transitieopgaven én of de regionaleeconomische prioriteiten.● Ondernemingen of consortia die producten en dienstenaanbieden waarmee eenbijdrage wordt geleverd aan de maatschappelijke transitieopgavenén of de regionaleeconomische prioriteiten.
+Het gaat hierbij om aanvullende investeringen in demarkt.
+Voor proposities moet duidelijkzijn dat ze niet zelfstandig op de markt financieringkunnen aantrekken (bijvoorbeeld op basisvan meerdere afwijzingen van private partijen).Het fondsbeheer heeft als taak:● Een portfolio (het screenen van proposities) op tebouwen.● Investeringsvoorstellen voor te bereiden en uit tevoeren.
+| 31 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+● Beheren van participaties en leningen.
+Wat betreft de investeringsactiviteiten wordt er zoveel mogelijk marktconform gewerkt.In andere gevallen wordt gebruikgemaakt van de (vrijstellings)mogelijkhedenbinnen degeldende wet- en regelgeving.
+Van alle investeringen brengt de ROM de risico’s inkaart en, indien van toepassing, monitortzij of aan de (betalings)verplichtingen wordt voldaanom de exitstrategie te realiseren.
+Ookverricht de ROM zo nodig bijzonder beheer (bijvoorbeeldomdat een ondernemer niet aan zijnbetalingsverplichtingen voldoet).
+Dit is professioneel en zakelijk beleid gericht op hetbeschermen van de eigen financiële belangen.
+Het bedrijfsplan voorziet in twee onafhankelijke investeringscommissies(IC).
+Elke commissiekomt in principe alleen bijeen als er een concreetinvesteringsvoorstel ligt.
+Waarbij devoorstellen zo veel mogelijk worden gebundeld in vergaderingenvan het betreffende IC.Het IC voorkomt een ‘tunnelvisie’, en bewaakt datprojecten die opgeleverd worden doorde business developers van de ROM, conform het investeringsregelementdoor defondsbeheerders zijn beoordeeld en op geen enkelewijze voorrang zouden kunnen krijgenboven projecten van derden.
+Het Investeringsonderdeel richt zich op de technischeanalyses van voorliggende propositiesen op marktanalyse.
+Gelet op het specialistische karaktervan het werk wordt zo nodig ookgebruikgemaakt van specialistische expertise.
+Uitgangspuntis dat het fondsbeheer voor hetTransitiefonds in de basis wordt aanbesteed én dathet fondsbeheer voor het MKB-fondswordt belegd binnen de ROM-organisatie.
+Hierbij iseen ingroeimodel waarbij op termijneen groter deel van het fondsbeheer van het Transitiefondswordt belegd binnen de ROM-organisatie.
+In de operatie is het van belang dathet volledige fondsbeheer in nabijheid vanelkaar opereert onder aansturing van de ROM.
+In de beginperiode ligt de nadruk op het beoordelenvan proposities en op het komen totinvesteringsbeslissingen.
+Gelet op het participatiekapitaal en de verwachte dealflow kunnener op jaarbasis circa drie tot vier participatiesworden gedaan.
+Om dat te bereiken zullen erhonderden proposities gescreend moeten worden.
+Naverloop van tijd krijgt de organisatieeen steeds grotere capaciteitsvraag voor het beherenvan proposities.
+De kosten voor hetfondsbeheer komen ten laste van het fondsrendement.
+Anders dan bij de Ontwikkelingsonderdeel is het aantal medewerkers van deinvesteringspoot niet op voorhand vastgelegd.
+Hetfondsbeheer van het MKB-fonds ontvangteen maximale jaarlijkse beheervergoeding van 1,5%à 2% van het gecommitteerdevermogen.
+Voor het Transitiefonds wordt uitgegaanvan een maximale jaarlijksebeheervergoeding van 1 à 1,5%.
+De inzet van medewerkersvolgt de omvang van deportefeuille (in opbouw en afbouw).
+Hierbij wordtgekozen voor een combinatie van vaste enflexibele inzet.
+Het is mogelijk om het operationelebeheer van het Transitiefonds of nieuwefondsen uit te besteden.
+In die situatie treedt hetteam op als opdrachtgever van de externepartij die het operationele beheer van één of meervan de fondsen uitvoert.
+| 32 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+6.5 Overzicht formatieDe prognoseformatie van ROM bestaat uiteindelijk uit19,5 fte (exclusief het fondsbeheervoor beide fondsen en exclusief de uitvoering vande Rijksregelingen).
+De ROM kent eeningroeimodel in de periode tot 2023.
+Niet alle functieskunnen direct bij de start wordeningevuld.
+Gelet op de breedte van de transitieopgavenen de hoge mate van differentiatie inbenodigde specialismen zal de ROM ook flexibele expertiseinschakelen.
+Voor deontwikkelactiviteiten is daarvoor een werkbudget beschikbaar.
+Functie Indicatie fte Indicatie cao Rijk
+Directeur-bestuurder (voorzitter MT) 1 17
+Controller/financieel specialist 1 14
+Senior jurist 1 13
+Strategisch directiesecretaris 1 13
+Officemanager 2 8 of 9
+Subtotaal 6
+Hoofd Ontwikkelingsonderdeel (MT-lid) 1 15
+Senior business developer (breed) 1 14
+Medior business developer (breed) 2 12
+Junior business developer (breed) 2 9
+Senior business developer (Transitie) 4 14
+Medior business developer (Transitie) 2 12
+Junior business developer (Transitie) 1 9
+Adviseurs rijksregelingen* pm pm
+Liaison acquisitie 0,5 12
+Subtotaal 13,5
+* dekking valt buiten de gevraagde exploitatiebijdrage(zie ook H8)
+Totaal 19,5
+De medewerkers van de ROM bv komen in dienst en wordenbeloond binnen de kaders vande WNT.
+De salarisschalen conform de CAO Rijk geldendaarbij als referentie.
+Dit is in lijn metde publieke doelstelling van deze privaatrechtelijkeorganisatie.
+De indicatieve referentie quainzet (fte) en inschaling na afronding van de ingroeiperiodeis hierna opgenomen.
+Ook voorinhuur én aanbesteding van werk respecteert de ROMde kaders van de WNT.
+| 33 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Bij de werving van medewerkers en de leden van Raad van Commissarissen (RvC) en ICgeldt de wens om te komen tot een diverse samenstelling.Het betreft een lean-en-mean-organisatie.
+Hierbij wordt aangetekend dat bepaaldetaken, zoals internationaliseren, in deMRA en NGN zijn belegd bij AIB in plaats van bij deROM.
+Om deze reden is er op dit momenteen beperkte capaciteitsraming met betrekking totdeze taak ingericht.
+H7 | Governance
+7.1 De governance op hoofdlijnenDe ROM wordt vormgegeven als privaatrechtelijk constructmet twee beslotenvennootschappen met beperkte aansprakelijkheid, teweten de ROM Regio bv en de ROM bv.Het MKB-fonds wordt een (100%) dochter van de ROMbv.
+Het Transitiefonds wordt op haarbeurt een (100%) dochter van de ROM Regio bv.
+ROMRegio bv. wordt voor 50,1%aandeelhouder in de ROM bv, het Rijk is houder vande overige 49,9% van de aandelen.
+Dedeelnemende regionale partners (provincie Noord-Holland,STAK NHN en de individuele MRAgemeenten) zijn aandeelhouders van de ROM Regio bvnaar rato van hun kapitaal bijdrage.Aanvullend sluit de ROM bv een samenwerkingsovereenkomstmet het AIB en ONHN voor deuitvoering van de internationaliserings- en acquisitietaken(in afstemming met NFIA).Daarnaast wordt een samenwerkingsakkoord geslotentussen de ROM bv en alle keyspelers inhet ecosysteem om binnen de netwerkgedachte het aanbodaan ondernemers te versterken.Daarbij is eenduidige communicatie van belang.
+Aspirant aandeelhouders en kandidaat aandeelhoudersvan de ROM Regio bv.Het streven is dat zo veel mogelijk partijen in dezomer van 2021 toetreden tot de ROM.Het is evenwel mogelijk dat partijen later toetreden,bijvoorbeeld als hun besluitvormings-traject meer tijd nodig heeft.
+In de bestuursovereenkomstwordt daartoe een zogenaamdetoetredingsovereenkomst bijgevoegd.
+Er komen in principe twee jaarlijkse momenten waaropnieuwe aandeelhouders toe kunnentreden in de ROM Regio bv of het Transitiefonds.
+Inieder geval wordt 1 januari 2022voorzien als toetredingsmoment.
+Als nieuwe aandeelhouderstoetreden, worden in principeook nieuwe aandelen uitgegeven.
+Partijen kunnen inde periode tot en met 1 januari 2022toetreden tegen dezelfde waardering als bij oprichting.Zij krijgen dan net als de andereaandeelhouders naar rato van hun inleg zeggenschapin de ROM Regio bv (waarbij destemverhouding tussen de aandeelhouders wijzigt, maarwaarbij alle aandeelhoudersonverkort zeggenschap hebben en houden naar rato vanhun aandeel in de totale inleg).
+Bij de start zal de ROM beschikken over enkele foundingmembers die aandeelhouderzijn én een aantal partijen die nog geen definitiefbesluit hebben genomen (aspirant-aandeelhouders).
+In de periode tot en met 1 januari 2022 zullen aspirant aandeelhoudersuitgenodigd worden voor de AVA van de ROM Regio bv.Aspirant aandeelhouders zijn diegemeenten waarvan het college het voornemen om teparticiperen in de ROM Regio bv
+| 34 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+voor wensen en bedenkingen heeft aangeboden aan de raad.
+Aspirant aandeelhoudershebben evenwel geen stemrecht.
+De aandeelhouders zullen regels inzake devertrouwelijkheid opleggen aan de aspirant aandeelhouders.
+De aandeelhouders spreken af om gedurende deze periodegeen besluiten te nemen dieleiden tot (majeure) aanpassing van de statuten, hetinvesteringsreglement en/of degevraagde kapitaalinleg.
+Partijen die hun voornemen tot deelname aan de ROMnog niet hebben voorgelegd aanhun raad, staten of kamer zullen in principe nietaansluiten bij vergaderingen (zogenoemdekandidaat aandeelhouders).
+Zij zullen wel actief geïnformeerdworden over de activiteitenvan de ROM.
+De aandeelhouders van de ROM Regio bv worden gevormddoor alle regionale partijen diekapitaal beschikbaar stellen aan de vennootschap.Het stemrecht in de AVA spiegelt dekapitaalinbreng.
+Daarmee krijgen de aandeelhoudersstemrecht naar rato van hun kapitaal-inbreng.
+Voor de ROM bv geldt dat de ROM Regio bven het Rijk de aandeelhouders zijn voorrespectievelijk 50,1% en 49,9% van de aandelen.
+Voorde ROM is voorzien dat hetbeschikbaar gestelde kapitaal zodanig wordt verdeeldover de twee fondsen dat eenMKB-fonds ontstaat met een beoogd doel- kapitaal van€ 60 miljoen én een Transitiefondsmet een beoogd doelkapitaal € 100 miljoen.
+Dit uitgaandevan een totaal gecommitteerddoelkapitaal van € 160 miljoen.
+De governance is verderals volgt vormgegeven:
+Highlights in de governance
+7
+van de ROM zijn:
+7
+De governance in het strategisch bedrijfsplan betrefteen globale beschrijving, de statuten zijn hierinleidend.
+| 35 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+1.
+De ROM Regio bv en de ROM bv krijgen aandeelhouders, een RvC en de twee fondsenieder een eigen onafhankelijke IC.2.
+De regionale partijen worden gevraagd toe te treden tot de ROM Regio bv en het Rijkzal participeren in de ROM bv.
+Regionale partijendie reeds aandeelhouder zijn in eenandere ROM kunnen niet direct participeren in de ROMRegio bv.
+Wel bestaat demogelijkheid om direct kapitaal te verstrekken aanhet Transitiefonds.3.
+De RvC van de ROM Regio bv en de ROM bv bestaan uitdrie personen.
+Er is voorzienin een personele unie voor de RvC.
+De ROM bv én deROM Regio bv krijgen elk éénstatutair directeur/bestuurder.4.
+De ROM krijgt een exploitatiebijdrage voor de ontwikkelactiviteiten.Het Rijk verstrektdeze exploitatiebijdrage direct aan de ROM bv.
+Demeerjarenexploitatie bijdrage vande regionale partijen loopt via de ROM Regio bv.5.
+Jaarlijks vindt een bestuurlijk overleg plaats waarde meerjarige strategie voor deversterking van de Regionale Economie wordt besproken.Hieraan wordt deelgenomendoor bestuurlijk vertegenwoordigers van de Regio enEZK (EZK/PNH/GA/NHN/MRA).De agenda voor dit overleg wordt door de directeurROM in samenwerking met EZKvoorbereid.
+7.2 Algemene Vergadering van AandeelhoudersDe AVA van de ROM bv wordt gevormd door (een bevoegdvertegenwoordiger van) deROM Regio bv en het Rijk.
+De AVA van de ROM Regiobv wordt gevormd door alle regionalepartijen die kapitaal beschikbaar stellen voor (éénvan) de twee fondsen van de ROM.
+Naarrato van ieders kapitaalbijdrage aan de ROM Regiobv krijgen deze partijen als aandeelhouderstemrecht in de AVA van de ROM Regio bv.
+Alleen publiekepartijen kunnen aandeelhouderworden in de ROM Regio bv en de ROM bv.
+Ter borgingvan dit voornemen is een kwaliteitseisopgenomen in de statuten van de ROM bv en ROM Regiobv.
+Een select aantal vertegenwoordigers van de regionaleaandeelhouders uit de ROM Regio bvkunnen als agenda-lid aansluiten bij de AVA van deROM bv.
+Hierbij is voorzien in maximaaldrie agendaleden.
+Eén namens de STAK NHN, één namensde provincie Noord-Holland én degemeente Amsterdam namens het bestuurlijk overlegplatform Economie.
+De AVA van de ROM bv streeft naar unanieme besluitvorming.Bevoegdheden van de AVA zijnonder meer:● Het benoemen van leden van de RvC.● Het benoemen van de directeur-bestuurder op voordrachtvan de RvC.● Het goedkeuren van de benoeming van de leden in deIC door de AVA van hetMKB-fonds.● Het vaststellen van het bezoldigingsbeleid (in lijnmet de kaders van de WNT).● Het goedkeuren van het Meerjaren Strategisch Bedrijfsplan(strategie, geenbedrijfsvoering).● Het goedkeuren van de jaarrekening en het jaarplan.● Benoemen van de accountant.
+| 36 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+● Verlenen van decharge aan bestuurders en RvC.● Het nemen van besluiten tot:○ Aanpassing/uitbreiding samenstellen directie-bestuurder(s).○ Wijziging van de statuten.○ Uitgifte van aandelen.○ Oprichten van dochterondernemingen.○ Vermindering/vermeerdering van het geplaatste kapitaal.○ Ontbinden, fuseren en of splitsen van de vennootschap.○ Het doen van uitkeringen/dividend in samenspraak methet bestuur.○ Het vaststellen en wijzigen van de investeringsregelementen.○ Het doen van investeringen boven een bedrag van €5 miljoen.
+De ROM Regio bv streeft naar een gemengd aandeelhouderschapwaarin provincie, groteen kleine gemeenten vertegenwoordigd zijn.
+Op basisvan hun inleg hebben de provincieNoord-Holland en de gemeente Amsterdam samen een meerderheidin de AVA.
+Om recht tedoen aan het samenwerkingskarakter van de ROM wordtde positie van de andereaandeelhouders, naar voorbeeld van de InnovationQuarter(IQ) beschermd.
+Majeurebesluiten, zoals gedefinieerd in de statuten, kunnenslechts worden genomen indien naasteen van de twee grote aandeelhouders minimaal drieandere aandeelhouders instemmen.De samenwerkende gemeenten in NHN gelden daarbij alséén overige aandeelhouder.Onverminderd geldt de eis dat er een meerderheid moetzijn van 50% + 1.
+De majeure besluiten in de AVA van de ROM bv kunnenslechts worden genomen bijtweederde meerderheid.
+Dit betekent de facto dat hetRijk en de ROM Regio bv als enigeaandeelhouders tot overeenstemming moeten komen.
+In twee separaat op te stellen bestuursovereenkomstenleggen de partijen vast:● De inleg per partij inclusief de eventuele verdelingover de fondsen.● Intentionele exploitatiebijdrage per partij.● Vormgeving van het agenda-lidmaatschap (voor de ROMRegio bv).
+Er komt één bestuursovereenkomst tussen alle regionalepartijen inzake de ROM Regio bv énéén bestuursovereenkomst tussen het Rijk en de ROMRegio bv (inzake de ROM bv).
+7.3 Raad van CommissarissenVoor zowel de ROM Regio bv als de ROM bv zal er eenRvC ingesteld worden.
+Er is voorzien ineen personele unie voor de RvC.
+De RVC ziet toe opde ROM bv, de ROM Regio bv en demeerderheidsdochters.
+De RvC’s bestaan bij de startuit drie leden.
+Het is evenwel mogelijkom deze uit te breiden tot vijf.
+De RvC komt bijeenzo vaak als een van de leden (of dedirecteur-bestuurder) dat noodzakelijk acht, maarminstens tweemaal per kalenderjaar.
+Deleden van de RvC’s worden benoemd door de AVA’s vande ROM bv en de ROM Regio bv.
+Hetbetreft een bezoldigde functie waarvoor de AVA’s eenbezoldigingsbeleid vaststellen dat pastbinnen de WNT.
+De bevoegdheden van de RvC zijn ondermeer:● Het toezien op het functioneren van de directeur/bestuurder.
+| 37 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+● Het in overleg met de directeur-bestuurder aanbieden van een meerjarenplan aan deAVA.● Het toetsen van de activiteiten van de IC aan hetvastgesteldeinvesteringsregelement, in gevallen waarbij het investeringsreglementhierin voorziet.● Het geven van advies over de voordracht van de directeur/bestuurderaan deaandeelhouders.● Het geven van een advies over de voordracht van deleden van de IC na dedirecteur-bestuurder gehoord te hebben.
+De RvC heeft aanvullende bevoegdheden voor de tweefonds-dochters.
+Dit gaat om hetgoedkeuren van besluiten van de directeur-bestuurder(voor het uitoefenen van stemrecht inde AVA van de meerderheidsdochter) met betrekkingtot:● Het goedkeuren van investeringen boven een bedragvan € 2,5 miljoen.● Het in uitzonderlijke gevallen gemotiveerd goedkeurenvan een investering waaroverhet IC een negatief advies heeft gegeven.
+7.4 Directeur-bestuurderDe ROM bv én de ROM Regio bv krijgen elk één statutairdirecteur/bestuurder.
+Dedirecteur-bestuurder van zowel de ROM bv als de ROMRegio bv wordt benoemd door de AVA,eventueel op niet bindende voordracht van de RvC.Voorafgaand aan de voordracht dient deprofielschets door de AVA te worden vastgesteld enhet wervingsproces aan de AVA teradvisering te worden voorgelegd.
+Het is een bezoldigdefunctie (waarvoor de AVA eenbezoldigingsbeleid vaststelt dat past binnen de WNT).De bevoegdheden van het bestuur zijnonder meer:● Het besturen van de vennootschappen, inclusief meerderheidsdochters.● Het opstellen van het (Meerjaren Strategisch) Bedrijfsplanvoor de ROM inclusief(meerjaren)begroting en capaciteitsplanning.● Het aangaan van rechtshandelingen voor de dagelijksebedrijfsuitoefening.● Het zorg dragen voor de financiering van de organisatie.● Het opstellen van (tussentijdse) rapportages en jaarrekeningen.
+De directeur-bestuurder moet zich gedragen naar deaanwijzingen van de AVA en isgehouden deze op te volgen, tenzij ze in strijd zijnmet het belang van de vennootschap ende met haar verbonden onderneming.
+7.5 InvesteringscommissieDe IC van zowel het Transitiefonds als het MKB-fondsbestaat uit maximaal vijf leden.
+In desamenstelling wordt er naar gestreefd dat 2 à 3 ledenzitting hebben in beide IC’s en dat 2 à3 leden sectorspecifieke expertise inbrengen in lijnmet de betreffende inhoudelijke scope vanelk fonds.
+| 38 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Het zijn bezoldigde functies waarvoor de desbetreffendeAVA een bezoldigingskader vaststeltdat past binnen de WNT.
+Het bezoldigingskader is gelijkvoor de verschillendevennootschappen.
+Goedkeuring van de benoeming vindtplaats door de AVA van de ROM bv(voor IC MKB-fonds) dan wel de ROM Regio bv (voorIC Transitiefonds) naar raadpleging vande RvC op basis van de door de AvA vastgestelde profielschetsvan de leden, waarin wordtverwezen naar marktkennis en kennis van de technologie-velden binnen de scope van deROM.
+De IC komt bijeen zodra het fondsbeheer van deInvesteringsonderdeel eeninvesteringsbeslissing gereed heeft.
+De IC wordt voorrespectievelijk het MKB-fonds of hetTransitiefonds gevraagd een zwaarwegend advies uitte brengen aan dedirecteur-bestuurder(s) van de ROM bv of de ROM Regiobv ten aanzien van de voorgesteldeinvestering, exit of afboeking.
+7.6 Governance voor de exploitatiebijdrage
+Exploitatiebijdrage regionale partijenVanuit haar ontwikkeltaak zal de ROM zich richtenop het informeren, voorlichten, adviserenen begeleiden van bedrijven die een maatschappelijketransitie willen realiseren metrendement waarvoor de ROM een regionale exploitatiesubsidieontvangt.
+Het voorstel is datde gemeente Amsterdam namens de MRA-gemeenten en desamenwerkende gemeenten inNHN hiertoe een meerjarige overeenkomst sluiten metde ROM Regio bv.
+Elke organisatievolgt daarbij de eigen systematiek.
+Het uitgangspuntis om de exploitatiebijdrage teverstrekken voor een periode van telkens zes jaar(4 jaar met doorkijk voor de 2 jaardaarna).
+Na vier jaar vindt er een evaluatie plaats,waarna de overeenkomst in principe metvier jaar wordt verlengd.
+Dit staat weergegeven inonderstaand schema.
+In debestuursovereenkomst kunnen daarover maatwerkafsprakenworden gemaakt.
+Exploitatiebijdrage Rijk
+| 39 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Het Rijk volgt voor de ROM dezelfde werkwijze bij het toekennen van haar exploitatiebijdrageals voor de andere ROM’s.
+Dit komt neer op een jaarlijksebesluitvormingscyclus op basis vanKPI’s die voor alle ROM’s vergelijkbaar zijn.
+7.7 Regionale samenwerkingspartnersDe ROM vult een belangrijk gat in het regionale ecosysteem.Door de positionering vande ROM wordt het totale ecosysteem versterkt.
+Lokaleen (sub)regionale incubators enaccelerators kunnen hun opschalende bedrijven voorondersteuning overdragen aan de ROM.Maar de samenwerking gaat verder.
+Hieronder noemenwe drie belangrijke (type)samenwerkingspartners:● Een groot deel van de leadgeneratie ligt bij de partnersin het ecosysteem zoals PIM NH,ONHN en vanuit de activiteiten en netwerken van deBoard.
+Hiermee zorgen zij samenmet de ROM voor leads.● De regionale ontwikkelingsmaatschappijen HORIZON enROM Regio Utrecht richten zichdeels op gemeenten in de MRA.
+Zij hebben en houdenhet primaat binnen hungeografische scope.
+De ROM kan, in samenwerking metdeze ROM’s, opvolging gevenaan specifieke leads (met name voor de grootschaligeproposities op weg naar financialclosing).● AIB, AT&I en ONHN verzorgen in de regio de internationaleacquisitie/internationaliseringvan (innovatief) MKB, start-ups en scale-ups.
+De ROMzal deze uitvoerendewerkzaamheden aanvullen vanuit een liaisonfunctieen zorgdragen voor deverantwoording van de KPI’s gericht op internationaliseringrichting de AvA van de ROMbv.
+De aanwezigheid van een ROM met investerend vermogenversterkt de kans dat dezebedrijven uit onze regio sterker internationaal kunnengroeien én versterkt deaantrekkingskracht van de regio.
+In een samenwerkingsakkoord en/of samenwerkingsovereenkomstenleggen de partnersin het ecosysteem vast hoe zij de ondersteuning aande ondernemers zullen versterkenmet behoud van de bestaande netwerkgedachte in hetecosysteem.
+De ROM heeft eenaanvullende opdracht om de samenwerking actief tebevorderen en partijen te verbinden enversnippering tegen te gaan.
+Daarbij wordt in gezamenlijkheidgestreefd naar het realiserenvan een transparante toegang tot het volledige ondersteuningsaanbodvoor ondernemers.
+Daarnaast is er op dit moment ook een ondersteuningsaanbodvanuit de provincieNoord-Holland en de gemeente Amsterdam in de vormvan AKEF, PIM NH, het innovatiefondsNoord-Holland en het PDENH.
+Voor deze ondersteuningwordt nader verkend of de dienst-verlening richting de ondernemers verbeterd kan wordendoor middel van intensieveresamenwerking met de ROM.
+Hierbij gelden de bestaandetaken én opdrachten aan dezepartijen als uitgangspunt.
+Per taak wordt telkensook gekeken welke geografische focus hetmeest passend is.
+De uitkomsten van de verkenningworden betrokken bij het opstellen vanhet samenwerkingsakkoord en/of samenwerkingsovereenkomstentussen de ROM en decentrale partners in het ecosysteem.
+| 40 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+H8 | Begroting
+De begroting voor ROM MRA-NHN schetst de lasten.
+Debegroting neemt het duurzamenetwerkmodel als vertrekpunt.
+Dat betekent dat erin deze begroting geen rekening isgehouden met het op termijn toevoegen van nieuwe taken.De ROM wordt gepositioneerd alséén fiscale eenheid.
+Hiermee heeft de ROM niet temaken met btw-plicht op eventuele internedoorleen en uitgezocht wordt of dit ook voor vennootschapsbelastinggeldt
+Op basis van de gehanteerde uitgangspunten (zie bijlage2) vraagt de ROM vanaf 2023 eenjaarlijkse exploitatiebijdrage van € 2,8 miljoen.Uitvoering van fondsbeheer en uitvoeringRijksregelingen valt buiten deze bijdrage.
+8.1 Uitwerking per onderdeelDe indicatieve lasten voor het Ontwikkelingsonderdeel zijn hieronder weergegeven.
+Dit isde referentie voor een volledige bezetting per 2023.De dekking hiervoor komt uit eenexploitatiebijdrage vanuit de betrokken overheden.Dit wordt uitgewerkt in een separatebestuursovereenkomst.
+OntwikkelingsonderdeelPersoneelskosten 1.545.000Overhead 295.000Afdracht directie en staf (42%) 350.000Werkbudget 460.000Diversen/onvoorzien 150.000Totaal lasten 2.800.000
+De indicatieve lasten voor directie en staf zijnhieronder weergegeven.
+Uitgangspunt is dathet Ontwikkelingsonderdeel en het Investeringsonderdeel een vaste opslag betalen terdekking van de directie en staf.
+Indicatief er nuvanuit gegaan dat opslag gelijk is voor hetInvesteringsonderdeel als het Ontwikkelingsonderdeel.
+Directie en stafPersoneelskosten 418.000Overhead 130.000Kosten RvC 37.500Werkbudget 200.000Diversen/onvoorzien 40.000
+| 41 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Totaal lasten 825.500
+8.2 Waardering van het fondsHet kapitaal voor de ROM wordt beschikbaar gesteldvia een agiostorting.
+Een agiostorting iseen bedrag dat door de aandeelhouders bovenop de nominalewaarde van de aandelengestort wordt.
+Het kapitaal hoeft niet bij oprichtingin één keer worden overgemaakt naarde ROM.
+Op basis van de werkelijke kapitaalbehoeftezet het fonds in principe capital callsuit.
+Op basis van de capital calls zijn de aandeelhoudersverplicht hun aandeel van hettoegezegde kapitaal te storten.
+Hiervoor is een periodevan circa 4-6 jaar voorzien.Op verzoek van individuele aandeelhouders kan ookgewerkt worden met vaste trancheswaarbij de kapitaalstorting in één of enkele vastebedragen wordt overgemaakt.
+In debestuursovereenkomst verplichten de regionale aandeelhouderszich om op ROM-niveaude Rijksmiddelen in het voor 31 december 2021 te cofinancieren.● Kapitaalverstrekking: Geen budgettair effect.
+Metkapitaalverstrekking zelf is geenbudgettair effect gemoeid.
+Immers, de gemeente wordter niet rijker of armer van,alleen de samenstelling van het vermogen verandert.
+Tegenoverde lening voor deaankoop van de deelneming staat de waarde van de deelnemingaan de andere kantvan de balans.● Renteconsequenties: Wel een budgettair effect.
+Kapitaalverstrekkingheeftconsequenties voor de rente.
+Het netto budgettaireeffect bestaat uit de hogererentekosten die de gemeente maakt als gevolg van departicipatie.
+Op grond van de wettelijke regels voor de begroting(het BBV) moet de deelneminggewaardeerd worden op de verkrijgingsprijs (of lageremarktwaarde).
+Bij de start van deROM is de verkrijgingsprijs naar verwachting gelijkaan de marktwaarde.
+In het kader vande P&C-cyclus moet er ten minste twee keer per jaareen actuele analyse van de waardevan de deelneming worden uitgevoerd (bij de begrotingen bij de jaarrekening).
+Zolang dewaardering van het fonds gelijk is aan of hoger isdan de verkrijgingsprijs, hoeft er geenafwaardering plaats te vinden en hoeft er dus geenvoorziening getroffen te worden.
+Om dewaarde van de bezittingen en daarmee het fondsvermogente kunnen vaststellen zal jaarlijksvoor 31 december per deelname/financiering per fondseen waardering worden toegekend.Een en ander is afhankelijk van de inflatie, de rentestanden de ontwikkeling van hetfondsrendement.
+Kans op tegenvallende resultatenHet fonds heeft te maken met risico’s.
+Elke aandeelhouderdoet er goed aan periodiekte bepalen in hoeverre het verstandig is om een reserveringop te nemen binnen hetweerstandsvermogen van de begroting van de individueleaandeelhouders in verband metmogelijke risico’s in de deelneming.
+Kans op aanvullend rendement
+| 42 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Uitgangspunt is dat de inleg uit het Transitiefonds aan het einde van de fondsperiodenominaal terugvloeit naar de aandeelhouders.
+Doorpositieve resultaten kan het fonds ookeen hoger rendement hebben.
+Voor het MKB-fonds geldtdat indien de situatie het toelaathet behaalde rendement kan worden uitgekeerd in devorm van dividend.
+| 43 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Bijlagen
+1.
+Toelichting TRL-levels
+2.
+Toelichting aannames begroting
+| 44 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Bijlage 1 | Toelichting TRL-levels
+Fase TRL Staat van ontwikkeling
+Marktintroductie product/dienst/procedé
+9 Demonstratie van het systeem in een gebruiks-omgeving.
+Het concept is technisch en commercieelgereed; productierijp en klaar voor marktintroductie(maar heeft nog niet plaatsgevonden).
+Product/dienst iscompleet en operationeel
+8 Het concept is getest en bewezen en voldoet aangestelde verwachtingen, kwalificaties en normen(certificering).
+Demonstratie prototypein operationele omgeving
+7 Demonstratie van het systeem in de vorm van eenprototype in een gebruikersomgeving.
+Demonstratie prototypein testomgeving
+6 Demonstratie van de technologie in een testopstellingdie lijkt op een operationele omgeving.
+Validatie prototype 5 Validatie van de technologie in een echte omgeving(pilot).
+Functionaliteiten en de eerste look & feel vaneen product, proces of dienst zijn aanwezig.
+Implementatie en testprototype
+4 Design, ontwikkeling en validatie van de technologieineen laboratorium.
+‘Proof of Concept’ 3 Experimenteel bewijs van het concept.
+Testen inlaboratorium en analyse van eigenschappen engeschiktheid.
+Toegepast onderzoek 2 Formulering van het technologische concept.
+Welketoepassingen zijn mogelijk?
+Fundamenteel onderzoek 1 Onderzoek van het basisprincipe, het idee.
+| 45 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Bijlage 2 | Toelichting aannames meerjarenbegroting
+Lasten
+● Personeelskosten.De personeelskosten zijn gebaseerdop de inschaling volgenshet CAO Rijk.
+Het gaat hier om de bruto werkgeverslasten.● Overhead.
+De overhead bestaat uit vaste bedragen perfte.
+Deze zijn gebaseerd opde kengetallen vanuit de Rijksoverheid.
+Kantoor enautomatisering vormen hier-binnen de grootste subposten.
+De overige kosten bestaanuit administratiekosten,reiskosten, opleiding en facilitair.● Kosten RvC.
+De leden krijgen een vergoeding voor hundiensten.
+Het gaat omeen vast bedrag per lid.
+Dit is conform de WNT, gekoppeldaan het salaris van dedirecteur (15% directeurssalaris voor de voorzitteren 10% voor leden van de RvC).● Kosten Investeringscomité.
+De leden krijgen een vergoedingvoor hun diensten.Het gaat om een vast bedrag per bijeenkomst van hetcomité (passend binnen deWNT).
+De totale kosten zijn indicatief geraamd op€ 1.000 per bijeenkomstmet een opslag van € 500 voor de voorzitter.
+Uitgegaanwordt van maximaal7 bijeenkomsten per jaar.● Werkbudget.
+Het werk van de twee onderdelen en directieen staf is in hoge matespecialistisch en vraagt om samenwerking met een grootaantal partners.
+Vanuit hetwerkbudget kunnen de betreffende onderdelen specialistischeexpertise inschakelen.Daarnaast dient het werkbudget voor marketing, communicatieen evenementen.● Diversen/onvoorzien.In de begroting is per onderdeel rekening gehouden meteen post onvoorzien ter hoogte van 5% van de totalebegroting.
+| 46 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
+Bedrijfsplan ROM MRA-NHNEindversie 4.2
+Colofon
+8 juni 2021
+Classificatie : Vertrouwelijk
+| 47 | Meerjaren Strategisch Bedrijfsplan ROM MRA-NHN- eindversie 4.3 - 8 juni 2021
